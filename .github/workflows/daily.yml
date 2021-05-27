@@ -40,7 +40,7 @@ jobs:
         with:
           github-token: ${{ secrets.G_T }}
           commit-message: "update today arxiv"
-          files: daily.md daily.json
+          files: README.md daily.json
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}
