@@ -1,3 +1,8 @@
+## 2021-05-27
+|paper|code|
+|---|---|
+|[learning to continuously optimize wireless resource in episodically dynamic environment](https://arxiv.org/abs/2011.07782)|[ICASSP2021](https://github.com/Haoran-S/ICASSP2021)|
+|[lenient regret and good-action identification in gaussian process bandits](https://arxiv.org/abs/2102.05793)|[GoodAction](https://github.com/caitree/GoodAction)|
 ## 2021-05-26
 |paper|code|
 |---|---|
