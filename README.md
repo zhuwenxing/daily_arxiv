@@ -1,3 +1,9 @@
+## 2021-05-28
+|paper|code|
+|---|---|
+|[multi-resolution csi feedback with deep learning in massive mimo system](https://arxiv.org/abs/1910.14322)|[CRNet](https://github.com/Kylin9511/CRNet)|
+|[unsupervised deep learning for massive mimo hybrid beamforming](https://arxiv.org/abs/2007.00038)|[HBF-Net](https://github.com/HamedHojatian/HBF-Net)|
+|[robust learning from corrupted eeg with dynamic spatial filtering](https://arxiv.org/abs/2105.12916)|[dynamic-spatial-filtering](https://github.com/hubertjb/dynamic-spatial-filtering)|
 ## 2021-05-27
 |paper|code|
 |---|---|
