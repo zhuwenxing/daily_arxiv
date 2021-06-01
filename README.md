@@ -1,3 +1,9 @@
+## 2021-05-31
+|paper|code|
+|---|---|
+|[a simulation-based end-to-end learning framework for evidential occupancy grid mapping](https://arxiv.org/abs/2102.12718)|[EviLOG](https://github.com/ika-rwth-aachen/EviLOG)|
+|[salientsleepnet: multimodal salient wave detection network for sleep staging](https://arxiv.org/abs/2105.13864)|[SalientSleepNet](https://github.com/ziyujia/SalientSleepNet)|
+|[recovery of future data via convolution nuclear norm minimization](https://arxiv.org/abs/1909.03889)|[CNNM](https://github.com/gcliu1982/CNNM)|
 ## 2021-05-28
 |paper|code|
 |---|---|
