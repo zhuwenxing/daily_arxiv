@@ -1,3 +1,14 @@
+## 2021-06-01
+|paper|code|
+|---|---|
+|[an efficient and effective second-order training algorithm for lstm-based adaptive learning](https://arxiv.org/abs/1910.09857)|[EfficientEffectiveLSTM](https://github.com/nurimertvural/EfficientEffectiveLSTM)|
+|[block deep neural network-based signal detector for generalized spatial modulation](https://arxiv.org/abs/2008.03612)|[B_DNN](https://github.com/hasanabs/B_DNN)|
+|[support recovery for sparse multidimensional phase retrieval](https://arxiv.org/abs/2011.00619)|[Sparse-Multidimensional-PR](https://github.com/sew347/Sparse-Multidimensional-PR)|
+|[overcoming measurement inconsistency in deep learning for linear inverse problems: applications in medical imaging](https://arxiv.org/abs/2011.14387)|[mri-tvtv](https://github.com/marijavella/mri-tvtv)|
+|[interval propagation through the discrete fourier transform](https://arxiv.org/abs/2012.09778)|[Fourier-transform](https://github.com/marcodeangelis/Fourier-transform)|
+|[clnet: complex input lightweight neural network designed for massive mimo csi feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
+|[an iterative jacobi-like algorithm to compute a few sparse eigenvalue-eigenvector pairs](https://arxiv.org/abs/2105.14642)|[JACOBI-PCA](https://github.com/cristian-rusu-research/JACOBI-PCA)|
+|[an automated theorem proving framework for information-theoretic results](https://arxiv.org/abs/2101.12370)|[psitip](https://github.com/cheuktingli/psitip)|
 ## 2021-05-31
 |paper|code|
 |---|---|
