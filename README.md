@@ -1,3 +1,11 @@
+## 2021-06-02
+|paper|code|
+|---|---|
+|[reconfigurable intelligent surface enabled federated learning: a unified communication-learning design approach](https://arxiv.org/abs/2011.10282)|[RIS-FL](https://github.com/liuhang1994/RIS-FL)|
+|[a mixed integer least-squares formulation of the gnss snapshot positioning problem](https://arxiv.org/abs/2101.00895)|[snapshot-positioning](https://github.com/eyalw711/snapshot-positioning)|
+|[dynamic-deep: ecg task-aware compression](https://arxiv.org/abs/2106.00606)|[Dynamic-Deep](https://github.com/eladwass/Dynamic-Deep)|
+|[a compact and interpretable convolutional neural network for cross-subject driver drowsiness detection from single-channel eeg](https://arxiv.org/abs/2106.00613)|[A-Compact-and-Interpretable-Convolutional-Neural-Network-for-Single-Channel-EEG](https://github.com/cuijiancorbin/A-Compact-and-Interpretable-Convolutional-Neural-Network-for-Single-Channel-EEG)|
+|[meta-har: federated representation learning for human activity recognition](https://arxiv.org/abs/2106.00615)|[Meta-HAR](https://github.com/Chain123/Meta-HAR)|
 ## 2021-06-01
 |paper|code|
 |---|---|
