@@ -1,3 +1,8 @@
+## 2021-06-03
+|paper|code|
+|---|---|
+|[adaptive self-interference cancellation for full-duplex wireless communication systems](https://arxiv.org/abs/2104.01504)|[Full-Duplex-Steepest-Descent](https://github.com/ebalti/Full-Duplex-Steepest-Descent)|
+|[self-training sampling with monolingual data uncertainty for neural machine translation](https://arxiv.org/abs/2106.00941)|[UncSamp](https://github.com/wxjiao/UncSamp)|
 ## 2021-06-02
 |paper|code|
 |---|---|
