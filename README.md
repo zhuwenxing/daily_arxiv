@@ -1,3 +1,11 @@
+## 2021-06-04
+|paper|code|
+|---|---|
+|[channel estimation for one-bit multiuser massive mimo using conditional gan](https://arxiv.org/abs/2006.11435)|[Channel_Estimation_cGAN](https://github.com/YudiDong/Channel_Estimation_cGAN)|
+|[gender bias in depression detection using audio features](https://arxiv.org/abs/2010.15120)|[DepAudioNet_reproduction](https://github.com/adbailey1/DepAudioNet_reproduction)|
+|[heppcat: probabilistic pca for data with heteroscedastic noise](https://arxiv.org/abs/2101.03468)|[heteroscedastic-probabilistic-pca](https://gitlab.com/dahong/heteroscedastic-probabilistic-pca)|
+|[sparse kronecker-product coding for unsourced multiple access](https://arxiv.org/abs/2103.04722)|[SKPC-UMA](https://github.com/Zeyu-Han01/SKPC-UMA)|
+|[multi-uav path planning for wireless data harvesting with deep reinforcement learning](https://arxiv.org/abs/2010.12461)|[uav_data_harvesting](https://github.com/hbayerlein/uav_data_harvesting)|
 ## 2021-06-03
 |paper|code|
 |---|---|
@@ -11,6 +19,7 @@
 |[dynamic-deep: ecg task-aware compression](https://arxiv.org/abs/2106.00606)|[Dynamic-Deep](https://github.com/eladwass/Dynamic-Deep)|
 |[a compact and interpretable convolutional neural network for cross-subject driver drowsiness detection from single-channel eeg](https://arxiv.org/abs/2106.00613)|[A-Compact-and-Interpretable-Convolutional-Neural-Network-for-Single-Channel-EEG](https://github.com/cuijiancorbin/A-Compact-and-Interpretable-Convolutional-Neural-Network-for-Single-Channel-EEG)|
 |[meta-har: federated representation learning for human activity recognition](https://arxiv.org/abs/2106.00615)|[Meta-HAR](https://github.com/Chain123/Meta-HAR)|
+|[multi-modal point-of-care diagnostics for covid-19 based on acoustics and symptoms](https://arxiv.org/abs/2106.00639)|[MuDiCov](https://github.com/iiscleap/MuDiCov)|
 ## 2021-06-01
 |paper|code|
 |---|---|
