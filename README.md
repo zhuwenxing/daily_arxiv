@@ -1,3 +1,8 @@
+## 2021-06-07
+|paper|code|
+|---|---|
+|[cold: concurrent loads disaggregator for non-intrusive load monitoring](https://arxiv.org/abs/2106.02352)|[cold-nilm](https://github.com/arx7ti/cold-nilm)|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
 ## 2021-06-04
 |paper|code|
 |---|---|
@@ -19,7 +24,6 @@
 |[dynamic-deep: ecg task-aware compression](https://arxiv.org/abs/2106.00606)|[Dynamic-Deep](https://github.com/eladwass/Dynamic-Deep)|
 |[a compact and interpretable convolutional neural network for cross-subject driver drowsiness detection from single-channel eeg](https://arxiv.org/abs/2106.00613)|[A-Compact-and-Interpretable-Convolutional-Neural-Network-for-Single-Channel-EEG](https://github.com/cuijiancorbin/A-Compact-and-Interpretable-Convolutional-Neural-Network-for-Single-Channel-EEG)|
 |[meta-har: federated representation learning for human activity recognition](https://arxiv.org/abs/2106.00615)|[Meta-HAR](https://github.com/Chain123/Meta-HAR)|
-|[multi-modal point-of-care diagnostics for covid-19 based on acoustics and symptoms](https://arxiv.org/abs/2106.00639)|[MuDiCov](https://github.com/iiscleap/MuDiCov)|
 ## 2021-06-01
 |paper|code|
 |---|---|
