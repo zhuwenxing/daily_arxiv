@@ -1,3 +1,11 @@
+## 2021-06-08
+|paper|code|
+|---|---|
+|[optimal network slicing for service-oriented networks with flexible routing and guaranteed e2e latency](https://arxiv.org/abs/2006.13019)|[networkslicing](https://github.com/chenweikun/networkslicing)|
+|[multi-modal point-of-care diagnostics for covid-19 based on acoustics and symptoms](https://arxiv.org/abs/2106.00639)|[MuDiCov](https://github.com/iiscleap/MuDiCov)|
+|[configuring an intelligent reflecting surface for wireless communications](https://arxiv.org/abs/2106.03497)|[SP_Cup_2021](https://github.com/emilbjornson/SP_Cup_2021)|
+|[energy and age pareto optimal trajectories in uav-assisted wireless data collection](https://arxiv.org/abs/2106.03822)|[BDforUavPath](https://github.com/Yuanliaoo/BDforUavPath)|
+|[on perceptual lossy compression: the cost of perceptual reconstruction and an optimal training framework](https://arxiv.org/abs/2106.02782)|[Perceptual-Lossy-Compression](https://github.com/ZeyuYan/Perceptual-Lossy-Compression)|
 ## 2021-06-07
 |paper|code|
 |---|---|
