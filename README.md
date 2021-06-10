@@ -1,3 +1,11 @@
+## 2021-06-09
+|paper|code|
+|---|---|
+|[proactive and aoi-aware failure recovery for stateful nfv-enabled zero-touch 6g networks: model-free drl approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
+|[dilated convolution based csi feedback compression for massive mimo systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
+|[deepbeam: deep waveform learning for coordination-free beam management in mmwave networks](https://arxiv.org/abs/2012.14350)|[deepbeam](https://github.com/wineslab/deepbeam)|
+|[principal bit analysis: autoencoding with schur-concave loss](https://arxiv.org/abs/2106.02796)|[PBA](https://github.com/SourbhBh/PBA)|
+|[robust generalization despite distribution shift via minimum discriminating information](https://arxiv.org/abs/2106.04443)|[PMDI_DRO](https://github.com/pmdidro/PMDI_DRO)|
 ## 2021-06-08
 |paper|code|
 |---|---|
