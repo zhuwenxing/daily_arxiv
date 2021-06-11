@@ -1,3 +1,10 @@
+## 2021-06-10
+|paper|code|
+|---|---|
+|[an iterative jacobi-like algorithm to compute a few sparse eigenvalue-eigenvector pairs](https://arxiv.org/abs/2105.14642)|[JACOBI-PCA](https://github.com/cristian-rusu-research/JACOBI-PCA)|
+|[optimizing a binary intelligent reflecting surface for ofdm communications under mutual coupling](https://arxiv.org/abs/2106.04280)|[SP_Cup_2021](https://github.com/emilbjornson/SP_Cup_2021)|
+|[time-frequency phase retrieval for audio -- the effect of transform parameters](https://arxiv.org/abs/2106.05148)|[phaseRetrievalEvaluation](https://github.com/andimarafioti/phaseRetrievalEvaluation)|
+|[unsupervised discovery of temporal structure in noisy data with dynamical components analysis](https://arxiv.org/abs/1905.09944)|[DynamicalComponentsAnalysis](https://github.com/BouchardLab/DynamicalComponentsAnalysis)|
 ## 2021-06-09
 |paper|code|
 |---|---|
