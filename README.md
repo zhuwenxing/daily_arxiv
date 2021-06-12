@@ -1,3 +1,8 @@
+## 2021-06-11
+|paper|code|
+|---|---|
+|[generating mimo channels for 6g virtual worlds using ray-tracing simulations](https://arxiv.org/abs/2106.05377)|[SSP-Raymobtime](https://github.com/lasseufpa/SSP-Raymobtime)|
+|[aerial reconfigurable intelligent surface-aided wireless communication systems](https://arxiv.org/abs/2106.05380)|[Aerial-RIS](https://github.com/trinhudo/Aerial-RIS)|
 ## 2021-06-10
 |paper|code|
 |---|---|
@@ -26,6 +31,7 @@
 |---|---|
 |[cold: concurrent loads disaggregator for non-intrusive load monitoring](https://arxiv.org/abs/2106.02352)|[cold-nilm](https://github.com/arx7ti/cold-nilm)|
 |[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
+|[the signed cumulative distribution transform for 1-d signal analysis and classification](https://arxiv.org/abs/2106.02146)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
 ## 2021-06-04
 |paper|code|
 |---|---|
