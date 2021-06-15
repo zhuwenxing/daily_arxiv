@@ -1,3 +1,8 @@
+## 2021-06-14
+|paper|code|
+|---|---|
+|[moreau-yosida $f$-divergences](https://arxiv.org/abs/2102.13416)|[moreau-yosida-f-divergences](https://github.com/renyi-ai/moreau-yosida-f-divergences)|
+|[redunet: a white-box deep network from the principle of maximizing rate reduction](https://arxiv.org/abs/2105.10446)|[MCR2](https://github.com/Ma-Lab-Berkeley/MCR2)|
 ## 2021-06-11
 |paper|code|
 |---|---|
