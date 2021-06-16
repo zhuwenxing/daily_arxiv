@@ -1,3 +1,12 @@
+## 2021-06-15
+|paper|code|
+|---|---|
+|[towards fast region adaptive ultrasound beamformer for plane wave imaging using convolutional neural networks](https://arxiv.org/abs/2106.07006)|[cnnusbf](https://github.com/rpm1412/cnnusbf)|
+|[wase: learning when to attend for speaker extraction in cocktail party environments](https://arxiv.org/abs/2106.07016)|[wase](https://github.com/aispeech-lab/wase)|
+|[enhanced hyperspectral image super-resolution via rgb fusion and tv-tv minimization](https://arxiv.org/abs/2106.07066)|[hs-sr-tvtv](https://github.com/marijavella/hs-sr-tvtv)|
+|[on continuous local bdd-based search for hybrid sat solving](https://arxiv.org/abs/2012.07983)|[GradSAT](https://github.com/vardigroup/GradSAT)|
+|[decoding supercodes of gabidulin codes and applications to cryptanalysis](https://arxiv.org/abs/2103.02700)|[Attack_on_LIGA](https://github.com/mbombar/Attack_on_LIGA)|
+|[on perceptual lossy compression: the cost of perceptual reconstruction and an optimal training framework](https://arxiv.org/abs/2106.02782)|[Perceptual-Lossy-Compression](https://github.com/ZeyuYan/Perceptual-Lossy-Compression)|
 ## 2021-06-14
 |paper|code|
 |---|---|
