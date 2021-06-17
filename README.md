@@ -1,3 +1,14 @@
+## 2021-06-16
+|paper|code|
+|---|---|
+|[how to find a unicorn: a novel model-free, unsupervised anomaly detection method for time series](https://arxiv.org/abs/2004.11468)|[uniqed](https://github.com/phrenico/uniqed)|
+|[accelerating ill-conditioned low-rank matrix estimation via scaled gradient descent](https://arxiv.org/abs/2005.08898)|[ScaledGD](https://github.com/Titan-Tong/ScaledGD)|
+|[speaker diarization using two-pass leave-one-out gaussian plda clustering of dnn embeddings](https://arxiv.org/abs/2104.02469)|[VBx](https://github.com/hltcoe/VBx)|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[attention-based distributed speech enhancement for unconstrained microphone arrays with varying number of nodes](https://arxiv.org/abs/2106.07939)|[disco](https://github.com/nfurnon/disco)|
+|[improving lossless compression rates via monte carlo bits-back coding](https://arxiv.org/abs/2102.11086)|[mcbits](https://github.com/ryoungj/mcbits)|
+|[computing accurate probabilistic estimates of one-d entropy from equiprobable random samples](https://arxiv.org/abs/2102.12675)|[Entropy](https://github.com/rehsani/Entropy)|
+|[improving the list decoding version of the cyclically equivariant neural decoder](https://arxiv.org/abs/2106.07964)|[code](https://github.com/improvedlistdecoder/code)|
 ## 2021-06-15
 |paper|code|
 |---|---|
