@@ -1,3 +1,7 @@
+## 2021-06-17
+|paper|code|
+|---|---|
+|[multivariate public key cryptosystem from sidon spaces](https://arxiv.org/abs/2106.07785)|[Sidon-Cryptosystem](https://github.com/b-langton/Sidon-Cryptosystem)|
 ## 2021-06-16
 |paper|code|
 |---|---|
