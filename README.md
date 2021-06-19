@@ -1,3 +1,10 @@
+## 2021-06-18
+|paper|code|
+|---|---|
+|[a simulation-based end-to-end learning framework for evidential occupancy grid mapping](https://arxiv.org/abs/2102.12718)|[EviLOG](https://github.com/ika-rwth-aachen/EviLOG)|
+|[a 1d-cnn based deep learning technique for sleep apnea detection in iot sensors](https://arxiv.org/abs/2105.00528)|[CNN_sleep_apnea](https://github.com/arlenejohn/CNN_sleep_apnea)|
+|[minimax estimation of partially-observed vector autoregressions](https://arxiv.org/abs/2106.09327)|[PartiallyObservedVectorAutoRegressions](https://github.com/gdalle/PartiallyObservedVectorAutoRegressions)|
+|[a factor graph em algorithm for inference of kinetic microstates from patch clamp measurements](https://arxiv.org/abs/2106.09594)|[PatchClampFactorGraphEM](https://github.com/andreweckford/PatchClampFactorGraphEM)|
 ## 2021-06-17
 |paper|code|
 |---|---|
