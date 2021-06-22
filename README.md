@@ -1,3 +1,10 @@
+## 2021-06-21
+|paper|code|
+|---|---|
+|[robustsleepnet: transfer learning for automated sleep staging at scale](https://arxiv.org/abs/2101.02452)|[RobustSleepNet](https://github.com/Dreem-Organization/RobustSleepNet)|
+|[under the sand: navigation and localization of a small unmanned aerial vehicle for landmine detection with ground penetrating synthetic aperture radar](https://arxiv.org/abs/2106.10108)|[mav_findmine](https://github.com/ethz-asl/mav_findmine)|
+|[vqmivc: vector quantization and mutual information-based unsupervised speech representation disentanglement for one-shot voice conversion](https://arxiv.org/abs/2106.10132)|[VQMIVC](https://github.com/Wendison/VQMIVC)|
+|[probabilistic sequential shrinking: a best arm identification algorithm for stochastic bandits with corruptions](https://arxiv.org/abs/2010.07904)|[2021-ICML](https://github.com/zixinzh/2021-ICML)|
 ## 2021-06-18
 |paper|code|
 |---|---|
