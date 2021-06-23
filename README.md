@@ -1,3 +1,9 @@
+## 2021-06-22
+|paper|code|
+|---|---|
+|[automated pipeline for eeg artifact reduction (appear) recorded during fmri](https://arxiv.org/abs/1912.05507)|[appear](https://github.com/obada-alzoubi/appear)|
+|[automatic heterogeneous quantization of deep neural networks for low-latency inference on the edge for particle detectors](https://arxiv.org/abs/2006.10159)|[qkeras](https://github.com/google/qkeras)|
+|[real elliptically skewed distributions and their application to robust cluster analysis](https://arxiv.org/abs/2006.16671)|[Real-Elliptically-Skewed-Distributions](https://github.com/schrchr/Real-Elliptically-Skewed-Distributions)|
 ## 2021-06-21
 |paper|code|
 |---|---|
