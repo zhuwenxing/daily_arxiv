@@ -1,3 +1,11 @@
+## 2021-06-25
+|paper|code|
+|---|---|
+|[universal adversarial perturbations for cnn classifiers in eeg-based bcis](https://arxiv.org/abs/1912.01171)|[UAP_EEG](https://github.com/ZihanLiu95/UAP_EEG)|
+|[atlas fusion -- modern framework for autonomous agent sensor data fusion](https://arxiv.org/abs/2010.11991)|[Atlas-Fusion](https://github.com/Robotics-BUT/Atlas-Fusion)|
+|[atp-net: an attention-based ternary projection network for compressed sensing](https://arxiv.org/abs/2106.12728)|[ATP-Net](https://github.com/MasonNie/ATP-Net)|
+|[a declarative goal-oriented framework for smart environments with lpaas](https://arxiv.org/abs/2106.13083)|[Solomon](https://github.com/di-unipi-socc/Solomon)|
+|[capacity-achieving spatially coupled sparse superposition codes with amp decoding](https://arxiv.org/abs/2002.07844)|[sparc_public](https://github.com/kuanhsieh/sparc_public)|
 ## 2021-06-24
 |paper|code|
 |---|---|
