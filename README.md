@@ -29,6 +29,7 @@
 |[automated pipeline for eeg artifact reduction (appear) recorded during fmri](https://arxiv.org/abs/1912.05507)|[appear](https://github.com/obada-alzoubi/appear)|
 |[automatic heterogeneous quantization of deep neural networks for low-latency inference on the edge for particle detectors](https://arxiv.org/abs/2006.10159)|[qkeras](https://github.com/google/qkeras)|
 |[real elliptically skewed distributions and their application to robust cluster analysis](https://arxiv.org/abs/2006.16671)|[Real-Elliptically-Skewed-Distributions](https://github.com/schrchr/Real-Elliptically-Skewed-Distributions)|
+|[mean subtraction and mode selection in dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
 ## 2021-06-21
 |paper|code|
 |---|---|
