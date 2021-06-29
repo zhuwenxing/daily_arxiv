@@ -1,3 +1,12 @@
+## 2021-06-28
+|paper|code|
+|---|---|
+|[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
+|[prior image-constrained reconstruction using style-based generative models](https://arxiv.org/abs/2102.12525)|[pic-recon](https://github.com/comp-imaging-sci/pic-recon)|
+|[scalable perception-action-communication loops with convolutional and graph neural networks](https://arxiv.org/abs/2106.13358)|[VGAI](https://github.com/VITA-Group/VGAI)|
+|[linearly self-equivalent apn permutations in small dimension](https://arxiv.org/abs/2003.12006)|[self_equivalent_apn](https://github.com/cbe90/self_equivalent_apn)|
+|[optimal sic ordering and power allocation in downlink multi-cell noma systems](https://arxiv.org/abs/2102.05015)|[Optimal-JSPA-MultiCell-NOMA](https://gitlab.com/sepehrrezvani/Optimal-JSPA-MultiCell-NOMA)|
+|[fast quantum state reconstruction via accelerated non-convex programming](https://arxiv.org/abs/2104.07006)|[MiFGD](https://github.com/gidiko/MiFGD)|
 ## 2021-06-25
 |paper|code|
 |---|---|
