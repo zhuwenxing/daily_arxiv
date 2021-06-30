@@ -1,3 +1,10 @@
+## 2021-06-29
+|paper|code|
+|---|---|
+|[efficient sparse coding using hierarchical riemannian pursuit](https://arxiv.org/abs/2104.10314)|[HRP](https://github.com/yokoxue/HRP)|
+|[accelerated alternating projections for robust principal component analysis](https://arxiv.org/abs/1711.05519)|[AccAltProj_for_RPCA](https://github.com/caesarcai/AccAltProj_for_RPCA)|
+|[mode-wise tensor decompositions: multi-dimensional generalizations of cur decompositions](https://arxiv.org/abs/2103.11037)|[Modewise_Tensor_Decomp](https://github.com/caesarcai/Modewise_Tensor_Decomp)|
+|[learning from an exploring demonstrator: optimal reward estimation for bandits](https://arxiv.org/abs/2106.14866)|[inverse-bandit-code-release](https://github.com/wenshuoguo/inverse-bandit-code-release)|
 ## 2021-06-28
 |paper|code|
 |---|---|
