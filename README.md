@@ -1,3 +1,10 @@
+## 2021-07-02
+|paper|code|
+|---|---|
+|[automated pipeline for eeg artifact reduction (appear) recorded during fmri](https://arxiv.org/abs/1912.05507)|[appear](https://github.com/obada-alzoubi/appear)|
+|[a sketching framework for reduced data transfer in photon counting lidar](https://arxiv.org/abs/2102.08732)|[sketched_lidar](https://gitlab.com/Tachella/sketched_lidar)|
+|[conditional independence for pretext task selection in self-supervised speech representation learning](https://arxiv.org/abs/2104.07388)|[Pseudo-Label-Selection](https://github.com/salah-zaiem/Pseudo-Label-Selection)|
+|[reinforcement learning for physical layer communications](https://arxiv.org/abs/2106.11595)|[malin-multi-armed-bandit-learning-for-iot-networks-with-grc](https://bitbucket.org/scee_ietr/malin-multi-armed-bandit-learning-for-iot-networks-with-grc)|
 ## 2021-06-29
 |paper|code|
 |---|---|
