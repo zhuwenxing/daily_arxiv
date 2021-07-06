@@ -1,3 +1,11 @@
+## 2021-07-05
+|paper|code|
+|---|---|
+|[real elliptically skewed distributions and their application to robust cluster analysis](https://arxiv.org/abs/2006.16671)|[Real-Elliptically-Skewed-Distributions](https://github.com/schrchr/Real-Elliptically-Skewed-Distributions)|
+|[joint analog beam selection and digital beamforming in millimeter wave cell-free massive mimo systems](https://arxiv.org/abs/2103.11199)|[JointDesigninmmWaveCellFreeNetworks](https://github.com/DrCMY/JointDesigninmmWaveCellFreeNetworks)|
+|[inter-beat interval estimation with tiramisu model: a novel approach with reduced error](https://arxiv.org/abs/2107.00693)|[IBI_Tiramisu](https://github.com/Arefeen06088/IBI_Tiramisu)|
+|[tight mutual information estimation with contrastive fenchel-legendre optimization](https://arxiv.org/abs/2107.01131)|[FLO](https://github.com/qingguo666/FLO)|
+|[simpler, faster, stronger: breaking the log-k curse on contrastive learners with flatnce](https://arxiv.org/abs/2107.01152)|[FlatCLR](https://github.com/Junya-Chen/FlatCLR)|
 ## 2021-07-02
 |paper|code|
 |---|---|
