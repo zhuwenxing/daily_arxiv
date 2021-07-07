@@ -1,3 +1,7 @@
+## 2021-07-06
+|paper|code|
+|---|---|
+|[efficient sparse coding using hierarchical riemannian pursuit](https://arxiv.org/abs/2104.10314)|[HRP](https://github.com/yokoxue/HRP)|
 ## 2021-07-05
 |paper|code|
 |---|---|
