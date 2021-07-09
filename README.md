@@ -1,3 +1,7 @@
+## 2021-07-08
+|paper|code|
+|---|---|
+|[lossy compression for lossless prediction](https://arxiv.org/abs/2106.10800)|[lossyless](https://github.com/YannDubs/lossyless)|
 ## 2021-07-07
 |paper|code|
 |---|---|
