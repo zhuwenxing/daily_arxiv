@@ -1,3 +1,8 @@
+## 2021-07-09
+|paper|code|
+|---|---|
+|[diagnosis of intelligent reflecting surface in millimeter-wave communication systems](https://arxiv.org/abs/2101.03792)|[IRSdiagnosis](https://github.com/DestinationSR/IRSdiagnosis)|
+|[iowarain: a statewide rain event dataset based on weather radars and quantitative precipitation estimation](https://arxiv.org/abs/2107.03432)|[IowaRain](https://github.com/uihilab/IowaRain)|
 ## 2021-07-08
 |paper|code|
 |---|---|
@@ -8,6 +13,7 @@
 |[discrete signal processing on meet/join lattices](https://arxiv.org/abs/2012.04358)|[lattice-signal-processing](https://github.com/bseifert-HSA/lattice-signal-processing)|
 |[rodnet: a real-time radar object detection network cross-supervised by camera-radar fused object 3d localization](https://arxiv.org/abs/2102.05150)|[RODNet](https://github.com/yizhou-wang/RODNet)|
 |[learning semantic segmentation of large-scale point clouds with random sampling](https://arxiv.org/abs/2107.02389)|[RandLA-Net](https://github.com/QingyongHu/RandLA-Net)|
+|[bayesian algorithm execution: estimating computable properties of black-box functions using mutual information](https://arxiv.org/abs/2104.09460)|[bayesian-algorithm-execution](https://github.com/willieneis/bayesian-algorithm-execution)|
 ## 2021-07-06
 |paper|code|
 |---|---|
