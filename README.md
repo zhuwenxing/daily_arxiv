@@ -1,3 +1,10 @@
+## 2021-07-12
+|paper|code|
+|---|---|
+|[interpretable classification of bacterial raman spectra with knockoff wavelets](https://arxiv.org/abs/2006.04937)|[raman-knockoffs](https://github.com/chicanagram/raman-knockoffs)|
+|[easycom: an augmented reality dataset to support algorithms for easy communication in noisy environments](https://arxiv.org/abs/2107.04174)|[EasyComDataset](https://github.com/facebookresearch/EasyComDataset)|
+|[block alternating bregman majorization minimization with extrapolation](https://arxiv.org/abs/2107.04395)|[BMME](https://github.com/LeThiKhanhHien/BMME)|
+|[multiple testing and variable selection along least angle regression's path](https://arxiv.org/abs/1906.12072)|[lar_testing](https://github.com/ydecastro/lar_testing)|
 ## 2021-07-09
 |paper|code|
 |---|---|
