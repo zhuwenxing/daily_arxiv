@@ -1,3 +1,7 @@
+## 2021-07-14
+|paper|code|
+|---|---|
+|[low rate protograph-based ldpc codes for continuous variable quantum key distribution](https://arxiv.org/abs/2107.06242)|[Protograph_Optimization](https://github.com/kadirgumus/Protograph_Optimization)|
 ## 2021-07-13
 |paper|code|
 |---|---|
