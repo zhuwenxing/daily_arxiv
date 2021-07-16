@@ -1,3 +1,7 @@
+## 2021-07-15
+|paper|code|
+|---|---|
+|[trellis bma: coded trace reconstruction on ids channels for dna storage](https://arxiv.org/abs/2107.06440)|[clustered-nanopore-reads-dataset](https://github.com/microsoft/clustered-nanopore-reads-dataset)|
 ## 2021-07-14
 |paper|code|
 |---|---|
