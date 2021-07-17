@@ -1,3 +1,8 @@
+## 2021-07-16
+|paper|code|
+|---|---|
+|[visualization of linear operations in the spherical harmonics domain](https://arxiv.org/abs/2104.13069)|[visualization-of-sh-domain-operations](https://github.com/kentgens/visualization-of-sh-domain-operations)|
+|[a low-complexity radar detector outperforming os-cfar for indoor drone obstacle avoidance](https://arxiv.org/abs/2107.07250)|[RadarDetector](https://github.com/ali20480/RadarDetector)|
 ## 2021-07-15
 |paper|code|
 |---|---|
