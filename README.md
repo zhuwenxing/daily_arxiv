@@ -14,6 +14,7 @@
 ## 2021-07-13
 |paper|code|
 |---|---|
+|[a deep-bayesian framework for adaptive speech duration modification](https://arxiv.org/abs/2107.04973)|[pytorch-speech-transformer](https://github.com/ravi-0841/pytorch-speech-transformer)|
 |[neural waveshaping synthesis](https://arxiv.org/abs/2107.05050)|[neural-waveshaping-synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis)|
 |[dihedral multi-reference alignment](https://arxiv.org/abs/2107.05262)|[DihedralMRA](https://github.com/nirsharon/DihedralMRA)|
 |[on fading channel dependency structures with a positive zero-outage capacity](https://arxiv.org/abs/2102.02541)|[zero-outage-joint-distributions](https://gitlab.com/klb2/zero-outage-joint-distributions)|
