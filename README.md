@@ -1,3 +1,14 @@
+## 2021-07-21
+|paper|code|
+|---|---|
+|[change point detection in time series data using autoencoders with a time-invariant representation](https://arxiv.org/abs/2008.09524)|[TIRE](https://github.com/deryckt/TIRE)|
+|[deep low-rank plus sparse network for dynamic mr imaging](https://arxiv.org/abs/2010.13677)|[LS-Net-Dynamic-MRI](https://github.com/wenqihuang/LS-Net-Dynamic-MRI)|
+|[deep learning assisted calibrated beam training for millimeter-wave communication systems](https://arxiv.org/abs/2101.05206)|[DL-assisted-calibrated-beam-training](https://github.com/KeMa1998/DL-assisted-calibrated-beam-training)|
+|[directional sparse filtering using weighted lehmer mean for blind separation of unbalanced speech mixtures](https://arxiv.org/abs/2102.00196)|[directional-sparse-filtering-tf](https://github.com/karnwatcharasupat/directional-sparse-filtering-tf)|
+|[energy disaggregation using variational autoencoders](https://arxiv.org/abs/2103.12177)|[VAE-NILM](https://github.com/ETSSmartRes/VAE-NILM)|
+|[efficient sparse coding using hierarchical riemannian pursuit](https://arxiv.org/abs/2104.10314)|[HRP](https://github.com/yokoxue/HRP)|
+|[one billion audio sounds from gpu-enabled modular synthesis](https://arxiv.org/abs/2104.12922)|[torchsynth](https://github.com/torchsynth/torchsynth)|
+|[compressing multisets with large alphabets](https://arxiv.org/abs/2107.09202)|[multiset-compression](https://github.com/facebookresearch/multiset-compression)|
 ## 2021-07-19
 |paper|code|
 |---|---|
