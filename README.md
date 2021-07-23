@@ -1,3 +1,9 @@
+## 2021-07-22
+|paper|code|
+|---|---|
+|[vqmivc: vector quantization and mutual information-based unsupervised speech representation disentanglement for one-shot voice conversion](https://arxiv.org/abs/2106.10132)|[VQMIVC](https://github.com/Wendison/VQMIVC)|
+|[regularized classification-aware quantization](https://arxiv.org/abs/2107.09716)|[rcaq](https://github.com/dsevero/rcaq)|
+|[ecg heartbeat classification using multimodal fusion](https://arxiv.org/abs/2107.09869)|[ECG-Heartbeat-Classification-Using-Multimodal-Fusion](https://github.com/zaamad/ECG-Heartbeat-Classification-Using-Multimodal-Fusion)|
 ## 2021-07-21
 |paper|code|
 |---|---|
