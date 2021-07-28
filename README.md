@@ -1,3 +1,10 @@
+## 2021-07-27
+|paper|code|
+|---|---|
+|[adaptive social learning](https://arxiv.org/abs/2004.02494)|[asl-it-2021](https://github.com/asl-epfl/asl-it-2021)|
+|[a mixed integer least-squares formulation of the gnss snapshot positioning problem](https://arxiv.org/abs/2101.00895)|[snapshot-positioning](https://github.com/eyalw711/snapshot-positioning)|
+|[federated mmwave beam selection utilizing lidar data](https://arxiv.org/abs/2102.02802)|[ITU_Beam_Selection_TF](https://github.com/galidor/ITU_Beam_Selection_TF)|
+|[fermi: fair empirical risk minimization via exponential r\'enyi mutual information](https://arxiv.org/abs/2102.12586)|[FERMI](https://github.com/optimization-for-data-driven-science/FERMI)|
 ## 2021-07-23
 |paper|code|
 |---|---|
