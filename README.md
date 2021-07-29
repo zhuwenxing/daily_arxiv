@@ -1,9 +1,17 @@
+## 2021-07-28
+|paper|code|
+|---|---|
+|[edgenets:edge varying graph neural networks](https://arxiv.org/abs/2001.07620)|[graph-neural-networks](https://github.com/alelab-upenn/graph-neural-networks)|
+|[neural waveshaping synthesis](https://arxiv.org/abs/2107.05050)|[neural-waveshaping-synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis)|
+|[information flows of diverse autoencoders](https://arxiv.org/abs/2102.07402)|[IPRL](https://github.com/Sungyeop/IPRL)|
+|[straggler mitigation through unequal error protection for distributed approximate matrix multiplication](https://arxiv.org/abs/2103.02928)|[UEP-Straggler-Mitigation](https://github.com/HernandezEduin/UEP-Straggler-Mitigation)|
 ## 2021-07-27
 |paper|code|
 |---|---|
 |[adaptive social learning](https://arxiv.org/abs/2004.02494)|[asl-it-2021](https://github.com/asl-epfl/asl-it-2021)|
 |[a mixed integer least-squares formulation of the gnss snapshot positioning problem](https://arxiv.org/abs/2101.00895)|[snapshot-positioning](https://github.com/eyalw711/snapshot-positioning)|
 |[federated mmwave beam selection utilizing lidar data](https://arxiv.org/abs/2102.02802)|[ITU_Beam_Selection_TF](https://github.com/galidor/ITU_Beam_Selection_TF)|
+|[reconfigurable intelligent surface phase hopping for ultra-reliable communications](https://arxiv.org/abs/2107.11852)|[ris-phase-hopping](https://gitlab.com/klb2/ris-phase-hopping)|
 |[fermi: fair empirical risk minimization via exponential r\'enyi mutual information](https://arxiv.org/abs/2102.12586)|[FERMI](https://github.com/optimization-for-data-driven-science/FERMI)|
 ## 2021-07-23
 |paper|code|
