@@ -1,3 +1,8 @@
+## 2021-07-29
+|paper|code|
+|---|---|
+|[eegdenoisenet: a benchmark dataset for end-to-end deep learning solutions of eeg denoising](https://arxiv.org/abs/2009.11662)|[Single-Channel-EEG-Denoise](https://github.com/ncclabsustech/Single-Channel-EEG-Denoise)|
+|[on optimal quantization in sequential detection](https://arxiv.org/abs/2107.13412)|[QSPRT](https://github.com/mifauss/QSPRT)|
 ## 2021-07-28
 |paper|code|
 |---|---|
