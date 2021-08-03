@@ -1,3 +1,7 @@
+## 2021-08-02
+|paper|code|
+|---|---|
+|[on the interpretation of linear riemannian tangent space model parameters in m/eeg](https://arxiv.org/abs/2107.14398)|[interpret_lin_rts_mdls](https://github.com/rkobler/interpret_lin_rts_mdls)|
 ## 2021-07-29
 |paper|code|
 |---|---|
