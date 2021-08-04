@@ -1,3 +1,10 @@
+## 2021-08-03
+|paper|code|
+|---|---|
+|[deep residual learning for channel estimation in intelligent reflecting surface-assisted multi-user communications](https://arxiv.org/abs/2009.01423)|[CDRN-channel-estimation-IRS](https://github.com/XML124/CDRN-channel-estimation-IRS)|
+|[opencsi: an open-source dataset for indoor localization using csi-based fingerprinting](https://arxiv.org/abs/2104.07963)|[thymio-radio-map](https://github.com/arthurgassner/thymio-radio-map)|
+|[a scalable federated multi-agent architecture for networked connected communication network](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
+|[few-shot calibration of low-cost air pollution (pm2.5) sensors using meta-learning](https://arxiv.org/abs/2108.00640)|[2021KalpitBTMT](https://github.com/madhavlab/2021KalpitBTMT)|
 ## 2021-08-02
 |paper|code|
 |---|---|
