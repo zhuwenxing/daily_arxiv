@@ -1,3 +1,8 @@
+## 2021-08-04
+|paper|code|
+|---|---|
+|[progressive transmission using recurrent neural networks](https://arxiv.org/abs/2108.01643)|[Progressive_transmission](https://github.com/safarisadegh/Progressive_transmission)|
+|[robust compressed sensing mri with deep generative priors](https://arxiv.org/abs/2108.01368)|[csgm-mri-langevin](https://github.com/utcsilab/csgm-mri-langevin)|
 ## 2021-08-03
 |paper|code|
 |---|---|
