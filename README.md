@@ -1,3 +1,7 @@
+## 2021-08-05
+|paper|code|
+|---|---|
+|[random convolution kernels with multi-scale decomposition for preterm eeg inter-burst detection](https://arxiv.org/abs/2108.02039)|[ms_rocket](https://github.com/otoolej/ms_rocket)|
 ## 2021-08-04
 |paper|code|
 |---|---|
@@ -7,6 +11,7 @@
 |paper|code|
 |---|---|
 |[deep residual learning for channel estimation in intelligent reflecting surface-assisted multi-user communications](https://arxiv.org/abs/2009.01423)|[CDRN-channel-estimation-IRS](https://github.com/XML124/CDRN-channel-estimation-IRS)|
+|[robust enf estimation based on harmonic enhancement and maximum weight clique](https://arxiv.org/abs/2011.03414)|[ENF-WHU-Dataset](https://github.com/ghuawhu/ENF-WHU-Dataset)|
 |[opencsi: an open-source dataset for indoor localization using csi-based fingerprinting](https://arxiv.org/abs/2104.07963)|[thymio-radio-map](https://github.com/arthurgassner/thymio-radio-map)|
 |[a scalable federated multi-agent architecture for networked connected communication network](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
 |[few-shot calibration of low-cost air pollution (pm2.5) sensors using meta-learning](https://arxiv.org/abs/2108.00640)|[2021KalpitBTMT](https://github.com/madhavlab/2021KalpitBTMT)|
