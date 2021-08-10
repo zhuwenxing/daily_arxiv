@@ -1,3 +1,7 @@
+## 2021-08-09
+|paper|code|
+|---|---|
+|[searching for waveforms on spatially-filtered epileptic ecog](https://arxiv.org/abs/2103.13853)|[cspwave](https://github.com/chmendoza/cspwave)|
 ## 2021-08-06
 |paper|code|
 |---|---|
@@ -10,6 +14,7 @@
 ## 2021-08-04
 |paper|code|
 |---|---|
+|[sequential weakly labeled multi-activity localization and recognition on wearable sensors using recurrent attention networks](https://arxiv.org/abs/2004.05768)|[RAN](https://github.com/KennCoder7/RAN)|
 |[progressive transmission using recurrent neural networks](https://arxiv.org/abs/2108.01643)|[Progressive_transmission](https://github.com/safarisadegh/Progressive_transmission)|
 |[robust compressed sensing mri with deep generative priors](https://arxiv.org/abs/2108.01368)|[csgm-mri-langevin](https://github.com/utcsilab/csgm-mri-langevin)|
 ## 2021-08-03
