@@ -1,3 +1,9 @@
+## 2021-08-10
+|paper|code|
+|---|---|
+|[detecting false data injection attacks in smart grids with modeling errors: a deep transfer learning based approach](https://arxiv.org/abs/2104.06307)|[DTL-FDIA-TSG](https://github.com/599143868/DTL-FDIA-TSG)|
+|[deep single shot musical instrument identification using scalograms](https://arxiv.org/abs/2108.03569)|[deep-single-shot-musical-instrument-identificationusing-time-frequency-localized-features](https://github.com/dibakar1/deep-single-shot-musical-instrument-identificationusing-time-frequency-localized-features)|
+|[beatnet: crnn and particle filtering for online joint beat downbeat and meter tracking](https://arxiv.org/abs/2108.03576)|[beatnet](https://github.com/mjhydri/beatnet)|
 ## 2021-08-09
 |paper|code|
 |---|---|
