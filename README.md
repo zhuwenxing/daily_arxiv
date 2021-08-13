@@ -1,3 +1,7 @@
+## 2021-08-12
+|paper|code|
+|---|---|
+|[statistical inference in the differential privacy model](https://arxiv.org/abs/2108.05000)|[INSPECTRE](https://github.com/HuanyuZhang/INSPECTRE)|
 ## 2021-08-11
 |paper|code|
 |---|---|
