@@ -1,3 +1,7 @@
+## 2021-08-13
+|paper|code|
+|---|---|
+|[is the brain macroscopically linear? a system identification of resting state dynamics](https://arxiv.org/abs/2012.12351)|[rest-system-id](https://github.com/enozari/rest-system-id)|
 ## 2021-08-12
 |paper|code|
 |---|---|
