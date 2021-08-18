@@ -1,3 +1,10 @@
+## 2021-08-17
+|paper|code|
+|---|---|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[a greedy algorithm for quantizing neural networks](https://arxiv.org/abs/2010.15979)|[quantized_neural_networks](https://github.com/elybrand/quantized_neural_networks)|
+|[mode-wise tensor decompositions: multi-dimensional generalizations of cur decompositions](https://arxiv.org/abs/2103.11037)|[Modewise_Tensor_Decomp](https://github.com/caesarcai/Modewise_Tensor_Decomp)|
 ## 2021-08-16
 |paper|code|
 |---|---|
