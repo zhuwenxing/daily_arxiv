@@ -1,3 +1,15 @@
+## 2021-08-18
+|paper|code|
+|---|---|
+|[deep completion autoencoders for radio map estimation](https://arxiv.org/abs/2005.05964)|[deep-autoencoders-cartography](https://github.com/yvestegnya2/deep-autoencoders-cartography)|
+|[a sketching framework for reduced data transfer in photon counting lidar](https://arxiv.org/abs/2102.08732)|[sketched_lidar](https://gitlab.com/Tachella/sketched_lidar)|
+|[towards fast region adaptive ultrasound beamformer for plane wave imaging using convolutional neural networks](https://arxiv.org/abs/2106.07006)|[cnnusbf](https://github.com/rpm1412/cnnusbf)|
+|[progressive transmission using recurrent neural networks](https://arxiv.org/abs/2108.01643)|[Progressive_transmission](https://github.com/safarisadegh/Progressive_transmission)|
+|[language-independent approach for automatic computation of vowel articulation features in dysarthric speech assessment](https://arxiv.org/abs/2108.06943)|[autovai](https://github.com/speechcog/autovai)|
+|[precision and accuracy of acoustic gunshot location in an urban environment](https://arxiv.org/abs/2108.07377)|[research.accuracy-of-gunshot-location](https://github.com/shotspotter/research.accuracy-of-gunshot-location)|
+|[how powerful is graph convolution for recommendation?](https://arxiv.org/abs/2108.07567)|[GF_CF](https://github.com/yshenaw/GF_CF)|
+|[lossy compression for lossless prediction](https://arxiv.org/abs/2106.10800)|[lossyless](https://github.com/YannDubs/lossyless)|
+|[arbitrary-length analogs to de bruijn sequences](https://arxiv.org/abs/2108.07759)|[pkl](https://github.com/nelloreward/pkl)|
 ## 2021-08-17
 |paper|code|
 |---|---|
