@@ -1,3 +1,8 @@
+## 2021-08-19
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[gender bias in depression detection using audio features](https://arxiv.org/abs/2010.15120)|[DepAudioNet_reproduction](https://github.com/adbailey1/DepAudioNet_reproduction)|
 ## 2021-08-18
 |paper|code|
 |---|---|
