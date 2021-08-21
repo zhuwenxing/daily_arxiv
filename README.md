@@ -1,8 +1,17 @@
+## 2021-08-20
+|paper|code|
+|---|---|
+|[chmusic: a traditional chinese music dataset for evaluation of instrument recognition](https://arxiv.org/abs/2108.08470)|[chmusic](https://github.com/haoranweiutd/chmusic)|
+|[synthesis of logical clifford operators via symplectic geometry](https://arxiv.org/abs/1803.06987)|[symplectic-arxiv18a](https://github.com/nrenga/symplectic-arxiv18a)|
+|[kerdock codes determine unitary 2-designs](https://arxiv.org/abs/1904.07842)|[symplectic-arxiv18a](https://github.com/nrenga/symplectic-arxiv18a)|
+|[logical clifford synthesis for stabilizer codes](https://arxiv.org/abs/1907.00310)|[symplectic-arxiv18a](https://github.com/nrenga/symplectic-arxiv18a)|
+|[belief propagation with quantum messages for quantum-enhanced classical communications](https://arxiv.org/abs/2003.04356)|[bpqm](https://github.com/nrenga/bpqm)|
 ## 2021-08-19
 |paper|code|
 |---|---|
 |[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
 |[gender bias in depression detection using audio features](https://arxiv.org/abs/2010.15120)|[DepAudioNet_reproduction](https://github.com/adbailey1/DepAudioNet_reproduction)|
+|[m-ar-k-fast independent component analysis](https://arxiv.org/abs/2108.07908)|[_fastica.py](https://github.com/luca-parisi/m-arcsinh_scikit-learn_TensorFlow_Keras/blob/master/_fastica.py)|
 ## 2021-08-18
 |paper|code|
 |---|---|
