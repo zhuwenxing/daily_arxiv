@@ -1,3 +1,11 @@
+## 2021-08-24
+|paper|code|
+|---|---|
+|[a spiking neural network (snn) for detecting high frequency oscillations (hfos) in the intraoperative ecog](https://arxiv.org/abs/2011.08783)|[SNN_HFO_ECoG](https://github.com/kburel/SNN_HFO_ECoG)|
+|[salience: an unsupervised user adaptation model for multiple wearable sensors based human activity recognition](https://arxiv.org/abs/2108.10213)|[SALIENCE](https://github.com/wdkhuans/SALIENCE)|
+|[exclusive group lasso for structured variable selection](https://arxiv.org/abs/2108.10284)|[exclusive-lasso](https://github.com/gregdvd/exclusive-lasso)|
+|[iterative error decimation for syndrome-based neural network decoders](https://arxiv.org/abs/2012.00089)|[ied](https://github.com/kamassury/ied)|
+|[honest-but-curious nets: sensitive attributes of private inputs can be secretly coded into the classifiers' outputs](https://arxiv.org/abs/2105.12049)|[honest-but-curious-nets](https://github.com/mmalekzadeh/honest-but-curious-nets)|
 ## 2021-08-21
 |paper|code|
 |---|---|
