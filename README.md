@@ -1,3 +1,8 @@
+## 2021-08-25
+|paper|code|
+|---|---|
+|[equivariant imaging: learning beyond the range space](https://arxiv.org/abs/2103.14756)|[EI](https://github.com/edongdongchen/EI)|
+|[learning sparse analytic filters for piano transcription](https://arxiv.org/abs/2108.10382)|[sparse-analytic-filters](https://github.com/cwitkowitz/sparse-analytic-filters)|
 ## 2021-08-24
 |paper|code|
 |---|---|
