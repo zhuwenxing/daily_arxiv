@@ -1,3 +1,7 @@
+## 2021-08-26
+|paper|code|
+|---|---|
+|[bayesian context trees: modelling and exact inference for discrete time series](https://arxiv.org/abs/2007.14900)|[Bayesian-Suffix-Trees](https://github.com/IoannisPapageorgiou/Bayesian-Suffix-Trees)|
 ## 2021-08-25
 |paper|code|
 |---|---|
