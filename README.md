@@ -1,3 +1,7 @@
+## 2021-08-30
+|paper|code|
+|---|---|
+|[multiple hypothesis testing framework for spatial signals](https://arxiv.org/abs/2108.12314)|[lfdr-smom](https://github.com/mgoelz95/lfdr-smom)|
 ## 2021-08-26
 |paper|code|
 |---|---|
