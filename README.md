@@ -1,3 +1,12 @@
+## 2021-08-31
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[high fidelity deep learning-based mri reconstruction with instance-wise discriminative feature matching loss](https://arxiv.org/abs/2108.12460)|[ufloss](https://github.com/mikgroup/ufloss)|
+|[iterative error decimation for syndrome-based neural network decoders](https://arxiv.org/abs/2012.00089)|[ied](https://github.com/kamassury/ied)|
+|[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[arbitrary-length analogs to de bruijn sequences](https://arxiv.org/abs/2108.07759)|[pkl](https://github.com/nelloreward/pkl)|
+|[ko codes: inventing nonlinear encoding and decoding for reliable wireless communication via deep-learning](https://arxiv.org/abs/2108.12920)|[kocodes](https://github.com/deepcomm/kocodes)|
 ## 2021-08-30
 |paper|code|
 |---|---|
