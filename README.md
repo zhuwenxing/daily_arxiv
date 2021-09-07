@@ -1,3 +1,7 @@
+## 2021-09-06
+|paper|code|
+|---|---|
+|[achievable rate optimization for mimo systems with reconfigurable intelligent surfaces](https://arxiv.org/abs/2008.09563)|[pgm_code_achievable_rate_optimization](https://gitlab.com/n.s.perovic/pgm_code_achievable_rate_optimization)|
 ## 2021-09-01
 |paper|code|
 |---|---|
