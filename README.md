@@ -1,6 +1,14 @@
+## 2021-09-07
+|paper|code|
+|---|---|
+|[quasi monte carlo time-frequency analysis](https://arxiv.org/abs/2011.02025)|[LTFT-Phase-Vocoder](https://github.com/RonLevie/LTFT-Phase-Vocoder)|
+|[a tutorial on generalized eigendecomposition for source separation in multichannel electrophysiology](https://arxiv.org/abs/2104.12356)|[GED_tutorial](https://github.com/mikexcohen/GED_tutorial)|
+|[a variational approach to privacy and fairness](https://arxiv.org/abs/2006.06332)|[VariationalPrivacyFairness](https://github.com/burklight/VariationalPrivacyFairness)|
+|[variational quantum algorithms for trace distance and fidelity estimation](https://arxiv.org/abs/2012.05768)|[Quantum](https://github.com/PaddlePaddle/Quantum)|
 ## 2021-09-06
 |paper|code|
 |---|---|
+|[time encoding of finite-rate-of-innovation signals](https://arxiv.org/abs/2107.03344)|[genfri-tem](https://github.com/kamath-abhijith/genfri-tem)|
 |[achievable rate optimization for mimo systems with reconfigurable intelligent surfaces](https://arxiv.org/abs/2008.09563)|[pgm_code_achievable_rate_optimization](https://gitlab.com/n.s.perovic/pgm_code_achievable_rate_optimization)|
 ## 2021-09-01
 |paper|code|
