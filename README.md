@@ -1,3 +1,9 @@
+## 2021-09-08
+|paper|code|
+|---|---|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
+|[multi-layer bilinear generalized approximate message passing](https://arxiv.org/abs/2007.00436)|[ML-BiGAMP](https://github.com/QiuyunZou/ML-BiGAMP)|
+|[fusion of dual spatial information for hyperspectral image classification](https://arxiv.org/abs/2010.12337)|[Fusion-of-Dual-Spatial-Information-for-Hyperspectral-Image-Classification](https://github.com/PuhongDuan/Fusion-of-Dual-Spatial-Information-for-Hyperspectral-Image-Classification)|
 ## 2021-09-07
 |paper|code|
 |---|---|
