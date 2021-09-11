@@ -1,3 +1,10 @@
+## 2021-09-10
+|paper|code|
+|---|---|
+|[deep completion autoencoders for radio map estimation](https://arxiv.org/abs/2005.05964)|[deep-autoencoders-cartography](https://github.com/yvestegnya2/deep-autoencoders-cartography)|
+|[total least squares phase retrieval](https://arxiv.org/abs/2102.00927)|[tls_phase](https://github.com/swing-research/tls_phase)|
+|[proactive and aoi-aware failure recovery for stateful nfv-enabled zero-touch 6g networks: model-free drl approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
+|[a bayesian framework for information-theoretic probing](https://arxiv.org/abs/2109.03853)|[bayesian-mi](https://github.com/rycolab/bayesian-mi)|
 ## 2021-09-09
 |paper|code|
 |---|---|
