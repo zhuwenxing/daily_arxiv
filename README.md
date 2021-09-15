@@ -1,3 +1,10 @@
+## 2021-09-14
+|paper|code|
+|---|---|
+|[proactive and aoi-aware failure recovery for stateful nfv-enabled zero-touch 6g networks: model-free drl approach](https://arxiv.org/abs/2103.03817)|[ZT-PFR](https://github.com/wildsky95/ZT-PFR)|
+|[on the feasibility of modeling ofdm communication signals with unsupervised generative adversarial networks](https://arxiv.org/abs/2109.05107)|[ofdm-gan](https://github.com/usnistgov/ofdm-gan)|
+|[modelling the utility of group testing for public health surveillance](https://arxiv.org/abs/2109.05378)|[group-testing](https://github.com/g-pichler/group-testing)|
+|[rwp+: a new random waypoint model for high-speed mobility](https://arxiv.org/abs/2109.05978)|[rwp](https://github.com/ammarhuss/rwp)|
 ## 2021-09-13
 |paper|code|
 |---|---|
