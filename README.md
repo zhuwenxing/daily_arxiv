@@ -1,3 +1,8 @@
+## 2021-09-15
+|paper|code|
+|---|---|
+|[honest-but-curious nets: sensitive attributes of private inputs can be secretly coded into the classifiers' outputs](https://arxiv.org/abs/2105.12049)|[honest-but-curious-nets](https://github.com/mmalekzadeh/honest-but-curious-nets)|
+|[distilling ghz states using stabilizer codes](https://arxiv.org/abs/2109.06248)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
 ## 2021-09-14
 |paper|code|
 |---|---|
