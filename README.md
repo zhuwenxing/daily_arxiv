@@ -1,3 +1,8 @@
+## 2021-09-16
+|paper|code|
+|---|---|
+|[optimizing a binary intelligent reflecting surface for ofdm communications under mutual coupling](https://arxiv.org/abs/2106.04280)|[SP_Cup_2021](https://github.com/emilbjornson/SP_Cup_2021)|
+|[the emergence of the shape bias results from communicative efficiency](https://arxiv.org/abs/2109.06232)|[emergent-shape-bias](https://github.com/evaportelance/emergent-shape-bias)|
 ## 2021-09-15
 |paper|code|
 |---|---|
