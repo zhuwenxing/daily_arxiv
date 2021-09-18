@@ -1,3 +1,8 @@
+## 2021-09-17
+|paper|code|
+|---|---|
+|[cross-domain activity recognition via substructural optimal transport](https://arxiv.org/abs/2102.03353)|[transferlearning](https://github.com/jindongwang/transferlearning)|
+|[a scalable federated multi-agent architecture for networked connected communication network](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
 ## 2021-09-16
 |paper|code|
 |---|---|
