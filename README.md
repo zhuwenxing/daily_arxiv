@@ -1,3 +1,10 @@
+## 2021-09-21
+|paper|code|
+|---|---|
+|[multi-reference alignment in high dimensions: sample complexity and phase transition](https://arxiv.org/abs/2007.11482)|[high-dimensional-mra-bounds](https://github.com/TamirBendory/high-dimensional-mra-bounds)|
+|[removing noise from extracellular neural recordings using fully convolutional denoising autoencoders](https://arxiv.org/abs/2109.08945)|[fcdae-neural-signal-denoising](https://github.com/alexdelitzas/fcdae-neural-signal-denoising)|
+|[measuring the volatility of the political agenda in public opinion and news media](https://arxiv.org/abs/1808.09037)|[polvol](https://github.com/euagendas/polvol)|
+|[on the curvatures of gaussian random field manifolds](https://arxiv.org/abs/2109.09204)|[curvature_gmrf](https://github.com/alexandrelevada/curvature_gmrf)|
 ## 2021-09-20
 |paper|code|
 |---|---|
