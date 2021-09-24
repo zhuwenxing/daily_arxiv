@@ -1,3 +1,8 @@
+## 2021-09-23
+|paper|code|
+|---|---|
+|[deep augmented music algorithm for data-driven doa estimation](https://arxiv.org/abs/2109.10581)|[icassp22](https://github.com/da-music/icassp22)|
+|[practical distributed quantum information processing with loccnet](https://arxiv.org/abs/2101.12190)|[Quantum](https://github.com/PaddlePaddle/Quantum)|
 ## 2021-09-21
 |paper|code|
 |---|---|
