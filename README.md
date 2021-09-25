@@ -1,3 +1,8 @@
+## 2021-09-24
+|paper|code|
+|---|---|
+|[quantization and deployment of deep neural networks on microcontrollers](https://arxiv.org/abs/2105.13331)|[microai_public](https://bitbucket.org/edge-team-leat/microai_public)|
+|[unified signal compression using a gan with iterative latent representation optimization](https://arxiv.org/abs/2109.11168)|[bpgan-signal-compression](https://github.com/bowenl0218/bpgan-signal-compression)|
 ## 2021-09-23
 |paper|code|
 |---|---|
