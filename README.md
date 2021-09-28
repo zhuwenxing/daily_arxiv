@@ -1,3 +1,12 @@
+## 2021-09-27
+|paper|code|
+|---|---|
+|[afp-src: identification of antifreeze proteins using sparse representation classifier](https://arxiv.org/abs/2009.05277)|[AFP-SRC](https://github.com/Shujaat123/AFP-SRC)|
+|[sparse multi-reference alignment: sample complexity and computational hardness](https://arxiv.org/abs/2109.11656)|[sparsemra](https://github.com/tamirbendory/sparsemra)|
+|[generalized autocorrelation analysis for multi-target detection](https://arxiv.org/abs/2109.11813)|[mtd-gmm](https://github.com/krshay/mtd-gmm)|
+|[coded sparse matrix computation schemes that leverage partial stragglers](https://arxiv.org/abs/2012.06065)|[LeveragePartialStragglers](https://github.com/anindyabijoydas/LeveragePartialStragglers)|
+|[the value of information and efficient switching in channel selection](https://arxiv.org/abs/2101.03888)|[valueofinformationandefficientswitching](https://github.com/yoninazarathy/valueofinformationandefficientswitching)|
+|[estimating r\'enyi's $\alpha$-cross-entropies in a matrix-based way](https://arxiv.org/abs/2109.11737)|[mbrce](https://github.com/isledge/mbrce)|
 ## 2021-09-24
 |paper|code|
 |---|---|
