@@ -1,3 +1,9 @@
+## 2021-09-28
+|paper|code|
+|---|---|
+|[the generalized method of moments for multi-reference alignment](https://arxiv.org/abs/2103.02215)|[gmm-cryo](https://github.com/abasasa/gmm-cryo)|
+|[error thresholds for arbitrary pauli noise](https://arxiv.org/abs/1910.00471)|[graph-states-coherent-info](https://github.com/felixled/graph-states-coherent-info)|
+|[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
 ## 2021-09-27
 |paper|code|
 |---|---|
