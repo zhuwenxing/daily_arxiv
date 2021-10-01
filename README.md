@@ -1,3 +1,8 @@
+## 2021-09-30
+|paper|code|
+|---|---|
+|[deep augmented music algorithm for data-driven doa estimation](https://arxiv.org/abs/2109.10581)|[icassp22](https://github.com/da-music/icassp22)|
+|[optimal sic ordering and power allocation in downlink multi-cell noma systems](https://arxiv.org/abs/2102.05015)|[Optimal-JSPA-MultiCell-NOMA](https://gitlab.com/sepehrrezvani/Optimal-JSPA-MultiCell-NOMA)|
 ## 2021-09-29
 |paper|code|
 |---|---|
