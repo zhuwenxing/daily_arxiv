@@ -1,3 +1,10 @@
+## 2021-10-04
+|paper|code|
+|---|---|
+|[deep learning for classifying and characterizing atmospheric ducting within the maritime setting](https://arxiv.org/abs/2005.06524)|[deep-learning-em-ducting](https://github.com/nonlinearfun/deep-learning-em-ducting)|
+|[decomposing non-stationary signals with time-varying wave-shape functions](https://arxiv.org/abs/2010.07394)|[SAMD](https://github.com/macolominas/SAMD)|
+|[pyffs: a python library for fast fourier series computation](https://arxiv.org/abs/2110.00262)|[pyFFS](https://github.com/imagingofthings/pyFFS)|
+|[leveraging power grid topology in machine learning assisted optimal power flow](https://arxiv.org/abs/2110.00306)|[ml-opf](https://github.com/tdfalc/ml-opf)|
 ## 2021-10-01
 |paper|code|
 |---|---|
