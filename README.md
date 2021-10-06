@@ -1,3 +1,10 @@
+## 2021-10-05
+|paper|code|
+|---|---|
+|[power scaling laws and near-field behaviors of massive mimo and intelligent reflecting surfaces](https://arxiv.org/abs/2002.04960)|[near-field-behavior](https://github.com/emilbjornson/near-field-behavior)|
+|[map-csi: single-site map-assisted localization using massive mimo csi](https://arxiv.org/abs/2110.00654)|[mapcsi](https://github.com/katarinavuckovic/mapcsi)|
+|[a robust alternative for graph convolutional neural networks via graph neighborhood filters](https://arxiv.org/abs/2110.00844)|[neighborhoodgf](https://github.com/vmtenorio/neighborhoodgf)|
+|[on the curvatures of gaussian random field manifolds](https://arxiv.org/abs/2109.09204)|[curvature_gmrf](https://github.com/alexandrelevada/curvature_gmrf)|
 ## 2021-10-04
 |paper|code|
 |---|---|
