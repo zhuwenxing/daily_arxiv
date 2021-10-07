@@ -1,3 +1,7 @@
+## 2021-10-06
+|paper|code|
+|---|---|
+|[wireless link scheduling via graph representation learning: a comparative study of different supervision levels](https://arxiv.org/abs/2110.01722)|[LinkSchedulingGNNs_SupervisionStudy](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)|
 ## 2021-10-05
 |paper|code|
 |---|---|
