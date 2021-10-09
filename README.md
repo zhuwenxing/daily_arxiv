@@ -1,3 +1,9 @@
+## 2021-10-08
+|paper|code|
+|---|---|
+|[light-sernet: a lightweight fully convolutional neural network for speech emotion recognition](https://arxiv.org/abs/2110.03435)|[light-sernet](https://github.com/aryaaftab/light-sernet)|
+|[multi-head relu implicit neural representation networks](https://arxiv.org/abs/2110.03448)|[mh-relu-inr](https://github.com/alirezamorsali/mh-relu-inr)|
+|[joint inference of multiple graphs with hidden variables from stationary graph signals](https://arxiv.org/abs/2110.03666)|[hidden_joint_inference](https://github.com/reysam93/hidden_joint_inference)|
 ## 2021-10-07
 |paper|code|
 |---|---|
@@ -10,6 +16,7 @@
 ## 2021-10-06
 |paper|code|
 |---|---|
+|[vtamiq: transformers for attention modulated image quality assessment](https://arxiv.org/abs/2110.01655)|[vtamiq](https://github.com/ch-andrei/vtamiq)|
 |[wireless link scheduling via graph representation learning: a comparative study of different supervision levels](https://arxiv.org/abs/2110.01722)|[LinkSchedulingGNNs_SupervisionStudy](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)|
 ## 2021-10-05
 |paper|code|
