@@ -1,3 +1,10 @@
+## 2021-10-11
+|paper|code|
+|---|---|
+|[direct design of biquad filter cascades with deep learning by sampling random polynomials](https://arxiv.org/abs/2110.03691)|[iirnet](https://github.com/csteinmetz1/iirnet)|
+|[ensemble neural representation networks](https://arxiv.org/abs/2110.04124)|[enrp](https://github.com/alirezamorsali/enrp)|
+|[operanet: a multimodal activity recognition dataset acquired from radio frequency and vision-based sensors](https://arxiv.org/abs/2110.04239)|[oddet](https://github.com/rogetk/oddet)|
+|[randomized continuous frames in time-frequency analysis](https://arxiv.org/abs/2009.10525)|[LTFT-Phase-Vocoder](https://github.com/RonLevie/LTFT-Phase-Vocoder)|
 ## 2021-10-08
 |paper|code|
 |---|---|
