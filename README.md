@@ -1,3 +1,13 @@
+## 2021-10-12
+|paper|code|
+|---|---|
+|[pm2.5-gnn: a domain knowledge enhanced graph neural network for pm2.5 forecasting](https://arxiv.org/abs/2002.12898)|[PM2.5-GNN](https://github.com/shawnwang-tech/PM2.5-GNN)|
+|[privacy for free: wireless federated learning via uncoded transmission with adaptive power control](https://arxiv.org/abs/2006.05459)|[Privacy4Free_DPWFL](https://github.com/kclip/Privacy4Free_DPWFL)|
+|[deep joint source-channel coding for wireless image transmission with adaptive rate control](https://arxiv.org/abs/2110.04456)|[dynamic_jscc](https://github.com/mingyuyng/dynamic_jscc)|
+|[application of graph convolutions in a lightweight model for skeletal human motion forecasting](https://arxiv.org/abs/2110.04810)|[lightweight-motion-forecasting](https://github.com/LucaHermes/lightweight-motion-forecasting)|
+|[chaos as an interpretable benchmark for forecasting and data-driven modelling](https://arxiv.org/abs/2110.05266)|[dysts](https://github.com/williamgilpin/dysts)|
+|[wavefuse: a unified deep framework for image fusion with discrete wavelet transform](https://arxiv.org/abs/2007.14110)|[WaveFuse_code](https://github.com/slliuEric/WaveFuse_code)|
+|[transfer learning based multi-objective genetic algorithm for dynamic community detection](https://arxiv.org/abs/2109.15136)|[TMOGA](https://github.com/zjg540066169/TMOGA)|
 ## 2021-10-11
 |paper|code|
 |---|---|
