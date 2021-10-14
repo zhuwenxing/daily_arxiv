@@ -1,9 +1,23 @@
+## 2021-10-13
+|paper|code|
+|---|---|
+|[benchmarking deep inverse models over time, and the neural-adjoint method](https://arxiv.org/abs/2009.12919)|[BDIMNNA](https://github.com/BensonRen/BDIMNNA)|
+|[on entropy and bit patterns of ring oscillator jitter](https://arxiv.org/abs/2102.02196)|[bitpat](https://github.com/mjosaarinen/bitpat)|
+|[smoothed separable nonnegative matrix factorization](https://arxiv.org/abs/2110.05528)|[smoothed-separable-nmf](https://gitlab.com/nnadisic/smoothed-separable-nmf)|
+|[deepfilternet: a low complexity speech enhancement framework for full-band audio based on deep filtering](https://arxiv.org/abs/2110.05588)|[deepfilternet](https://github.com/rikorose/deepfilternet)|
+|[nearest subspace search in the signed cumulative distribution transform space for 1d signal classification](https://arxiv.org/abs/2110.05606)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[classification of anomalous gait using machine learning techniques and embedded sensors](https://arxiv.org/abs/2110.06139)|[HumanGait](https://github.com/rTiagoS/HumanGait)|
+|[evaluation of latent space disentanglement in the presence of interdependent attributes](https://arxiv.org/abs/2110.05587)|[dependency-aware-mi-metrics](https://github.com/karnwatcharasupat/dependency-aware-mi-metrics)|
+|[learned robust pca: a scalable deep unfolding approach for high-dimensional outlier detection](https://arxiv.org/abs/2110.05649)|[lrpca](https://github.com/caesarcai/lrpca)|
+|[information theoretic structured generative modeling](https://arxiv.org/abs/2110.05794)|[structured-generative-modeling](https://github.com/bohu615/structured-generative-modeling)|
 ## 2021-10-12
 |paper|code|
 |---|---|
 |[pm2.5-gnn: a domain knowledge enhanced graph neural network for pm2.5 forecasting](https://arxiv.org/abs/2002.12898)|[PM2.5-GNN](https://github.com/shawnwang-tech/PM2.5-GNN)|
 |[privacy for free: wireless federated learning via uncoded transmission with adaptive power control](https://arxiv.org/abs/2006.05459)|[Privacy4Free_DPWFL](https://github.com/kclip/Privacy4Free_DPWFL)|
 |[deep joint source-channel coding for wireless image transmission with adaptive rate control](https://arxiv.org/abs/2110.04456)|[dynamic_jscc](https://github.com/mingyuyng/dynamic_jscc)|
+|[topological data analysis (tda) techniques enhance hand pose classification from ecog neural recordings](https://arxiv.org/abs/2110.04653)|[ecog_vbh_2021](https://github.com/machinelearningjournalclub/ecog_vbh_2021)|
+|[uncertainty in data-driven kalman filtering for partially known state-space models](https://arxiv.org/abs/2110.04738)|[errcov_icassp22](https://github.com/kalmannet/errcov_icassp22)|
 |[application of graph convolutions in a lightweight model for skeletal human motion forecasting](https://arxiv.org/abs/2110.04810)|[lightweight-motion-forecasting](https://github.com/LucaHermes/lightweight-motion-forecasting)|
 |[chaos as an interpretable benchmark for forecasting and data-driven modelling](https://arxiv.org/abs/2110.05266)|[dysts](https://github.com/williamgilpin/dysts)|
 |[wavefuse: a unified deep framework for image fusion with discrete wavelet transform](https://arxiv.org/abs/2007.14110)|[WaveFuse_code](https://github.com/slliuEric/WaveFuse_code)|
