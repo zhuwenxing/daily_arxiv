@@ -1,3 +1,8 @@
+## 2021-10-14
+|paper|code|
+|---|---|
+|[conditional independence for pretext task selection in self-supervised speech representation learning](https://arxiv.org/abs/2104.07388)|[Pseudo-Label-Selection](https://github.com/salah-zaiem/Pseudo-Label-Selection)|
+|[sdr -- medium rare with fast computations](https://arxiv.org/abs/2110.06440)|[fast_bss_eval](https://github.com/fakufaku/fast_bss_eval)|
 ## 2021-10-13
 |paper|code|
 |---|---|
