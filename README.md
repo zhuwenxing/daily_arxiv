@@ -1,8 +1,19 @@
+## 2021-10-15
+|paper|code|
+|---|---|
+|[grouped variable selection for generalized eigenvalue problems](https://arxiv.org/abs/2105.13667)|[benchmarkStudySensorSelection](https://github.com/AlexanderBertrandLab/benchmarkStudySensorSelection)|
+|[node-screening tests for l0-penalized least-squares problem with supplementary material](https://arxiv.org/abs/2110.07308)|[bnb-screening](https://gitlab.insa-rennes.fr/Theo.Guyard/bnb-screening)|
+|[smgc: a complex-valued graph convolutional network via magnetic laplacian for directed graphs](https://arxiv.org/abs/2110.07570)|[MGCs](https://github.com/hazdzz/MGCs)|
+|[new instances of quadratic apn functions](https://arxiv.org/abs/2009.07204)|[quadratic_apn](https://github.com/cbe90/quadratic_apn)|
+|[construction of optimal spectral methods in phase retrieval](https://arxiv.org/abs/2012.04524)|[Optimal_Spectral_Methods_PR](https://github.com/AnMaillard/Optimal_Spectral_Methods_PR)|
+|[mode-wise tensor decompositions: multi-dimensional generalizations of cur decompositions](https://arxiv.org/abs/2103.11037)|[Modewise_Tensor_Decomp](https://github.com/caesarcai/Modewise_Tensor_Decomp)|
 ## 2021-10-14
 |paper|code|
 |---|---|
 |[conditional independence for pretext task selection in self-supervised speech representation learning](https://arxiv.org/abs/2104.07388)|[Pseudo-Label-Selection](https://github.com/salah-zaiem/Pseudo-Label-Selection)|
 |[sdr -- medium rare with fast computations](https://arxiv.org/abs/2110.06440)|[fast_bss_eval](https://github.com/fakufaku/fast_bss_eval)|
+|[a primer on near-field beamforming for arrays and reconfigurable intelligent surfaces](https://arxiv.org/abs/2110.06661)|[nearfield-primer](https://github.com/emilbjornson/nearfield-primer)|
+|[full-stack comparison of channel models for networks above 100 ghz in an indoor scenario](https://arxiv.org/abs/2110.06838)|[thz-mmnets-2021](https://github.com/signetlabdei/thz-mmnets-2021)|
 ## 2021-10-13
 |paper|code|
 |---|---|
