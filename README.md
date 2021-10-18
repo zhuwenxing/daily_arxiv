@@ -3,6 +3,7 @@
 |---|---|
 |[grouped variable selection for generalized eigenvalue problems](https://arxiv.org/abs/2105.13667)|[benchmarkStudySensorSelection](https://github.com/AlexanderBertrandLab/benchmarkStudySensorSelection)|
 |[node-screening tests for l0-penalized least-squares problem with supplementary material](https://arxiv.org/abs/2110.07308)|[bnb-screening](https://gitlab.insa-rennes.fr/Theo.Guyard/bnb-screening)|
+|[stability analysis of unfolded wmmse for power allocation](https://arxiv.org/abs/2110.07471)|[stability-uwmmse](https://github.com/archo48/stability-uwmmse)|
 |[smgc: a complex-valued graph convolutional network via magnetic laplacian for directed graphs](https://arxiv.org/abs/2110.07570)|[MGCs](https://github.com/hazdzz/MGCs)|
 |[new instances of quadratic apn functions](https://arxiv.org/abs/2009.07204)|[quadratic_apn](https://github.com/cbe90/quadratic_apn)|
 |[construction of optimal spectral methods in phase retrieval](https://arxiv.org/abs/2012.04524)|[Optimal_Spectral_Methods_PR](https://github.com/AnMaillard/Optimal_Spectral_Methods_PR)|
@@ -33,6 +34,7 @@
 |[privacy for free: wireless federated learning via uncoded transmission with adaptive power control](https://arxiv.org/abs/2006.05459)|[Privacy4Free_DPWFL](https://github.com/kclip/Privacy4Free_DPWFL)|
 |[deep joint source-channel coding for wireless image transmission with adaptive rate control](https://arxiv.org/abs/2110.04456)|[dynamic_jscc](https://github.com/mingyuyng/dynamic_jscc)|
 |[topological data analysis (tda) techniques enhance hand pose classification from ecog neural recordings](https://arxiv.org/abs/2110.04653)|[ecog_vbh_2021](https://github.com/machinelearningjournalclub/ecog_vbh_2021)|
+|[rtsnet: deep learning aided kalman smoothing](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
 |[uncertainty in data-driven kalman filtering for partially known state-space models](https://arxiv.org/abs/2110.04738)|[errcov_icassp22](https://github.com/kalmannet/errcov_icassp22)|
 |[application of graph convolutions in a lightweight model for skeletal human motion forecasting](https://arxiv.org/abs/2110.04810)|[lightweight-motion-forecasting](https://github.com/LucaHermes/lightweight-motion-forecasting)|
 |[chaos as an interpretable benchmark for forecasting and data-driven modelling](https://arxiv.org/abs/2110.05266)|[dysts](https://github.com/williamgilpin/dysts)|
