@@ -1,3 +1,7 @@
+## 2021-10-18
+|paper|code|
+|---|---|
+|[edge-sr: super-resolution for the masses](https://arxiv.org/abs/2108.10335)|[esr](https://github.com/pnavarre/esr)|
 ## 2021-10-15
 |paper|code|
 |---|---|
@@ -8,6 +12,7 @@
 |[new instances of quadratic apn functions](https://arxiv.org/abs/2009.07204)|[quadratic_apn](https://github.com/cbe90/quadratic_apn)|
 |[construction of optimal spectral methods in phase retrieval](https://arxiv.org/abs/2012.04524)|[Optimal_Spectral_Methods_PR](https://github.com/AnMaillard/Optimal_Spectral_Methods_PR)|
 |[mode-wise tensor decompositions: multi-dimensional generalizations of cur decompositions](https://arxiv.org/abs/2103.11037)|[Modewise_Tensor_Decomp](https://github.com/caesarcai/Modewise_Tensor_Decomp)|
+|[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
 ## 2021-10-14
 |paper|code|
 |---|---|
@@ -23,6 +28,7 @@
 |[smoothed separable nonnegative matrix factorization](https://arxiv.org/abs/2110.05528)|[smoothed-separable-nmf](https://gitlab.com/nnadisic/smoothed-separable-nmf)|
 |[deepfilternet: a low complexity speech enhancement framework for full-band audio based on deep filtering](https://arxiv.org/abs/2110.05588)|[deepfilternet](https://github.com/rikorose/deepfilternet)|
 |[nearest subspace search in the signed cumulative distribution transform space for 1d signal classification](https://arxiv.org/abs/2110.05606)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
 |[classification of anomalous gait using machine learning techniques and embedded sensors](https://arxiv.org/abs/2110.06139)|[HumanGait](https://github.com/rTiagoS/HumanGait)|
 |[evaluation of latent space disentanglement in the presence of interdependent attributes](https://arxiv.org/abs/2110.05587)|[dependency-aware-mi-metrics](https://github.com/karnwatcharasupat/dependency-aware-mi-metrics)|
 |[learned robust pca: a scalable deep unfolding approach for high-dimensional outlier detection](https://arxiv.org/abs/2110.05649)|[lrpca](https://github.com/caesarcai/lrpca)|
