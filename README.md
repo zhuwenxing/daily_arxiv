@@ -1,8 +1,17 @@
+## 2021-10-20
+|paper|code|
+|---|---|
+|[learning task-oriented communication for edge inference: an information bottleneck approach](https://arxiv.org/abs/2102.04170)|[VL-VFE](https://github.com/shaojiawei07/VL-VFE)|
+|[easycom: an augmented reality dataset to support algorithms for easy communication in noisy environments](https://arxiv.org/abs/2107.04174)|[EasyComDataset](https://github.com/facebookresearch/EasyComDataset)|
+|[wideband and entropy-aware deep soft bit quantization](https://arxiv.org/abs/2110.09541)|[wideband-llr-deep](https://github.com/utcsilab/wideband-llr-deep)|
+|[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
+|[a cautionary tale on fitting decision trees to data from additive models: generalization lower bounds](https://arxiv.org/abs/2110.09626)|[additive_trees](https://github.com/aagarwal1996/additive_trees)|
 ## 2021-10-19
 |paper|code|
 |---|---|
 |[learning how to demodulate from few pilots via meta-learning](https://arxiv.org/abs/1903.02184)|[meta-demodulator](https://github.com/kclip/meta-demodulator)|
 |[localized fourier analysis for graph signal processing](https://arxiv.org/abs/1906.04529)|[loclets](https://bitbucket.org/batistbucket/loclets)|
+|[unsupervised learned kalman filtering](https://arxiv.org/abs/2110.09005)|[Unsupervised_ICASSP22](https://github.com/KalmanNet/Unsupervised_ICASSP22)|
 |[perturbative construction of mean-field equations in extensive-rank matrix factorization and denoising](https://arxiv.org/abs/2110.08775)|[perturbative_mean_field_matrix_factorization](https://github.com/sphinxteam/perturbative_mean_field_matrix_factorization)|
 ## 2021-10-18
 |paper|code|
