@@ -1,3 +1,13 @@
+## 2021-10-22
+|paper|code|
+|---|---|
+|[learning to demodulate from few pilots via offline and online meta-learning](https://arxiv.org/abs/1908.09049)|[meta-demodulator](https://github.com/kclip/meta-demodulator)|
+|[meta-learning to communicate: fast end-to-end training for fading channels](https://arxiv.org/abs/1910.09945)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
+|[end-to-end fast training of communication links without a channel model via online meta-learning](https://arxiv.org/abs/2003.01479)|[meta-autoencoder-without-channel-model](https://github.com/kclip/meta-autoencoder-without-channel-model)|
+|[truly shift-equivariant convolutional neural networks with adaptive polyphase upsampling](https://arxiv.org/abs/2105.04040)|[truly_shift_invariant_cnns](https://github.com/achaman2/truly_shift_invariant_cnns)|
+|[real-m: towards speech separation on real mixtures](https://arxiv.org/abs/2110.10812)|[sisnr-estimation](https://github.com/speechbrain/speechbrain/tree/develop/recipes/REAL-M/sisnr-estimation)|
+|[from learning to meta-learning: reduced training overhead and complexity for communication systems](https://arxiv.org/abs/2001.01227)|[meta-autoencoder](https://github.com/kclip/meta-autoencoder)|
+|[on fading channel dependency structures with a positive zero-outage capacity](https://arxiv.org/abs/2102.02541)|[zero-outage-joint-distributions](https://gitlab.com/klb2/zero-outage-joint-distributions)|
 ## 2021-10-20
 |paper|code|
 |---|---|
