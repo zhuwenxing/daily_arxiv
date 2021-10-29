@@ -1,3 +1,9 @@
+## 2021-10-28
+|paper|code|
+|---|---|
+|[robust generalization despite distribution shift via minimum discriminating information](https://arxiv.org/abs/2106.04443)|[pmdi_dro](https://github.com/tobsutter/pmdi_dro)|
+|[heterogeneous multi-player multi-armed bandits: closing the gap and generalization](https://arxiv.org/abs/2110.14622)|[mpmab_beacon](https://github.com/shengroup/mpmab_beacon)|
+|[(almost) free incentivized exploration from decentralized learning agents](https://arxiv.org/abs/2110.14628)|[observe_then_incentivize](https://github.com/shengroup/observe_then_incentivize)|
 ## 2021-10-27
 |paper|code|
 |---|---|
