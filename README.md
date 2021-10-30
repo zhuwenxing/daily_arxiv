@@ -1,3 +1,10 @@
+## 2021-10-29
+|paper|code|
+|---|---|
+|[nch sleep databank: a large collection of real-world pediatric sleep studies](https://arxiv.org/abs/2102.13284)|[sleep_study](https://github.com/liboyue/sleep_study)|
+|[self-supervised eeg representation learning for automatic sleep staging](https://arxiv.org/abs/2110.15278)|[contrawr](https://github.com/ycq091044/contrawr)|
+|[error thresholds for arbitrary pauli noise](https://arxiv.org/abs/1910.00471)|[graph-states-coherent-info](https://github.com/felixled/graph-states-coherent-info)|
+|[modelling the utility of group testing for public health surveillance](https://arxiv.org/abs/2109.05378)|[group-testing](https://github.com/g-pichler/group-testing)|
 ## 2021-10-28
 |paper|code|
 |---|---|
