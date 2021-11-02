@@ -1,3 +1,8 @@
+## 2021-11-01
+|paper|code|
+|---|---|
+|[channel estimation and data detection analysis of massive mimo with 1-bit adcs](https://arxiv.org/abs/2102.10172)|[ch_est_data_det_1-bit](https://github.com/italo-atzeni/ch_est_data_det_1-bit)|
+|[ecg-based heart arrhythmia diagnosis through attentional convolutional neural networks](https://arxiv.org/abs/2108.10226)|[heart-arrhythmia-diagnosis-with-deep-learning](https://github.com/ziyuliu-lion/heart-arrhythmia-diagnosis-with-deep-learning)|
 ## 2021-10-29
 |paper|code|
 |---|---|
@@ -9,7 +14,6 @@
 |paper|code|
 |---|---|
 |[robust generalization despite distribution shift via minimum discriminating information](https://arxiv.org/abs/2106.04443)|[pmdi_dro](https://github.com/tobsutter/pmdi_dro)|
-|[heterogeneous multi-player multi-armed bandits: closing the gap and generalization](https://arxiv.org/abs/2110.14622)|[mpmab_beacon](https://github.com/shengroup/mpmab_beacon)|
 |[(almost) free incentivized exploration from decentralized learning agents](https://arxiv.org/abs/2110.14628)|[observe_then_incentivize](https://github.com/shengroup/observe_then_incentivize)|
 ## 2021-10-27
 |paper|code|
