@@ -1,3 +1,12 @@
+## 2021-11-02
+|paper|code|
+|---|---|
+|[complex convolutional neural networks for ultrafast ultrasound image reconstruction from in-phase/quadrature signal](https://arxiv.org/abs/2009.11536)|[cid-net](https://github.com/jingfeng-lu/cid-net)|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[a novel 1d state space for efficient music rhythmic analysis](https://arxiv.org/abs/2111.00704)|[1d-statespace](https://github.com/mjhydri/1d-statespace)|
+|[an information-theoretic approach to distribution shifts](https://arxiv.org/abs/2106.03783)|[dsit](https://github.com/mfederici/dsit)|
+|[heterogeneous multi-player multi-armed bandits: closing the gap and generalization](https://arxiv.org/abs/2110.14622)|[mpmab_beacon](https://github.com/shengroup/mpmab_beacon)|
+|[generalized data weighting via class-level gradient manipulation](https://arxiv.org/abs/2111.00056)|[gdw-nips2021](https://github.com/ggchen1997/gdw-nips2021)|
 ## 2021-11-01
 |paper|code|
 |---|---|
