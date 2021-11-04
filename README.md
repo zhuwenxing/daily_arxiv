@@ -1,3 +1,8 @@
+## 2021-11-03
+|paper|code|
+|---|---|
+|[a machine-learning-based direction-of-origin filter for the identification of radio frequency interference in the search for technosignatures](https://arxiv.org/abs/2108.00559)|[doom](https://github.com/UCLA-SETI-Group/doom)|
+|[efficient hierarchical bayesian inference for spatio-temporal regression models in neuroimaging](https://arxiv.org/abs/2111.01692)|[dugh-neurips-2021](https://github.com/alihashemi-ai/dugh-neurips-2021)|
 ## 2021-11-02
 |paper|code|
 |---|---|
