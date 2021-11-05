@@ -1,3 +1,7 @@
+## 2021-11-04
+|paper|code|
+|---|---|
+|[diagnosis of intelligent reflecting surface in millimeter-wave communication systems](https://arxiv.org/abs/2101.03792)|[IRSdiagnosis](https://github.com/DestinationSR/IRSdiagnosis)|
 ## 2021-11-03
 |paper|code|
 |---|---|
