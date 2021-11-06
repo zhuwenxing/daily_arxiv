@@ -1,3 +1,9 @@
+## 2021-11-05
+|paper|code|
+|---|---|
+|[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
+|[on the distribution of the information density of gaussian random vectors: explicit formulas and tight approximations](https://arxiv.org/abs/2105.03925)|[information-density](https://gitlab.com/infth/information-density)|
+|[partition and code: learning how to compress graphs](https://arxiv.org/abs/2107.01952)|[PnC](https://github.com/gbouritsas/PnC)|
 ## 2021-11-04
 |paper|code|
 |---|---|
