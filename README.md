@@ -1,7 +1,15 @@
+## 2021-11-08
+|paper|code|
+|---|---|
+|[correlation-aware cooperative multigroup broadcast 360{\deg} video delivery network: a hierarchical deep reinforcement learning approach](https://arxiv.org/abs/2010.11347)|[Hierarchical-Multi-agent-DRL-with-Federated-Learning](https://github.com/paperflight/Hierarchical-Multi-agent-DRL-with-Federated-Learning)|
+|[scalable perception-action-communication loops with convolutional and graph neural networks](https://arxiv.org/abs/2106.13358)|[VGAI](https://github.com/VITA-Group/VGAI)|
+|[scalable multi-agent reinforcement learning algorithm for wireless networks](https://arxiv.org/abs/2108.00506)|[Fed-MF-MAL](https://github.com/paperflight/Fed-MF-MAL)|
+|[millimeter wave wireless assisted robot navigation with link state classification](https://arxiv.org/abs/2110.14789)|[mmwRobotNav](https://github.com/nyu-wireless/mmwRobotNav)|
+|[compressing sensor data for remote assistance of autonomous vehicles using deep generative models](https://arxiv.org/abs/2111.03201)|[deep_generative_models](https://github.com/daniel-bogdoll/deep_generative_models)|
+|[deep-learning based linear precoding for mimo channels with finite-alphabet signaling](https://arxiv.org/abs/2111.03504)|[optimalprecodingmimo](https://github.com/girnyk/optimalprecodingmimo)|
 ## 2021-11-05
 |paper|code|
 |---|---|
-|[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
 |[maus: a dataset for mental workload assessmenton n-back task using wearable sensor](https://arxiv.org/abs/2111.02561)|[MAUS_dataset_baseline_system](https://github.com/rickwu11/MAUS_dataset_baseline_system)|
 |[on the distribution of the information density of gaussian random vectors: explicit formulas and tight approximations](https://arxiv.org/abs/2105.03925)|[information-density](https://gitlab.com/infth/information-density)|
 |[partition and code: learning how to compress graphs](https://arxiv.org/abs/2107.01952)|[PnC](https://github.com/gbouritsas/PnC)|
