@@ -1,3 +1,9 @@
+## 2021-11-11
+|paper|code|
+|---|---|
+|[eegeyenet: a simultaneous electroencephalography and eye-tracking dataset and benchmark for eye movement prediction](https://arxiv.org/abs/2111.05100)|[eegeyenet](https://github.com/ardkastrati/eegeyenet)|
+|[resnests and densenests: block-based dnn models with improved representation guarantees](https://arxiv.org/abs/2111.05496)|[resnest](https://github.com/kjason/resnest)|
+|[neural distributed image compression using common information](https://arxiv.org/abs/2106.11723)|[NDIC](https://github.com/ipc-lab/NDIC)|
 ## 2021-11-10
 |paper|code|
 |---|---|
