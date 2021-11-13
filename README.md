@@ -1,3 +1,7 @@
+## 2021-11-12
+|paper|code|
+|---|---|
+|[variational quantum algorithms for trace distance and fidelity estimation](https://arxiv.org/abs/2012.05768)|[Quantum](https://github.com/PaddlePaddle/Quantum)|
 ## 2021-11-11
 |paper|code|
 |---|---|
