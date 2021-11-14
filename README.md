@@ -23,7 +23,6 @@
 |[estimating the magnitude and phase of automotive radar signals under multiple interference sources with fully convolutional networks](https://arxiv.org/abs/2008.05948)|[arim-v2](https://github.com/ristea/arim-v2)|
 |[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
 |[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
-|[learning sparse analytic filters for piano transcription](https://arxiv.org/abs/2108.10382)|[sparse-analytic-filters](https://github.com/cwitkowitz/sparse-analytic-filters)|
 |[rf-net: a unified meta-learning framework for rf-enabled one-shot human activity recognition](https://arxiv.org/abs/2111.04566)|[rfnet](https://github.com/di0002ya/rfnet)|
 |[frequency-dependent $f$-number increases the contrast and the spatial resolution in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2111.04593)|[f_number](https://github.com/mschiffn/f_number)|
 |[linguistic dependencies and statistical dependence](https://arxiv.org/abs/2104.08685)|[cpmi-dependencies](https://github.com/mcqll/cpmi-dependencies)|
