@@ -1,3 +1,14 @@
+## 2021-11-16
+|paper|code|
+|---|---|
+|[grassmannian optimization for online tensor completion and tracking with the t-svd](https://arxiv.org/abs/2001.11419)|[TOUCAN](https://github.com/kgilman/TOUCAN)|
+|[optimal power allocation in downlink multicarrier noma systems: theory and fast algorithms](https://arxiv.org/abs/2107.06678)|[optimal-power-allocation-in-downlink-noma.-sum-rate-and-energy-efficiency-maximization](https://gitlab.com/sepehrrezvani/optimal-power-allocation-in-downlink-noma.-sum-rate-and-energy-efficiency-maximization)|
+|[delay-oriented distributed scheduling using graph neural networks](https://arxiv.org/abs/2111.07017)|[gcn-dql](https://github.com/zhongyuanzhao/gcn-dql)|
+|[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
+|[power allocation for wireless federated learning using graph neural networks](https://arxiv.org/abs/2111.07480)|[wirelessfl-pdgnet](https://github.com/bl166/wirelessfl-pdgnet)|
+|[benefit of joint doa and delay estimation with application to indoor localization in wifi and 5g](https://arxiv.org/abs/1804.00486)|[jade](https://github.com/fwen/jade)|
+|[categorical perception: a groundwork for deep learning](https://arxiv.org/abs/2012.05549)|[categorical_perception_ann_neco](https://github.com/l-bg/categorical_perception_ann_neco)|
+|[quasifibrations of graphs to find symmetries in biological networks](https://arxiv.org/abs/2111.06999)|[qf](https://github.com/boldip/qf)|
 ## 2021-11-12
 |paper|code|
 |---|---|
