@@ -1,3 +1,11 @@
+## 2021-11-17
+|paper|code|
+|---|---|
+|[channel estimation and data detection analysis of massive mimo with 1-bit adcs](https://arxiv.org/abs/2102.10172)|[ch_est_data_det_1-bit](https://github.com/italo-atzeni/ch_est_data_det_1-bit)|
+|[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
+|[joint inference of multiple graphs with hidden variables from stationary graph signals](https://arxiv.org/abs/2110.03666)|[hidden_joint_inference](https://github.com/reysam93/hidden_joint_inference)|
+|[r-local sensing: improved algorithm and applications](https://arxiv.org/abs/2110.14034)|[r-local-unlabeled-sensing](https://github.com/aabbas02/r-local-unlabeled-sensing)|
+|[deep diffusion models for robust channel estimation](https://arxiv.org/abs/2111.08177)|[diffusion-channels](https://github.com/utcsilab/diffusion-channels)|
 ## 2021-11-16
 |paper|code|
 |---|---|
