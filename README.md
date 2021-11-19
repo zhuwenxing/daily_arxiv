@@ -1,3 +1,9 @@
+## 2021-11-18
+|paper|code|
+|---|---|
+|[lidar and position-aided mmwave beam selection with non-local cnns and curriculum training](https://arxiv.org/abs/2104.14579)|[LIDAR-mmWave-Beam-Selection](https://github.com/MatteoEURECOM/LIDAR-mmWave-Beam-Selection)|
+|[deep learning based mac via joint channel access and rate adaptation](https://arxiv.org/abs/2106.10307)|[Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset)|
+|[error coefficient-improved polar/pac codes](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
 ## 2021-11-17
 |paper|code|
 |---|---|
@@ -17,6 +23,10 @@
 |[benefit of joint doa and delay estimation with application to indoor localization in wifi and 5g](https://arxiv.org/abs/1804.00486)|[jade](https://github.com/fwen/jade)|
 |[categorical perception: a groundwork for deep learning](https://arxiv.org/abs/2012.05549)|[categorical_perception_ann_neco](https://github.com/l-bg/categorical_perception_ann_neco)|
 |[quasifibrations of graphs to find symmetries in biological networks](https://arxiv.org/abs/2111.06999)|[qf](https://github.com/boldip/qf)|
+## 2021-11-15
+|paper|code|
+|---|---|
+|[hlt-nus submission for 2020 nist conversational telephone speech sre](https://arxiv.org/abs/2111.06671)|[ecapatdnn](https://github.com/taoruijie/ecapatdnn)|
 ## 2021-11-12
 |paper|code|
 |---|---|
