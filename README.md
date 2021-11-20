@@ -1,3 +1,8 @@
+## 2021-11-19
+|paper|code|
+|---|---|
+|[deep reinforcement learning-designed radiofrequency waveform in mri](https://arxiv.org/abs/2105.03061)|[deeprf](https://github.com/snu-list/deeprf)|
+|[integrating expert knowledge with domain adaptation for unsupervised fault diagnosis](https://arxiv.org/abs/2107.01849)|[syn2real](https://github.com/qinenergy/syn2real)|
 ## 2021-11-18
 |paper|code|
 |---|---|
