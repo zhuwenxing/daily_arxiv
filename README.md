@@ -8,7 +8,6 @@
 |---|---|
 |[lidar and position-aided mmwave beam selection with non-local cnns and curriculum training](https://arxiv.org/abs/2104.14579)|[LIDAR-mmWave-Beam-Selection](https://github.com/MatteoEURECOM/LIDAR-mmWave-Beam-Selection)|
 |[deep learning based mac via joint channel access and rate adaptation](https://arxiv.org/abs/2106.10307)|[Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset](https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset)|
-|[error coefficient-improved polar/pac codes](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
 ## 2021-11-17
 |paper|code|
 |---|---|
@@ -21,6 +20,7 @@
 |paper|code|
 |---|---|
 |[grassmannian optimization for online tensor completion and tracking with the t-svd](https://arxiv.org/abs/2001.11419)|[TOUCAN](https://github.com/kgilman/TOUCAN)|
+|[electromagnetic model of reflective intelligent surfaces](https://arxiv.org/abs/2102.10666)|[Intelligent-Surfaces](https://github.com/MicheleBorgese/Intelligent-Surfaces)|
 |[optimal power allocation in downlink multicarrier noma systems: theory and fast algorithms](https://arxiv.org/abs/2107.06678)|[optimal-power-allocation-in-downlink-noma.-sum-rate-and-energy-efficiency-maximization](https://gitlab.com/sepehrrezvani/optimal-power-allocation-in-downlink-noma.-sum-rate-and-energy-efficiency-maximization)|
 |[delay-oriented distributed scheduling using graph neural networks](https://arxiv.org/abs/2111.07017)|[gcn-dql](https://github.com/zhongyuanzhao/gcn-dql)|
 |[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
