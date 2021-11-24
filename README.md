@@ -1,3 +1,10 @@
+## 2021-11-23
+|paper|code|
+|---|---|
+|[applications of unsupervised deep transfer learning to intelligent fault diagnosis: a survey and comparative study](https://arxiv.org/abs/1912.12528)|[UDTL](https://github.com/ZhaoZhibin/UDTL)|
+|[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
+|[semi-supervised impedance inversion by bayesian neural network based on 2-d cnn pre-training](https://arxiv.org/abs/2111.10596)|[bayesian-semi-supervised-impedance-inversion](https://github.com/tom-900/bayesian-semi-supervised-impedance-inversion)|
+|[variational quantum gibbs state preparation with a truncated taylor series](https://arxiv.org/abs/2005.08797)|[Quantum](https://github.com/PaddlePaddle/Quantum)|
 ## 2021-11-22
 |paper|code|
 |---|---|
