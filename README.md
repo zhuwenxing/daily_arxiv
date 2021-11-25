@@ -1,3 +1,9 @@
+## 2021-11-24
+|paper|code|
+|---|---|
+|[scaling and scalability: provable nonconvex low-rank tensor estimation from incomplete measurements](https://arxiv.org/abs/2104.14526)|[ScaledGD](https://github.com/Titan-Tong/ScaledGD)|
+|[efficient hierarchical bayesian inference for spatio-temporal regression models in neuroimaging](https://arxiv.org/abs/2111.01692)|[dugh-neurips-2021](https://github.com/alihashemi-ai/dugh-neurips-2021)|
+|[graph neural networks with parallel neighborhood aggregations for graph classification](https://arxiv.org/abs/2111.11482)|[spin](https://github.com/siddhant-doshi/spin)|
 ## 2021-11-23
 |paper|code|
 |---|---|
