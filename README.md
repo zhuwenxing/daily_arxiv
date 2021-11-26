@@ -1,3 +1,11 @@
+## 2021-11-25
+|paper|code|
+|---|---|
+|[point process simulation of generalised inverse gaussian processes and estimation of the jaeger integral](https://arxiv.org/abs/2105.09429)|[GiG](https://github.com/yamankindap/GiG)|
+|[machine learning based forward solver: an automatic framework in gprmax](https://arxiv.org/abs/2111.12148)|[gprmax](https://github.com/gprmax/gprmax)|
+|[tsflex: flexible time series processing & feature extraction](https://arxiv.org/abs/2111.12429)|[tsflex](https://github.com/predict-idlab/tsflex)|
+|[state-space deep gaussian processes with applications](https://arxiv.org/abs/2111.12604)|[dissertation](https://github.com/zgbkdlm/dissertation)|
+|[robust and differentially private mean estimation](https://arxiv.org/abs/2102.09159)|[robust_dp](https://github.com/xiyangl3/robust_dp)|
 ## 2021-11-24
 |paper|code|
 |---|---|
