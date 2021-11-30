@@ -1,8 +1,14 @@
+## 2021-11-29
+|paper|code|
+|---|---|
+|[automatic crack classification by exploiting statistical event descriptors for deep learning](https://arxiv.org/abs/1907.10709)|[deeplearning_crack_classification](https://github.com/giuliosiracusano/deeplearning_crack_classification)|
+|[contourletnet: a generalized rain removal architecture using multi-direction hierarchical representation](https://arxiv.org/abs/2111.12925)|[contourletnet-bmvc2021](https://github.com/cctakaet/contourletnet-bmvc2021)|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
 ## 2021-11-25
 |paper|code|
 |---|---|
 |[point process simulation of generalised inverse gaussian processes and estimation of the jaeger integral](https://arxiv.org/abs/2105.09429)|[GiG](https://github.com/yamankindap/GiG)|
-|[machine learning based forward solver: an automatic framework in gprmax](https://arxiv.org/abs/2111.12148)|[gprmax](https://github.com/gprmax/gprmax)|
+|[machine learning based forward solver: an automatic framework in gprmax](https://arxiv.org/abs/2111.12148)|[gprMax](https://github.com/utsav-akhaury/gprMax)|
 |[tsflex: flexible time series processing & feature extraction](https://arxiv.org/abs/2111.12429)|[tsflex](https://github.com/predict-idlab/tsflex)|
 |[state-space deep gaussian processes with applications](https://arxiv.org/abs/2111.12604)|[dissertation](https://github.com/zgbkdlm/dissertation)|
 |[robust and differentially private mean estimation](https://arxiv.org/abs/2102.09159)|[robust_dp](https://github.com/xiyangl3/robust_dp)|
