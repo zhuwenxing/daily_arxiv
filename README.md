@@ -1,3 +1,12 @@
+## 2021-11-30
+|paper|code|
+|---|---|
+|[iclabel: an automated electroencephalographic independent component classifier, dataset, and website](https://arxiv.org/abs/1901.07915)|[ICLabel-Train](https://github.com/lucapton/ICLabel-Train)|
+|[visualization of linear operations in the spherical harmonics domain](https://arxiv.org/abs/2104.13069)|[visualization-of-sh-domain-operations](https://github.com/iksrwth/visualization-of-sh-domain-operations)|
+|[opensync: an opensource platform for synchronizing multiple measures in neuroscience experiments](https://arxiv.org/abs/2107.14367)|[OpenSync_Unity](https://github.com/moeinrazavi/OpenSync_Unity)|
+|[ncvx: a user-friendly and scalable package for nonconvex optimization in machine learning](https://arxiv.org/abs/2111.13984)|[ncvx](https://github.com/sun-umn/ncvx)|
+|[neural computation of capacity region of memoryless multiple access channels](https://arxiv.org/abs/2105.04453)|[Neural-Capacity-Computation](https://github.com/Farhad-Mrkm/Neural-Capacity-Computation)|
+|[redunet: a white-box deep network from the principle of maximizing rate reduction](https://arxiv.org/abs/2105.10446)|[ReduNet](https://github.com/Ma-Lab-Berkeley/ReduNet)|
 ## 2021-11-29
 |paper|code|
 |---|---|
