@@ -1,3 +1,11 @@
+## 2021-12-01
+|paper|code|
+|---|---|
+|[validating circacp: a generic sleep-wake cycle detection algorithm](https://arxiv.org/abs/2111.14960)|[circacp](https://github.com/shanshanchen-biostat/circacp)|
+|[clustering-based activity detection algorithms for grant-free random access in cell-free massive mimo](https://arxiv.org/abs/2111.15378)|[grant-free](https://github.com/emilbjornson/grant-free)|
+|[scalable machine learning architecture for neonatal seizure detection on ultra-edge devices](https://arxiv.org/abs/2111.15569)|[NeonatalSeizureDetection](https://github.com/vishaln15/NeonatalSeizureDetection)|
+|[hottbox: higher order tensor toolbox](https://arxiv.org/abs/2111.15662)|[hottbox](https://github.com/hottbox/hottbox)|
+|[mathematical models for fake news](https://arxiv.org/abs/1809.00964)|[Fake_News](https://github.com/dmmeier/Fake_News)|
 ## 2021-11-30
 |paper|code|
 |---|---|
