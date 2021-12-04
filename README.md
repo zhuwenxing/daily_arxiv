@@ -1,3 +1,9 @@
+## 2021-12-03
+|paper|code|
+|---|---|
+|[self-supervised graph representation learning via topology transformations](https://arxiv.org/abs/2105.11689)|[topo-ter](https://github.com/gyshgx868/topo-ter)|
+|[embedding decomposition for artifacts removal in eeg signals](https://arxiv.org/abs/2112.00989)|[deepseparator](https://github.com/ncclabsustech/deepseparator)|
+|[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
 ## 2021-12-02
 |paper|code|
 |---|---|
