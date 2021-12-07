@@ -1,3 +1,9 @@
+## 2021-12-06
+|paper|code|
+|---|---|
+|[irs-aided swipt: joint waveform, active and passive beamforming design under nonlinear harvester model](https://arxiv.org/abs/2012.05646)|[irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model](https://github.com/snowztail/irs-aided-swipt-joint-waveform-active-and-passive-beamforming-design-under-nonlinear-harvester-model)|
+|[stride: a flexible platform for high-performance ultrasound computed tomography](https://arxiv.org/abs/2110.03345)|[stride](https://github.com/trustimaging/stride)|
+|[disentangling modes with crossover instantaneous frequencies by synchrosqueezed chirplet transforms, from theory to application](https://arxiv.org/abs/2112.01857)|[synchrosqueezed-chirplet-transforms](https://github.com/ziyuchen7/synchrosqueezed-chirplet-transforms)|
 ## 2021-12-03
 |paper|code|
 |---|---|
