@@ -1,3 +1,13 @@
+## 2021-12-07
+|paper|code|
+|---|---|
+|[eeg-based emotional video classification via learning connectivity structure](https://arxiv.org/abs/1905.11678)|[bsc_lcs](https://github.com/ELEMKEP/bsc_lcs)|
+|[estimating the electrical power output of industrial devices with end-to-end time-series classification in the presence of label noise](https://arxiv.org/abs/2105.00349)|[SREA](https://github.com/Castel44/SREA)|
+|[under the sand: navigation and localization of a micro aerial vehicle for landmine detection with ground penetrating synthetic aperture radar](https://arxiv.org/abs/2106.10108)|[mav_findmine](https://github.com/ethz-asl/mav_findmine)|
+|[my(o) armband leaks passwords: an emg and imu based keylogging side-channel attack](https://arxiv.org/abs/2112.02382)|[myo-keylogging](https://github.com/seemoo-lab/myo-keylogging)|
+|[enhancement of a state-of-the-art rl-based detection algorithm for massive mimo radars](https://arxiv.org/abs/2112.02628)|[improved_rl_algorithm_mmimo_radar](https://github.com/lisifra96/improved_rl_algorithm_mmimo_radar)|
+|[robust compressed sensing mri with deep generative priors](https://arxiv.org/abs/2108.01368)|[csgm-mri-langevin](https://github.com/utcsilab/csgm-mri-langevin)|
+|[compressive visual representations](https://arxiv.org/abs/2109.12909)|[compressive-visual-representations](https://github.com/google-research/compressive-visual-representations)|
 ## 2021-12-06
 |paper|code|
 |---|---|
