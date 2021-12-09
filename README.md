@@ -1,3 +1,9 @@
+## 2021-12-08
+|paper|code|
+|---|---|
+|[the elliptical ornstein-uhlenbeck process](https://arxiv.org/abs/2001.05965)|[ellipticalou](https://github.com/adamsykulski/ellipticalou)|
+|[truly shift-equivariant convolutional neural networks with adaptive polyphase upsampling](https://arxiv.org/abs/2105.04040)|[truly_shift_invariant_cnns](https://github.com/achaman2/truly_shift_invariant_cnns)|
+|[vehif: an accessible vegetation high-impedance fault data set format](https://arxiv.org/abs/2112.03651)|[hif_vegetation_data](https://github.com/dougpsg/hif_vegetation_data)|
 ## 2021-12-07
 |paper|code|
 |---|---|
