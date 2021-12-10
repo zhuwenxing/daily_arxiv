@@ -1,3 +1,10 @@
+## 2021-12-09
+|paper|code|
+|---|---|
+|[a primer on near-field beamforming for arrays and reconfigurable intelligent surfaces](https://arxiv.org/abs/2110.06661)|[nearfield-primer](https://github.com/emilbjornson/nearfield-primer)|
+|[mobile bci dataset of scalp- and ear-eegs with erp and ssvep paradigms while standing, walking, and running](https://arxiv.org/abs/2112.04176)|[mobilebci_data](https://github.com/youngeun1209/mobilebci_data)|
+|[adaptive r-peak detection on wearable ecg sensors for high-intensity exercise](https://arxiv.org/abs/2112.04369)|[adaptive_rpeak_det_public](https://c4science.ch/source/adaptive_rpeak_det_public)|
+|[adaboost and robust one-bit compressed sensing](https://arxiv.org/abs/2105.02083)|[adaboost-and-robust-one-bit-compressed-sensing](https://github.com/felix-127/adaboost-and-robust-one-bit-compressed-sensing)|
 ## 2021-12-08
 |paper|code|
 |---|---|
