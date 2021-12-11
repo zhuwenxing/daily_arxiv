@@ -1,3 +1,9 @@
+## 2021-12-10
+|paper|code|
+|---|---|
+|[open community platform for hearing aid algorithm research: open master hearing aid (openmha)](https://arxiv.org/abs/2103.02313)|[openMHA](https://github.com/HoerTech-gGmbH/openMHA)|
+|[scalable power control/beamforming in heterogeneous wireless networks with graph neural networks](https://arxiv.org/abs/2104.05463)|[hignn](https://github.com/zhangxiaochen95/hignn)|
+|[a unifying theory of thompson sampling for continuous risk-averse bandits](https://arxiv.org/abs/2108.11345)|[continuous-rho-ts](https://github.com/joel-ql-chang/continuous-rho-ts)|
 ## 2021-12-09
 |paper|code|
 |---|---|
