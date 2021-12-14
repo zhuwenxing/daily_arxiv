@@ -1,3 +1,9 @@
+## 2021-12-13
+|paper|code|
+|---|---|
+|[removing noise from extracellular neural recordings using fully convolutional denoising autoencoders](https://arxiv.org/abs/2109.08945)|[fcdae-neural-signal-denoising](https://github.com/alexdelitzas/fcdae-neural-signal-denoising)|
+|[deepaoanet: learning angle of arrival from software defined radios with deep neural networks](https://arxiv.org/abs/2112.00695)|[deepaoanet](https://github.com/zdai257/deepaoanet)|
+|[surrogate-based cross-correlation for particle image velocimetry](https://arxiv.org/abs/2112.05303)|[sbcc](https://github.com/yongleex/sbcc)|
 ## 2021-12-10
 |paper|code|
 |---|---|
