@@ -1,3 +1,10 @@
+## 2021-12-14
+|paper|code|
+|---|---|
+|[tree-amp: compositional inference with tree approximate message passing](https://arxiv.org/abs/2004.01571)|[tramp](https://github.com/sphinxteam/tramp)|
+|[chmusic: a traditional chinese music dataset for evaluation of instrument recognition](https://arxiv.org/abs/2108.08470)|[chmusic](https://github.com/haoranweiutd/chmusic)|
+|[multi-static uwb radar-based passive human tracking using cots devices](https://arxiv.org/abs/2109.12856)|[uwb-radar-pedestrian-tracking](https://github.com/clongli/uwb-radar-pedestrian-tracking)|
+|[recovery of future data via convolution nuclear norm minimization](https://arxiv.org/abs/1909.03889)|[CNNM](https://github.com/gcliu1982/CNNM)|
 ## 2021-12-13
 |paper|code|
 |---|---|
