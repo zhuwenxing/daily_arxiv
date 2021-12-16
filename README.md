@@ -1,3 +1,8 @@
+## 2021-12-15
+|paper|code|
+|---|---|
+|[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
+|[a deep knowledge distillation framework for eeg assisted enhancement of single-lead ecg based sleep staging](https://arxiv.org/abs/2112.07252)|[sleep_staging_kd](https://github.com/acrophase/sleep_staging_kd)|
 ## 2021-12-14
 |paper|code|
 |---|---|
