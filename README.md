@@ -1,3 +1,7 @@
+## 2021-12-16
+|paper|code|
+|---|---|
+|[denoising noisy neural networks: a bayesian approach with compensation](https://arxiv.org/abs/2105.10699)|[NoisyNN](https://github.com/lynshao/NoisyNN)|
 ## 2021-12-15
 |paper|code|
 |---|---|
