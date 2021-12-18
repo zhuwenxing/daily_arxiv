@@ -1,3 +1,8 @@
+## 2021-12-17
+|paper|code|
+|---|---|
+|[search for temporal cell segmentation robustness in phase-contrast microscopy videos](https://arxiv.org/abs/2112.08817)|[microscopy-dl-suite-tf](https://github.com/esgomezm/microscopy-dl-suite-tf)|
+|[a deep learning based multitask network for respiration rate estimation -- a practical perspective](https://arxiv.org/abs/2112.09071)|[multirespdl](https://github.com/acrophase/multirespdl)|
 ## 2021-12-16
 |paper|code|
 |---|---|
