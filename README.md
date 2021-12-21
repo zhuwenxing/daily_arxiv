@@ -1,3 +1,8 @@
+## 2021-12-20
+|paper|code|
+|---|---|
+|[detection of maternal and fetal stress from the electrocardiogram with self-supervised representation learning](https://arxiv.org/abs/2011.02000)|[ssl-ecg-v2](https://github.com/pritamqu/ssl-ecg-v2)|
+|[systematic assessment of hyperdimensional computing for epileptic seizure detection](https://arxiv.org/abs/2105.00934)|[HDforEpilepsyPublic](https://c4science.ch/source/HDforEpilepsyPublic)|
 ## 2021-12-17
 |paper|code|
 |---|---|
