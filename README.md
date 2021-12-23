@@ -1,3 +1,13 @@
+## 2021-12-22
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[subject-independent drowsiness recognition from single-channel eeg with an interpretable cnn-lstm model](https://arxiv.org/abs/2112.10894)|[Subject-Independent-Drowsiness-Recognition-from-Single-Channel-EEG-with-an-Interpretable-CNN-LSTM](https://github.com/cuijiancorbin/Subject-Independent-Drowsiness-Recognition-from-Single-Channel-EEG-with-an-Interpretable-CNN-LSTM)|
+|[multiple time series fusion based on lstm an application to cap a phase classification using eeg](https://arxiv.org/abs/2112.11218)|[GA_PSO_DEEP_LEARNING](https://github.com/Dntfreitas/GA_PSO_DEEP_LEARNING)|
+## 2021-12-21
+|paper|code|
+|---|---|
+|[expression is enough: improving traffic signal control with advanced traffic state representation](https://arxiv.org/abs/2112.10107)|[Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight)|
 ## 2021-12-20
 |paper|code|
 |---|---|
