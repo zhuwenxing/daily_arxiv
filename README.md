@@ -1,3 +1,7 @@
+## 2021-12-23
+|paper|code|
+|---|---|
+|[tsflex: flexible time series processing & feature extraction](https://arxiv.org/abs/2111.12429)|[tsflex](https://github.com/predict-idlab/tsflex)|
 ## 2021-12-22
 |paper|code|
 |---|---|
