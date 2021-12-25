@@ -1,3 +1,9 @@
+## 2021-12-24
+|paper|code|
+|---|---|
+|[a machine-learning-based direction-of-origin filter for the identification of radio frequency interference in the search for technosignatures](https://arxiv.org/abs/2108.00559)|[doom](https://github.com/UCLA-SETI-Group/doom)|
+|[regularity normalization: neuroscience-inspired unsupervised attention across neural network layers](https://arxiv.org/abs/1902.10658)|[UnsupervisedAttentionMechanism](https://github.com/doerlbh/UnsupervisedAttentionMechanism)|
+|[new instances of quadratic apn functions](https://arxiv.org/abs/2009.07204)|[quadratic_apn](https://github.com/cbe90/quadratic_apn)|
 ## 2021-12-23
 |paper|code|
 |---|---|
