@@ -1,3 +1,9 @@
+## 2021-12-28
+|paper|code|
+|---|---|
+|[hardware distortion correlation has negligible impact on ul massive mimo spectral efficiency](https://arxiv.org/abs/1811.02007)|[distortion-correlation](https://github.com/emilbjornson/distortion-correlation)|
+|[variational quantum algorithms for trace distance and fidelity estimation](https://arxiv.org/abs/2012.05768)|[Quantum](https://github.com/PaddlePaddle/Quantum)|
+|[practical distributed quantum information processing with loccnet](https://arxiv.org/abs/2101.12190)|[Quantum](https://github.com/PaddlePaddle/Quantum)|
 ## 2021-12-24
 |paper|code|
 |---|---|
