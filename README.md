@@ -1,3 +1,9 @@
+## 2021-12-30
+|paper|code|
+|---|---|
+|[towards real-world bci: ccspnet, a compact subject-independent motor imagery framework](https://arxiv.org/abs/2012.13567)|[CCSPNet](https://github.com/Singular-Brain/CCSPNet)|
+|[decentralized power allocation for mimo-noma vehicular edge computing based on deep reinforcement learning](https://arxiv.org/abs/2107.14772)|[VEC_DRL_Doppler](https://github.com/qiongwu86/VEC_DRL_Doppler)|
+|[regularity normalization: neuroscience-inspired unsupervised attention across neural network layers](https://arxiv.org/abs/1902.10658)|[UnsupervisedAttentionMechanism](https://github.com/doerlbh/UnsupervisedAttentionMechanism)|
 ## 2021-12-28
 |paper|code|
 |---|---|
