@@ -1,3 +1,8 @@
+## 2022-01-03
+|paper|code|
+|---|---|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[multiple testing and variable selection along the path of the least angle regression](https://arxiv.org/abs/1906.12072)|[lar_testing](https://github.com/ydecastro/lar_testing)|
 ## 2021-12-30
 |paper|code|
 |---|---|
