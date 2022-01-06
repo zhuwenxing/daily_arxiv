@@ -1,3 +1,10 @@
+## 2022-01-05
+|paper|code|
+|---|---|
+|[self-supervised representation learning from 12-lead ecg data](https://arxiv.org/abs/2103.12676)|[ecg-selfsupervised](https://github.com/hhi-aml/ecg-selfsupervised)|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
+|[dihedral multi-reference alignment](https://arxiv.org/abs/2107.05262)|[DihedralMRA](https://github.com/nirsharon/DihedralMRA)|
+|[deep learning interviews: hundreds of fully solved job interview questions from a wide range of key topics in ai](https://arxiv.org/abs/2201.00650)|[interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)|
 ## 2022-01-04
 |paper|code|
 |---|---|
@@ -9,6 +16,7 @@
 |paper|code|
 |---|---|
 |[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[elastic 3d wavefield simulation on budget gpus using the glsl shading language](https://arxiv.org/abs/2112.15071)|[GLSL-Elastic-3D-Wavefield-Simulation](https://github.com/nosemeocurreapodo/GLSL-Elastic-3D-Wavefield-Simulation)|
 |[multiple testing and variable selection along the path of the least angle regression](https://arxiv.org/abs/1906.12072)|[lar_testing](https://github.com/ydecastro/lar_testing)|
 ## 2021-12-30
 |paper|code|
