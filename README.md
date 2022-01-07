@@ -1,3 +1,9 @@
+## 2022-01-06
+|paper|code|
+|---|---|
+|[a sketching framework for reduced data transfer in photon counting lidar](https://arxiv.org/abs/2102.08732)|[sketched_lidar](https://gitlab.com/Tachella/sketched_lidar)|
+|[robust photon-efficient imaging using a pixel-wise residual shrinkage network](https://arxiv.org/abs/2201.01453)|[robust-photon-efficient-imaging-using-prsnet](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)|
+|[understanding entropy coding with asymmetric numeral systems (ans): a statistician's perspective](https://arxiv.org/abs/2201.01741)|[understanding-ans](https://github.com/bamler-lab/understanding-ans)|
 ## 2022-01-05
 |paper|code|
 |---|---|
