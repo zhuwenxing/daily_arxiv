@@ -1,3 +1,8 @@
+## 2022-01-07
+|paper|code|
+|---|---|
+|[user-centric perspective in random access cell-free aided by spatial separability](https://arxiv.org/abs/2107.10294)|[cf-ra-spatial-separability](https://github.com/victorcroisfelt/cf-ra-spatial-separability)|
+|[necessary and sufficient graphical conditions for optimal adjustment sets in causal graphical models with hidden variables](https://arxiv.org/abs/2102.10324)|[tigramite](https://github.com/jakobrunge/tigramite)|
 ## 2022-01-06
 |paper|code|
 |---|---|
