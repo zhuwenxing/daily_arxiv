@@ -20,6 +20,7 @@
 |paper|code|
 |---|---|
 |[a review of open-world learning and steps toward open-world learning without labels](https://arxiv.org/abs/2011.12906)|[Open_World_Learning_Without_Labels](https://github.com/ROBOTICSENGINEER/Open_World_Learning_Without_Labels)|
+|[reconfigurable intelligent surfaces: a signal processing perspective with wireless applications](https://arxiv.org/abs/2102.00742)|[spm_ris](https://github.com/emilbjornson/spm_ris)|
 |[ncvx: a user-friendly and scalable package for nonconvex optimization in machine learning](https://arxiv.org/abs/2111.13984)|[ncvx](https://github.com/sun-umn/ncvx)|
 |[uncertainty detection in eeg neural decoding models](https://arxiv.org/abs/2201.00627)|[ue-eeg](https://github.com/tiehangd/ue-eeg)|
 |[optimal representations for covariate shift](https://arxiv.org/abs/2201.00057)|[optdom](https://github.com/ryoungj/optdom)|
