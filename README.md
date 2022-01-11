@@ -1,3 +1,8 @@
+## 2022-01-10
+|paper|code|
+|---|---|
+|[automatic open-world reliability assessment](https://arxiv.org/abs/2011.05506)|[Automatic-Open-World-Reliability-Assessment](https://github.com/ROBOTICSENGINEER/Automatic-Open-World-Reliability-Assessment)|
+|[min2net: end-to-end multi-task learning for subject-independent motor imagery eeg classification](https://arxiv.org/abs/2102.03814)|[min2net](https://github.com/iobt-vistec/min2net)|
 ## 2022-01-07
 |paper|code|
 |---|---|
@@ -8,7 +13,6 @@
 |---|---|
 |[a sketching framework for reduced data transfer in photon counting lidar](https://arxiv.org/abs/2102.08732)|[sketched_lidar](https://gitlab.com/Tachella/sketched_lidar)|
 |[robust photon-efficient imaging using a pixel-wise residual shrinkage network](https://arxiv.org/abs/2201.01453)|[robust-photon-efficient-imaging-using-prsnet](https://github.com/gongxinyao/robust-photon-efficient-imaging-using-prsnet)|
-|[understanding entropy coding with asymmetric numeral systems (ans): a statistician's perspective](https://arxiv.org/abs/2201.01741)|[understanding-ans](https://github.com/bamler-lab/understanding-ans)|
 ## 2022-01-05
 |paper|code|
 |---|---|
