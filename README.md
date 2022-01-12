@@ -1,3 +1,11 @@
+## 2022-01-11
+|paper|code|
+|---|---|
+|[communication-efficient federated learning via predictive coding](https://arxiv.org/abs/2108.00918)|[predictive-coding-fl](https://github.com/kai-yue/predictive-coding-fl)|
+|[stability analysis of unfolded wmmse for power allocation](https://arxiv.org/abs/2110.07471)|[stability-uwmmse](https://github.com/archo48/stability-uwmmse)|
+|[noisy neonatal chest sound separation for high-quality heart and lung sounds](https://arxiv.org/abs/2201.03211)|[heart-and-lung-sound-separation](https://github.com/egrooby-monash/heart-and-lung-sound-separation)|
+|[a high-level track fusion scheme for circular quantities](https://arxiv.org/abs/2201.03267)|[circularfusionoperator](https://github.com/soerenkoh/circularfusionoperator)|
+|[understanding entropy coding with asymmetric numeral systems (ans): a statistician's perspective](https://arxiv.org/abs/2201.01741)|[understanding-ans](https://github.com/bamler-lab/understanding-ans)|
 ## 2022-01-10
 |paper|code|
 |---|---|
