@@ -1,3 +1,9 @@
+## 2022-01-12
+|paper|code|
+|---|---|
+|[rnns on monitoring physical activity energy expenditure in older people](https://arxiv.org/abs/2006.01169)|[GOTOV_PAEE_publication](https://github.com/parastelios/GOTOV_PAEE_publication)|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[spectrum surveying: active radio map estimation with autonomous uavs](https://arxiv.org/abs/2201.04125)|[spectrum_surveying_with_uavs](https://github.com/uiano/spectrum_surveying_with_uavs)|
 ## 2022-01-11
 |paper|code|
 |---|---|
