@@ -1,9 +1,14 @@
+## 2022-01-13
+|paper|code|
+|---|---|
+|[how to find a unicorn: a novel model-free, unsupervised anomaly detection method for time series](https://arxiv.org/abs/2004.11468)|[uniqed](https://github.com/phrenico/uniqed)|
+|[federated learning for covid-19 detection with generative adversarial networks in edge cloud computing](https://arxiv.org/abs/2110.07136)|[FL-GAN_COVID](https://github.com/dinhgit/FL-GAN_COVID)|
+|[implementation of fgpa based channel sounder for large scale antenna systems using rfnoc on usrp platform](https://arxiv.org/abs/2201.04471)|[rfnoc-hls-winlab](https://github.com/xilinx/rfnoc-hls-winlab)|
 ## 2022-01-12
 |paper|code|
 |---|---|
 |[rnns on monitoring physical activity energy expenditure in older people](https://arxiv.org/abs/2006.01169)|[GOTOV_PAEE_publication](https://github.com/parastelios/GOTOV_PAEE_publication)|
 |[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
-|[spectrum surveying: active radio map estimation with autonomous uavs](https://arxiv.org/abs/2201.04125)|[spectrum_surveying_with_uavs](https://github.com/uiano/spectrum_surveying_with_uavs)|
 ## 2022-01-11
 |paper|code|
 |---|---|
