@@ -1,3 +1,8 @@
+## 2022-01-14
+|paper|code|
+|---|---|
+|[spectrum surveying: active radio map estimation with autonomous uavs](https://arxiv.org/abs/2201.04125)|[spectrum_surveying_with_uavs](https://github.com/uiano/spectrum_surveying_with_uavs)|
+|[performance analysis of multi-user noma wireless-powered mmtc networks: a stochastic geometry approach](https://arxiv.org/abs/2201.04784)|[mmtc-noma](https://github.com/thanhluannguyen/mmtc-noma)|
 ## 2022-01-13
 |paper|code|
 |---|---|
