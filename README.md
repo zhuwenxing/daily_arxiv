@@ -1,9 +1,14 @@
+## 2022-01-20
+|paper|code|
+|---|---|
+|[homological time series analysis of sensor signals from power plants](https://arxiv.org/abs/2106.02493)|[TwirlFlake](https://github.com/karhunenloeve/TwirlFlake)|
 ## 2022-01-19
 |paper|code|
 |---|---|
 |[two-dimensional multi-target detection: an autocorrelation analysis approach](https://arxiv.org/abs/2105.06765)|[MTD-2D](https://github.com/krshay/MTD-2D)|
 |[optimal power allocation in downlink multicarrier noma systems: theory and fast algorithms](https://arxiv.org/abs/2107.06678)|[optimal-power-allocation-in-downlink-noma.-sum-rate-and-energy-efficiency-maximization](https://gitlab.com/sepehrrezvani/optimal-power-allocation-in-downlink-noma.-sum-rate-and-energy-efficiency-maximization)|
 |[resnests and densenests: block-based dnn models with improved representation guarantees](https://arxiv.org/abs/2111.05496)|[resnest](https://github.com/kjason/resnest)|
+|[visual sensor network stimulation model identification via gaussian mixture model and deep embedded features](https://arxiv.org/abs/2201.06804)|[vsn-with-ae](https://github.com/luca-varotto/vsn-with-ae)|
 |[sending timely status updates through channel with random delay via online learning](https://arxiv.org/abs/2112.10400)|[infocom2022](https://github.com/loveisbasa/infocom2022)|
 ## 2022-01-14
 |paper|code|
