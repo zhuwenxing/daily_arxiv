@@ -1,3 +1,12 @@
+## 2022-01-27
+|paper|code|
+|---|---|
+|[grouped variable selection for generalized eigenvalue problems](https://arxiv.org/abs/2105.13667)|[benchmarkStudySensorSelection](https://github.com/AlexanderBertrandLab/benchmarkStudySensorSelection)|
+## 2022-01-26
+|paper|code|
+|---|---|
+|[low complexity channel estimation with neural network solutions](https://arxiv.org/abs/2201.09934)|[Interpolation-ResNet](https://github.com/dianixn/Interpolation-ResNet)|
+|[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
 ## 2022-01-25
 |paper|code|
 |---|---|
