@@ -1,3 +1,8 @@
+## 2022-01-28
+|paper|code|
+|---|---|
+|[online change point detection for weighted and directed random dot product graphs](https://arxiv.org/abs/2201.11222)|[cpd_rdpg](https://github.com/git-artes/cpd_rdpg)|
+|[calibration with privacy in peer review](https://arxiv.org/abs/2201.11308)|[calibration-with-privacy-in-peer-review](https://github.com/wenxind/calibration-with-privacy-in-peer-review)|
 ## 2022-01-27
 |paper|code|
 |---|---|
