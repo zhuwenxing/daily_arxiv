@@ -1,3 +1,11 @@
+## 2022-01-31
+|paper|code|
+|---|---|
+|[quantification of mismatch error in randomly switching linear state-space models](https://arxiv.org/abs/2012.04542)|[Switching-Kalman-Filter](https://github.com/ParissKK/Switching-Kalman-Filter)|
+|[a tutorial on generalized eigendecomposition for denoising, contrast enhancement, and dimension reduction in multichannel electrophysiology](https://arxiv.org/abs/2104.12356)|[GED_tutorial](https://github.com/mikexcohen/GED_tutorial)|
+|[inertial navigation using an inertial sensor array](https://arxiv.org/abs/2201.11983)|[array-in](https://github.com/hcarlsso/array-in)|
+|[stochastic optimization in digital pre-distortion of the signal](https://arxiv.org/abs/2201.12159)|[Sirius-2021-DPD-optimization](https://github.com/dmivilensky/Sirius-2021-DPD-optimization)|
+|[lossy compression for lossless prediction](https://arxiv.org/abs/2106.10800)|[lossyless](https://github.com/YannDubs/lossyless)|
 ## 2022-01-28
 |paper|code|
 |---|---|
