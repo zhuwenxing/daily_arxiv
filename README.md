@@ -1,9 +1,16 @@
+## 2022-02-03
+|paper|code|
+|---|---|
+|[online change point detection for weighted and directed random dot product graphs](https://arxiv.org/abs/2201.11222)|[cpd_rdpg](https://github.com/git-artes/cpd_rdpg)|
+|[perturbative construction of mean-field equations in extensive-rank matrix factorization and denoising](https://arxiv.org/abs/2110.08775)|[perturbative_mean_field_matrix_factorization](https://github.com/sphinxteam/perturbative_mean_field_matrix_factorization)|
 ## 2022-02-02
 |paper|code|
 |---|---|
 |[total least squares phase retrieval](https://arxiv.org/abs/2102.00927)|[tls_phase](https://github.com/swing-research/tls_phase)|
+|[practical graph signal sampling with log-linear size scaling](https://arxiv.org/abs/2102.10506)|[graph-signal-sampling-avm](https://github.com/stac-usc/graph-signal-sampling-avm)|
 |[a machine-learning-based direction-of-origin filter for the identification of radio frequency interference in the search for technosignatures](https://arxiv.org/abs/2108.00559)|[doom](https://github.com/UCLA-SETI-Group/doom)|
 |[deepfilternet: a low complexity speech enhancement framework for full-band audio based on deep filtering](https://arxiv.org/abs/2110.05588)|[deepfilternet](https://github.com/rikorose/deepfilternet)|
+|[arrhythmia classification using cgan-augmented ecg signals](https://arxiv.org/abs/2202.00569)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
 |[fundamental performance limits for sensor-based robot control and policy learning](https://arxiv.org/abs/2202.00129)|[performance-limits](https://github.com/irom-lab/performance-limits)|
 ## 2022-02-01
 |paper|code|
