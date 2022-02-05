@@ -1,3 +1,11 @@
+## 2022-02-04
+|paper|code|
+|---|---|
+|[the terminating-knockoff filter: fast high-dimensional variable selection with false discovery rate control](https://arxiv.org/abs/2110.06048)|[tknock](https://github.com/jasinmachkour/tknock)|
+|[node-screening tests for l0-penalized least-squares problem with supplementary material](https://arxiv.org/abs/2110.07308)|[bnb-screening](https://gitlab.insa-rennes.fr/Theo.Guyard/bnb-screening)|
+|[mgc: a complex-valued graph convolutional network for directed graphs](https://arxiv.org/abs/2110.07570)|[MGCs](https://github.com/hazdzz/MGCs)|
+|[locunet: fast urban positioning using radio maps and deep learning](https://arxiv.org/abs/2202.00738)|[LocUNet](https://github.com/CagkanYapar/LocUNet)|
+|[improving lyrics alignment through joint pitch detection](https://arxiv.org/abs/2202.01646)|[lyricsalignment-mtl](https://github.com/jhuang448/lyricsalignment-mtl)|
 ## 2022-02-03
 |paper|code|
 |---|---|
