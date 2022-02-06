@@ -6,6 +6,7 @@
 |[mgc: a complex-valued graph convolutional network for directed graphs](https://arxiv.org/abs/2110.07570)|[MGCs](https://github.com/hazdzz/MGCs)|
 |[locunet: fast urban positioning using radio maps and deep learning](https://arxiv.org/abs/2202.00738)|[LocUNet](https://github.com/CagkanYapar/LocUNet)|
 |[improving lyrics alignment through joint pitch detection](https://arxiv.org/abs/2202.01646)|[lyricsalignment-mtl](https://github.com/jhuang448/lyricsalignment-mtl)|
+|[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
 ## 2022-02-03
 |paper|code|
 |---|---|
