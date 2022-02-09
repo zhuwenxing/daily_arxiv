@@ -1,3 +1,19 @@
+## 2022-02-08
+|paper|code|
+|---|---|
+|[physfad: physics-based end-to-end channel modeling of ris-parametrized environments with adjustable fading](https://arxiv.org/abs/2202.02673)|[physfad](https://github.com/philipp-delhougne/physfad)|
+|[inter-subject contrastive learning for subject adaptive eeg-based visual recognition](https://arxiv.org/abs/2202.02901)|[Deep-BCI](https://github.com/DeepBCI/Deep-BCI)|
+|[over-the-air ensemble inference with model privacy](https://arxiv.org/abs/2202.03129)|[oac-based-private-ensembles](https://github.com/selimfirat/oac-based-private-ensembles)|
+|[gradient-based learning of discrete structured measurement operators for signal recovery](https://arxiv.org/abs/2202.03391)|[glodismo](https://github.com/josauder/glodismo)|
+|[nearest neighbor density functional estimation from inverse laplace transform](https://arxiv.org/abs/1805.08342)|[knn-functional-estimation](https://github.com/jongharyu/knn-functional-estimation)|
+|[bayesian context trees: modelling and exact inference for discrete time series](https://arxiv.org/abs/2007.14900)|[Bayesian-Suffix-Trees](https://github.com/IoannisPapageorgiou/Bayesian-Suffix-Trees)|
+|[tight mutual information estimation with contrastive fenchel-legendre optimization](https://arxiv.org/abs/2107.01131)|[FLO](https://github.com/qingguo666/FLO)|
+|[decoding reed-muller codes with successive codeword permutations](https://arxiv.org/abs/2109.02122)|[SPRLD](https://github.com/nghiadt05/SPRLD)|
+|[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
+|[understanding knowledge integration in language models with graph convolutions](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
+|[parameter-free online linear optimization with side information via universal coin betting](https://arxiv.org/abs/2202.02406)|[olo-with-side-information](https://github.com/jongharyu/olo-with-side-information)|
+|[lossy gradient compression: how much accuracy can one bit buy?](https://arxiv.org/abs/2202.02812)|[fl_rd](https://github.com/sadafsk/fl_rd)|
+|[analog secure distributed matrix multiplication over complex numbers](https://arxiv.org/abs/2202.03352)|[sdmm-over-complex](https://github.com/okkomakkonen/sdmm-over-complex)|
 ## 2022-02-07
 |paper|code|
 |---|---|
