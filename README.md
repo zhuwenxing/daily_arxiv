@@ -1,3 +1,9 @@
+## 2022-02-09
+|paper|code|
+|---|---|
+|[a deep neural network for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2011.08562)|[Deep-SSVEP-BCI](https://github.com/osmanberke/Deep-SSVEP-BCI)|
+|[rtsnet: deep learning aided kalman smoothing](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
+|[unsupervised source separation via self-supervised training](https://arxiv.org/abs/2202.03875)|[mixcycle](https://github.com/ertug/mixcycle)|
 ## 2022-02-08
 |paper|code|
 |---|---|
@@ -9,7 +15,6 @@
 |[bayesian context trees: modelling and exact inference for discrete time series](https://arxiv.org/abs/2007.14900)|[Bayesian-Suffix-Trees](https://github.com/IoannisPapageorgiou/Bayesian-Suffix-Trees)|
 |[tight mutual information estimation with contrastive fenchel-legendre optimization](https://arxiv.org/abs/2107.01131)|[FLO](https://github.com/qingguo666/FLO)|
 |[decoding reed-muller codes with successive codeword permutations](https://arxiv.org/abs/2109.02122)|[SPRLD](https://github.com/nghiadt05/SPRLD)|
-|[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
 |[understanding knowledge integration in language models with graph convolutions](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 |[parameter-free online linear optimization with side information via universal coin betting](https://arxiv.org/abs/2202.02406)|[olo-with-side-information](https://github.com/jongharyu/olo-with-side-information)|
 |[lossy gradient compression: how much accuracy can one bit buy?](https://arxiv.org/abs/2202.02812)|[fl_rd](https://github.com/sadafsk/fl_rd)|
