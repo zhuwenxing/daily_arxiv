@@ -1,8 +1,17 @@
+## 2022-02-10
+|paper|code|
+|---|---|
+|[deep augmented music algorithm for data-driven doa estimation](https://arxiv.org/abs/2109.10581)|[icassp22](https://github.com/da-music/icassp22)|
+|[uncertainty in data-driven kalman filtering for partially known state-space models](https://arxiv.org/abs/2110.04738)|[errcov_icassp22](https://github.com/kalmannet/errcov_icassp22)|
+|[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
+|[active sensing for communications by learning](https://arxiv.org/abs/2112.04075)|[dl-activesensing](https://github.com/foadsohrabi/dl-activesensing)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 ## 2022-02-09
 |paper|code|
 |---|---|
 |[a deep neural network for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2011.08562)|[Deep-SSVEP-BCI](https://github.com/osmanberke/Deep-SSVEP-BCI)|
 |[rtsnet: deep learning aided kalman smoothing](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
+|[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
 |[unsupervised source separation via self-supervised training](https://arxiv.org/abs/2202.03875)|[mixcycle](https://github.com/ertug/mixcycle)|
 ## 2022-02-08
 |paper|code|
@@ -10,6 +19,7 @@
 |[physfad: physics-based end-to-end channel modeling of ris-parametrized environments with adjustable fading](https://arxiv.org/abs/2202.02673)|[physfad](https://github.com/philipp-delhougne/physfad)|
 |[inter-subject contrastive learning for subject adaptive eeg-based visual recognition](https://arxiv.org/abs/2202.02901)|[Deep-BCI](https://github.com/DeepBCI/Deep-BCI)|
 |[over-the-air ensemble inference with model privacy](https://arxiv.org/abs/2202.03129)|[oac-based-private-ensembles](https://github.com/selimfirat/oac-based-private-ensembles)|
+|[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[f1fashiondataset](https://github.com/etidav/f1fashiondataset)|
 |[gradient-based learning of discrete structured measurement operators for signal recovery](https://arxiv.org/abs/2202.03391)|[glodismo](https://github.com/josauder/glodismo)|
 |[nearest neighbor density functional estimation from inverse laplace transform](https://arxiv.org/abs/1805.08342)|[knn-functional-estimation](https://github.com/jongharyu/knn-functional-estimation)|
 |[bayesian context trees: modelling and exact inference for discrete time series](https://arxiv.org/abs/2007.14900)|[Bayesian-Suffix-Trees](https://github.com/IoannisPapageorgiou/Bayesian-Suffix-Trees)|
