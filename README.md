@@ -1,3 +1,8 @@
+## 2022-02-11
+|paper|code|
+|---|---|
+|[an information-theoretic justification for model pruning](https://arxiv.org/abs/2102.08329)|[SuRP](https://github.com/BerivanIsik/SuRP)|
+|[sumo: advanced sleep spindle identification with neural networks](https://arxiv.org/abs/2202.05158)|[sumo](https://github.com/dslaborg/sumo)|
 ## 2022-02-10
 |paper|code|
 |---|---|
