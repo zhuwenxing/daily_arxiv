@@ -1,3 +1,9 @@
+## 2022-02-14
+|paper|code|
+|---|---|
+|[a dynamic response recovery framework using ambient synchrophasor data](https://arxiv.org/abs/2104.05614)|[dy_resp_pkg_new](https://github.com/ShaohuiLiu/dy_resp_pkg_new)|
+|[graphon-aided joint estimation of multiple graphs](https://arxiv.org/abs/2202.05686)|[jointinf_graphs_graphon](https://github.com/mn51/jointinf_graphs_graphon)|
+|[understanding knowledge integration in language models with graph convolutions](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-02-11
 |paper|code|
 |---|---|
