@@ -1,3 +1,10 @@
+## 2022-02-17
+|paper|code|
+|---|---|
+|[direct design of biquad filter cascades with deep learning by sampling random polynomials](https://arxiv.org/abs/2110.03691)|[iirnet](https://github.com/csteinmetz1/iirnet)|
+|[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
+|[deep-learning-assisted configuration of reconfigurable intelligent surfaces in dynamic rich-scattering environments](https://arxiv.org/abs/2202.07884)|[deep_ris_tuning_for_rich_scattering_environments](https://github.com/noesyslab/deep_ris_tuning_for_rich_scattering_environments)|
+|[enhancing causal estimation through unlabeled offline data](https://arxiv.org/abs/2202.07895)|[enhancing-causal-estimations](https://github.com/ronteichner/enhancing-causal-estimations)|
 ## 2022-02-16
 |paper|code|
 |---|---|
@@ -5,6 +12,7 @@
 |[r-local sensing: improved algorithm and applications](https://arxiv.org/abs/2110.14034)|[proximal-alt-min-for-uls-udgp](https://github.com/aabbas02/proximal-alt-min-for-uls-udgp)|
 |[score-based generative models for robust channel estimation](https://arxiv.org/abs/2111.08177)|[diffusion-channels](https://github.com/utcsilab/diffusion-channels)|
 |[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[f1fashiondataset](https://github.com/etidav/f1fashiondataset)|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
 |[understanding knowledge integration in language models with graph convolutions](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-02-15
 |paper|code|
