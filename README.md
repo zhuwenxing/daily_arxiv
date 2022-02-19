@@ -1,3 +1,10 @@
+## 2022-02-18
+|paper|code|
+|---|---|
+|[fann-on-mcu: an open-source toolkit for energy-efficient neural network inference at the edge of the internet of things](https://arxiv.org/abs/1911.03314)|[fann-on-mcu](https://github.com/pulp-platform/fann-on-mcu)|
+|[user-centric perspective in random access cell-free aided by spatial separability](https://arxiv.org/abs/2107.10294)|[cf-ra-spatial-separability](https://github.com/victorcroisfelt/cf-ra-spatial-separability)|
+|[delay-oriented distributed scheduling using graph neural networks](https://arxiv.org/abs/2111.07017)|[gcn-dql](https://github.com/zhongyuanzhao/gcn-dql)|
+|[two-dimensional structure functions to characterize convective rolls in the marine atmospheric boundary layer from sentinel-1 sar images](https://arxiv.org/abs/2202.08538)|[2d-structure-functions](https://github.com/cgranerob/2d-structure-functions)|
 ## 2022-02-17
 |paper|code|
 |---|---|
