@@ -19,7 +19,6 @@
 |[r-local sensing: improved algorithm and applications](https://arxiv.org/abs/2110.14034)|[proximal-alt-min-for-uls-udgp](https://github.com/aabbas02/proximal-alt-min-for-uls-udgp)|
 |[score-based generative models for robust channel estimation](https://arxiv.org/abs/2111.08177)|[diffusion-channels](https://github.com/utcsilab/diffusion-channels)|
 |[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[f1fashiondataset](https://github.com/etidav/f1fashiondataset)|
-|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
 |[understanding knowledge integration in language models with graph convolutions](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-02-15
 |paper|code|
