@@ -1,3 +1,20 @@
+## 2022-02-22
+|paper|code|
+|---|---|
+|[millimeter wave wireless assisted robot navigation with link state classification](https://arxiv.org/abs/2110.14789)|[mmwRobotNav](https://github.com/nyu-wireless/mmwRobotNav)|
+|[a novel 1d state space for efficient music rhythmic analysis](https://arxiv.org/abs/2111.00704)|[1d-statespace](https://github.com/mjhydri/1d-statespace)|
+|[embedding decomposition for artifacts removal in eeg signals](https://arxiv.org/abs/2112.00989)|[deepseparator](https://github.com/ncclabsustech/deepseparator)|
+|[vehif: an accessible vegetation high-impedance fault data set format](https://arxiv.org/abs/2112.03651)|[hif_vegetation_data](https://github.com/dougpsg/hif_vegetation_data)|
+|[echofilter: a deep learning segmentation model improves the automation, standardization, and timeliness for post-processing echosounder data in tidal energy streams](https://arxiv.org/abs/2202.09648)|[echofilter](https://github.com/deepsenseca/echofilter)|
+|[provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627)|[provable-ml-quantum](https://github.com/hsinyuan-huang/provable-ml-quantum)|
+## 2022-02-21
+|paper|code|
+|---|---|
+|[eeg-based cross-subject driver drowsiness recognition with an interpretable convolutional neural network](https://arxiv.org/abs/2107.09507)|[eeg-based-cross-subject-driver-drowsiness-recognition-with-an-interpretable-cnn](https://github.com/cuijiancorbin/eeg-based-cross-subject-driver-drowsiness-recognition-with-an-interpretable-cnn)|
+|[feasibility of modeling orthogonal frequency-division multiplexing communication signals with unsupervised generative adversarial networks](https://arxiv.org/abs/2109.05107)|[ofdm-gan](https://github.com/usnistgov/ofdm-gan)|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
+|[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
+|[stratified multivariate multiscale dispersion entropy for physiological signal analysis](https://arxiv.org/abs/2202.09298)|[smvmde](https://github.com/evangeloskafantaris/smvmde)|
 ## 2022-02-18
 |paper|code|
 |---|---|
