@@ -1,3 +1,10 @@
+## 2022-02-23
+|paper|code|
+|---|---|
+|[an experimental mmwave channel model for uav-to-uav communications](https://arxiv.org/abs/2007.11869)|[uav-to-uav-60-ghz-channel-model](https://github.com/wineslab/uav-to-uav-60-ghz-channel-model)|
+|[foundations of user-centric cell-free massive mimo](https://arxiv.org/abs/2108.02541)|[cell-free-book](https://github.com/emilbjornson/cell-free-book)|
+|[rawboost: a raw data boosting and augmentation method applied to automatic speaker verification anti-spoofing](https://arxiv.org/abs/2111.04433)|[RawBoost-antispoofing](https://github.com/TakHemlata/RawBoost-antispoofing)|
+|[learning from an exploring demonstrator: optimal reward estimation for bandits](https://arxiv.org/abs/2106.14866)|[inverse-bandit-code-release](https://github.com/wenshuoguo/inverse-bandit-code-release)|
 ## 2022-02-22
 |paper|code|
 |---|---|
@@ -6,6 +13,7 @@
 |[embedding decomposition for artifacts removal in eeg signals](https://arxiv.org/abs/2112.00989)|[deepseparator](https://github.com/ncclabsustech/deepseparator)|
 |[vehif: an accessible vegetation high-impedance fault data set format](https://arxiv.org/abs/2112.03651)|[hif_vegetation_data](https://github.com/dougpsg/hif_vegetation_data)|
 |[echofilter: a deep learning segmentation model improves the automation, standardization, and timeliness for post-processing echosounder data in tidal energy streams](https://arxiv.org/abs/2202.09648)|[echofilter](https://github.com/deepsenseca/echofilter)|
+|[coordinated sum-rate maximization in multicell mu-mimo with deep unrolling](https://arxiv.org/abs/2202.10371)|[gcnwmmse](https://github.com/lsky96/gcnwmmse)|
 |[provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627)|[provable-ml-quantum](https://github.com/hsinyuan-huang/provable-ml-quantum)|
 ## 2022-02-21
 |paper|code|
