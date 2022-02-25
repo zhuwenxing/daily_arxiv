@@ -5,6 +5,7 @@
 |[foundations of user-centric cell-free massive mimo](https://arxiv.org/abs/2108.02541)|[cell-free-book](https://github.com/emilbjornson/cell-free-book)|
 |[rawboost: a raw data boosting and augmentation method applied to automatic speaker verification anti-spoofing](https://arxiv.org/abs/2111.04433)|[RawBoost-antispoofing](https://github.com/TakHemlata/RawBoost-antispoofing)|
 |[learning from an exploring demonstrator: optimal reward estimation for bandits](https://arxiv.org/abs/2106.14866)|[inverse-bandit-code-release](https://github.com/wenshuoguo/inverse-bandit-code-release)|
+|[fasura: a scheme for quasi-static massive mimo unsourced random access channels](https://arxiv.org/abs/2202.11042)|[mmtc](https://github.com/engprojects/mmtc)|
 ## 2022-02-22
 |paper|code|
 |---|---|
