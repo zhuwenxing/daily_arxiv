@@ -1,3 +1,8 @@
+## 2022-02-25
+|paper|code|
+|---|---|
+|[detection by sampling: massive mimo detector based on langevin dynamics](https://arxiv.org/abs/2202.12199)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
+|[quantum circuit design for universal distribution using a superposition of classical automata](https://arxiv.org/abs/2006.00987)|[QuBio](https://github.com/Advanced-Research-Centre/QuBio)|
 ## 2022-02-23
 |paper|code|
 |---|---|
