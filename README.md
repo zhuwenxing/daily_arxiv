@@ -1,3 +1,13 @@
+## 2022-03-01
+|paper|code|
+|---|---|
+|[depth estimation from monocular images and sparse radar using deep ordinal regression network](https://arxiv.org/abs/2107.07596)|[DORN_radar](https://github.com/lochenchou/DORN_radar)|
+|[automated parkinson's disease detection and affective analysis from emotional eeg signals](https://arxiv.org/abs/2202.12936)|[pd-eeg](https://github.com/ravikiranrao/pd-eeg)|
+|[signal-to-noise ratio is more important than sampling rate in beat-to-beat interval estimation from optical sensors](https://arxiv.org/abs/2202.13651)|[ppg_sim_snr_fs](https://github.com/kismed-tuda/ppg_sim_snr_fs)|
+|[fast off-the-grid sparse recovery with over-parametrized projected gradient descent](https://arxiv.org/abs/2202.13757)|[opcomp_sparse_recovery](https://github.com/pjbenard/opcomp_sparse_recovery)|
+|[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
+|[sparsity-aware neural user behavior modeling in online interaction platforms](https://arxiv.org/abs/2202.13491)|[Inf-VAE](https://github.com/aravindsankar28/Inf-VAE)|
+|[kl divergence estimation with multi-group attribution](https://arxiv.org/abs/2202.13576)|[multigroup-kl](https://github.com/vatsalsharan/multigroup-kl)|
 ## 2022-02-28
 |paper|code|
 |---|---|
