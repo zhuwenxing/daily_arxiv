@@ -1,3 +1,11 @@
+## 2022-03-03
+|paper|code|
+|---|---|
+|[leveraging power grid topology in machine learning assisted optimal power flow](https://arxiv.org/abs/2110.00306)|[MLOPF.jl](https://github.com/tdfalc/MLOPF.jl)|
+|[a fast and scalable polyatomic frank-wolfe algorithm for the lasso](https://arxiv.org/abs/2112.02890)|[PolyatomicFW_SPL](https://github.com/AdriaJ/PolyatomicFW_SPL)|
+|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
+|[sketched rt3d: how to reconstruct billions of photons per second](https://arxiv.org/abs/2203.00952)|[real-time-sp-lidar](https://gitlab.com/tachella/real-time-sp-lidar)|
 ## 2022-03-02
 |paper|code|
 |---|---|
