@@ -1,3 +1,7 @@
+## 2022-03-04
+|paper|code|
+|---|---|
+|[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
 ## 2022-03-03
 |paper|code|
 |---|---|
