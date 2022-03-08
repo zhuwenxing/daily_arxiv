@@ -1,3 +1,13 @@
+## 2022-03-07
+|paper|code|
+|---|---|
+|[relay-assisted cooperative federated learning](https://arxiv.org/abs/2107.09518)|[relay-fl](https://github.com/zhlinup/relay-fl)|
+|[two-dimensional structure functions to characterize convective rolls in the marine atmospheric boundary layer from sentinel-1 sar images](https://arxiv.org/abs/2202.08538)|[2d-structure-functions](https://github.com/cgranerob/2d-structure-functions)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/bingzant/beats)|
+|[exploring scalable, distributed real-time anomaly detection for bridge health monitoring](https://arxiv.org/abs/2203.02380)|[real_time_bhm](https://github.com/miirho3ein/real_time_bhm)|
+|[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
+|[programmable optical data transmission through multimode fibres enabling confidentiality by physical layer security](https://arxiv.org/abs/2203.02064)|[mmf-physec](https://github.com/klb2/mmf-physec)|
 ## 2022-03-04
 |paper|code|
 |---|---|
@@ -7,7 +17,6 @@
 |---|---|
 |[leveraging power grid topology in machine learning assisted optimal power flow](https://arxiv.org/abs/2110.00306)|[MLOPF.jl](https://github.com/tdfalc/MLOPF.jl)|
 |[a fast and scalable polyatomic frank-wolfe algorithm for the lasso](https://arxiv.org/abs/2112.02890)|[PolyatomicFW_SPL](https://github.com/AdriaJ/PolyatomicFW_SPL)|
-|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
 |[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
 |[sketched rt3d: how to reconstruct billions of photons per second](https://arxiv.org/abs/2203.00952)|[real-time-sp-lidar](https://gitlab.com/tachella/real-time-sp-lidar)|
 ## 2022-03-02
