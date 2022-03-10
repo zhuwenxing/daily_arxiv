@@ -1,3 +1,12 @@
+## 2022-03-09
+|paper|code|
+|---|---|
+|[reconfigurable intelligent surfaces: a signal processing perspective with wireless applications](https://arxiv.org/abs/2102.00742)|[spm_ris](https://github.com/emilbjornson/spm_ris)|
+|[the terminating-knockoff filter: fast high-dimensional variable selection with false discovery rate control](https://arxiv.org/abs/2110.06048)|[tknock](https://github.com/jasinmachkour/tknock)|
+|[roadside lidar vehicle detection and tracking using range and intensity background subtraction](https://arxiv.org/abs/2201.04756)|[roadside-lidar-vehicle-detection-and-tracking-background-subtraction](https://github.com/teryzh/roadside-lidar-vehicle-detection-and-tracking-background-subtraction)|
+|[coding theory package for macaulay2](https://arxiv.org/abs/2007.06795)|[Workshop-2020-Cleveland](https://github.com/Macaulay2/Workshop-2020-Cleveland)|
+|[information theoretic structured generative modeling](https://arxiv.org/abs/2110.05794)|[structured-generative-modeling](https://github.com/bohu615/structured-generative-modeling)|
+|[fasura: a scheme for quasi-static massive mimo unsourced random access channels](https://arxiv.org/abs/2202.11042)|[mmtc](https://github.com/engprojects/mmtc)|
 ## 2022-03-08
 |paper|code|
 |---|---|
