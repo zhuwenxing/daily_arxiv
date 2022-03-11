@@ -23,7 +23,6 @@
 |[relay-assisted cooperative federated learning](https://arxiv.org/abs/2107.09518)|[relay-fl](https://github.com/zhlinup/relay-fl)|
 |[two-dimensional structure functions to characterize convective rolls in the marine atmospheric boundary layer from sentinel-1 sar images](https://arxiv.org/abs/2202.08538)|[2d-structure-functions](https://github.com/cgranerob/2d-structure-functions)|
 |[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/bingzant/beats)|
-|[exploring scalable, distributed real-time anomaly detection for bridge health monitoring](https://arxiv.org/abs/2203.02380)|[real_time_bhm](https://github.com/miirho3ein/real_time_bhm)|
 |[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
 |[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
 |[programmable optical data transmission through multimode fibres enabling confidentiality by physical layer security](https://arxiv.org/abs/2203.02064)|[mmf-physec](https://github.com/klb2/mmf-physec)|
