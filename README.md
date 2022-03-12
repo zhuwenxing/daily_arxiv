@@ -1,3 +1,7 @@
+## 2022-03-11
+|paper|code|
+|---|---|
+|[exploring scalable, distributed real-time anomaly detection for bridge health monitoring](https://arxiv.org/abs/2203.02380)|[real_time_bhm](https://github.com/miirho3ein/real_time_bhm)|
 ## 2022-03-09
 |paper|code|
 |---|---|
