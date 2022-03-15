@@ -1,3 +1,8 @@
+## 2022-03-14
+|paper|code|
+|---|---|
+|[kalmannet: neural network aided kalman filtering for partially known dynamics](https://arxiv.org/abs/2107.10043)|[KalmanNet_TSP](https://github.com/KalmanNet/KalmanNet_TSP)|
+|[nearest neighbor density functional estimation from inverse laplace transform](https://arxiv.org/abs/1805.08342)|[knn-functional-estimation](https://github.com/jongharyu/knn-functional-estimation)|
 ## 2022-03-11
 |paper|code|
 |---|---|
