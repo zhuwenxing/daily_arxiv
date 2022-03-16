@@ -1,3 +1,10 @@
+## 2022-03-15
+|paper|code|
+|---|---|
+|[self-supervised graph neural networks for improved electroencephalographic seizure analysis](https://arxiv.org/abs/2104.08336)|[eeg-gnn-ssl](https://github.com/tsy935/eeg-gnn-ssl)|
+|[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
+|[modelling non-smooth signals with complex spectral structure](https://arxiv.org/abs/2203.06997)|[gpcm](https://github.com/wesselb/gpcm)|
+|[a novel approach to the partial information decomposition](https://arxiv.org/abs/1908.08642)|[redundancy](https://github.com/artemyk/redundancy)|
 ## 2022-03-14
 |paper|code|
 |---|---|
