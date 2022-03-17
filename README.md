@@ -1,3 +1,14 @@
+## 2022-03-16
+|paper|code|
+|---|---|
+|[ensemble neural representation networks](https://arxiv.org/abs/2110.04124)|[enrp](https://github.com/alirezamorsali/enrp)|
+|[a regularization method to improve adversarial robustness of neural networks for ecg signal classification](https://arxiv.org/abs/2110.09759)|[robust_dnn_for_ecg](https://github.com/sarielma/robust_dnn_for_ecg)|
+|[benchmarking and interpreting end-to-end learning of mimo and multi-user communication](https://arxiv.org/abs/2203.07703)|[DeepLearning_MIMO](https://github.com/JSChalmers/DeepLearning_MIMO)|
+|[generalized rectifier wavelet covariance models for texture synthesis](https://arxiv.org/abs/2203.07902)|[wavelet-texture-synthesis](https://github.com/abrochar/wavelet-texture-synthesis)|
+|[minimal algorithmic information loss methods for dimension reduction, feature selection and network sparsification](https://arxiv.org/abs/1802.05843)|[Network-Robustness-by-Kolmogorov-Complexity](https://github.com/andandandand/Network-Robustness-by-Kolmogorov-Complexity)|
+|[optimal representations for covariate shift](https://arxiv.org/abs/2201.00057)|[optdom](https://github.com/ryoungj/optdom)|
+|[optimizing the communication-accuracy trade-off in federated learning with rate-distortion theory](https://arxiv.org/abs/2201.02664)|[compressed_communication](https://github.com/google-research/federated/tree/1b31b84/compressed_communication)|
+|[optimal denoising of rotationally invariant rectangular matrices](https://arxiv.org/abs/2203.07752)|[rectangular_rie](https://github.com/penombraet/rectangular_rie)|
 ## 2022-03-15
 |paper|code|
 |---|---|
