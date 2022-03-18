@@ -1,3 +1,8 @@
+## 2022-03-17
+|paper|code|
+|---|---|
+|[robust equivariant imaging: a fully unsupervised framework for learning to image from noisy and partial measurements](https://arxiv.org/abs/2111.12855)|[rei](https://github.com/edongdongchen/rei)|
+|[lossless compression with probabilistic circuits](https://arxiv.org/abs/2111.11632)|[pressedjuice.jl](https://github.com/juice-jl/pressedjuice.jl)|
 ## 2022-03-16
 |paper|code|
 |---|---|
