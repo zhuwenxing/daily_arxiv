@@ -1,3 +1,7 @@
+## 2022-03-18
+|paper|code|
+|---|---|
+|[enhancement of a state-of-the-art rl-based detection algorithm for massive mimo radars](https://arxiv.org/abs/2112.02628)|[improved_rl_algorithm_mmimo_radar](https://github.com/lisifra96/improved_rl_algorithm_mmimo_radar)|
 ## 2022-03-17
 |paper|code|
 |---|---|
