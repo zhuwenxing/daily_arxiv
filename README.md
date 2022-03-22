@@ -1,3 +1,7 @@
+## 2022-03-21
+|paper|code|
+|---|---|
+|[generative principal component analysis](https://arxiv.org/abs/2203.09693)|[GenerativePCA](https://github.com/liuzq09/GenerativePCA)|
 ## 2022-03-18
 |paper|code|
 |---|---|
