@@ -1,8 +1,14 @@
+## 2022-03-23
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
 ## 2022-03-22
 |paper|code|
 |---|---|
 |[phase collapse in neural networks](https://arxiv.org/abs/2110.05283)|[phasecollapse](https://github.com/florentinguth/phasecollapse)|
 |[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
+|[efficient doa estimation method for reconfigurable intelligent surfaces aided uav swarm](https://arxiv.org/abs/2203.10219)|[adpp](https://github.com/chenpengseu/adpp)|
 |[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
 |[graph neural networks for wireless communications: from theory to practice](https://arxiv.org/abs/2203.10800)|[gnn4com](https://github.com/yshenaw/gnn4com)|
 |[learning resilient radio resource management policies with graph neural networks](https://arxiv.org/abs/2203.11012)|[Resilient_RRM_GNN](https://github.com/navid-naderi/Resilient_RRM_GNN)|
@@ -10,7 +16,7 @@
 ## 2022-03-21
 |paper|code|
 |---|---|
-|[estimation of consistent time delays in subsample via auxiliary-function-based iterative updates](https://arxiv.org/abs/2203.09723)|[auxtde](https://github.com/onolab-tmu/auxtde)|
+|[lead-agnostic self-supervised learning for local and global representations of electrocardiogram](https://arxiv.org/abs/2203.06889)|[fairseq-signals](https://github.com/jwoo5/fairseq-signals)|
 |[generative principal component analysis](https://arxiv.org/abs/2203.09693)|[GenerativePCA](https://github.com/liuzq09/GenerativePCA)|
 ## 2022-03-18
 |paper|code|
