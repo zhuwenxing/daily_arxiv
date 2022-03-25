@@ -1,3 +1,15 @@
+## 2022-03-24
+|paper|code|
+|---|---|
+|[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
+|[estimation of consistent time delays in subsample via auxiliary-function-based iterative updates](https://arxiv.org/abs/2203.09723)|[auxtde](https://github.com/onolab-tmu/auxtde)|
+|[transsleep: transitioning-aware attention-based deep neural network for sleep staging](https://arxiv.org/abs/2203.12590)|[transsleep](https://github.com/ku-milab/transsleep)|
+|[deep learning based intelligent coin-tap test for defect recognition](https://arxiv.org/abs/2203.12594)|[torch-tapnet](https://github.com/pphub-hy/torch-tapnet)|
+|[physiomtl: personalizing physiological patterns using optimal transport multi-task regression](https://arxiv.org/abs/2203.12595)|[mmash](https://github.com/rossialessio/mmash)|
+|[fast quantum state reconstruction via accelerated non-convex programming](https://arxiv.org/abs/2104.07006)|[MiFGD](https://github.com/gidiko/MiFGD)|
+|[scale-invariant representation of machine learning](https://arxiv.org/abs/2109.02914)|[powerlaw_ml](https://github.com/sungyeop/powerlaw_ml)|
+|[node representation learning in graph via node-to-neighbourhood mutual information maximization](https://arxiv.org/abs/2203.12265)|[n2n](https://github.com/dongwei156/n2n)|
+|[the impact of partial packet recovery on the inherent secrecy of random linear coding](https://arxiv.org/abs/2203.12336)|[vtc2022-spring](https://github.com/ioannischatzigeorgiou/vtc2022-spring)|
 ## 2022-03-23
 |paper|code|
 |---|---|
