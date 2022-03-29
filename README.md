@@ -1,3 +1,7 @@
+## 2022-03-28
+|paper|code|
+|---|---|
+|[bddm: bilateral denoising diffusion models for fast and high-quality speech synthesis](https://arxiv.org/abs/2203.13508)|[bddm](https://github.com/tencent-ailab/bddm)|
 ## 2022-03-25
 |paper|code|
 |---|---|
