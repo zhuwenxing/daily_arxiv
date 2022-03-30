@@ -1,3 +1,12 @@
+## 2022-03-29
+|paper|code|
+|---|---|
+|[deep unfolding basis pursuit: improving sparse channel reconstruction via data-driven measurement matrices](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/pengxiawu/DeepBP-AE)|
+|[parametric scattering networks](https://arxiv.org/abs/2107.09539)|[ParametricScatteringNetworks](https://github.com/bentherien/ParametricScatteringNetworks)|
+|[predicting the impact of formation protocols on battery lifetime immediately after manufacturing](https://arxiv.org/abs/2203.14158)|[fast-formation](https://github.com/wengandrew/fast-formation)|
+|[distributed link sparsification for scalable scheduling using graph neural networks](https://arxiv.org/abs/2203.14339)|[gcn-sparsify](https://github.com/zhongyuanzhao/gcn-sparsify)|
+|[q-ppg: energy-efficient ppg-based heart rate monitoring on wearable devices](https://arxiv.org/abs/2203.14907)|[q-ppg](https://github.com/embeddedml-edagroup/q-ppg)|
+|[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
 ## 2022-03-28
 |paper|code|
 |---|---|
