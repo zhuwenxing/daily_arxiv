@@ -1,3 +1,13 @@
+## 2022-03-30
+|paper|code|
+|---|---|
+|[multiple hypothesis testing framework for spatial signals](https://arxiv.org/abs/2108.12314)|[lfdr-smom](https://github.com/mgoelz95/lfdr-smom)|
+|[an approximate expectation-maximization for two-dimensional multi-target detection](https://arxiv.org/abs/2110.02289)|[mtd-2d-em](https://github.com/krshay/mtd-2d-em)|
+|[physics informed neural networks for control oriented thermal modeling of buildings](https://arxiv.org/abs/2111.12066)|[physnet_thermal_models](https://github.com/gargyagokhale/physnet_thermal_models)|
+|[separate what you describe: language-queried audio source separation](https://arxiv.org/abs/2203.15147)|[lass](https://github.com/liuxubo717/lass)|
+|[analysis of eeg frequency bands for envisioned speech recognition](https://arxiv.org/abs/2203.15250)|[imaginedspeechrecognition](https://github.com/ayushayt/imaginedspeechrecognition)|
+|[over-the-air federated learning via second-order optimization](https://arxiv.org/abs/2203.15488)|[AirFL-2nd](https://github.com/Golden-Slumber/AirFL-2nd)|
+|[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
 ## 2022-03-29
 |paper|code|
 |---|---|
@@ -5,6 +15,7 @@
 |[parametric scattering networks](https://arxiv.org/abs/2107.09539)|[ParametricScatteringNetworks](https://github.com/bentherien/ParametricScatteringNetworks)|
 |[predicting the impact of formation protocols on battery lifetime immediately after manufacturing](https://arxiv.org/abs/2203.14158)|[fast-formation](https://github.com/wengandrew/fast-formation)|
 |[distributed link sparsification for scalable scheduling using graph neural networks](https://arxiv.org/abs/2203.14339)|[gcn-sparsify](https://github.com/zhongyuanzhao/gcn-sparsify)|
+|[online meta-learning for hybrid model-based deep receivers](https://arxiv.org/abs/2203.14359)|[metadeepsic](https://github.com/tomerraviv95/metadeepsic)|
 |[q-ppg: energy-efficient ppg-based heart rate monitoring on wearable devices](https://arxiv.org/abs/2203.14907)|[q-ppg](https://github.com/embeddedml-edagroup/q-ppg)|
 |[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
 ## 2022-03-28
