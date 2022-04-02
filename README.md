@@ -1,3 +1,11 @@
+## 2022-04-01
+|paper|code|
+|---|---|
+|[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
+|[time-coded spiking fourier transform in neuromorphic hardware](https://arxiv.org/abs/2202.12650)|[time-coded-SFT](https://github.com/KI-ASIC-TUM/time-coded-SFT)|
+|[direction of arrival estimation of sound sources using icosahedral cnns](https://arxiv.org/abs/2203.16940)|[icodoa](https://github.com/daviddiazguerra/icodoa)|
+|[differentially private federated learning via reconfigurable intelligent surface](https://arxiv.org/abs/2203.17028)|[fl_privacy_blockcrossing](https://github.com/mengcongwo/fl_privacy_blockcrossing)|
+|[lead1.0: a large-scale annotated dataset for energy anomaly detection in commercial buildings](https://arxiv.org/abs/2203.17256)|[lead-dataset](https://github.com/samy101/lead-dataset)|
 ## 2022-03-31
 |paper|code|
 |---|---|
