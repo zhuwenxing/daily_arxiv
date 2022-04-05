@@ -1,8 +1,12 @@
+## 2022-04-04
+|paper|code|
+|---|---|
+|[a fast transformer-based general-purpose lossless compressor](https://arxiv.org/abs/2203.16114)|[a-fast-transformer-based-general-purpose-losslesscompressor](https://github.com/mynotwo/a-fast-transformer-based-general-purpose-losslesscompressor)|
+|[robust remote estimation over the collision channel in the presence of an intelligent jammer](https://arxiv.org/abs/2204.00148)|[cdc22](https://github.com/mullervasconcelos/cdc22)|
 ## 2022-04-01
 |paper|code|
 |---|---|
 |[single-pixel compressive imaging in shift-invariant spaces via exact wavelet frames](https://arxiv.org/abs/2106.00404)|[compressive_imaging_in_si_spaces](https://github.com/retiro/compressive_imaging_in_si_spaces)|
-|[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
 |[time-coded spiking fourier transform in neuromorphic hardware](https://arxiv.org/abs/2202.12650)|[time-coded-SFT](https://github.com/KI-ASIC-TUM/time-coded-SFT)|
 |[direction of arrival estimation of sound sources using icosahedral cnns](https://arxiv.org/abs/2203.16940)|[icodoa](https://github.com/daviddiazguerra/icodoa)|
 |[vqf: highly accurate imu orientation estimation with bias estimation and magnetic disturbance rejection](https://arxiv.org/abs/2203.17024)|[vqf](https://github.com/dlaidig/vqf)|
