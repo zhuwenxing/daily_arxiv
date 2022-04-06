@@ -1,3 +1,10 @@
+## 2022-04-05
+|paper|code|
+|---|---|
+|[electrocardio panorama: synthesizing new ecg views with self-supervision](https://arxiv.org/abs/2105.06293)|[Electrocardio-Panorama](https://github.com/WhatAShot/Electrocardio-Panorama)|
+|[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
+|[power allocation for wireless federated learning using graph neural networks](https://arxiv.org/abs/2111.07480)|[wirelessfl-pdgnet](https://github.com/bl166/wirelessfl-pdgnet)|
+|[variational message passing for online polynomial narmax identification](https://arxiv.org/abs/2204.00769)|[acc2022-vmpnarmax](https://github.com/biaslab/acc2022-vmpnarmax)|
 ## 2022-04-04
 |paper|code|
 |---|---|
