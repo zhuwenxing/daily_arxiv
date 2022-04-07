@@ -1,6 +1,14 @@
+## 2022-04-06
+|paper|code|
+|---|---|
+|[the generalized method of moments for multi-reference alignment](https://arxiv.org/abs/2103.02215)|[gmm-cryo](https://github.com/abasasa/gmm-cryo)|
+|[patient contrastive learning: a performant, expressive, and practical approach to ecg modeling](https://arxiv.org/abs/2104.04569)|[ml4h](https://github.com/broadinstitute/ml4h)|
+|[gan-based joint activity detection and channel estimation for grant-free random access](https://arxiv.org/abs/2204.01731)|[jadce](https://github.com/deeeeeeplearning/jadce)|
+|[wifieye -- seeing over wifi made accessible](https://arxiv.org/abs/2204.01830)|[wifieye](https://github.com/pkindt/wifieye)|
 ## 2022-04-05
 |paper|code|
 |---|---|
+|[vehicular visible light positioning for collision avoidance and platooning: a survey](https://arxiv.org/abs/2010.09858)|[vehicular-vlp-simulations](https://github.com/sonebu/vehicular-vlp-simulations)|
 |[electrocardio panorama: synthesizing new ecg views with self-supervision](https://arxiv.org/abs/2105.06293)|[Electrocardio-Panorama](https://github.com/WhatAShot/Electrocardio-Panorama)|
 |[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
 |[power allocation for wireless federated learning using graph neural networks](https://arxiv.org/abs/2111.07480)|[wirelessfl-pdgnet](https://github.com/bl166/wirelessfl-pdgnet)|
