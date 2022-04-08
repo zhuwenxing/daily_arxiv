@@ -1,10 +1,15 @@
+## 2022-04-07
+|paper|code|
+|---|---|
+|[hrtf measurement for accurate sound localization cues](https://arxiv.org/abs/2203.03166)|[hrtf-hats-kaist](https://github.com/han-saram/hrtf-hats-kaist)|
+|[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
+|[spider-web enables stable, repairable, and encryptible algorithms under arbitrary local biochemical constraints in dna-based storage](https://arxiv.org/abs/2204.02855)|[dnaspiderweb](https://github.com/haolingzhang/dnaspiderweb)|
 ## 2022-04-06
 |paper|code|
 |---|---|
 |[the generalized method of moments for multi-reference alignment](https://arxiv.org/abs/2103.02215)|[gmm-cryo](https://github.com/abasasa/gmm-cryo)|
 |[patient contrastive learning: a performant, expressive, and practical approach to ecg modeling](https://arxiv.org/abs/2104.04569)|[ml4h](https://github.com/broadinstitute/ml4h)|
 |[gan-based joint activity detection and channel estimation for grant-free random access](https://arxiv.org/abs/2204.01731)|[jadce](https://github.com/deeeeeeplearning/jadce)|
-|[wifieye -- seeing over wifi made accessible](https://arxiv.org/abs/2204.01830)|[wifieye](https://github.com/pkindt/wifieye)|
 ## 2022-04-05
 |paper|code|
 |---|---|
