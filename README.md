@@ -1,3 +1,10 @@
+## 2022-04-08
+|paper|code|
+|---|---|
+|[wifieye -- seeing over wifi made accessible](https://arxiv.org/abs/2204.01830)|[wifieye](https://github.com/pkindt/wifieye)|
+|[muleeg: a multi-view representation learning on eeg signals](https://arxiv.org/abs/2204.03272)|[muleeg](https://github.com/likith012/muleeg)|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[rf signal transformation and classification using deep neural networks](https://arxiv.org/abs/2204.03564)|[rf_classification](https://github.com/umarkhalidcs/rf_classification)|
 ## 2022-04-07
 |paper|code|
 |---|---|
