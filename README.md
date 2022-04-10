@@ -5,6 +5,7 @@
 |[muleeg: a multi-view representation learning on eeg signals](https://arxiv.org/abs/2204.03272)|[muleeg](https://github.com/likith012/muleeg)|
 |[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
 |[rf signal transformation and classification using deep neural networks](https://arxiv.org/abs/2204.03564)|[rf_classification](https://github.com/umarkhalidcs/rf_classification)|
+|[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
 ## 2022-04-07
 |paper|code|
 |---|---|
