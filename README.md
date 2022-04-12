@@ -1,3 +1,12 @@
+## 2022-04-11
+|paper|code|
+|---|---|
+|[cnn-based approaches for cross-subject classification in motor imagery: from the state-of-the-art to dynamicnet](https://arxiv.org/abs/2105.07917)|[Dynamic-PyTorch-Net](https://github.com/jesus-333/Dynamic-PyTorch-Net)|
+|[multi-centroid hyperdimensional computing approach for epileptic seizure detection](https://arxiv.org/abs/2111.08463)|[](https://c4science.ch/source/MultiCentroidHD_public/)|
+|[deconvolution of the functional ultrasound response in the mouse visual pathway using block-term decomposition](https://arxiv.org/abs/2204.03711)|[btd_deconv](https://github.com/ayerol/btd_deconv)|
+|[design of an optimal testbed for tracking of tagged marine megafauna](https://arxiv.org/abs/2204.04155)|[receiver-deployment](https://github.com/kerentalmon/receiver-deployment)|
+|[automatic data augmentation selection and parametrization in contrastive self-supervised speech representation learning](https://arxiv.org/abs/2204.04170)|[augmentations](https://github.com/salah-zaiem/augmentations)|
+|[recovering or testing extended-affine equivalence](https://arxiv.org/abs/2103.00078)|[EA_equivalence_for_quadratic_functions](https://github.com/alaincouvreur/EA_equivalence_for_quadratic_functions)|
 ## 2022-04-08
 |paper|code|
 |---|---|
@@ -11,7 +20,6 @@
 |---|---|
 |[hrtf measurement for accurate sound localization cues](https://arxiv.org/abs/2203.03166)|[hrtf-hats-kaist](https://github.com/han-saram/hrtf-hats-kaist)|
 |[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
-|[spider-web enables stable, repairable, and encryptible algorithms under arbitrary local biochemical constraints in dna-based storage](https://arxiv.org/abs/2204.02855)|[dnaspiderweb](https://github.com/haolingzhang/dnaspiderweb)|
 ## 2022-04-06
 |paper|code|
 |---|---|
