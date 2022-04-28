@@ -1,3 +1,8 @@
+## 2022-04-27
+|paper|code|
+|---|---|
+|[block alternating bregman majorization minimization with extrapolation](https://arxiv.org/abs/2107.04395)|[BMME](https://github.com/LeThiKhanhHien/BMME)|
+|[encoding cardiopulmonary exercise testing time series as images for classification using convolutional neural network](https://arxiv.org/abs/2204.12432)|[multivariatetimeseries](https://github.com/yashsharma/multivariatetimeseries)|
 ## 2022-04-26
 |paper|code|
 |---|---|
