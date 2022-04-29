@@ -1,3 +1,10 @@
+## 2022-04-28
+|paper|code|
+|---|---|
+|[1-bit compressive sensing via approximate message passing with built-in parameter estimation](https://arxiv.org/abs/2007.07679)|[1Bit-CS](https://github.com/shuai-huang/1Bit-CS)|
+|[salience: an unsupervised user adaptation model for multiple wearable sensors based human activity recognition](https://arxiv.org/abs/2108.10213)|[SALIENCE](https://github.com/wdkhuans/SALIENCE)|
+|[leveraging power grid topology in machine learning assisted optimal power flow](https://arxiv.org/abs/2110.00306)|[MLOPF.jl](https://github.com/tdfalc/MLOPF.jl)|
+|[music source separation with generative flow](https://arxiv.org/abs/2204.09079)|[generativesourceseparation](https://github.com/gzhu06/generativesourceseparation)|
 ## 2022-04-27
 |paper|code|
 |---|---|
