@@ -1,3 +1,9 @@
+## 2022-04-29
+|paper|code|
+|---|---|
+|[real-time outdoor localization using radio maps: a deep learning approach](https://arxiv.org/abs/2106.12556)|[LocUNet](https://github.com/CagkanYapar/LocUNet)|
+|[attention based neural networks for wireless channel estimation](https://arxiv.org/abs/2204.13465)|[Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation](https://github.com/dianixn/Attention_Based_Neural_Networks_for_Wireless_Channel_Estimation)|
+|[interpretable collective intelligence of non-rational human agents](https://arxiv.org/abs/2204.13424)|[collective-intelligence-research](https://github.com/nicknick85/collective-intelligence-research)|
 ## 2022-04-28
 |paper|code|
 |---|---|
