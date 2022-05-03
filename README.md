@@ -1,3 +1,9 @@
+## 2022-05-02
+|paper|code|
+|---|---|
+|[ramp-cnn: a novel neural network for enhanced automotive radar object recognition](https://arxiv.org/abs/2011.08981)|[radar-multiple-perspective-object-detection](https://github.com/xiangyu-gao/radar-multiple-perspective-object-detection)|
+|[an investigation of the effectiveness of phase for audio classification](https://arxiv.org/abs/2110.02878)|[investigation-phase](https://github.com/onkyo14taro/investigation-phase)|
+|[linguistic dependencies and statistical dependence](https://arxiv.org/abs/2104.08685)|[cpmi-dependencies](https://github.com/mcqll/cpmi-dependencies)|
 ## 2022-04-29
 |paper|code|
 |---|---|
