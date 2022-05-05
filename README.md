@@ -1,3 +1,9 @@
+## 2022-05-04
+|paper|code|
+|---|---|
+|[reconfigurable intelligent surface phase hopping for ultra-reliable communications](https://arxiv.org/abs/2107.11852)|[ris-phase-hopping](https://github.com/klb2/ris-phase-hopping)|
+|[zeros of gaussian weyl-heisenberg functions and hyperuniformity of charge](https://arxiv.org/abs/2012.12298)|[gwhf](https://github.com/gkoliander/gwhf)|
+|[modeling and correcting bias in sequential evaluation](https://arxiv.org/abs/2205.01607)|[sequential-bias](https://github.com/jingyanw/sequential-bias)|
 ## 2022-05-03
 |paper|code|
 |---|---|
