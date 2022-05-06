@@ -1,3 +1,9 @@
+## 2022-05-05
+|paper|code|
+|---|---|
+|[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
+|[multiple testing and variable selection along the path of the least angle regression](https://arxiv.org/abs/1906.12072)|[lar_testing](https://github.com/ydecastro/lar_testing)|
+|[aligning random graphs with a sub-tree similarity message-passing algorithm](https://arxiv.org/abs/2112.13079)|[graph_alignment](https://github.com/giovannipiccioli/graph_alignment)|
 ## 2022-05-04
 |paper|code|
 |---|---|
