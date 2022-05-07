@@ -1,3 +1,8 @@
+## 2022-05-06
+|paper|code|
+|---|---|
+|[minimax estimation of partially-observed vector autoregressions](https://arxiv.org/abs/2106.09327)|[POVAR.jl](https://github.com/gdalle/POVAR.jl)|
+|[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
 ## 2022-05-05
 |paper|code|
 |---|---|
