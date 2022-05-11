@@ -1,3 +1,10 @@
+## 2022-05-10
+|paper|code|
+|---|---|
+|[using a drone sounder to measure channels for cell-free massive mimo systems](https://arxiv.org/abs/2106.15276)|[CF-mMIMO](https://github.com/tomathchoi/CF-mMIMO)|
+|[variational sparse coding with learned thresholding](https://arxiv.org/abs/2205.03665)|[variational-sparse-coding](https://github.com/kfallah/variational-sparse-coding)|
+|[far from asymptopia](https://arxiv.org/abs/2205.03343)|[atomicpriors.jl](https://github.com/mcabbott/atomicpriors.jl)|
+|[pervasive machine learning for smart radio environments enabled by reconfigurable intelligent surfaces](https://arxiv.org/abs/2205.03793)|[drl_ris_tutorial](https://github.com/noesyslab/drl_ris_tutorial)|
 ## 2022-05-09
 |paper|code|
 |---|---|
