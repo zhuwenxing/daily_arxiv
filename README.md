@@ -1,10 +1,19 @@
+## 2022-05-11
+|paper|code|
+|---|---|
+|[learning to continuously optimize wireless resource in a dynamic environment: a bilevel optimization perspective](https://arxiv.org/abs/2105.01696)|[TSP_CL](https://github.com/Haoran-S/TSP_CL)|
+|[energy and age pareto optimal trajectories in uav-assisted wireless data collection](https://arxiv.org/abs/2106.03822)|[aoienergyuavtraopt](https://github.com/yuanliaoo/aoienergyuavtraopt)|
+|[variational sparse coding with learned thresholding](https://arxiv.org/abs/2205.03665)|[variational-sparse-coding](https://github.com/kfallah/variational-sparse-coding)|
+|[gridwarm: towards practical physics-informed ml design and evaluation for power grid](https://arxiv.org/abs/2205.03673)|[gridwarm](https://github.com/ohcindy/gridwarm)|
+|[pervasive machine learning for smart radio environments enabled by reconfigurable intelligent surfaces](https://arxiv.org/abs/2205.03793)|[drl_ris_tutorial](https://github.com/noesyslab/drl_ris_tutorial)|
+|[zeros of gaussian weyl-heisenberg functions and hyperuniformity of charge](https://arxiv.org/abs/2012.12298)|[gwhf](https://github.com/gkoliander/gwhf)|
+|[universal caching](https://arxiv.org/abs/2205.04860)|[universalcaching](https://github.com/ativjoshi/universalcaching)|
 ## 2022-05-10
 |paper|code|
 |---|---|
 |[using a drone sounder to measure channels for cell-free massive mimo systems](https://arxiv.org/abs/2106.15276)|[CF-mMIMO](https://github.com/tomathchoi/CF-mMIMO)|
-|[variational sparse coding with learned thresholding](https://arxiv.org/abs/2205.03665)|[variational-sparse-coding](https://github.com/kfallah/variational-sparse-coding)|
+|[hierarchical dirichlet process based gamma mixture modelling for terahertz band wireless communication channels](https://arxiv.org/abs/2205.03812)|[DPGMM-Channel-Modelling](https://github.com/erhankarakoca/DPGMM-Channel-Modelling)|
 |[far from asymptopia](https://arxiv.org/abs/2205.03343)|[atomicpriors.jl](https://github.com/mcabbott/atomicpriors.jl)|
-|[pervasive machine learning for smart radio environments enabled by reconfigurable intelligent surfaces](https://arxiv.org/abs/2205.03793)|[drl_ris_tutorial](https://github.com/noesyslab/drl_ris_tutorial)|
 ## 2022-05-09
 |paper|code|
 |---|---|
