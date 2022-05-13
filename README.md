@@ -1,3 +1,8 @@
+## 2022-05-12
+|paper|code|
+|---|---|
+|[advanced sleep spindle identification with neural networks](https://arxiv.org/abs/2202.05158)|[sumo](https://github.com/dslaborg/sumo)|
+|[deepfilternet2: towards real-time speech enhancement on embedded devices for full-band audio](https://arxiv.org/abs/2205.05474)|[deepfilternet](https://github.com/rikorose/deepfilternet)|
 ## 2022-05-11
 |paper|code|
 |---|---|
