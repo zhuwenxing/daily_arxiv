@@ -1,7 +1,13 @@
+## 2022-05-13
+|paper|code|
+|---|---|
+|[annealed langevin dynamics for massive mimo detection](https://arxiv.org/abs/2205.05776)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
+|[how well does surprisal explain n400 amplitude under different experimental conditions?](https://arxiv.org/abs/2010.04844)|[does-surprisal-explain-n400](https://github.com/jmichaelov/does-surprisal-explain-n400)|
 ## 2022-05-12
 |paper|code|
 |---|---|
 |[advanced sleep spindle identification with neural networks](https://arxiv.org/abs/2202.05158)|[sumo](https://github.com/dslaborg/sumo)|
+|[intelligent reflecting surface configurations for smart radio using deep reinforcement learning](https://arxiv.org/abs/2205.05269)|[irsconfigurationdrl](https://github.com/weiwang-wys/irsconfigurationdrl)|
 |[deepfilternet2: towards real-time speech enhancement on embedded devices for full-band audio](https://arxiv.org/abs/2205.05474)|[deepfilternet](https://github.com/rikorose/deepfilternet)|
 ## 2022-05-11
 |paper|code|
