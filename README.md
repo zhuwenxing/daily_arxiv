@@ -1,3 +1,9 @@
+## 2022-05-16
+|paper|code|
+|---|---|
+|[r-local sensing: improved algorithm and applications](https://arxiv.org/abs/2110.14034)|[proximal-alt-min-for-uls-udgp](https://github.com/aabbas02/proximal-alt-min-for-uls-udgp)|
+|[probabilistic estimation of chirp instantaneous frequency using gaussian processes](https://arxiv.org/abs/2205.06306)|[chirpgp](https://github.com/spdes/chirpgp)|
+|[data-driven upper bounds on channel capacity](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
 ## 2022-05-13
 |paper|code|
 |---|---|
