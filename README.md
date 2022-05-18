@@ -1,3 +1,14 @@
+## 2022-05-17
+|paper|code|
+|---|---|
+|[two-dimensional multi-target detection: an autocorrelation analysis approach](https://arxiv.org/abs/2105.06765)|[MTD-2D](https://github.com/krshay/MTD-2D)|
+|[generalized autocorrelation analysis for multi-target detection](https://arxiv.org/abs/2109.11813)|[mtd-gmm](https://github.com/krshay/mtd-gmm)|
+|[an approximate expectation-maximization for two-dimensional multi-target detection](https://arxiv.org/abs/2110.02289)|[mtd-2d-em](https://github.com/krshay/mtd-2d-em)|
+|[over-the-air ensemble inference with model privacy](https://arxiv.org/abs/2202.03129)|[oac-based-private-ensembles](https://github.com/selimfirat/oac-based-private-ensembles)|
+|[recovering or testing extended-affine equivalence](https://arxiv.org/abs/2103.00078)|[EA_equivalence_for_quadratic_functions](https://github.com/alaincouvreur/EA_equivalence_for_quadratic_functions)|
+|[hybrid beam alignment for multi-path channels: a group testing viewpoint](https://arxiv.org/abs/2111.08159)|[beamforming](https://github.com/ozleemyildiz/beamforming)|
+|[analog secure distributed matrix multiplication over complex numbers](https://arxiv.org/abs/2202.03352)|[sdmm-over-complex](https://github.com/okkomakkonen/sdmm-over-complex)|
+|[mind: maximum mutual information based neural decoder](https://arxiv.org/abs/2205.07061)|[mind-neural-decoder](https://github.com/tonellolab/mind-neural-decoder)|
 ## 2022-05-16
 |paper|code|
 |---|---|
