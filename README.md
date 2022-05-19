@@ -1,3 +1,10 @@
+## 2022-05-18
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[r-local unlabeled sensing: a novel graph matching approach for multiview unlabeled sensing under local permutations](https://arxiv.org/abs/1911.06382)|[QAP-for-ULS](https://github.com/aabbas02/QAP-for-ULS)|
+|[visual sensor network stimulation model identification via gaussian mixture model and deep embedded features](https://arxiv.org/abs/2201.06804)|[vsn-with-ae](https://github.com/luca-varotto/vsn-with-ae)|
+|[near out-of-distribution detection for low-resolution radar micro-doppler signatures](https://arxiv.org/abs/2205.07869)|[doppler-signatures-generation](https://github.com/blupblupblup/doppler-signatures-generation)|
 ## 2022-05-17
 |paper|code|
 |---|---|
