@@ -1,3 +1,11 @@
+## 2022-05-19
+|paper|code|
+|---|---|
+|[link scheduling using graph neural networks](https://arxiv.org/abs/2109.05536)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[stride: a flexible platform for high-performance ultrasound computed tomography](https://arxiv.org/abs/2110.03345)|[stride](https://github.com/trustimaging/stride)|
+|[robust photon-efficient imaging using a pixel-wise residual shrinkage network](https://arxiv.org/abs/2201.01453)|[robust-photon-efficient-imaging-using-prsnet](https://github.com/y2w-oc/robust-photon-efficient-imaging-using-prsnet)|
+|[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
+|[lower-bounds on the bayesian risk in estimation procedures via $f$-divergences](https://arxiv.org/abs/2202.02557)|[f_divergences_lower_bounds](https://github.com/Adirlou/f_divergences_lower_bounds)|
 ## 2022-05-18
 |paper|code|
 |---|---|
