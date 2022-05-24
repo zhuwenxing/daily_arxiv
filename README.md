@@ -1,3 +1,8 @@
+## 2022-05-23
+|paper|code|
+|---|---|
+|[multivariate public key cryptosystem from sidon spaces](https://arxiv.org/abs/2106.07785)|[Sidon-Cryptosystem](https://github.com/b-langton/Sidon-Cryptosystem)|
+|[optimizing the communication-accuracy trade-off in federated learning with rate-distortion theory](https://arxiv.org/abs/2201.02664)|[compressed_communication](https://github.com/google-research/federated/tree/1b31b84/compressed_communication)|
 ## 2022-05-20
 |paper|code|
 |---|---|
