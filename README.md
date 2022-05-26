@@ -1,3 +1,9 @@
+## 2022-05-25
+|paper|code|
+|---|---|
+|[a tutorial on terahertz-band localization for 6g communication systems](https://arxiv.org/abs/2110.08581)|[radio_localization](https://github.com/chenhui07c8/radio_localization)|
+|[towards practical physics-informed ml design and evaluation for power grid](https://arxiv.org/abs/2205.03673)|[gridwarm](https://github.com/ohcindy/gridwarm)|
+|[multi-agent feedback enabled neural networks for intelligent communications](https://arxiv.org/abs/2205.10750)|[MAFENN_TRANS_2022](https://github.com/liyang619/MAFENN_TRANS_2022)|
 ## 2022-05-24
 |paper|code|
 |---|---|
