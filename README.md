@@ -1,3 +1,8 @@
+## 2022-05-26
+|paper|code|
+|---|---|
+|[a real-world radio frequency signal dataset based on lte system and variable channels](https://arxiv.org/abs/2205.12577)|[xsrpdataset](https://github.com/njuptzsp/xsrpdataset)|
+|[ultra-compact binary neural networks for human activity recognition on risc-v processors](https://arxiv.org/abs/2205.12781)|[ultracompactbnn](https://github.com/francescodaghero/ultracompactbnn)|
 ## 2022-05-25
 |paper|code|
 |---|---|
