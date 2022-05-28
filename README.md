@@ -1,3 +1,7 @@
+## 2022-05-27
+|paper|code|
+|---|---|
+|[multi-layer state evolution under random convolutional design](https://arxiv.org/abs/2205.13503)|[conv-ml-amp](https://github.com/mdnls/conv-ml-amp)|
 ## 2022-05-26
 |paper|code|
 |---|---|
