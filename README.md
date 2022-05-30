@@ -16,6 +16,7 @@
 ## 2022-05-24
 |paper|code|
 |---|---|
+|[position aided beam prediction in the real world: how useful gps locations actually are?](https://arxiv.org/abs/2205.09054)|[position-beam-prediction](https://github.com/jmoraispk/position-beam-prediction)|
 |[approximate message passing with parameter estimation for heavily quantized measurements](https://arxiv.org/abs/2205.10448)|[1Bit-CS](https://github.com/shuai-huang/1Bit-CS)|
 |[antenna selection in switch-based mimo arrays via doa threshold region approximation](https://arxiv.org/abs/2205.10807)|[radio_localization](https://github.com/chenhui07c8/radio_localization)|
 |[neural augmented min-sum decoding of short block codes for fading channels](https://arxiv.org/abs/2205.10684)|[nams](https://github.com/sravan-ankireddy/nams)|
