@@ -1,3 +1,8 @@
+## 2022-05-30
+|paper|code|
+|---|---|
+|[generalizing brain decoding across subjects with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[auditing differential privacy in high dimensions with the kernel quantum r\'enyi divergence](https://arxiv.org/abs/2205.13941)|[kernel_renyi_dp](https://github.com/cdenrich/kernel_renyi_dp)|
 ## 2022-05-27
 |paper|code|
 |---|---|
@@ -5,6 +10,7 @@
 ## 2022-05-26
 |paper|code|
 |---|---|
+|[over-the-air design of gan training for mmwave mimo channel estimation](https://arxiv.org/abs/2205.12445)|[ota-gan-mimo-ce](https://github.com/akashsdoshi96/ota-gan-mimo-ce)|
 |[a real-world radio frequency signal dataset based on lte system and variable channels](https://arxiv.org/abs/2205.12577)|[xsrpdataset](https://github.com/njuptzsp/xsrpdataset)|
 |[ultra-compact binary neural networks for human activity recognition on risc-v processors](https://arxiv.org/abs/2205.12781)|[ultracompactbnn](https://github.com/francescodaghero/ultracompactbnn)|
 ## 2022-05-25
