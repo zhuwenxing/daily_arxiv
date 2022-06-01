@@ -1,6 +1,12 @@
+## 2022-05-31
+|paper|code|
+|---|---|
+|[transfer learning-based channel estimation in orthogonal frequency division multiplexing systems using data-nulling superimposed pilots](https://arxiv.org/abs/2205.14308)|[transferlearningbasedcebydnsp](https://github.com/leiunnn/transferlearningbasedcebydnsp)|
+|[recovery of future data via convolution nuclear norm minimization](https://arxiv.org/abs/1909.03889)|[CNNM](https://github.com/gcliu1982/CNNM)|
 ## 2022-05-30
 |paper|code|
 |---|---|
+|[a semidefinite relaxation for sums of heterogeneous quadratics on the stiefel manifold](https://arxiv.org/abs/2205.13653)|[sums-of-heterogeneous-quadratics](https://github.com/kgilman/sums-of-heterogeneous-quadratics)|
 |[generalizing brain decoding across subjects with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
 |[auditing differential privacy in high dimensions with the kernel quantum r\'enyi divergence](https://arxiv.org/abs/2205.13941)|[kernel_renyi_dp](https://github.com/cdenrich/kernel_renyi_dp)|
 ## 2022-05-27
