@@ -1,3 +1,11 @@
+## 2022-06-01
+|paper|code|
+|---|---|
+|[metassd: meta-learned self-supervised detection](https://arxiv.org/abs/2205.15271)|[metassd](https://github.com/ml-postech/metassd)|
+|[channel model mismatch analysis for xl-mimo systems from a localization perspective](https://arxiv.org/abs/2205.15417)|[radio_localization](https://github.com/chenhui07c8/radio_localization)|
+|[rethinking graph neural networks for anomaly detection](https://arxiv.org/abs/2205.15508)|[rethinking-anomaly-detection](https://github.com/squareroot3/rethinking-anomaly-detection)|
+|[generalised implicit neural representations](https://arxiv.org/abs/2205.15674)|[ginr](https://github.com/danielegrattarola/ginr)|
+|[information fragmentation, encryption and information flow in complex biological networks](https://arxiv.org/abs/2105.13585)|[fragmentation_replication_instructions](https://github.com/cliff-bohm/fragmentation_replication_instructions)|
 ## 2022-05-31
 |paper|code|
 |---|---|
