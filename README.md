@@ -1,3 +1,8 @@
+## 2022-06-02
+|paper|code|
+|---|---|
+|[zero-shot self-supervised learning for mri reconstruction](https://arxiv.org/abs/2102.07737)|[ZS-SSL](https://github.com/byaman14/ZS-SSL)|
+|[the representation jensen-r\'enyi divergence](https://arxiv.org/abs/2112.01583)|[jensen-renyi-divergence](https://github.com/uk-cliplab/jensen-renyi-divergence)|
 ## 2022-06-01
 |paper|code|
 |---|---|
