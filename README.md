@@ -1,3 +1,7 @@
+## 2022-06-03
+|paper|code|
+|---|---|
+|[design of an optimal testbed for tracking of tagged marine megafauna](https://arxiv.org/abs/2204.04155)|[receiver-deployment](https://github.com/kerentalmon/receiver-deployment)|
 ## 2022-06-02
 |paper|code|
 |---|---|
