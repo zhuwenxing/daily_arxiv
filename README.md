@@ -1,3 +1,9 @@
+## 2022-06-06
+|paper|code|
+|---|---|
+|[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
+|[lossy gradient compression: how much accuracy can one bit buy?](https://arxiv.org/abs/2202.02812)|[fl_rd](https://github.com/sadafsk/fl_rd)|
+|[rashomon capacity: a metric for predictive multiplicity in probabilistic classification](https://arxiv.org/abs/2206.01295)|[rashomon-capacity](https://github.com/hsianghsu/rashomon-capacity)|
 ## 2022-06-03
 |paper|code|
 |---|---|
