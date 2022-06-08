@@ -1,3 +1,16 @@
+## 2022-06-07
+|paper|code|
+|---|---|
+|[mean subtraction and mode selection in dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
+|[characterizing the slope trade-off: a variational perspective and the donoho-tanner limit](https://arxiv.org/abs/2105.13302)|[SLOPE_AMP](https://github.com/woodyx218/SLOPE_AMP)|
+|[dcase 2021 task 3: spectrotemporally-aligned features for polyphonic sound event localization and detection](https://arxiv.org/abs/2106.15190)|[SALSA](https://github.com/thomeou/SALSA)|
+|[da-music: data-driven doa estimation via deep augmented music algorithm](https://arxiv.org/abs/2109.10581)|[tsp22](https://github.com/da-music/tsp22)|
+|[mical: mutual information-based cnn-aided learned factor](https://arxiv.org/abs/2206.02298)|[cnn-aided-factor-graphs-with-estimated-mutual-information-features-for-seizure-detection-mical](https://github.com/bsalafia/cnn-aided-factor-graphs-with-estimated-mutual-information-features-for-seizure-detection-mical)|
+|[on low-rank trace regression under general sampling distribution](https://arxiv.org/abs/1904.08576)|[cv-impute](https://github.com/mohsenbayati/cv-impute)|
+|[blind super-resolution of point sources via projected gradient descent](https://arxiv.org/abs/2112.01077)|[pgdvhl](https://github.com/jcchen2017/pgdvhl)|
+|[supervised contrastive csi representation learning for massive mimo positioning](https://arxiv.org/abs/2204.12796)|[SupConCSI](https://github.com/dengjunquan/SupConCSI)|
+|[an information upper bound for probability sensitivity](https://arxiv.org/abs/2206.02274)|[ProbSensitivityInfoBound](https://github.com/longitude-jyang/ProbSensitivityInfoBound)|
+|[minimizing the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
 ## 2022-06-06
 |paper|code|
 |---|---|
