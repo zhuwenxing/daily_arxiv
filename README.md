@@ -1,3 +1,12 @@
+## 2022-06-08
+|paper|code|
+|---|---|
+|[extreme compressed sensing of poisson rates from multiple measurements](https://arxiv.org/abs/2103.08711)|[SPoRe](https://github.com/pavankkota/SPoRe)|
+|[energy and age pareto optimal trajectories in uav-assisted wireless data collection](https://arxiv.org/abs/2106.03822)|[aoienergyuavtraopt](https://github.com/yuanliaoo/aoienergyuavtraopt)|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[decomposed linear dynamical systems (dlds) for learning the latent components of neural dynamics](https://arxiv.org/abs/2206.02972)|[dLDS-Discrete-Python-Model](https://github.com/dLDS-Decomposed-Linear-Dynamics/dLDS-Discrete-Python-Model)|
+|[decentralized low-latency collaborative inference via ensembles on the edge](https://arxiv.org/abs/2206.03165)|[ensembles-on-the-edge](https://github.com/maymalka10/ensembles-on-the-edge)|
+|[computational doob's $h$-transforms for online filtering of discretely observed diffusions](https://arxiv.org/abs/2206.03369)|[CompDoobTransform](https://github.com/jeremyhengjm/CompDoobTransform)|
 ## 2022-06-07
 |paper|code|
 |---|---|
