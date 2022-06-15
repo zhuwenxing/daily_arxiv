@@ -1,3 +1,14 @@
+## 2022-06-14
+|paper|code|
+|---|---|
+|[multiple hypothesis testing framework for spatial signals](https://arxiv.org/abs/2108.12314)|[lfdr-smom](https://github.com/mgoelz95/lfdr-smom)|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[roadside lidar vehicle detection and tracking using range and intensity background subtraction](https://arxiv.org/abs/2201.04756)|[roadside-lidar-vehicle-detection-and-tracking-background-subtraction](https://github.com/teryzh/roadside-lidar-vehicle-detection-and-tracking-background-subtraction)|
+|[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
+|[data-driven denoising of accelerometer signals](https://arxiv.org/abs/2206.05937)|[MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)|
+|[reinforcement learning-based placement of charging stations in urban road networks](https://arxiv.org/abs/2206.06011)|[pcrl](https://github.com/ashusao/pcrl)|
+|[ris-admm: an admm-based passive and sparse sensing method with interference removal](https://arxiv.org/abs/2206.06172)|[ris-admm](https://github.com/chenpengseu/ris-admm)|
+|[ultra-marginal feature importance](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/joej1997/umfi)|
 ## 2022-06-10
 |paper|code|
 |---|---|
