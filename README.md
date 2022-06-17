@@ -1,3 +1,10 @@
+## 2022-06-16
+|paper|code|
+|---|---|
+|[learning the structure of large networked systems obeying conservation laws](https://arxiv.org/abs/2206.07083)|[slnscl](https://github.com/anirudhrayas/slnscl)|
+|[on the relationship between ground- and satellite- based global horizontal irradiance](https://arxiv.org/abs/2206.07404)|[solarsatground](https://github.com/ydjoel/solarsatground)|
+|[paramnet: a multi-layer parametric network for joint channel estimation and symbol detection](https://arxiv.org/abs/2206.07405)|[ParamNET](https://github.com/vincentchoqueuse/ParamNET)|
+|[loss functions for classification using structured entropy](https://arxiv.org/abs/2206.07122)|[resources](https://github.com/numeristical/resources)|
 ## 2022-06-15
 |paper|code|
 |---|---|
@@ -13,6 +20,10 @@
 |[reinforcement learning-based placement of charging stations in urban road networks](https://arxiv.org/abs/2206.06011)|[pcrl](https://github.com/ashusao/pcrl)|
 |[ris-admm: an admm-based passive and sparse sensing method with interference removal](https://arxiv.org/abs/2206.06172)|[ris-admm](https://github.com/chenpengseu/ris-admm)|
 |[ultra-marginal feature importance](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/joej1997/umfi)|
+## 2022-06-13
+|paper|code|
+|---|---|
+|[denoising generalized expectation-consistent approximation for mri image recovery](https://arxiv.org/abs/2206.05049)|[corr-plus-corr](https://github.com/saurav-k-shastri/corr-plus-corr)|
 ## 2022-06-10
 |paper|code|
 |---|---|
