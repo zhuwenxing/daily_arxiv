@@ -3,8 +3,8 @@
 |---|---|
 |[an accelerated expectation-maximization algorithm for multi-reference alignment](https://arxiv.org/abs/2105.07372)|[synch-em](https://github.com/noamjanco/synch-em)|
 |[the portiloop: a deep learning-based open science tool for closed-loop brain stimulation](https://arxiv.org/abs/2107.13473)|[portiloop](https://github.com/mistlab/portiloop)|
-|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/margarita-aicyd/openfwi)|
 |[a real-world radio frequency signal dataset based on lte system and variable channels](https://arxiv.org/abs/2205.12577)|[xsrpdataset](https://github.com/njuptzsp/xsrpdataset)|
+|[evaluating short-term forecasting of multiple time series in iot environments](https://arxiv.org/abs/2206.07784)|[multiple-timeseries-forecasting](https://github.com/pcharala/multiple-timeseries-forecasting)|
 ## 2022-06-16
 |paper|code|
 |---|---|
