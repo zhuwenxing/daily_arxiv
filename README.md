@@ -1,3 +1,8 @@
+## 2022-06-20
+|paper|code|
+|---|---|
+|[plotly-resampler: effective visual analytics for large time series](https://arxiv.org/abs/2206.08703)|[plotly-resampler](https://github.com/predict-idlab/plotly-resampler)|
+|[fast lossless neural compression with integer-only discrete flows](https://arxiv.org/abs/2206.08869)|[iodf](https://github.com/thu-ml/iodf)|
 ## 2022-06-17
 |paper|code|
 |---|---|
