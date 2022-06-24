@@ -1,3 +1,13 @@
+## 2022-06-23
+|paper|code|
+|---|---|
+|[scaling and scalability: provable nonconvex low-rank tensor estimation from incomplete measurements](https://arxiv.org/abs/2104.14526)|[ScaledGD](https://github.com/Titan-Tong/ScaledGD)|
+|[identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/abs/2206.10592)|[ecg_processing](https://github.com/alwaysbyx/ecg_processing)|
+|[model-driven deep learning-based mimo-ofdm detector: design, simulation, and experimental results](https://arxiv.org/abs/2206.10909)|[cg-oamp-net](https://github.com/starainz/cg-oamp-net)|
+|[adaptive regularized zero-forcing beamforming in massive mimo with multi-antenna users](https://arxiv.org/abs/2107.00853)|[Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users)|
+|[self-dual hadamard bent sequences](https://arxiv.org/abs/2203.16439)|[hadamard_bent](https://github.com/qomo-cheng/hadamard_bent)|
+|[differentially private maximal information coefficients](https://arxiv.org/abs/2206.10685)|[dp-mic](https://github.com/jlazarsfeld/dp-mic)|
+|[beating the sum-rate capacity of the binary adder channel with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 ## 2022-06-22
 |paper|code|
 |---|---|
@@ -10,6 +20,8 @@
 |[deep neural convolutive matrix factorization for articulatory representation decomposition](https://arxiv.org/abs/2204.00465)|[ema_gesture](https://github.com/berkeley-speech-group/ema_gesture)|
 |[graph neural network aided mu-mimo detectors](https://arxiv.org/abs/2206.09381)|[GNN-based-MIMO-Detection](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)|
 |[propagation of measurement and model uncertainties through multiline trl calibration](https://arxiv.org/abs/2206.10209)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[can we trust our energy measurements? a study on the odroid-xu4](https://arxiv.org/abs/2206.10377)|[energymeasurementanalysis](https://bitbucket.org/uva-sne/energymeasurementanalysis)|
+|[a learning aided gradient descent for miso beamforming](https://arxiv.org/abs/2206.10499)|[lagd](https://github.com/xiagroup/lagd)|
 |[combating the instability of mutual information-based losses via regularization](https://arxiv.org/abs/2011.07932)|[deconstructing-mine](https://github.com/siyeong-lee/deconstructing-mine)|
 ## 2022-06-20
 |paper|code|
