@@ -1,3 +1,9 @@
+## 2022-06-30
+|paper|code|
+|---|---|
+|[robust photon-efficient imaging using a pixel-wise residual shrinkage network](https://arxiv.org/abs/2201.01453)|[robust-photon-efficient-imaging-using-prsnet](https://github.com/y2w-oc/robust-photon-efficient-imaging-using-prsnet)|
+|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
+|[depth-2 neural networks under a data-poisoning attack](https://arxiv.org/abs/2005.01699)|[neurotron_experiments](https://github.com/papamarkou/neurotron_experiments)|
 ## 2022-06-29
 |paper|code|
 |---|---|
@@ -16,6 +22,7 @@
 |paper|code|
 |---|---|
 |[a framework of inertial alternating direction method of multipliers for non-convex non-smooth optimization](https://arxiv.org/abs/2102.05433)|[iADMM](https://github.com/nhatpd/iADMM)|
+|[frame-type sensitive rdo control for content-adaptive-encoding](https://arxiv.org/abs/2206.11976)|[icip2022](https://gitlab.com/mindfreeze/icip2022)|
 |[multi-modal sensor data fusion for in-situ classification of animal behavior using accelerometry and gnss data](https://arxiv.org/abs/2206.12078)|[animal_behavior_classification_acc_gnss](https://github.com/reza219/animal_behavior_classification_acc_gnss)|
 |[deep-learning-aided distributed clock synchronization for wireless networks](https://arxiv.org/abs/2206.12097)|[distributed-dnn-aided-time-synchronization](https://github.com/emekagdswill/distributed-dnn-aided-time-synchronization)|
 |[accelerated information gradient flow](https://arxiv.org/abs/1909.02102)|[Accelerated-Information-Gradient-flow](https://github.com/YiifeiWang/Accelerated-Information-Gradient-flow)|
