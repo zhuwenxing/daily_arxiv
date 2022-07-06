@@ -1,3 +1,10 @@
+## 2022-07-05
+|paper|code|
+|---|---|
+|[hardware architecture for high throughput event visual data filtering with matrix of iir filters algorithm](https://arxiv.org/abs/2207.00860)|[dvs_filtermatrixiir](https://github.com/vision-agh/dvs_filtermatrixiir)|
+|[learning noise with generative adversarial networks: explorations with classical random process models](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
+|[task-oriented self-supervised learning for anomaly detection in electroencephalography](https://arxiv.org/abs/2207.01391)|[eeg-ad](https://github.com/ironing/eeg-ad)|
+|[encoding of probability distributions for asymmetric numeral systems](https://arxiv.org/abs/2106.06438)|[AsymmetricNumeralSystemsToolkit](https://github.com/JarekDuda/AsymmetricNumeralSystemsToolkit)|
 ## 2022-07-01
 |paper|code|
 |---|---|
