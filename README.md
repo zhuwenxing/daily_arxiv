@@ -1,9 +1,17 @@
+## 2022-07-06
+|paper|code|
+|---|---|
+|[near out-of-distribution detection for low-resolution radar micro-doppler signatures](https://arxiv.org/abs/2205.07869)|[near-ood-doppler-signatures](https://github.com/blupblupblup/near-ood-doppler-signatures)|
+|[identification of distorted rf components via deep multi-task learning](https://arxiv.org/abs/2207.01707)|[hardware-problem-identification](https://github.com/mehmetaaygul/hardware-problem-identification)|
+|[content addressable memory without catastrophic forgetting by heteroassociation with a fixed scaffold](https://arxiv.org/abs/2202.00159)|[mesh](https://github.com/fietelab/mesh)|
+|[modeling and correcting bias in sequential evaluation](https://arxiv.org/abs/2205.01607)|[sequential-bias](https://github.com/jingyanw/sequential-bias)|
 ## 2022-07-05
 |paper|code|
 |---|---|
 |[hardware architecture for high throughput event visual data filtering with matrix of iir filters algorithm](https://arxiv.org/abs/2207.00860)|[dvs_filtermatrixiir](https://github.com/vision-agh/dvs_filtermatrixiir)|
 |[learning noise with generative adversarial networks: explorations with classical random process models](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
 |[task-oriented self-supervised learning for anomaly detection in electroencephalography](https://arxiv.org/abs/2207.01391)|[eeg-ad](https://github.com/ironing/eeg-ad)|
+|[semi-blind source separation using convolutive transfer function for nonlinear acoustic echo cancellation](https://arxiv.org/abs/2207.01556)|[audio-samples2](https://github.com/chengguoliang0/audio-samples2)|
 |[encoding of probability distributions for asymmetric numeral systems](https://arxiv.org/abs/2106.06438)|[AsymmetricNumeralSystemsToolkit](https://github.com/JarekDuda/AsymmetricNumeralSystemsToolkit)|
 ## 2022-07-01
 |paper|code|
