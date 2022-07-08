@@ -1,3 +1,7 @@
+## 2022-07-07
+|paper|code|
+|---|---|
+|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 ## 2022-07-06
 |paper|code|
 |---|---|
