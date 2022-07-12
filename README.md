@@ -1,8 +1,13 @@
+## 2022-07-11
+|paper|code|
+|---|---|
+|[mutual-information based optimal experimental design for hyperpolarized $^{13}$c-pyruvate mri](https://arxiv.org/abs/2206.12509)|[hyperpolarizedmri](https://github.com/prashjha/hyperpolarizedmri)|
 ## 2022-07-08
 |paper|code|
 |---|---|
 |[visual sensor network stimulation model identification via gaussian mixture model and deep embedded features](https://arxiv.org/abs/2201.06804)|[vsn-with-ae](https://github.com/luca-varotto/vsn-with-ae)|
 |[variance in classifying affective state via electrocardiogram and photoplethysmography](https://arxiv.org/abs/2207.02916)|[emo_phys_eval](https://github.com/zacdair/emo_phys_eval)|
+|[morpi: mobile robot pure inertial navigation](https://arxiv.org/abs/2207.02982)|[morpi](https://github.com/ansfl/morpi)|
 |[topologically driven methods for construction of multi-edge type (multigraph with nodes puncturing) quasi-cyclic low-density parity-check codes for wireless channel, wdm long-haul and archival holographic memory](https://arxiv.org/abs/2011.14753)|[trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)|
 ## 2022-07-07
 |paper|code|
