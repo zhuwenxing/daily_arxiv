@@ -4,6 +4,7 @@
 |[self-supervised speaker recognition with loss-gated learning](https://arxiv.org/abs/2110.03869)|[loss-gated-learning](https://github.com/taoruijie/loss-gated-learning)|
 |[reconstruction of time-varying graph signals via sobolev smoothness](https://arxiv.org/abs/2207.06439)|[graphtrss](https://github.com/jhonygiraldo/graphtrss)|
 |[few-shot specific emitter identification via deep metric ensemble learning](https://arxiv.org/abs/2207.06592)|[few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning](https://github.com/beechburgpiestar/few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning)|
+|[open-source software for electrical engineering applications requiring consideration of electrodynamics: elecode](https://arxiv.org/abs/2207.06908)|[elecode](https://gitlab.com/dmika/elecode)|
 |[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[connear_periphery](https://github.com/hearingtechnology/connear_periphery)|
 |[analytic relations between complex networks: encoding, decoding, and causality](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
 |[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
