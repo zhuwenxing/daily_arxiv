@@ -4,7 +4,6 @@
 |[self-supervised speaker recognition with loss-gated learning](https://arxiv.org/abs/2110.03869)|[loss-gated-learning](https://github.com/taoruijie/loss-gated-learning)|
 |[reconstruction of time-varying graph signals via sobolev smoothness](https://arxiv.org/abs/2207.06439)|[graphtrss](https://github.com/jhonygiraldo/graphtrss)|
 |[few-shot specific emitter identification via deep metric ensemble learning](https://arxiv.org/abs/2207.06592)|[few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning](https://github.com/beechburgpiestar/few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning)|
-|[open-source software for electrical engineering applications requiring consideration of electrodynamics: elecode](https://arxiv.org/abs/2207.06908)|[elecode](https://gitlab.com/dmika/elecode)|
 |[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[connear_periphery](https://github.com/hearingtechnology/connear_periphery)|
 |[analytic relations between complex networks: encoding, decoding, and causality](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
 |[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
@@ -12,7 +11,6 @@
 |paper|code|
 |---|---|
 |[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
-|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
 |[an automated theorem proving framework for information-theoretic results](https://arxiv.org/abs/2101.12370)|[psitip](https://github.com/cheuktingli/psitip)|
 |[on the distribution of the information density of gaussian random vectors: explicit formulas and tight approximations](https://arxiv.org/abs/2105.03925)|[information-density](https://gitlab.com/infth/information-density)|
 |[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
