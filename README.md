@@ -1,3 +1,10 @@
+## 2022-07-18
+|paper|code|
+|---|---|
+|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
+|[open-source software for electrical engineering applications requiring consideration of electrodynamics: elecode](https://arxiv.org/abs/2207.06908)|[elecode](https://gitlab.com/dmika/elecode)|
+|[deepsolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed pv mapping](https://arxiv.org/abs/2207.07466)|[dsfrance](https://github.com/gabrielkasmi/dsfrance)|
+|[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
 ## 2022-07-15
 |paper|code|
 |---|---|
