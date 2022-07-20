@@ -1,3 +1,15 @@
+## 2022-07-19
+|paper|code|
+|---|---|
+|[music source separation with generative flow](https://arxiv.org/abs/2204.09079)|[generativesourceseparation](https://github.com/gzhu06/generativesourceseparation)|
+|[plotly-resampler: effective visual analytics for large time series](https://arxiv.org/abs/2206.08703)|[plotly-resampler](https://github.com/predict-idlab/plotly-resampler)|
+|[segment-level metric learning for few-shot bioacoustic event detection](https://arxiv.org/abs/2207.07773)|[dcase_2022_task_5](https://github.com/haoheliu/dcase_2022_task_5)|
+|[deep learning and its applications to wifi human sensing: a benchmark and a tutorial](https://arxiv.org/abs/2207.07859)|[wifi-csi-sensing-benchmark](https://github.com/chenxinyan-sg/wifi-csi-sensing-benchmark)|
+|[correlated age-of-information bandits](https://arxiv.org/abs/2011.05032)|[Correlated-AoI-Bandits](https://github.com/ishank-juneja/Correlated-AoI-Bandits)|
+|[the signed cumulative distribution transform for 1-d signal analysis and classification](https://arxiv.org/abs/2106.02146)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
+|[ultra-marginal feature importance](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/joej1997/umfi)|
+|[interpretable collective intelligence of non-rational human agents](https://arxiv.org/abs/2204.13424)|[collective-intelligence-research](https://github.com/nicknick85/collective-intelligence-research)|
 ## 2022-07-18
 |paper|code|
 |---|---|
