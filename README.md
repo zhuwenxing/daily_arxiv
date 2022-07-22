@@ -1,9 +1,14 @@
+## 2022-07-21
+|paper|code|
+|---|---|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
 ## 2022-07-20
 |paper|code|
 |---|---|
 |[a large collection of real-world pediatric sleep studies](https://arxiv.org/abs/2102.13284)|[sleep_study](https://github.com/liboyue/sleep_study)|
 |[do not sleep on linear models: simple and interpretable techniques outperform deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
 |[unrolled algorithms for group synchronization](https://arxiv.org/abs/2207.09418)|[unrolling_synchronization](https://github.com/noamjanco/unrolling_synchronization)|
+|[automated black-box boundary value detection](https://arxiv.org/abs/2207.09065)|[repro_autobva](https://github.com/feldob/repro_autobva)|
 ## 2022-07-19
 |paper|code|
 |---|---|
