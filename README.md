@@ -1,3 +1,8 @@
+## 2022-07-22
+|paper|code|
+|---|---|
+|[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
+|[multi resolution analysis (mra) for approximate self-attention](https://arxiv.org/abs/2207.10284)|[mra-attention](https://github.com/mlpen/mra-attention)|
 ## 2022-07-21
 |paper|code|
 |---|---|
