@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
+|[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
 |[multi resolution analysis (mra) for approximate self-attention](https://arxiv.org/abs/2207.10284)|[mra-attention](https://github.com/mlpen/mra-attention)|
 ## 2022-07-21
 |paper|code|
