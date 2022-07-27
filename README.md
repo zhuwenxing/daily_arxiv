@@ -1,3 +1,12 @@
+## 2022-07-26
+|paper|code|
+|---|---|
+|[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[end-to-end signal classification in signed cumulative distribution transform space](https://arxiv.org/abs/2205.00348)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[a learning aided flexible gradient descent approach to miso beamforming](https://arxiv.org/abs/2206.10499)|[lagd](https://github.com/xiagroup/lagd)|
+|[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
 ## 2022-07-25
 |paper|code|
 |---|---|
