@@ -1,3 +1,7 @@
+## 2022-07-28
+|paper|code|
+|---|---|
+|[graph neural networks for communication networks: context, use cases and opportunities](https://arxiv.org/abs/2112.14792)|[GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)|
 ## 2022-07-27
 |paper|code|
 |---|---|
