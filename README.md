@@ -1,3 +1,8 @@
+## 2022-07-29
+|paper|code|
+|---|---|
+|[one-nearest-neighbor search is all you need for minimax optimal regression and classification](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
+|[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
 ## 2022-07-28
 |paper|code|
 |---|---|
