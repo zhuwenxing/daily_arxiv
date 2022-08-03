@@ -1,6 +1,13 @@
+## 2022-08-02
+|paper|code|
+|---|---|
+|[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
+|[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
 ## 2022-08-01
 |paper|code|
 |---|---|
+|[deep learning based successive interference cancellation for the non-orthogonal downlink](https://arxiv.org/abs/2207.14468)|[sicnet](https://github.com/thienvanluong/sicnet)|
 |[deep learning-based synchronization for uplink nb-iot](https://arxiv.org/abs/2205.10805)|[nprach_synch](https://github.com/nvlabs/nprach_synch)|
 |[analytic relations between networks: encoding, decoding, and causality](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
 ## 2022-07-29
