@@ -1,9 +1,15 @@
+## 2022-08-03
+|paper|code|
+|---|---|
+|[self-supervised group meiosis contrastive learning for eeg-based emotion recognition](https://arxiv.org/abs/2208.00877)|[Self-supervised-group-meiosis-contrastive-learning-for-EEG-based-emotion-recognition](https://github.com/kanhaoning/Self-supervised-group-meiosis-contrastive-learning-for-EEG-based-emotion-recognition)|
+|[towards v2i age-aware fairness access: a dqn based intelligent vehicular node training and test method](https://arxiv.org/abs/2208.01283)|[age-fairness](https://github.com/qiongwu86/age-fairness)|
 ## 2022-08-02
 |paper|code|
 |---|---|
 |[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 |[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
+|[better lattice quantizers constructed from complex integers](https://arxiv.org/abs/2204.01105)|[latticequantizer](https://github.com/shx-lyu/latticequantizer)|
 ## 2022-08-01
 |paper|code|
 |---|---|
