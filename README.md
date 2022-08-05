@@ -1,3 +1,11 @@
+## 2022-08-04
+|paper|code|
+|---|---|
+|[stable and interpretable unrolled dictionary learning](https://arxiv.org/abs/2106.00058)|[stable-interpretable-unrolled-dl](https://github.com/btolooshams/stable-interpretable-unrolled-dl)|
+|[the wqn algorithm to adaptively correct artifacts in the eeg signal](https://arxiv.org/abs/2207.11696)|[wavelet-wqn-acha](https://github.com/mattbit/wavelet-wqn-acha)|
+|[segmented learning for class-of-service network traffic classification](https://arxiv.org/abs/2208.01793)|[s2mc-for-cos](https://github.com/yoga-suhas-km/s2mc-for-cos)|
+|[recovery of future data via convolution nuclear norm minimization](https://arxiv.org/abs/1909.03889)|[CNNM](https://github.com/gcliu1982/CNNM)|
+|[deep learning-enabled semantic communication systems with task-unaware transmitter and dynamic data](https://arxiv.org/abs/2205.00271)|[semantic-communication-systems](https://github.com/sjtu-mxtao/semantic-communication-systems)|
 ## 2022-08-03
 |paper|code|
 |---|---|
@@ -7,6 +15,7 @@
 |paper|code|
 |---|---|
 |[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 |[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
 |[better lattice quantizers constructed from complex integers](https://arxiv.org/abs/2204.01105)|[latticequantizer](https://github.com/shx-lyu/latticequantizer)|
