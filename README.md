@@ -1,6 +1,7 @@
 ## 2022-08-05
 |paper|code|
 |---|---|
+|[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
 |[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
 ## 2022-08-04
 |paper|code|
