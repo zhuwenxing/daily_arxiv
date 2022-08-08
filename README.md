@@ -2,7 +2,6 @@
 |paper|code|
 |---|---|
 |[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
-|[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
 ## 2022-08-04
 |paper|code|
 |---|---|
@@ -20,6 +19,7 @@
 |paper|code|
 |---|---|
 |[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[vector-based data improves left-right eye-tracking classifier performance after a covariate distributional shift](https://arxiv.org/abs/2208.00465)|[eegetcovariatedistributionalshift](https://github.com/brianxiang123/eegetcovariatedistributionalshift)|
 |[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 |[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
