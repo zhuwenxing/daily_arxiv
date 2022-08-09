@@ -1,3 +1,8 @@
+## 2022-08-08
+|paper|code|
+|---|---|
+|[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
+|[a design of low-projection scma codebooks for downlink satellite internet of things](https://arxiv.org/abs/2208.03118)|[scma-codebook](https://github.com/ethanlq/scma-codebook)|
 ## 2022-08-05
 |paper|code|
 |---|---|
