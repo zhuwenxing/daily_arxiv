@@ -1,3 +1,8 @@
+## 2022-08-09
+|paper|code|
+|---|---|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[oversquashing in gnns through the lens of information contraction and graph expansion](https://arxiv.org/abs/2208.03471)|[oversquashing](https://github.com/kedar2/oversquashing)|
 ## 2022-08-08
 |paper|code|
 |---|---|
