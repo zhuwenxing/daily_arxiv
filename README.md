@@ -1,7 +1,15 @@
+## 2022-08-10
+|paper|code|
+|---|---|
+|[efficient waveform covariance matrix design and antenna selection for mimo radar](https://arxiv.org/abs/2002.06025)|[evolutionary-antenna-design-in-mimo](https://github.com/arindam-bose/evolutionary-antenna-design-in-mimo)|
+|[expression might be enough: representing pressure and demand for reinforcement learning based traffic signal control](https://arxiv.org/abs/2112.10107)|[Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight)|
+|[ultra lite convolutional neural network for automatic modulation classification](https://arxiv.org/abs/2208.04659)|[ultra-lite-convolutional-neural-network-for-automatic-modulation-classification](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)|
 ## 2022-08-09
 |paper|code|
 |---|---|
 |[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
+|[fra-rir: fast random approximation of the image-source method](https://arxiv.org/abs/2208.04101)|[fra-rir](https://github.com/yluo42/fra-rir)|
 |[oversquashing in gnns through the lens of information contraction and graph expansion](https://arxiv.org/abs/2208.03471)|[oversquashing](https://github.com/kedar2/oversquashing)|
 ## 2022-08-08
 |paper|code|
