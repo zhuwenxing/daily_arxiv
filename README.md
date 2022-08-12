@@ -1,3 +1,7 @@
+## 2022-08-11
+|paper|code|
+|---|---|
+|[perturbative construction of mean-field equations in extensive-rank matrix factorization and denoising](https://arxiv.org/abs/2110.08775)|[perturbative_mean_field_matrix_factorization](https://github.com/sphinxteam/perturbative_mean_field_matrix_factorization)|
 ## 2022-08-10
 |paper|code|
 |---|---|
