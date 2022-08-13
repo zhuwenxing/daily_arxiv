@@ -1,3 +1,8 @@
+## 2022-08-12
+|paper|code|
+|---|---|
+|[echofilter: a deep learning segmentation model improves the automation, standardization, and timeliness for post-processing echosounder data in tidal energy streams](https://arxiv.org/abs/2202.09648)|[echofilter](https://github.com/deepsenseca/echofilter)|
+|[an modified cole's importance sampling method for low error floor qc-ldpc codes construction](https://arxiv.org/abs/2208.05795)|[trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)|
 ## 2022-08-11
 |paper|code|
 |---|---|
