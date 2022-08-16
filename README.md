@@ -1,3 +1,8 @@
+## 2022-08-15
+|paper|code|
+|---|---|
+|[lrh-net: a multi-level knowledge distillation approach for low-resource heart network](https://arxiv.org/abs/2204.08000)|[lrh-net](https://github.com/ekansh09/lrh-net)|
+|[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
 ## 2022-08-12
 |paper|code|
 |---|---|
