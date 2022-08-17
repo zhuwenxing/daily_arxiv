@@ -1,8 +1,18 @@
+## 2022-08-16
+|paper|code|
+|---|---|
+|[a robust adversarial network-based end-to-end communications system with strong generalization ability against adversarial attacks](https://arxiv.org/abs/2103.02654)|[GAN-based-E2E-communications-system-for-defense-against-adversarial-attack](https://github.com/YudiDong/GAN-based-E2E-communications-system-for-defense-against-adversarial-attack)|
+|[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
+|[dynamic task software caching-assisted computation offloading for multi-access edge computing](https://arxiv.org/abs/2208.07151)|[drl-mec](https://github.com/chfocus/drl-mec)|
+|[wifi based distance estimation using supervised machine learning](https://arxiv.org/abs/2208.07190)|[wifi-fingerprint](https://github.com/kahramankostas/wifi-fingerprint)|
+|[how does data freshness affect real-time supervised learning?](https://arxiv.org/abs/2208.06948)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2022-08-15
 |paper|code|
 |---|---|
 |[lrh-net: a multi-level knowledge distillation approach for low-resource heart network](https://arxiv.org/abs/2204.08000)|[lrh-net](https://github.com/ekansh09/lrh-net)|
+|[a hybrid method for condition monitoring and fault diagnosis of rolling bearings with low system delay](https://arxiv.org/abs/2208.06051)|[vibration-based-fault-diagnosis-with-low-delay](https://github.com/western-oc2-lab/vibration-based-fault-diagnosis-with-low-delay)|
 |[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
+|[communication network model of the immune system identifies the impact of interactions with sars-cov-2 proteins](https://arxiv.org/abs/2208.06355)|[core](https://github.com/sarkar-s/core)|
 ## 2022-08-12
 |paper|code|
 |---|---|
