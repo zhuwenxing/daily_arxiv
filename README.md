@@ -1,3 +1,9 @@
+## 2022-08-17
+|paper|code|
+|---|---|
+|[parametric scattering networks](https://arxiv.org/abs/2107.09539)|[ParametricScatteringNetworks](https://github.com/bentherien/ParametricScatteringNetworks)|
+|[signal detection with dynamic programming](https://arxiv.org/abs/2208.07830)|[Signal-detection-with-dynamic-programming](https://github.com/MordechaiRoth1/Signal-detection-with-dynamic-programming)|
+|[efficient randomized subspace embeddings for distributed optimization under a communication budget](https://arxiv.org/abs/2103.07578)|[distoptconstrcomm](https://github.com/rajarshisaha95/distoptconstrcomm)|
 ## 2022-08-16
 |paper|code|
 |---|---|
