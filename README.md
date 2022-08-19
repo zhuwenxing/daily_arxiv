@@ -1,3 +1,7 @@
+## 2022-08-18
+|paper|code|
+|---|---|
+|[towards a better understanding human reading comprehension with brain signals](https://arxiv.org/abs/2108.01360)|[uercm](https://github.com/yeziyi1998/uercm)|
 ## 2022-08-17
 |paper|code|
 |---|---|
