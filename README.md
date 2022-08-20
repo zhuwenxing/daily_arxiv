@@ -1,7 +1,15 @@
+## 2022-08-19
+|paper|code|
+|---|---|
+|[fast off-the-grid sparse recovery with over-parametrized projected gradient descent](https://arxiv.org/abs/2202.13757)|[opcomp_sparse_recovery](https://github.com/pjbenard/opcomp_sparse_recovery)|
+|[ensemble learning using individual neonatal data for seizure detection](https://arxiv.org/abs/2204.07043)|[distributed-nsda](https://github.com/anaborovac/distributed-nsda)|
+|[psychophysiological arousal in young children who stutter: an interpretable ai approach](https://arxiv.org/abs/2208.08859)|[modality-wise-multple-instance-learning](https://github.com/asalekin-ubiquitouslab/modality-wise-multple-instance-learning)|
+|[a unified algorithmic framework for distributed adaptive signal and feature fusion problems -- part i: algorithm derivation](https://arxiv.org/abs/2208.08867)|[DASF_toolbox](https://github.com/AlexanderBertrandLab/DASF_toolbox)|
 ## 2022-08-18
 |paper|code|
 |---|---|
 |[towards a better understanding human reading comprehension with brain signals](https://arxiv.org/abs/2108.01360)|[uercm](https://github.com/yeziyi1998/uercm)|
+|[quantum message-passing algorithm for optimal and efficient decoding](https://arxiv.org/abs/2109.08170)|[quantum-message-passing-paper](https://github.com/chripiv/quantum-message-passing-paper)|
 ## 2022-08-17
 |paper|code|
 |---|---|
