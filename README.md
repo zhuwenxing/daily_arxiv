@@ -1,3 +1,9 @@
+## 2022-08-22
+|paper|code|
+|---|---|
+|[arrhythmia classification using cgan-augmented ecg signals](https://arxiv.org/abs/2202.00569)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[echofilter: a deep learning segmentation model improves the automation, standardization, and timeliness for post-processing echosounder data in tidal energy streams](https://arxiv.org/abs/2202.09648)|[echofilter](https://github.com/deepsenseca/echofilter)|
+|[a unified algorithmic framework for distributed adaptive signal and feature fusion problems -- part ii: convergence properties](https://arxiv.org/abs/2208.09088)|[DASF_toolbox](https://github.com/AlexanderBertrandLab/DASF_toolbox)|
 ## 2022-08-19
 |paper|code|
 |---|---|
@@ -14,6 +20,7 @@
 |paper|code|
 |---|---|
 |[parametric scattering networks](https://arxiv.org/abs/2107.09539)|[ParametricScatteringNetworks](https://github.com/bentherien/ParametricScatteringNetworks)|
+|[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
 |[signal detection with dynamic programming](https://arxiv.org/abs/2208.07830)|[Signal-detection-with-dynamic-programming](https://github.com/MordechaiRoth1/Signal-detection-with-dynamic-programming)|
 |[efficient randomized subspace embeddings for distributed optimization under a communication budget](https://arxiv.org/abs/2103.07578)|[distoptconstrcomm](https://github.com/rajarshisaha95/distoptconstrcomm)|
 ## 2022-08-16
