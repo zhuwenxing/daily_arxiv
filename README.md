@@ -1,3 +1,10 @@
+## 2022-08-26
+|paper|code|
+|---|---|
+|[ecg-atk-gan: robustness against adversarial attacks on ecgs using conditional generative adversarial networks](https://arxiv.org/abs/2110.09983)|[ecg-atk-gan](https://github.com/farihahossain/ecg-atk-gan)|
+|[ensemble learning using individual neonatal data for seizure detection](https://arxiv.org/abs/2204.07043)|[distributed-nsda](https://github.com/anaborovac/distributed-nsda)|
+|[eeg4students: an experimental design for eeg data collection and machine learning analysis](https://arxiv.org/abs/2208.11743)|[eeg4students](https://github.com/guangyaodou/eeg4students)|
+|[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
 ## 2022-08-25
 |paper|code|
 |---|---|
