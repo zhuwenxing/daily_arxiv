@@ -1,3 +1,7 @@
+## 2022-08-29
+|paper|code|
+|---|---|
+|[gcns-net: a graph convolutional neural network approach for decoding time-resolved eeg motor imagery signals](https://arxiv.org/abs/2006.08924)|[EEG-DL](https://github.com/SuperBruceJia/EEG-DL)|
 ## 2022-08-26
 |paper|code|
 |---|---|
