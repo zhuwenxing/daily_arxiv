@@ -1,3 +1,9 @@
+## 2022-09-02
+|paper|code|
+|---|---|
+|[variational sparse coding with learned thresholding](https://arxiv.org/abs/2205.03665)|[variational-sparse-coding](https://github.com/kfallah/variational-sparse-coding)|
+|[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
+|[mind: maximum mutual information based neural decoder](https://arxiv.org/abs/2205.07061)|[mind-neural-decoder](https://github.com/tonellolab/mind-neural-decoder)|
 ## 2022-09-01
 |paper|code|
 |---|---|
