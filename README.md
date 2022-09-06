@@ -1,3 +1,10 @@
+## 2022-09-05
+|paper|code|
+|---|---|
+|[artificial intelligence enabled noma towards next generation multiple access](https://arxiv.org/abs/2206.04992)|[ai_noma](https://github.com/xiaoxiaxusummer/ai_noma)|
+|[evaluating short-term forecasting of multiple time series in iot environments](https://arxiv.org/abs/2206.07784)|[multiple-timeseries-forecasting](https://github.com/pcharala/multiple-timeseries-forecasting)|
+|[towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed pv mapping](https://arxiv.org/abs/2207.07466)|[dsfrance](https://github.com/gabrielkasmi/dsfrance)|
+|[software tools for decoding quantum low-density parity check codes](https://arxiv.org/abs/2209.01180)|[qecc](https://github.com/lucasberent/qecc)|
 ## 2022-09-02
 |paper|code|
 |---|---|
