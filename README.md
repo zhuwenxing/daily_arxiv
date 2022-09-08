@@ -1,3 +1,15 @@
+## 2022-09-07
+|paper|code|
+|---|---|
+|[bottlefit: learning compressed representations in deep neural networks for effective and efficient split computing](https://arxiv.org/abs/2201.02693)|[bottlefit-split_computing](https://github.com/yoshitomo-matsubara/bottlefit-split_computing)|
+|[position aided beam prediction in the real world: how useful gps locations actually are?](https://arxiv.org/abs/2205.09054)|[position-beam-prediction](https://github.com/jmoraispk/position-beam-prediction)|
+|[semantic communications with discrete-time analog transmission: a papr perspective](https://arxiv.org/abs/2208.08342)|[semanticpapr](https://github.com/lynshao/semanticpapr)|
+|[transfer learning of an ensemble of dnns for ssvep bci spellers without user-specific training](https://arxiv.org/abs/2209.01511)|[ensemble-of-dnns](https://github.com/osmanberke/ensemble-of-dnns)|
+|[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[large graph signal denoising with application to differential privacy](https://arxiv.org/abs/2209.02043)|[dp-graph-denoising](https://gitlab.com/elie-chedemail/dp-graph-denoising)|
+|[data augmentation for deep receivers](https://arxiv.org/abs/2209.01362)|[data-augmentations-for-receivers](https://github.com/tomerraviv95/data-augmentations-for-receivers)|
+|[learning to predict requires integrated information](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[abs+ polar codes: exploiting more linear transforms on adjacent bits](https://arxiv.org/abs/2209.02461)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 ## 2022-09-05
 |paper|code|
 |---|---|
