@@ -1,3 +1,8 @@
+## 2022-09-12
+|paper|code|
+|---|---|
+|[autoencoder based iterative modeling and multivariate time-series subsequence clustering algorithm](https://arxiv.org/abs/2209.04213)|[mt3scm](https://github.com/jokonu/mt3scm)|
+|[the optimality of word lengths. theoretical foundations and an empirical study](https://arxiv.org/abs/2208.10384)|[iql-research-project-21-22](https://github.com/iql-course/iql-research-project-21-22)|
 ## 2022-09-09
 |paper|code|
 |---|---|
