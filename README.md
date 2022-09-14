@@ -1,3 +1,9 @@
+## 2022-09-13
+|paper|code|
+|---|---|
+|[adaptive r-peak detection on wearable ecg sensors for high-intensity exercise](https://arxiv.org/abs/2112.04369)|[adaptive_rpeak_det_public](https://c4science.ch/source/adaptive_rpeak_det_public)|
+|[a design of low-projection scma codebooks for ultra-low decoding complexity in downlink iot networks](https://arxiv.org/abs/2208.03118)|[scma-codebook](https://github.com/ethanlq/scma-codebook)|
+|[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
 ## 2022-09-12
 |paper|code|
 |---|---|
