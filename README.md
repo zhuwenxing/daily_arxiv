@@ -1,3 +1,8 @@
+## 2022-09-14
+|paper|code|
+|---|---|
+|[multi-event-camera depth estimation and outlier rejection by refocused events fusion](https://arxiv.org/abs/2207.10494)|[dvs_mcemvs](https://github.com/tub-rip/dvs_mcemvs)|
+|[decorrelate irrelevant, purify relevant: overcome textual spurious correlations from a feature perspective](https://arxiv.org/abs/2202.08048)|[depro](https://github.com/coling2022-depro/depro)|
 ## 2022-09-13
 |paper|code|
 |---|---|
