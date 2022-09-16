@@ -1,3 +1,10 @@
+## 2022-09-15
+|paper|code|
+|---|---|
+|[learning-based downlink power allocation in cell-free massive mimo systems](https://arxiv.org/abs/2109.03128)|[power-allocation-cell-free](https://github.com/emilbjornson/power-allocation-cell-free)|
+|[data-driven estimation of capacity upper bounds](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
+|[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[personalized emotion detection using iot and machine learning](https://arxiv.org/abs/2209.06464)|[MLEmotionDetection](https://github.com/fionavictoria/MLEmotionDetection)|
 ## 2022-09-14
 |paper|code|
 |---|---|
