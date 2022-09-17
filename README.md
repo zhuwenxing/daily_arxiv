@@ -1,3 +1,9 @@
+## 2022-09-16
+|paper|code|
+|---|---|
+|[blind equalization and channel estimation in coherent optical communications using variational autoencoders](https://arxiv.org/abs/2204.11776)|[vae-equalizer](https://github.com/kit-cel/vae-equalizer)|
+|[particle gradient descent model for point process generation](https://arxiv.org/abs/2010.14928)|[pp_syn](https://github.com/abrochar/pp_syn)|
+|[a stochastic optimization framework for fair risk minimization](https://arxiv.org/abs/2102.12586)|[FERMI](https://github.com/optimization-for-data-driven-science/FERMI)|
 ## 2022-09-15
 |paper|code|
 |---|---|
