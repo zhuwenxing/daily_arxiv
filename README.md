@@ -1,8 +1,19 @@
+## 2022-09-20
+|paper|code|
+|---|---|
+|[temporal feedback convolutional recurrent neural networks for speech command recognition](https://arxiv.org/abs/1911.01803)|[temporal-feedback-crnn](https://github.com/tae-jun/temporal-feedback-crnn)|
+|[real-time outdoor localization using radio maps: a deep learning approach](https://arxiv.org/abs/2106.12556)|[LocUNet](https://github.com/CagkanYapar/LocUNet)|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[data-driven estimation of capacity upper bounds](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
+|[bolt: fused window transformers for fmri time series analysis](https://arxiv.org/abs/2205.11578)|[bolt](https://github.com/icon-lab/bolt)|
+|[an impedance transition method to verify the reference impedance of multiline trl calibration](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[information-theoretic characterization of the generalization error for iterative semi-supervised learning](https://arxiv.org/abs/2110.00926)|[generrorssl_2022](https://github.com/herianhe/generrorssl_2022)|
 ## 2022-09-19
 |paper|code|
 |---|---|
 |[gcns-net: a graph convolutional neural network approach for decoding time-resolved eeg motor imagery signals](https://arxiv.org/abs/2006.08924)|[EEG-DL](https://github.com/SuperBruceJia/EEG-DL)|
 |[bayesbeat: reliable atrial fibrillation detection from noisy photoplethysmography data](https://arxiv.org/abs/2011.00753)|[bayesbeat](https://github.com/sarathismg/bayesbeat)|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
 |[multiscale adaptive scheduling and path-planning for power-constrained uav-relays via smdps](https://arxiv.org/abs/2209.07655)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
 |[self-supervised learning with an information maximization criterion](https://arxiv.org/abs/2209.07999)|[corinfomax-ssl](https://github.com/serdarozsoy/corinfomax-ssl)|
 ## 2022-09-16
