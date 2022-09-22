@@ -1,3 +1,8 @@
+## 2022-09-21
+|paper|code|
+|---|---|
+|[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
+|[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
 ## 2022-09-20
 |paper|code|
 |---|---|
