@@ -3,6 +3,7 @@
 |---|---|
 |[leveraging joint-diagonalization in transform-learning nmf](https://arxiv.org/abs/2112.05664)|[tlnmf-tsp](https://github.com/sixin-zh/tlnmf-tsp)|
 |[eventnet: detecting events in eeg](https://arxiv.org/abs/2209.11007)|[eventnet](https://github.com/n1xu5/eventnet)|
+|[dynamic response recovery using ambient synchrophasor data: a synthetic texas interconnection case study](https://arxiv.org/abs/2209.11105)|[dy_resp_pkg_new](https://github.com/ShaohuiLiu/dy_resp_pkg_new)|
 |[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
 ## 2022-09-22
 |paper|code|
