@@ -1,3 +1,13 @@
+## 2022-09-27
+|paper|code|
+|---|---|
+|[ddp-gcn: multi-graph convolutional network for spatiotemporal traffic forecasting](https://arxiv.org/abs/1905.12256)|[DDP-GCN](https://github.com/snu-adsl/DDP-GCN)|
+|[ppg2abp: translating photoplethysmogram (ppg) signals to arterial blood pressure (abp) waveforms using fully convolutional neural networks](https://arxiv.org/abs/2005.01669)|[PPG2ABP](https://github.com/nibtehaz/PPG2ABP)|
+|[real-time noise cancellation with deep learning](https://arxiv.org/abs/2011.03466)|[deepNeuronalFilter](https://github.com/berndporr/deepNeuronalFilter)|
+|[under the sand: navigation and localization of a micro aerial vehicle for landmine detection with ground penetrating synthetic aperture radar](https://arxiv.org/abs/2106.10108)|[mav_findmine](https://github.com/ethz-asl/mav_findmine)|
+|[pyffs: a python library for fast fourier series computation and interpolation with gpu acceleration](https://arxiv.org/abs/2110.00262)|[pyFFS](https://github.com/imagingofthings/pyFFS)|
+|[poisson phase retrieval in very low-count regimes](https://arxiv.org/abs/2104.00861)|[ppr-low-count](https://github.com/zongyuli-umich/ppr-low-count)|
+|[how does data freshness affect real-time supervised learning?](https://arxiv.org/abs/2208.06948)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2022-09-26
 |paper|code|
 |---|---|
