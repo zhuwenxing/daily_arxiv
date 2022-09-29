@@ -1,3 +1,11 @@
+## 2022-09-28
+|paper|code|
+|---|---|
+|[biologically-plausible determinant maximization neural networks for blind separation of correlated sources](https://arxiv.org/abs/2209.12894)|[biologically-plausible-detmaxnns-for-blind-source-separation](https://github.com/bariscanbozkurt/biologically-plausible-detmaxnns-for-blind-source-separation)|
+|[semi-blind source separation with learned constraints](https://arxiv.org/abs/2209.13585)|[sgmca](https://github.com/rcarlonigertosio/sgmca)|
+|[provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627)|[PastaQ.jl](https://github.com/GTorlai/PastaQ.jl)|
+|[cell-free massive mimo meets otfs modulation](https://arxiv.org/abs/2112.10869)|[cell-free-otfs](https://github.com/mohammadalimohammadi/cell-free-otfs)|
+|[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
 ## 2022-09-27
 |paper|code|
 |---|---|
@@ -6,6 +14,7 @@
 |[real-time noise cancellation with deep learning](https://arxiv.org/abs/2011.03466)|[deepNeuronalFilter](https://github.com/berndporr/deepNeuronalFilter)|
 |[under the sand: navigation and localization of a micro aerial vehicle for landmine detection with ground penetrating synthetic aperture radar](https://arxiv.org/abs/2106.10108)|[mav_findmine](https://github.com/ethz-asl/mav_findmine)|
 |[pyffs: a python library for fast fourier series computation and interpolation with gpu acceleration](https://arxiv.org/abs/2110.00262)|[pyFFS](https://github.com/imagingofthings/pyFFS)|
+|[bounded simplex-structured matrix factorization](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
 |[poisson phase retrieval in very low-count regimes](https://arxiv.org/abs/2104.00861)|[ppr-low-count](https://github.com/zongyuli-umich/ppr-low-count)|
 |[how does data freshness affect real-time supervised learning?](https://arxiv.org/abs/2208.06948)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2022-09-26
