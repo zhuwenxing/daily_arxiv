@@ -6,7 +6,6 @@
 |paper|code|
 |---|---|
 |[a parameter-free nonconvex low-rank tensor completion model for spatiotemporal traffic data recovery](https://arxiv.org/abs/2209.13786)|[T-ITS-PFNC](https://github.com/YoungHe49/T-ITS-PFNC)|
-|[near lossless time series data compression methods using statistics and deviation](https://arxiv.org/abs/2209.14162)|[data-compression](https://github.com/vidhi0206/data-compression)|
 ## 2022-09-28
 |paper|code|
 |---|---|
