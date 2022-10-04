@@ -1,3 +1,15 @@
+## 2022-10-03
+|paper|code|
+|---|---|
+|[end-to-end p300 bci using bayesian accumulation of riemannian probabilities](https://arxiv.org/abs/2203.07807)|[demos](https://github.com/timeflux/demos)|
+|[near lossless time series data compression methods using statistics and deviation](https://arxiv.org/abs/2209.14162)|[data-compression](https://github.com/vidhi0206/data-compression)|
+|[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
+|[rf-transformer: a unified backscatter radio hardware abstraction](https://arxiv.org/abs/2209.15195)|[rf-transformer](https://github.com/lefscc/rf-transformer)|
+|[astf: visual abstractions of time-varying patterns in radio signals](https://arxiv.org/abs/2209.15223)|[astf](https://github.com/csuvis/astf)|
+|[tinyturbo: efficient turbo decoders on edge](https://arxiv.org/abs/2209.15614)|[tinyturbo](https://github.com/hebbarashwin/tinyturbo)|
+|[construction of optimal spectral methods in phase retrieval](https://arxiv.org/abs/2012.04524)|[Optimal_Spectral_Methods_PR](https://github.com/AnMaillard/Optimal_Spectral_Methods_PR)|
+|[optimal denoising of rotationally invariant rectangular matrices](https://arxiv.org/abs/2203.07752)|[rectangular_rie](https://github.com/penombraet/rectangular_rie)|
+|[self-stabilization: the implicit bias of gradient descent at the edge of stability](https://arxiv.org/abs/2209.15594)|[eos](https://github.com/adamian98/eos)|
 ## 2022-09-30
 |paper|code|
 |---|---|
