@@ -1,3 +1,8 @@
+## 2022-10-04
+|paper|code|
+|---|---|
+|[uncertainty detection and reduction in neural decoding of eeg signals](https://arxiv.org/abs/2201.00627)|[ue-eeg](https://github.com/tiehangd/ue-eeg)|
+|[unsupervised multimodal change detection based on structural relationship graph representation learning](https://arxiv.org/abs/2210.00941)|[srgcae](https://github.com/chenhongruixuan/srgcae)|
 ## 2022-10-03
 |paper|code|
 |---|---|
