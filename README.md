@@ -1,3 +1,9 @@
+## 2022-10-05
+|paper|code|
+|---|---|
+|[diagnosis of parkinson's disease based on voice signals using shap and hard voting ensemble method](https://arxiv.org/abs/2210.01205)|[classification_of_parkinson_disease](https://github.com/pariaghaheri/classification_of_parkinson_disease)|
+|[do language models make human-like predictions about the coreferents of italian anaphoric zero pronouns?](https://arxiv.org/abs/2208.14554)|[italian-zero-anaphora-prediction](https://github.com/jmichaelov/italian-zero-anaphora-prediction)|
+|[overparameterized relu neural networks learn the simplest models: neural isometry and exact recovery](https://arxiv.org/abs/2209.15265)|[neural-recovery](https://github.com/pilancilab/neural-recovery)|
 ## 2022-10-04
 |paper|code|
 |---|---|
