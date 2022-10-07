@@ -1,3 +1,9 @@
+## 2022-10-06
+|paper|code|
+|---|---|
+|[generalised implicit neural representations](https://arxiv.org/abs/2205.15674)|[ginr](https://github.com/danielegrattarola/ginr)|
+|[learning the spectrogram temporal resolution for audio classification](https://arxiv.org/abs/2210.01719)|[diffres-python](https://github.com/haoheliu/diffres-python)|
+|[matt: a manifold attention network for eeg decoding](https://arxiv.org/abs/2210.01986)|[matt](https://github.com/cecnl/matt)|
 ## 2022-10-05
 |paper|code|
 |---|---|
