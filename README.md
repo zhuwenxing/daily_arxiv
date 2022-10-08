@@ -1,9 +1,17 @@
+## 2022-10-07
+|paper|code|
+|---|---|
+|[few-shot calibration of set predictors via meta-learned cross-validation-based conformal prediction](https://arxiv.org/abs/2210.03067)|[meta-xb](https://github.com/kclip/meta-xb)|
+|[efficient sequence packing without cross-contamination: accelerating large language models without impacting performance](https://arxiv.org/abs/2107.02027)|[packedBERT](https://github.com/graphcore/tutorials/tree/sdk-release-2.1/blogs_code/packedBERT)|
+|[grassmannian packings: trust-region stochastic tuning for matrix incoherence](https://arxiv.org/abs/2207.06374)|[trstmi](https://github.com/josiahpark/trstmi)|
+|[orthogonal non-negative matrix factorization: a maximum-entropy-principle approach](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2022-10-06
 |paper|code|
 |---|---|
 |[generalised implicit neural representations](https://arxiv.org/abs/2205.15674)|[ginr](https://github.com/danielegrattarola/ginr)|
 |[learning the spectrogram temporal resolution for audio classification](https://arxiv.org/abs/2210.01719)|[diffres-python](https://github.com/haoheliu/diffres-python)|
 |[matt: a manifold attention network for eeg decoding](https://arxiv.org/abs/2210.01986)|[matt](https://github.com/cecnl/matt)|
+|[a novel covariance matrix reconstruction method for robust adaptive beamforming](https://arxiv.org/abs/2210.02214)|[robust-adaptive-beamforming-2022](https://github.com/chenpengseu/robust-adaptive-beamforming-2022)|
 ## 2022-10-05
 |paper|code|
 |---|---|
