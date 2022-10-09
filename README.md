@@ -1,6 +1,7 @@
 ## 2022-10-07
 |paper|code|
 |---|---|
+|[role of deep learning in wireless communications](https://arxiv.org/abs/2210.02596)|[DL-DSC-FDD-Massive-MIMO](https://github.com/foadsohrabi/DL-DSC-FDD-Massive-MIMO)|
 |[few-shot calibration of set predictors via meta-learned cross-validation-based conformal prediction](https://arxiv.org/abs/2210.03067)|[meta-xb](https://github.com/kclip/meta-xb)|
 |[efficient sequence packing without cross-contamination: accelerating large language models without impacting performance](https://arxiv.org/abs/2107.02027)|[packedBERT](https://github.com/graphcore/tutorials/tree/sdk-release-2.1/blogs_code/packedBERT)|
 |[grassmannian packings: trust-region stochastic tuning for matrix incoherence](https://arxiv.org/abs/2207.06374)|[trstmi](https://github.com/josiahpark/trstmi)|
