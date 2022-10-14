@@ -1,8 +1,21 @@
+## 2022-10-13
+|paper|code|
+|---|---|
+|[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
+|[calibration and uncertainty characterization for ultra-wideband two-way-ranging measurements](https://arxiv.org/abs/2210.05888)|[uwb_calibration](https://github.com/decarsg/uwb_calibration)|
+|[outlier-insensitive kalman filtering using nuv priors](https://arxiv.org/abs/2210.06083)|[oikf_icassp23](https://github.com/kalmannet/oikf_icassp23)|
+|[self-supervised learning for label-efficient sleep stage classification: a comprehensive evaluation](https://arxiv.org/abs/2210.06286)|[eval_ssl_ssc](https://github.com/emadeldeen24/eval_ssl_ssc)|
+|[an energy-efficient spiking neural network for finger velocity decoding for implantable brain-machine interface](https://arxiv.org/abs/2210.06287)|[snn-for-finger-velocity-ibmi](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)|
+|[multimodality multi-lead ecg arrhythmia classification using self-supervised learning](https://arxiv.org/abs/2210.06297)|[ecg_ssl_12lead](https://github.com/uark-aicv/ecg_ssl_12lead)|
+|[cross task neural architecture search for eeg signal classifications](https://arxiv.org/abs/2210.06298)|[ctnas-eeg](https://github.com/duanyiqun/ctnas-eeg)|
+|[multi-layer state evolution under random convolutional design](https://arxiv.org/abs/2205.13503)|[conv-ml-amp](https://github.com/mdnls/conv-ml-amp)|
+|[graph neural networks for channel decoding](https://arxiv.org/abs/2207.14742)|[gnn-decoder](https://github.com/nvlabs/gnn-decoder)|
 ## 2022-10-12
 |paper|code|
 |---|---|
 |[the portiloop: a deep learning-based open science tool for closed-loop brain stimulation](https://arxiv.org/abs/2107.13473)|[portiloop](https://github.com/mistlab/portiloop)|
 |[transfer learning-based channel estimation in orthogonal frequency division multiplexing systems using data-nulling superimposed pilots](https://arxiv.org/abs/2205.14308)|[transferlearningbasedcebydnsp](https://github.com/leiunnn/transferlearningbasedcebydnsp)|
+|[slurp! spectroscopy of liquids using robot pre-touch sensing](https://arxiv.org/abs/2210.04941)|[slurp_grasping](https://github.com/river-lab/slurp_grasping)|
 |[multi-site diagnostic classification of schizophrenia using 3d cnn on aggregated task-based fmri data](https://arxiv.org/abs/2210.05240)|[Schizophrenia-Classification-from-multi-site-fMRI-data](https://github.com/s-vigneshwaran/Schizophrenia-Classification-from-multi-site-fMRI-data)|
 |[misspecified phase retrieval with generative priors](https://arxiv.org/abs/2210.05571)|[MPRG](https://github.com/jiulongliu/MPRG)|
 ## 2022-10-11
@@ -12,8 +25,11 @@
 |[performance analysis of multi-user noma wireless-powered mmtc networks: a stochastic geometry approach](https://arxiv.org/abs/2201.04784)|[mmtc-noma](https://github.com/thanhluannguyen/mmtc-noma)|
 |[communication-efficient stochastic zeroth-order optimization for federated learning](https://arxiv.org/abs/2201.09531)|[FedZO](https://github.com/noobyzy/FedZO)|
 |[urglq: an efficient covariance matrix reconstruction method for robust adaptive beamforming](https://arxiv.org/abs/2210.02214)|[robust-adaptive-beamforming-2022](https://github.com/chenpengseu/robust-adaptive-beamforming-2022)|
+|[online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series](https://arxiv.org/abs/2210.04033)|[online_learning_tm](https://github.com/labogigan/online_learning_tm)|
 |[correlative information maximization based biologically plausible neural networks for correlated source separation](https://arxiv.org/abs/2210.04222)|[Biologically-Plausible-Correlative-Information-Maximization-for-Blind-Source-Separation](https://github.com/BariscanBozkurt/Biologically-Plausible-Correlative-Information-Maximization-for-Blind-Source-Separation)|
+|[rhombic grids reduce the number of voxels in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2210.04818)|[rhombic_grids](https://github.com/mschiffn/rhombic_grids)|
 |[coinpress: practical private mean and covariance estimation](https://arxiv.org/abs/2006.06618)|[coin-press](https://github.com/twistedcubic/coin-press)|
+|[constrained optimal querying: huffman coding and beyond](https://arxiv.org/abs/2210.04013)|[constrained-optimal-querying-huffman-coding-and-beyond](https://github.com/madcreeper/constrained-optimal-querying-huffman-coding-and-beyond)|
 ## 2022-10-10
 |paper|code|
 |---|---|
