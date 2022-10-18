@@ -1,3 +1,8 @@
+## 2022-10-17
+|paper|code|
+|---|---|
+|[calibration and uncertainty characterization for ultra-wideband two-way-ranging measurements](https://arxiv.org/abs/2210.05888)|[uwb_calibration](https://github.com/decarsg/uwb_calibration)|
+|[i13dr: a real-time demand response infrastructure for integrating renewable energy resources](https://arxiv.org/abs/2210.07789)|[demand-manager-app](https://github.com/i13DR/demand-manager-app)|
 ## 2022-10-14
 |paper|code|
 |---|---|
@@ -9,11 +14,11 @@
 |[decentralized state estimation in a dimension-reduced linear regression](https://arxiv.org/abs/2210.06947)|[dtt](https://gitlab.com/robinforsling/dtt)|
 |[better lattice quantizers constructed from complex integers](https://arxiv.org/abs/2204.01105)|[latticequantizer](https://github.com/shx-lyu/latticequantizer)|
 |[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
 ## 2022-10-13
 |paper|code|
 |---|---|
 |[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
-|[calibration and uncertainty characterization for ultra-wideband two-way-ranging measurements](https://arxiv.org/abs/2210.05888)|[uwb_calibration](https://github.com/decarsg/uwb_calibration)|
 |[outlier-insensitive kalman filtering using nuv priors](https://arxiv.org/abs/2210.06083)|[oikf_icassp23](https://github.com/kalmannet/oikf_icassp23)|
 |[an energy-efficient spiking neural network for finger velocity decoding for implantable brain-machine interface](https://arxiv.org/abs/2210.06287)|[snn-for-finger-velocity-ibmi](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)|
 |[multimodality multi-lead ecg arrhythmia classification using self-supervised learning](https://arxiv.org/abs/2210.06297)|[ecg_ssl_12lead](https://github.com/uark-aicv/ecg_ssl_12lead)|
