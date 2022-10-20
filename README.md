@@ -1,13 +1,21 @@
+## 2022-10-19
+|paper|code|
+|---|---|
+|[non-stationary transformers: exploring the stationarity in time series forecasting](https://arxiv.org/abs/2205.14415)|[Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers)|
+|[deep learning-enabled semantic communication systems with task-unaware transmitter and dynamic data](https://arxiv.org/abs/2205.00271)|[semantic-communication-systems](https://github.com/sjtu-mxtao/semantic-communication-systems)|
+|[distributed inference over linear models using alternating gaussian belief propagation](https://arxiv.org/abs/2210.09808)|[FactorGraph.jl](https://github.com/mcosovic/FactorGraph.jl)|
 ## 2022-10-18
 |paper|code|
 |---|---|
 |[a robust alternative for graph convolutional neural networks via graph neighborhood filters](https://arxiv.org/abs/2110.00844)|[neighborhoodgf](https://github.com/vmtenorio/neighborhoodgf)|
 |[music source separation with generative flow](https://arxiv.org/abs/2204.09079)|[generativesourceseparation](https://github.com/gzhu06/generativesourceseparation)|
 |[sinr: deconvolving circular sas images using implicit neural representations](https://arxiv.org/abs/2204.10428)|[csas_deconvolution_inr](https://github.com/awreed/csas_deconvolution_inr)|
+|[transfer learning of wav2vec 2.0 for automatic lyric transcription](https://arxiv.org/abs/2207.09747)|[alt_speechbrain](https://github.com/guxm2021/alt_speechbrain)|
 |[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
 |[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
 |[multiscale adaptive scheduling and path-planning for power-constrained uav-relays via smdps](https://arxiv.org/abs/2209.07655)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
 |[evaluating latent space robustness and uncertainty of eeg-ml models under realistic distribution shifts](https://arxiv.org/abs/2209.11233)|[evaluating-eeg-representations](https://github.com/neerajwagh/evaluating-eeg-representations)|
+|[a framework to evaluate independent component analysis applied to eeg signal: testing on the picard algorithm](https://arxiv.org/abs/2210.08409)|[testica](https://github.com/sccn/testica)|
 |[robust graph filter identification and graph denoising from signal observations](https://arxiv.org/abs/2210.08488)|[graph_denoising](https://github.com/reysam93/graph_denoising)|
 |[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
 |[a unitary transform based generalized approximate message passing](https://arxiv.org/abs/2210.08861)|[guamp](https://github.com/riverzhu/guamp)|
