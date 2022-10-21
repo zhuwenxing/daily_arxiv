@@ -1,3 +1,8 @@
+## 2022-10-20
+|paper|code|
+|---|---|
+|[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
+|[generative adversarial user privacy in lossy single-server information retrieval](https://arxiv.org/abs/2012.03902)|[GAUP_TIFS22](https://github.com/Simula-UiB/GAUP_TIFS22)|
 ## 2022-10-19
 |paper|code|
 |---|---|
