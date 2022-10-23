@@ -2,6 +2,8 @@
 |paper|code|
 |---|---|
 |[recovery of missing sensor data by reconstructing time-varying graph signals](https://arxiv.org/abs/2203.00418)|[EUSIPCO_22_Sobolev](https://github.com/anindya2001/EUSIPCO_22_Sobolev)|
+|[prosky: neat meets noma-mmwave in the sky of 6g](https://arxiv.org/abs/2210.11406)|[prosky](https://github.com/fouzibenfaid/prosky)|
+|[a hybrid millimeter-wave channel simulator for joint communication and localization](https://arxiv.org/abs/2210.11422)|[omnisim](https://github.com/dengjunquan/omnisim)|
 |[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
 |[rashomon capacity: a metric for predictive multiplicity in classification](https://arxiv.org/abs/2206.01295)|[rashomon-capacity](https://github.com/hsianghsu/rashomon-capacity)|
 ## 2022-10-20
