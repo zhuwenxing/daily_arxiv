@@ -1,3 +1,10 @@
+## 2022-10-25
+|paper|code|
+|---|---|
+|[unsupervised particle sorting for cryo-em using probabilistic pca](https://arxiv.org/abs/2210.12811)|[particle_sorting](https://github.com/giliw/particle_sorting)|
+|[ecg artifact removal from single-channel surface emg using fully convolutional networks](https://arxiv.org/abs/2210.13271)|[ecg-removal-from-semg-by-fcn](https://github.com/eric-wang135/ecg-removal-from-semg-by-fcn)|
+|[tight mutual information estimation with contrastive fenchel-legendre optimization](https://arxiv.org/abs/2107.01131)|[FLO](https://github.com/qingguo666/FLO)|
+|[fast beam alignment via pure exploration in multi-armed bandits](https://arxiv.org/abs/2210.12625)|[fast-beam-alignment](https://github.com/yiwei0129/fast-beam-alignment)|
 ## 2022-10-24
 |paper|code|
 |---|---|
