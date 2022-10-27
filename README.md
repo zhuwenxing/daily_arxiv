@@ -1,3 +1,8 @@
+## 2022-10-26
+|paper|code|
+|---|---|
+|[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
+|[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-10-25
 |paper|code|
 |---|---|
