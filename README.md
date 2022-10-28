@@ -1,3 +1,8 @@
+## 2022-10-27
+|paper|code|
+|---|---|
+|[multimodal sensor data fusion for in-situ classification of animal behavior using accelerometry and gnss data](https://arxiv.org/abs/2206.12078)|[animal_behavior_classification_acc_gnss](https://github.com/reza219/animal_behavior_classification_acc_gnss)|
+|[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 ## 2022-10-26
 |paper|code|
 |---|---|
@@ -6,8 +11,10 @@
 ## 2022-10-25
 |paper|code|
 |---|---|
+|[hierarchical filtering with online learned priors for ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
 |[unsupervised particle sorting for cryo-em using probabilistic pca](https://arxiv.org/abs/2210.12811)|[particle_sorting](https://github.com/giliw/particle_sorting)|
 |[ecg artifact removal from single-channel surface emg using fully convolutional networks](https://arxiv.org/abs/2210.13271)|[ecg-removal-from-semg-by-fcn](https://github.com/eric-wang135/ecg-removal-from-semg-by-fcn)|
+|[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
 |[tight mutual information estimation with contrastive fenchel-legendre optimization](https://arxiv.org/abs/2107.01131)|[FLO](https://github.com/qingguo666/FLO)|
 |[fast beam alignment via pure exploration in multi-armed bandits](https://arxiv.org/abs/2210.12625)|[fast-beam-alignment](https://github.com/yiwei0129/fast-beam-alignment)|
 ## 2022-10-24
