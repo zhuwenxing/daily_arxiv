@@ -2,11 +2,15 @@
 |paper|code|
 |---|---|
 |[vqf: highly accurate imu orientation estimation with bias estimation and magnetic disturbance rejection](https://arxiv.org/abs/2203.17024)|[vqf](https://github.com/dlaidig/vqf)|
+|[accelerated massive mimo detector based on annealed underdamped langevin dynamics](https://arxiv.org/abs/2210.15071)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
+|[kalmanbot: kalmannet-aided bollinger bands for pairs trading](https://arxiv.org/abs/2210.15448)|[kalmanbot_icassp23](https://github.com/kalmannet/kalmanbot_icassp23)|
 |[deep convolutional neural networks for multi-target tracking: a transfer learning approach](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[mine-pytorch](https://github.com/billywu1029/mine-pytorch)|
 ## 2022-10-27
 |paper|code|
 |---|---|
 |[multimodal sensor data fusion for in-situ classification of animal behavior using accelerometry and gnss data](https://arxiv.org/abs/2206.12078)|[animal_behavior_classification_acc_gnss](https://github.com/reza219/animal_behavior_classification_acc_gnss)|
+|[topological slepians: maximally localized representations of signals over simplicial complexes](https://arxiv.org/abs/2210.14758)|[topological-slepians](https://github.com/clabat9/topological-slepians)|
 |[a nonlinear sum of squares search for cazac sequences](https://arxiv.org/abs/2210.14827)|[ieee-sos-cazac](https://github.com/magsino-usna/ieee-sos-cazac)|
 |[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 ## 2022-10-26
