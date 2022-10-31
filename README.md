@@ -4,7 +4,6 @@
 |[vqf: highly accurate imu orientation estimation with bias estimation and magnetic disturbance rejection](https://arxiv.org/abs/2203.17024)|[vqf](https://github.com/dlaidig/vqf)|
 |[accelerated massive mimo detector based on annealed underdamped langevin dynamics](https://arxiv.org/abs/2210.15071)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
 |[kalmanbot: kalmannet-aided bollinger bands for pairs trading](https://arxiv.org/abs/2210.15448)|[kalmanbot_icassp23](https://github.com/kalmannet/kalmanbot_icassp23)|
-|[deep convolutional neural networks for multi-target tracking: a transfer learning approach](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
 |[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[mine-pytorch](https://github.com/billywu1029/mine-pytorch)|
 ## 2022-10-27
 |paper|code|
