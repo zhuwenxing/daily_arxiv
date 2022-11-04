@@ -1,9 +1,17 @@
+## 2022-11-03
+|paper|code|
+|---|---|
+|[topology-aware graph neural networks for learning feasible and adaptive ac-opf solutions](https://arxiv.org/abs/2205.10129)|[GNN_OPF_electricity_market](https://github.com/ShaohuiLiu/GNN_OPF_electricity_market)|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[a nonlinear sum of squares search for cazac sequences](https://arxiv.org/abs/2210.14827)|[ieee-sos-cazac](https://github.com/magsino-usna/ieee-sos-cazac)|
+|[witt: a wireless image transmission transformer for semantic communications](https://arxiv.org/abs/2211.00937)|[witt](https://github.com/keyang8/witt)|
 ## 2022-11-01
 |paper|code|
 |---|---|
 |[i13dr: a real-time demand response infrastructure for integrating renewable energy resources](https://arxiv.org/abs/2210.07789)|[demand-manager-app](https://github.com/i13DR/demand-manager-app)|
 |[fast-convergent federated learning via cyclic aggregation](https://arxiv.org/abs/2210.16520)|[cyclicaggregation](https://github.com/yjlee22/cyclicaggregation)|
 |[better lightweight network for free: codeword mimic learning for massive mimo csi feedback](https://arxiv.org/abs/2210.16544)|[codewordmimicfeedback](https://github.com/kylin9511/codewordmimicfeedback)|
+|[space-time design for deep joint source channel coding of images over mimo channels](https://arxiv.org/abs/2210.16985)|[st_jscc](https://github.com/aprilbian/st_jscc)|
 |[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
 ## 2022-10-31
@@ -15,6 +23,7 @@
 |[speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/abs/2210.15903)|[avcleanse](https://github.com/taoruijie/avcleanse)|
 |[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
 |[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
+|[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
 ## 2022-10-28
 |paper|code|
 |---|---|
