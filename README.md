@@ -1,9 +1,18 @@
+## 2022-11-10
+|paper|code|
+|---|---|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[optimal discrete beamforming of reconfigurable intelligent surface](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[phaseaug: a differentiable augmentation for speech synthesis to simulate one-to-many mapping](https://arxiv.org/abs/2211.04610)|[phaseaug](https://github.com/mindslab-ai/phaseaug)|
+|[estimation of signal parameters using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[quantization adaptor for bit-level deep learning-based massive mimo csi feedback](https://arxiv.org/abs/2211.02937)|[qcrnet](https://github.com/zhang-xd18/qcrnet)|
 ## 2022-11-09
 |paper|code|
 |---|---|
 |[mimo channel estimation using score-based generative models](https://arxiv.org/abs/2204.07122)|[score-based-channels](https://github.com/utcsilab/score-based-channels)|
 |[causal discovery in linear structural causal models with deterministic relations](https://arxiv.org/abs/2111.00341)|[propagation-scm](https://github.com/yuqin-yang/propagation-scm)|
 |[causal discovery in linear latent variable models subject to measurement error](https://arxiv.org/abs/2211.03984)|[sem-me-ur](https://github.com/yuqin-yang/sem-me-ur)|
+|[bounded guaranteed algorithms for concave impurity minimization via maximum likelihood](https://arxiv.org/abs/2211.04430)|[linear_clustering](https://github.com/hoangle96/linear_clustering)|
 ## 2022-11-08
 |paper|code|
 |---|---|
@@ -13,11 +22,12 @@
 |[malgrid: visualization of binary features in large malware corpora](https://arxiv.org/abs/2211.02696)|[MalGrid](https://github.com/Mayachitra-Inc/MalGrid)|
 |[samo: speaker attractor multi-center one-class learning for voice anti-spoofing](https://arxiv.org/abs/2211.02718)|[samo](https://github.com/sivannavis/samo)|
 |[deep learning for rapid landslide detection using synthetic aperture radar (sar) datacubes](https://arxiv.org/abs/2211.02869)|[landslide-sar-unet](https://github.com/iprapas/landslide-sar-unet)|
-|[graph neural networks for community detection on sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[neural multi-event forecasting on spatio-temporal point processes using probabilistically enriched transformers](https://arxiv.org/abs/2211.02922)|[neural-spatio-temporal-probabilistic-transformers](https://github.com/negar-erfanian/neural-spatio-temporal-probabilistic-transformers)|
 |[pygsl: a graph structure learning toolkit](https://arxiv.org/abs/2211.03583)|[pygsl](https://github.com/maxwass/pygsl)|
 |[unifying approaches in active learning and active sampling via fisher information and information-theoretic quantities](https://arxiv.org/abs/2208.00549)|[2208.00549](https://github.com/blackhc/2208.00549)|
 |[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 |[fas-unet: a novel fas-driven unet to learn variational image segmentation](https://arxiv.org/abs/2210.15164)|[fasunet](https://github.com/zhuhui100/fasunet)|
+|[inductive graph transformer for delivery time estimation](https://arxiv.org/abs/2211.02863)|[igt-wsdm23](https://github.com/enoche/igt-wsdm23)|
 ## 2022-11-07
 |paper|code|
 |---|---|
