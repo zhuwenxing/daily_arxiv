@@ -1,3 +1,9 @@
+## 2022-11-11
+|paper|code|
+|---|---|
+|[gradient-based learning of discrete structured measurement operators for signal recovery](https://arxiv.org/abs/2202.03391)|[glodismo](https://github.com/josauder/glodismo)|
+|[graph neural networks for community detection on sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[the entropy rate of linear additive markov processes](https://arxiv.org/abs/2211.05350)|[LAMPEntropyEstimates](https://github.com/bridget-smart/LAMPEntropyEstimates)|
 ## 2022-11-10
 |paper|code|
 |---|---|
