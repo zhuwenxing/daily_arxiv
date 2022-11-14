@@ -29,6 +29,7 @@
 |[samo: speaker attractor multi-center one-class learning for voice anti-spoofing](https://arxiv.org/abs/2211.02718)|[samo](https://github.com/sivannavis/samo)|
 |[deep learning for rapid landslide detection using synthetic aperture radar (sar) datacubes](https://arxiv.org/abs/2211.02869)|[landslide-sar-unet](https://github.com/iprapas/landslide-sar-unet)|
 |[neural multi-event forecasting on spatio-temporal point processes using probabilistically enriched transformers](https://arxiv.org/abs/2211.02922)|[neural-spatio-temporal-probabilistic-transformers](https://github.com/negar-erfanian/neural-spatio-temporal-probabilistic-transformers)|
+|[pan-tompkins++: a robust approach to detect r-peaks in ecg signals](https://arxiv.org/abs/2211.03171)|[Pan-Tompkins-Plus-Plus](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)|
 |[pygsl: a graph structure learning toolkit](https://arxiv.org/abs/2211.03583)|[pygsl](https://github.com/maxwass/pygsl)|
 |[unifying approaches in active learning and active sampling via fisher information and information-theoretic quantities](https://arxiv.org/abs/2208.00549)|[2208.00549](https://github.com/blackhc/2208.00549)|
 |[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
