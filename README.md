@@ -1,3 +1,13 @@
+## 2022-11-15
+|paper|code|
+|---|---|
+|[universal adversarial perturbations for cnn classifiers in eeg-based bcis](https://arxiv.org/abs/1912.01171)|[UAP_EEG](https://github.com/ZihanLiu95/UAP_EEG)|
+|[tiny noise, big mistakes: adversarial perturbations induce errors in brain-computer interface spellers](https://arxiv.org/abs/2001.11569)|[Speller-Attacks](https://github.com/ZhangXiao96/Speller-Attacks)|
+|[reconfigurable intelligent surface phase hopping for ultra-reliable communications](https://arxiv.org/abs/2107.11852)|[ris-phase-hopping](https://github.com/klb2/ris-phase-hopping)|
+|[a dataset and baseline approach for identifying usage states from non-intrusive power sensing with midas iot-based sensors](https://arxiv.org/abs/2209.00987)|[poweriot-state-identification](https://github.com/ai4society/poweriot-state-identification)|
+|[advancing the state-of-the-art for ecg analysis through structured state space models](https://arxiv.org/abs/2211.07579)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
+|[wyner-ziv estimators for distributed mean estimation with side information and optimization](https://arxiv.org/abs/2011.12160)|[wz_estimators](https://github.com/shubhamjha-46/wz_estimators)|
+|[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 ## 2022-11-14
 |paper|code|
 |---|---|
