@@ -1,3 +1,15 @@
+## 2022-11-16
+|paper|code|
+|---|---|
+|[link scheduling using graph neural networks](https://arxiv.org/abs/2109.05536)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[a tutorial on terahertz-band localization for 6g communication systems](https://arxiv.org/abs/2110.08581)|[radio_localization](https://github.com/chenhui07c8/radio_localization)|
+|[end-to-end p300 bci using bayesian accumulation of riemannian probabilities](https://arxiv.org/abs/2203.07807)|[demos](https://github.com/timeflux/demos)|
+|[data augmentation for learning predictive models on eeg: a systematic comparison](https://arxiv.org/abs/2206.14483)|[eeg-augmentation-benchmark-2022](https://github.com/eeg-augmentation-benchmark/eeg-augmentation-benchmark-2022)|
+|[towards v2i age-aware fairness access: a dqn based intelligent vehicular node training and test method](https://arxiv.org/abs/2208.01283)|[age-fairness](https://github.com/qiongwu86/age-fairness)|
+|[motif-topology improved spiking neural network for the cocktail party effect and mcgurk effect](https://arxiv.org/abs/2211.07641)|[motif-snn](https://github.com/thomasaimondy/motif-snn)|
+|[machine learning methods applied to cortico-cortical evoked potentials aid in localizing seizure onset zones](https://arxiv.org/abs/2211.07867)|[ml4hsoz](https://github.com/iangmalone/ml4hsoz)|
+|[cardiacgen: a hierarchical deep generative model for cardiac signals](https://arxiv.org/abs/2211.08385)|[cardiac_gen_model](https://github.com/SENSE-Lab-OSU/cardiac_gen_model)|
+|[almost optimal variance-constrained best arm identification](https://arxiv.org/abs/2201.10142)|[va-bai](https://github.com/y-hou/va-bai)|
 ## 2022-11-15
 |paper|code|
 |---|---|
@@ -5,9 +17,11 @@
 |[tiny noise, big mistakes: adversarial perturbations induce errors in brain-computer interface spellers](https://arxiv.org/abs/2001.11569)|[Speller-Attacks](https://github.com/ZhangXiao96/Speller-Attacks)|
 |[reconfigurable intelligent surface phase hopping for ultra-reliable communications](https://arxiv.org/abs/2107.11852)|[ris-phase-hopping](https://github.com/klb2/ris-phase-hopping)|
 |[a dataset and baseline approach for identifying usage states from non-intrusive power sensing with midas iot-based sensors](https://arxiv.org/abs/2209.00987)|[poweriot-state-identification](https://github.com/ai4society/poweriot-state-identification)|
+|[transforming ris-assisted passive beamforming from tedious to simple: a relaxation algorithm for rician channel](https://arxiv.org/abs/2211.06555)|[relaxation-algorithm-on-ris-miso](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|
 |[advancing the state-of-the-art for ecg analysis through structured state space models](https://arxiv.org/abs/2211.07579)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
 |[wyner-ziv estimators for distributed mean estimation with side information and optimization](https://arxiv.org/abs/2011.12160)|[wz_estimators](https://github.com/shubhamjha-46/wz_estimators)|
 |[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
+|[multi-user frequency assignment for ultra-reliable mmwave two-ray channels](https://arxiv.org/abs/2211.07204)|[frequency-assignment-qmkp](https://github.com/klb2/frequency-assignment-qmkp)|
 ## 2022-11-14
 |paper|code|
 |---|---|
