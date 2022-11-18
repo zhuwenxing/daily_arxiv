@@ -1,3 +1,9 @@
+## 2022-11-17
+|paper|code|
+|---|---|
+|[mcnet: fuse multiple cues for multichannel speech enhancement](https://arxiv.org/abs/2211.08872)|[mcnet](https://github.com/audio-westlakeu/mcnet)|
+|[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
+|[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-11-16
 |paper|code|
 |---|---|
