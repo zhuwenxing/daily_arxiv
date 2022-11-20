@@ -1,7 +1,15 @@
+## 2022-11-18
+|paper|code|
+|---|---|
+|[deep reinforcement learning based joint downlink beamforming and ris configuration in ris-aided mu-miso systems under hardware impairments and imperfect csi](https://arxiv.org/abs/2211.09702)|[ris-miso-pda-deep-reinforcement-learning](https://github.com/baturaysaglam/ris-miso-pda-deep-reinforcement-learning)|
+|[sigt: an efficient end-to-end mimo-ofdm receiver framework based on transformer](https://arxiv.org/abs/2211.09712)|[sigt](https://github.com/sigtransformer/sigt)|
+|[efficient urllc with a reconfigurable intelligent surface and imperfect device tracking](https://arxiv.org/abs/2211.09171)|[efficient-ris-aided-urllc](https://github.com/aau-cnt/efficient-ris-aided-urllc)|
 ## 2022-11-17
 |paper|code|
 |---|---|
+|[one-bit mmwave mimo channel estimation using deep generative networks](https://arxiv.org/abs/2211.08635)|[obq-gan-mimo-ce](https://github.com/akashsdoshi96/obq-gan-mimo-ce)|
 |[mcnet: fuse multiple cues for multichannel speech enhancement](https://arxiv.org/abs/2211.08872)|[mcnet](https://github.com/audio-westlakeu/mcnet)|
+|[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
 |[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
 |[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-11-16
