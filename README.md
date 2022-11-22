@@ -1,3 +1,10 @@
+## 2022-11-21
+|paper|code|
+|---|---|
+|[arrhythmia classification using cgan-augmented ecg signals](https://arxiv.org/abs/2202.00569)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[sinusoidal frequency estimation by gradient descent](https://arxiv.org/abs/2210.14476)|[sinusoidal-gradient-descent](https://github.com/ben-hayes/sinusoidal-gradient-descent)|
+|[sar-based landslide classification pretraining leads to better segmentation](https://arxiv.org/abs/2211.09927)|[sar-landslide-detection-pretraining](https://github.com/vmboehm/sar-landslide-detection-pretraining)|
+|[astrometric calibration and source characterisation of the latest generation neuromorphic event-based cameras for space imaging](https://arxiv.org/abs/2211.09939)|[icns_noralph_event_based-space_imaging-speed_dataset](https://github.com/nicralph213/icns_noralph_event_based-space_imaging-speed_dataset)|
 ## 2022-11-18
 |paper|code|
 |---|---|
