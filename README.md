@@ -1,3 +1,37 @@
+## 2022-11-24
+|paper|code|
+|---|---|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[pan-tompkins++: a robust approach to detect r-peaks in ecg signals](https://arxiv.org/abs/2211.03171)|[Pan-Tompkins-Plus-Plus](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)|
+|[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
+|[challenges in gaussian processes for non intrusive load monitoring](https://arxiv.org/abs/2211.13018)|[nilm_gp](https://github.com/aadesh-1404/nilm_gp)|
+|[eeg aided boosting of single-lead ecg based sleep staging with deep knowledge distillation](https://arxiv.org/abs/2211.13125)|[sleep_staging_kd](https://github.com/acrophase/sleep_staging_kd)|
+|[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
+|[verified reversible programming for verified lossless compression](https://arxiv.org/abs/2211.09676)|[flipper](https://github.com/j-towns/flipper)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
+## 2022-11-23
+|paper|code|
+|---|---|
+|[graph neural networks with parallel neighborhood aggregations for graph classification](https://arxiv.org/abs/2111.11482)|[spin](https://github.com/siddhant-doshi/spin)|
+|[communication-efficient stochastic zeroth-order optimization for federated learning](https://arxiv.org/abs/2201.09531)|[FedZO](https://github.com/noobyzy/FedZO)|
+|[meta-af: meta-learning for adaptive filters](https://arxiv.org/abs/2204.11942)|[metaaf](https://github.com/adobe-research/metaaf)|
+|[transforming ris-assisted passive beamforming from tedious to simple: a relaxation algorithm for rician channel](https://arxiv.org/abs/2211.06555)|[relaxation-algorithm-on-ris-miso](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|
+|[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
+|[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
+|[quasifibrations of graphs to find symmetries in biological networks](https://arxiv.org/abs/2111.06999)|[qf](https://github.com/boldip/qf)|
+|[blind super-resolution of point sources via projected gradient descent](https://arxiv.org/abs/2112.01077)|[pgdvhl](https://github.com/jcchen2017/pgdvhl)|
+|[rate-distortion theoretic bounds on generalization error for distributed learning](https://arxiv.org/abs/2206.02604)|[datascience](https://github.com/romainchor/datascience)|
+## 2022-11-22
+|paper|code|
+|---|---|
+|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/lanl/openfwi)|
+|[pmnet: robust pathloss map prediction via supervised learning](https://arxiv.org/abs/2211.10527)|[pmnet](https://github.com/abman23/pmnet)|
+|[spatiotemporal modeling of multivariate signals with graph neural networks and structured state space models](https://arxiv.org/abs/2211.11176)|[graphs4mer](https://github.com/tsy935/graphs4mer)|
+|[motor imagery decoding using ensemble curriculum learning and collaborative training](https://arxiv.org/abs/2211.11460)|[ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)|
+|[neural network based generation of 1-dimensional stochastic fields with turbulent velocity statistics](https://arxiv.org/abs/2211.11580)|[nn-turb](https://github.com/cgranerob/nn-turb)|
+|[nonlinear information bottleneck](https://arxiv.org/abs/1705.02436)|[nonlinear-IB-PyTorch](https://github.com/burklight/nonlinear-IB-PyTorch)|
+|[a novel approach to the partial information decomposition](https://arxiv.org/abs/1908.08642)|[redundancy](https://github.com/artemyk/redundancy)|
+|[diffeomorphic information neural estimation](https://arxiv.org/abs/2211.10856)|[dine](https://github.com/baosws/dine)|
 ## 2022-11-21
 |paper|code|
 |---|---|
@@ -5,6 +39,7 @@
 |[sinusoidal frequency estimation by gradient descent](https://arxiv.org/abs/2210.14476)|[sinusoidal-gradient-descent](https://github.com/ben-hayes/sinusoidal-gradient-descent)|
 |[sar-based landslide classification pretraining leads to better segmentation](https://arxiv.org/abs/2211.09927)|[sar-landslide-detection-pretraining](https://github.com/vmboehm/sar-landslide-detection-pretraining)|
 |[astrometric calibration and source characterisation of the latest generation neuromorphic event-based cameras for space imaging](https://arxiv.org/abs/2211.09939)|[icns_noralph_event_based-space_imaging-speed_dataset](https://github.com/nicralph213/icns_noralph_event_based-space_imaging-speed_dataset)|
+|[towards fast single-trial online erp based brain-computer interface using dry eeg electrodes and neural networks: a pilot study](https://arxiv.org/abs/2211.10352)|[stimusto](https://github.com/okbalefthanded/stimusto)|
 ## 2022-11-18
 |paper|code|
 |---|---|
