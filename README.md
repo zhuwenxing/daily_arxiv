@@ -1,3 +1,11 @@
+## 2022-11-28
+|paper|code|
+|---|---|
+|[low-complexity near-optimum symbol detection based on neural enhancement of factor graphs](https://arxiv.org/abs/2203.16417)|[gap](https://github.com/kit-cel/gap)|
+|[biologically-plausible determinant maximization neural networks for blind separation of correlated sources](https://arxiv.org/abs/2209.12894)|[biologically-plausible-detmaxnns-for-blind-source-separation](https://github.com/bariscanbozkurt/biologically-plausible-detmaxnns-for-blind-source-separation)|
+|[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
+|[quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2211.13006)|[qcs-sgm](https://github.com/mengxiangming/qcs-sgm)|
+|[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
 ## 2022-11-24
 |paper|code|
 |---|---|
