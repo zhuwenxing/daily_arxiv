@@ -1,3 +1,9 @@
+## 2022-11-29
+|paper|code|
+|---|---|
+|[surimi: supervised radio map augmentation with deep learning and a generative adversarial network for fingerprint-based indoor positioning](https://arxiv.org/abs/2207.06120)|[surimi](https://github.com/darwinquezada/surimi)|
+|[optimal discrete beamforming of reconfigurable intelligent surface](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression](https://arxiv.org/abs/2211.15482)|[vars](https://github.com/xinychen/vars)|
 ## 2022-11-28
 |paper|code|
 |---|---|
