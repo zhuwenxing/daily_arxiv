@@ -1,3 +1,7 @@
+## 2022-12-02
+|paper|code|
+|---|---|
+|[swl-adapt: an unsupervised domain adaptation model with sample weight learning for cross-user wearable human activity recognition](https://arxiv.org/abs/2212.00724)|[SWL-Adapt](https://github.com/Rxannro/SWL-Adapt)|
 ## 2022-12-01
 |paper|code|
 |---|---|
