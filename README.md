@@ -1,6 +1,7 @@
 ## 2022-12-02
 |paper|code|
 |---|---|
+|[fully on-board low-power localization with multizone time-of-flight sensors on nano-uavs](https://arxiv.org/abs/2212.00710)|[Matrix_ToF_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones)|
 |[swl-adapt: an unsupervised domain adaptation model with sample weight learning for cross-user wearable human activity recognition](https://arxiv.org/abs/2212.00724)|[SWL-Adapt](https://github.com/Rxannro/SWL-Adapt)|
 ## 2022-12-01
 |paper|code|
@@ -21,7 +22,6 @@
 |---|---|
 |[deformable radar polygon: a lightweight and predictable occupancy representation for short-range collision avoidance](https://arxiv.org/abs/2203.01442)|[deformable_radar_polygon_occupancy_representation](https://github.com/xiangyu-gao/deformable_radar_polygon_occupancy_representation)|
 |[surimi: supervised radio map augmentation with deep learning and a generative adversarial network for fingerprint-based indoor positioning](https://arxiv.org/abs/2207.06120)|[surimi](https://github.com/darwinquezada/surimi)|
-|[optimal discrete beamforming of reconfigurable intelligent surface](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 |[semi-supervised specific emitter identification method using metric-adversarial training](https://arxiv.org/abs/2211.15379)|[mat-based-ss-sei](https://github.com/lovelymimola/mat-based-ss-sei)|
 |[discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression](https://arxiv.org/abs/2211.15482)|[vars](https://github.com/xinychen/vars)|
 ## 2022-11-28
