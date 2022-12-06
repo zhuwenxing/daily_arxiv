@@ -1,3 +1,9 @@
+## 2022-12-05
+|paper|code|
+|---|---|
+|[optimal discrete beamforming of reconfigurable intelligent surfaces](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[a domain-knowledge-inspired music embedding space and a novel attention mechanism for symbolic music modeling](https://arxiv.org/abs/2212.00973)|[fundamentalmusicembedding](https://github.com/guozixunnicolas/fundamentalmusicembedding)|
+|[fecam: frequency enhanced channel attention mechanism for time series forecasting](https://arxiv.org/abs/2212.01209)|[fecam](https://github.com/zero-coder/fecam)|
 ## 2022-12-02
 |paper|code|
 |---|---|
