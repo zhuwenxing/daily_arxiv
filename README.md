@@ -1,3 +1,11 @@
+## 2022-12-06
+|paper|code|
+|---|---|
+|[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
+|[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
+|[joint graph learning from gaussian observations in the presence of hidden nodes](https://arxiv.org/abs/2212.01816)|[hidden_joint_gaussian_inf](https://github.com/reysam93/hidden_joint_gaussian_inf)|
+|[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
+|[approximate message passing for multi-layer estimation in rotationally invariant models](https://arxiv.org/abs/2212.01572)|[ML-RI-GAMP](https://github.com/sparc-lab/ML-RI-GAMP)|
 ## 2022-12-05
 |paper|code|
 |---|---|
