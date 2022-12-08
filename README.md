@@ -1,3 +1,8 @@
+## 2022-12-07
+|paper|code|
+|---|---|
+|[direction of arrival estimation of sound sources using icosahedral cnns](https://arxiv.org/abs/2203.16940)|[icodoa](https://github.com/daviddiazguerra/icodoa)|
+|[storseismic: a new paradigm in deep learning for seismic processing](https://arxiv.org/abs/2205.00222)|[storseismic](https://github.com/swag-kaust/storseismic)|
 ## 2022-12-06
 |paper|code|
 |---|---|
@@ -5,6 +10,7 @@
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
 |[joint graph learning from gaussian observations in the presence of hidden nodes](https://arxiv.org/abs/2212.01816)|[hidden_joint_gaussian_inf](https://github.com/reysam93/hidden_joint_gaussian_inf)|
 |[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
+|[node-wise domain adaptation based on transferable attention for recognizing road rage via eeg](https://arxiv.org/abs/2212.02417)|[dataandcode](https://github.com/1cec0ffee/dataandcode)|
 |[approximate message passing for multi-layer estimation in rotationally invariant models](https://arxiv.org/abs/2212.01572)|[ML-RI-GAMP](https://github.com/sparc-lab/ML-RI-GAMP)|
 ## 2022-12-05
 |paper|code|
@@ -12,6 +18,7 @@
 |[optimal discrete beamforming of reconfigurable intelligent surfaces](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 |[a domain-knowledge-inspired music embedding space and a novel attention mechanism for symbolic music modeling](https://arxiv.org/abs/2212.00973)|[fundamentalmusicembedding](https://github.com/guozixunnicolas/fundamentalmusicembedding)|
 |[fecam: frequency enhanced channel attention mechanism for time series forecasting](https://arxiv.org/abs/2212.01209)|[fecam](https://github.com/zero-coder/fecam)|
+|[wigner distribution deconvolution adaptation for live ptychography reconstruction](https://arxiv.org/abs/2212.01309)|[livewdd](https://github.com/ptychography-4-0/livewdd)|
 ## 2022-12-02
 |paper|code|
 |---|---|
