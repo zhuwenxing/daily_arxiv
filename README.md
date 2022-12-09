@@ -1,3 +1,9 @@
+## 2022-12-08
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[gridless 3d recovery of image sources from room impulse responses](https://arxiv.org/abs/2208.14017)|[acoustic-sfw](https://github.com/sprunckt/acoustic-sfw)|
+|[enhancing low-density eeg-based brain-computer interfaces with similarity-keeping knowledge distillation](https://arxiv.org/abs/2212.03329)|[eeg-kd](https://github.com/cecnl/eeg-kd)|
 ## 2022-12-07
 |paper|code|
 |---|---|
@@ -8,6 +14,7 @@
 |---|---|
 |[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
+|[signal enhancement for two-dimensional cryo-em data processing](https://arxiv.org/abs/2212.01421)|[cryoemsignalenhancement](https://github.com/tamirbendory/cryoemsignalenhancement)|
 |[joint graph learning from gaussian observations in the presence of hidden nodes](https://arxiv.org/abs/2212.01816)|[hidden_joint_gaussian_inf](https://github.com/reysam93/hidden_joint_gaussian_inf)|
 |[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
 |[node-wise domain adaptation based on transferable attention for recognizing road rage via eeg](https://arxiv.org/abs/2212.02417)|[dataandcode](https://github.com/1cec0ffee/dataandcode)|
