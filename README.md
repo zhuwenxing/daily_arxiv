@@ -1,3 +1,9 @@
+## 2022-12-09
+|paper|code|
+|---|---|
+|[unrolled algorithms for group synchronization](https://arxiv.org/abs/2207.09418)|[unrolling_synchronization](https://github.com/noamjanco/unrolling_synchronization)|
+|[greeneyes: an air quality evaluating model based on wavenet](https://arxiv.org/abs/2212.04175)|[AirEvaluation](https://github.com/AI-Huang/AirEvaluation)|
+|[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
 ## 2022-12-08
 |paper|code|
 |---|---|
