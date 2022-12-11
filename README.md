@@ -1,6 +1,7 @@
 ## 2022-12-09
 |paper|code|
 |---|---|
+|[dynamic shimming in the cervical spinal cord for multi-echo gradient-echo imaging at 3 t](https://arxiv.org/abs/2107.10331)|[realtime-dynamic-shimming](https://github.com/neuropoly/realtime-dynamic-shimming)|
 |[unrolled algorithms for group synchronization](https://arxiv.org/abs/2207.09418)|[unrolling_synchronization](https://github.com/noamjanco/unrolling_synchronization)|
 |[greeneyes: an air quality evaluating model based on wavenet](https://arxiv.org/abs/2212.04175)|[AirEvaluation](https://github.com/AI-Huang/AirEvaluation)|
 |[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
