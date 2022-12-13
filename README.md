@@ -1,3 +1,9 @@
+## 2022-12-12
+|paper|code|
+|---|---|
+|[model-based and graph-based priors for group testing](https://arxiv.org/abs/2205.11838)|[priors_group_testing](https://github.com/ethangela/priors_group_testing)|
+|[symbol-level grand for high-order modulation over flat fading channels](https://arxiv.org/abs/2207.07748)|[sGRAND](https://github.com/IoannisChatzigeorgiou/sGRAND)|
+|[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
 ## 2022-12-09
 |paper|code|
 |---|---|
