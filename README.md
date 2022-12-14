@@ -1,3 +1,11 @@
+## 2022-12-13
+|paper|code|
+|---|---|
+|[federated learning via plurality vote](https://arxiv.org/abs/2110.02998)|[fedvote](https://github.com/kai-yue/fedvote)|
+|[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
+|[autofi: towards automatic wifi human sensing via geometric self-supervised learning](https://arxiv.org/abs/2205.01629)|[wifi-csi-sensing-benchmark](https://github.com/xyanchen/wifi-csi-sensing-benchmark)|
+|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
+|[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
 ## 2022-12-12
 |paper|code|
 |---|---|
