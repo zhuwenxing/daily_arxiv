@@ -1,3 +1,7 @@
+## 2022-12-14
+|paper|code|
+|---|---|
+|[artificial intelligence enabled noma towards next generation multiple access](https://arxiv.org/abs/2206.04992)|[ai_noma](https://github.com/xiaoxiaxusummer/ai_noma)|
 ## 2022-12-13
 |paper|code|
 |---|---|
@@ -10,6 +14,7 @@
 |paper|code|
 |---|---|
 |[model-based and graph-based priors for group testing](https://arxiv.org/abs/2205.11838)|[priors_group_testing](https://github.com/ethangela/priors_group_testing)|
+|[deep conv-attention model for diagnosing left bundle branch block from 12-lead electrocardiograms](https://arxiv.org/abs/2212.04936)|[dilated_conv_attention.ipynb](https://github.com/alrzsdgh/LBBB-deep-learning/blob/main/dilated_conv_attention.ipynb)|
 |[symbol-level grand for high-order modulation over flat fading channels](https://arxiv.org/abs/2207.07748)|[sGRAND](https://github.com/IoannisChatzigeorgiou/sGRAND)|
 |[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
 ## 2022-12-09
