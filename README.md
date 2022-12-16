@@ -1,6 +1,12 @@
+## 2022-12-15
+|paper|code|
+|---|---|
+|[do not sleep on traditional machine learning: simple and interpretable techniques are competitive to deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
+|[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
 ## 2022-12-14
 |paper|code|
 |---|---|
+|[learning representations for new sound classes with continual self-supervised learning](https://arxiv.org/abs/2205.07390)|[cssl_sound](https://github.com/zhepeiw/cssl_sound)|
 |[artificial intelligence enabled noma towards next generation multiple access](https://arxiv.org/abs/2206.04992)|[ai_noma](https://github.com/xiaoxiaxusummer/ai_noma)|
 ## 2022-12-13
 |paper|code|
@@ -8,8 +14,8 @@
 |[federated learning via plurality vote](https://arxiv.org/abs/2110.02998)|[fedvote](https://github.com/kai-yue/fedvote)|
 |[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
 |[autofi: towards automatic wifi human sensing via geometric self-supervised learning](https://arxiv.org/abs/2205.01629)|[wifi-csi-sensing-benchmark](https://github.com/xyanchen/wifi-csi-sensing-benchmark)|
-|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 |[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
+|[max filtering with reflection groups](https://arxiv.org/abs/2212.05104)|[reflection-groups](https://github.com/daniel-packer/reflection-groups)|
 ## 2022-12-12
 |paper|code|
 |---|---|
