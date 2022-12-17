@@ -1,8 +1,17 @@
+## 2022-12-16
+|paper|code|
+|---|---|
+|[a quaternion-valued variational autoencoder](https://arxiv.org/abs/2010.11647)|[QVAE](https://github.com/eleGAN23/QVAE)|
+|[l3das21 challenge: machine learning for 3d audio signal processing](https://arxiv.org/abs/2104.05499)|[L3DAS21](https://github.com/l3das/L3DAS21)|
+|[l3das22 challenge: learning 3d audio sources in a real office environment](https://arxiv.org/abs/2202.10372)|[l3das22](https://github.com/l3das/l3das22)|
+|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
+|[duidd: deep-unfolded interleaved detection and decoding for mimo wireless systems](https://arxiv.org/abs/2212.07816)|[duidd](https://github.com/iip-group/duidd)|
 ## 2022-12-15
 |paper|code|
 |---|---|
 |[do not sleep on traditional machine learning: simple and interpretable techniques are competitive to deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
 |[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
+|[network coding: an optimization approach](https://arxiv.org/abs/2212.07230)|[network_codes](https://github.com/christopherhojny/network_codes)|
 ## 2022-12-14
 |paper|code|
 |---|---|
