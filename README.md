@@ -1,3 +1,8 @@
+## 2022-12-19
+|paper|code|
+|---|---|
+|[deep learning and its applications to wifi human sensing: a benchmark and a tutorial](https://arxiv.org/abs/2207.07859)|[wifi-csi-sensing-benchmark](https://github.com/chenxinyan-sg/wifi-csi-sensing-benchmark)|
+|[simulating road spray effects in automotive lidar sensor models](https://arxiv.org/abs/2212.08558)|[reflection_based_lidar_object_model](https://github.com/openmsl/reflection_based_lidar_object_model)|
 ## 2022-12-16
 |paper|code|
 |---|---|
