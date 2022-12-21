@@ -1,3 +1,8 @@
+## 2022-12-20
+|paper|code|
+|---|---|
+|[enhancement of a state-of-the-art rl-based detection algorithm for massive mimo radars](https://arxiv.org/abs/2112.02628)|[improved_rl_algorithm_mmimo_radar](https://github.com/lisifra96/improved_rl_algorithm_mmimo_radar)|
+|[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
 ## 2022-12-19
 |paper|code|
 |---|---|
