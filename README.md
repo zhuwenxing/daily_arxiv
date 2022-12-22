@@ -1,3 +1,8 @@
+## 2022-12-21
+|paper|code|
+|---|---|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[joint network topology inference via a shared graphon model](https://arxiv.org/abs/2209.08223)|[jointinf_graphs_graphon](https://github.com/mn51/jointinf_graphs_graphon)|
 ## 2022-12-20
 |paper|code|
 |---|---|
