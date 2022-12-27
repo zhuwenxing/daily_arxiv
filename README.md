@@ -1,3 +1,9 @@
+## 2022-12-26
+|paper|code|
+|---|---|
+|[neonatal eeg graded for severity of background abnormalities in hypoxic-ischaemic encephalopathy](https://arxiv.org/abs/2206.04420)|[downsample_open_eeg](https://github.com/otoolej/downsample_open_eeg)|
+|[spectral subspace dictionary learning](https://arxiv.org/abs/2210.10855)|[spectral_dict_learn](https://github.com/sew347/spectral_dict_learn)|
+|[deep unfolding-based weighted averaging for federated learning under heterogeneous environments](https://arxiv.org/abs/2212.12191)|[deepunfolding-based-fl](https://github.com/a-nakai-k/deepunfolding-based-fl)|
 ## 2022-12-23
 |paper|code|
 |---|---|
@@ -5,7 +11,6 @@
 ## 2022-12-22
 |paper|code|
 |---|---|
-|[permutation matrix modulation](https://arxiv.org/abs/2112.13630)|[permutation-matrix-modulation](https://github.com/faddlis/permutation-matrix-modulation)|
 |[rhombic grids reduce the number of voxels in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2210.04818)|[rhombic_grids](https://github.com/mschiffn/rhombic_grids)|
 |[anticancer peptides classification using kernel sparse representation classifier](https://arxiv.org/abs/2212.10567)|[acp-kernel-src](https://github.com/ehtisham-fazal/acp-kernel-src)|
 |[nestanets: stable, accurate and efficient neural networks for analysis-sparse inverse problems](https://arxiv.org/abs/2203.00804)|[as-nesta-net](https://github.com/mneyrane/as-nesta-net)|
