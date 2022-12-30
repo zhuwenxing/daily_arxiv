@@ -1,3 +1,9 @@
+## 2022-12-29
+|paper|code|
+|---|---|
+|[ecg-based electrolyte prediction: evaluating regression and probabilistic methods](https://arxiv.org/abs/2212.13890)|[ecg-electrolyte-regression](https://github.com/philippvb/ecg-electrolyte-regression)|
+|[anxolotl, an anxiety companion app -- stress detection](https://arxiv.org/abs/2212.14006)|[cfp-workshop-and-challenge-wellbeing](https://github.com/matpato/cfp-workshop-and-challenge-wellbeing)|
+|[a low multiplicative complexity fast recursive dct-2 algorithm](https://arxiv.org/abs/1203.3442)|[Fast_recursive_DCT](https://github.com/Mak-Sim/Fast_recursive_DCT)|
 ## 2022-12-27
 |paper|code|
 |---|---|
