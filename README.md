@@ -1,3 +1,12 @@
+## 2023-01-02
+|paper|code|
+|---|---|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[semantic communications with discrete-time analog transmission: a papr perspective](https://arxiv.org/abs/2208.08342)|[semanticpapr](https://github.com/lynshao/semanticpapr)|
+|[power control for 6g industrial wireless subnetworks: a graph neural network approach](https://arxiv.org/abs/2212.14051)|[Power_Control_GNN](https://github.com/danieloaAAU/Power_Control_GNN)|
+|[sheaf-theoretic self-filtering network of low-cost sensors for local air quality monitoring: a causal approach](https://arxiv.org/abs/2212.14353)|[AirSheaf](https://github.com/a11to1n3/AirSheaf)|
+|[similarity-based predictive maintenance framework for rotating machinery](https://arxiv.org/abs/2212.14550)|[similarity-based-predictive-maintenance-framework-for-rotating-machinery](https://github.com/western-oc2-lab/similarity-based-predictive-maintenance-framework-for-rotating-machinery)|
+|[lab-scale vibration analysis dataset and baseline methods for machinery fault diagnosis with machine learning](https://arxiv.org/abs/2212.14732)|[vbl-va001](https://github.com/bagustris/vbl-va001)|
 ## 2022-12-29
 |paper|code|
 |---|---|
