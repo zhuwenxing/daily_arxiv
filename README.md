@@ -1,3 +1,7 @@
+## 2023-01-05
+|paper|code|
+|---|---|
+|[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
 ## 2023-01-04
 |paper|code|
 |---|---|
@@ -8,7 +12,9 @@
 |paper|code|
 |---|---|
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
-|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[deep learning of near field beam focusing in terahertz wideband massive mimo systems](https://arxiv.org/abs/2210.02980)|[nfwb_bf](https://github.com/yuzhang-github/nfwb_bf)|
+|[learn to rapidly and robustly optimize hybrid precoding](https://arxiv.org/abs/2301.00369)|[learn-to-rapidly-optimize-hybrid-precoding](https://github.com/ortalagiv/learn-to-rapidly-optimize-hybrid-precoding)|
 |[fusing models for prognostics and health management of lithium-ion batteries based on physics-informed neural networks](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
 |[learning to maximize mutual information for dynamic feature selection](https://arxiv.org/abs/2301.00557)|[dynamic-selection](https://github.com/iancovert/dynamic-selection)|
 |[data-driven optimization of directed information over discrete alphabets](https://arxiv.org/abs/2301.00621)|[discrete_di_optimization](https://github.com/dortsur/discrete_di_optimization)|
