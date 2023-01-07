@@ -1,3 +1,7 @@
+## 2023-01-06
+|paper|code|
+|---|---|
+|[frequency-dependent f-number increases the contrast and the spatial resolution in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2111.04593)|[f_number](https://github.com/mschiffn/f_number)|
 ## 2023-01-05
 |paper|code|
 |---|---|
