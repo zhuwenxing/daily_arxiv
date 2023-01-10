@@ -1,3 +1,7 @@
+## 2023-01-09
+|paper|code|
+|---|---|
+|[expanding boundaries of gap safe screening](https://arxiv.org/abs/2102.10846)|[kl_screening](https://github.com/cassiofragadantas/kl_screening)|
 ## 2023-01-06
 |paper|code|
 |---|---|
