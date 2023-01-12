@@ -1,3 +1,10 @@
+## 2023-01-11
+|paper|code|
+|---|---|
+|[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
+|[mixcycle: unsupervised speech separation via cyclic mixture permutation invariant training](https://arxiv.org/abs/2202.03875)|[mixcycle](https://github.com/ertug/mixcycle)|
+|[learning representations for new sound classes with continual self-supervised learning](https://arxiv.org/abs/2205.07390)|[cssl_sound](https://github.com/zhepeiw/cssl_sound)|
+|[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 ## 2023-01-10
 |paper|code|
 |---|---|
