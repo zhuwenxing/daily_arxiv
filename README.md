@@ -1,3 +1,7 @@
+## 2023-01-12
+|paper|code|
+|---|---|
+|[da-music: data-driven doa estimation via deep augmented music algorithm](https://arxiv.org/abs/2109.10581)|[tvt23](https://github.com/da-music/tvt23)|
 ## 2023-01-11
 |paper|code|
 |---|---|
