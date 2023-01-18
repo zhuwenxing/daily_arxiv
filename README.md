@@ -1,3 +1,7 @@
+## 2023-01-17
+|paper|code|
+|---|---|
+|[mical: mutual information-based cnn-aided learned factor graphs for seizure detection from eeg signals](https://arxiv.org/abs/2206.02298)|[cnn-aided-factor-graphs-with-estimated-mutual-information-features-for-seizure-detection-mical](https://github.com/bsalafia/cnn-aided-factor-graphs-with-estimated-mutual-information-features-for-seizure-detection-mical)|
 ## 2023-01-16
 |paper|code|
 |---|---|
