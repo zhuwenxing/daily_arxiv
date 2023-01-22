@@ -9,6 +9,7 @@
 |[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
 |[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
 |[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[sen2dwater: a novel multispectral and multitemporal dataset and deep learning benchmark for water resources analysis](https://arxiv.org/abs/2301.07452)|[impact-of-climate-change-on-water-resources](https://github.com/francescomauro1998/impact-of-climate-change-on-water-resources)|
 ## 2023-01-18
 |paper|code|
 |---|---|
