@@ -1,3 +1,8 @@
+## 2023-01-23
+|paper|code|
+|---|---|
+|[source-free subject adaptation for eeg-based visual recognition](https://arxiv.org/abs/2301.08448)|[Deep-BCI](https://github.com/DeepBCI/Deep-BCI)|
+|[weighted sum-rate maximization with causal inference for latent interference estimation](https://arxiv.org/abs/2211.08327)|[research-weighted-sum-rate](https://github.com/youlei202/research-weighted-sum-rate)|
 ## 2023-01-20
 |paper|code|
 |---|---|
