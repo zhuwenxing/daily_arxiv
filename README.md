@@ -1,8 +1,15 @@
+## 2023-01-26
+|paper|code|
+|---|---|
+|[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
+|[a framework of inertial alternating direction method of multipliers for non-convex non-smooth optimization](https://arxiv.org/abs/2102.05433)|[iADMM](https://github.com/nhatpd/iADMM)|
+|[partial identifiability for nonnegative matrix factorization](https://arxiv.org/abs/2206.08022)|[nmf-partial-identifiability](https://gitlab.com/ngillis/nmf-partial-identifiability)|
 ## 2023-01-25
 |paper|code|
 |---|---|
 |[deep task-based analog-to-digital conversion](https://arxiv.org/abs/2201.12634)|[adc-learning-hyperopt](https://github.com/arielamar123/adc-learning-hyperopt)|
 |[autoencoder-based joint communication and sensing of multiple targets](https://arxiv.org/abs/2301.09439)|[JCAS_multitarg](https://github.com/frozenhairdryer/JCAS_multitarg)|
+|[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
 |[weighted sum-rate maximization with causal inference for latent interference estimation](https://arxiv.org/abs/2211.08327)|[research-weighted-sum-rate](https://github.com/youlei202/research-weighted-sum-rate)|
 ## 2023-01-24
 |paper|code|
