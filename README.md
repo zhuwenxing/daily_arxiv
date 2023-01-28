@@ -1,9 +1,14 @@
+## 2023-01-27
+|paper|code|
+|---|---|
+|[flex-net: a graph neural network approach to resource management in flexible duplex networks](https://arxiv.org/abs/2301.11166)|[flex-net](https://github.com/tharaka-perera/flex-net)|
 ## 2023-01-26
 |paper|code|
 |---|---|
 |[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
 |[a framework of inertial alternating direction method of multipliers for non-convex non-smooth optimization](https://arxiv.org/abs/2102.05433)|[iADMM](https://github.com/nhatpd/iADMM)|
 |[partial identifiability for nonnegative matrix factorization](https://arxiv.org/abs/2206.08022)|[nmf-partial-identifiability](https://gitlab.com/ngillis/nmf-partial-identifiability)|
+|[high-throughput rate-flexible combinational decoders for multi-kernel polar codes](https://arxiv.org/abs/2301.10445)|[polar-compiler](https://github.com/hosseinrezaeii91/polar-compiler)|
 ## 2023-01-25
 |paper|code|
 |---|---|
