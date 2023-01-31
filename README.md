@@ -1,3 +1,7 @@
+## 2023-01-30
+|paper|code|
+|---|---|
+|[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
 ## 2023-01-27
 |paper|code|
 |---|---|
