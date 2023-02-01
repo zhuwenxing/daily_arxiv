@@ -1,7 +1,16 @@
+## 2023-01-31
+|paper|code|
+|---|---|
+|[chaos as an interpretable benchmark for forecasting and data-driven modelling](https://arxiv.org/abs/2110.05266)|[dysts](https://github.com/williamgilpin/dysts)|
+|[beyond hawkes: neural multi-event forecasting on spatio-temporal point processes](https://arxiv.org/abs/2211.02922)|[neural-spatio-temporal-probabilistic-transformers](https://github.com/negar-erfanian/neural-spatio-temporal-probabilistic-transformers)|
+|[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
+|[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[audioldm_eval](https://github.com/haoheliu/audioldm_eval)|
+|[kernelized cumulants: beyond kernel mean embeddings](https://arxiv.org/abs/2301.12466)|[kernelized-cumulants](https://github.com/patricbonnier/kernelized-cumulants)|
 ## 2023-01-30
 |paper|code|
 |---|---|
 |[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
+|[smile: robust network localization via sparse and low-rank matrix decomposition](https://arxiv.org/abs/2301.11450)|[smile-network-localization](https://github.com/anrgusc/smile-network-localization)|
 ## 2023-01-27
 |paper|code|
 |---|---|
