@@ -1,9 +1,18 @@
+## 2023-02-07
+|paper|code|
+|---|---|
+|[maestro-x: distributed orchestration of rotary-wing uav-relay swarms](https://arxiv.org/abs/2007.01228)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
+|[achieving robust generalization for wireless channel estimation neural networks by designed training data](https://arxiv.org/abs/2302.02302)|[ICC_2023](https://github.com/dianixn/ICC_2023)|
+|[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
 ## 2023-02-06
 |paper|code|
 |---|---|
-|[load modulation for backscatter communication: channel capacity and capacity-approaching finite constellations](https://arxiv.org/abs/2207.08100)|[BackscatterLoadModulationAtCapacity](https://github.com/GrDu/BackscatterLoadModulationAtCapacity)|
+|[load modulation for backscatter communication: channel capacity and capacity-approaching finite constellations](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[enhancing deep learning performance of massive mimo csi feedback](https://arxiv.org/abs/2208.11333)|[jpts](https://github.com/sijieji/jpts)|
 |[low-complexity precoding for extremely large-scale mimo over non-stationary channels](https://arxiv.org/abs/2302.00847)|[Low-complexity-precoding-algorithm-for-XL-MIMO](https://github.com/bokaixu5/Low-complexity-precoding-algorithm-for-XL-MIMO)|
+|[self-supervised enhancement of stimulus-evoked brain response data](https://arxiv.org/abs/2302.01924)|[shift_detection_icassp2023](https://github.com/exporl/shift_detection_icassp2023)|
 ## 2023-02-03
 |paper|code|
 |---|---|
