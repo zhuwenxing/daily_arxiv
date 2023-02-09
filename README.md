@@ -1,10 +1,18 @@
+## 2023-02-08
+|paper|code|
+|---|---|
+|[dct-former: efficient self-attention with discrete cosine transform](https://arxiv.org/abs/2203.01178)|[dct-former-public](https://github.com/cscribano/dct-former-public)|
+|[unsupervised multimodal change detection based on structural relationship graph representation learning](https://arxiv.org/abs/2210.00941)|[srgcae](https://github.com/chenhongruixuan/srgcae)|
+|[identification of power system oscillation modes using blind source separation based on copula statistic](https://arxiv.org/abs/2302.03633)|[hobmi](https://github.com/apooja1/hobmi)|
 ## 2023-02-07
 |paper|code|
 |---|---|
 |[maestro-x: distributed orchestration of rotary-wing uav-relay swarms](https://arxiv.org/abs/2007.01228)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
 |[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
 |[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
+|[graph-based sequential beamforming](https://arxiv.org/abs/2208.12472)|[sequentialvariationalbayesdoa](https://github.com/noiselabucsd/sequentialvariationalbayesdoa)|
 |[achieving robust generalization for wireless channel estimation neural networks by designed training data](https://arxiv.org/abs/2302.02302)|[ICC_2023](https://github.com/dianixn/ICC_2023)|
+|[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
 |[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
 ## 2023-02-06
 |paper|code|
