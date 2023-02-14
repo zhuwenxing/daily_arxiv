@@ -1,3 +1,8 @@
+## 2023-02-13
+|paper|code|
+|---|---|
+|[coordinated sum-rate maximization in multicell mu-mimo with deep unrolling](https://arxiv.org/abs/2202.10371)|[gcnwmmse](https://github.com/lsky96/gcnwmmse)|
+|[binomial line cox processes: statistical characterization and applications in wireless network analysis](https://arxiv.org/abs/2302.05151)|[blcp](https://github.com/mt19146/blcp)|
 ## 2023-02-10
 |paper|code|
 |---|---|
@@ -13,7 +18,6 @@
 |[astride: adaptive symbolization for time series databases](https://arxiv.org/abs/2302.04097)|[astride](https://github.com/sylvaincom/astride)|
 |[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
 |[a vector quantized approach for text to speech synthesis on real-world spontaneous speech](https://arxiv.org/abs/2302.04215)|[mqtts](https://github.com/b04901014/mqtts)|
-|[fundamental performance limits for sensor-based robot control and policy learning](https://arxiv.org/abs/2202.00129)|[performance-limits](https://github.com/irom-lab/performance-limits)|
 ## 2023-02-08
 |paper|code|
 |---|---|
