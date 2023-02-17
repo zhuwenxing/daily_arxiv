@@ -3,6 +3,7 @@
 |---|---|
 |[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
 |[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
+|[a novel poisoned water detection method using smartphone embedded wi-fi technology and machine learning algorithms](https://arxiv.org/abs/2302.07153)|[poisoned_water_detection](https://github.com/halgurd18/poisoned_water_detection)|
 ## 2023-02-14
 |paper|code|
 |---|---|
