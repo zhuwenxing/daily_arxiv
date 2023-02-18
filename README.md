@@ -1,9 +1,21 @@
+## 2023-02-17
+|paper|code|
+|---|---|
+|[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
+|[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[selective noise suppression in random svpwm to shape the voltage and current spectrum](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+## 2023-02-16
+|paper|code|
+|---|---|
+|[deep learning for hybrid beamforming with finite feedback in gsm aided mmwave mimo systems](https://arxiv.org/abs/2302.07601)|[gsmefbnet](https://github.com/kylin9511/gsmefbnet)|
 ## 2023-02-15
 |paper|code|
 |---|---|
 |[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
 |[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
 |[a novel poisoned water detection method using smartphone embedded wi-fi technology and machine learning algorithms](https://arxiv.org/abs/2302.07153)|[poisoned_water_detection](https://github.com/halgurd18/poisoned_water_detection)|
+|[context query simulation for smart carparking scenarios in the melbourne cdb](https://arxiv.org/abs/2302.07190)|[context-query-simulator](https://github.com/shakthiyasas/context-query-simulator)|
 ## 2023-02-14
 |paper|code|
 |---|---|
