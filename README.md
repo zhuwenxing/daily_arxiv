@@ -5,10 +5,12 @@
 |[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
 |[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
 |[selective noise suppression in random svpwm to shape the voltage and current spectrum](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[a millimeter-wave software-defined radio for wireless experimentation](https://arxiv.org/abs/2302.08444)|[mmwavesdr](https://github.com/alphansahin/mmwavesdr)|
 ## 2023-02-16
 |paper|code|
 |---|---|
 |[deep learning for hybrid beamforming with finite feedback in gsm aided mmwave mimo systems](https://arxiv.org/abs/2302.07601)|[gsmefbnet](https://github.com/kylin9511/gsmefbnet)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
 ## 2023-02-15
 |paper|code|
 |---|---|
