@@ -1,3 +1,10 @@
+## 2023-02-22
+|paper|code|
+|---|---|
+|[power scaling laws and near-field behaviors of massive mimo and intelligent reflecting surfaces](https://arxiv.org/abs/2002.04960)|[near-field-behavior](https://github.com/emilbjornson/near-field-behavior)|
+|[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
+|[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
+|[scalable infomin learning](https://arxiv.org/abs/2302.10701)|[infomin](https://github.com/cyz-ai/infomin)|
 ## 2023-02-21
 |paper|code|
 |---|---|
