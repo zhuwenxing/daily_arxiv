@@ -1,9 +1,15 @@
+## 2023-02-23
+|paper|code|
+|---|---|
+|[unsourced multiple access with random user activity](https://arxiv.org/abs/2202.06365)|[uma_random_user_activity](https://github.com/khachoang1412/uma_random_user_activity)|
 ## 2023-02-22
 |paper|code|
 |---|---|
 |[power scaling laws and near-field behaviors of massive mimo and intelligent reflecting surfaces](https://arxiv.org/abs/2002.04960)|[near-field-behavior](https://github.com/emilbjornson/near-field-behavior)|
 |[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
 |[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
+|[energy-efficient blockchain-enabled user-centric mobile edge computing](https://arxiv.org/abs/2302.10515)|[blockchain-enabled-ucmec](https://github.com/qlt315/blockchain-enabled-ucmec)|
+|[joint optimization of base station clustering and service caching in user-centric mec](https://arxiv.org/abs/2302.10558)|[jo-cdsd](https://github.com/qlt315/jo-cdsd)|
 |[scalable infomin learning](https://arxiv.org/abs/2302.10701)|[infomin](https://github.com/cyz-ai/infomin)|
 ## 2023-02-21
 |paper|code|
