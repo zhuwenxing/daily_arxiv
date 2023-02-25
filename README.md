@@ -1,6 +1,16 @@
+## 2023-02-24
+|paper|code|
+|---|---|
+|[information fragmentation, encryption and information flow in complex biological networks](https://arxiv.org/abs/2105.13585)|[fragmentation_replication_instructions](https://github.com/cliff-bohm/fragmentation_replication_instructions)|
+|[nonparametric two-sample testing by betting](https://arxiv.org/abs/2112.09162)|[nonparametric-testing-by-betting](https://github.com/sshekhar17/nonparametric-testing-by-betting)|
+|[bayesian estimation of information-theoretic metrics for sparsely sampled distributions](https://arxiv.org/abs/2301.13647)|[info-metric-estimation](https://github.com/angelopiga/info-metric-estimation)|
+|[information theory inspired pattern analysis for time-series data](https://arxiv.org/abs/2302.11654)|[entropypipeline](https://github.com/yushan-huang/entropypipeline)|
+|[rna secondary structures: from ab initio prediction to better compression, and back](https://arxiv.org/abs/2302.11669)|[joint-rna-compression](https://github.com/evita35/joint-rna-compression)|
+|[quantifying & modeling feature interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-02-23
 |paper|code|
 |---|---|
+|[estimating total correlation with mutual information estimators](https://arxiv.org/abs/2011.04794)|[tc-estimation](https://github.com/linear95/tc-estimation)|
 |[unsourced multiple access with random user activity](https://arxiv.org/abs/2202.06365)|[uma_random_user_activity](https://github.com/khachoang1412/uma_random_user_activity)|
 ## 2023-02-22
 |paper|code|
@@ -10,6 +20,7 @@
 |[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
 |[energy-efficient blockchain-enabled user-centric mobile edge computing](https://arxiv.org/abs/2302.10515)|[blockchain-enabled-ucmec](https://github.com/qlt315/blockchain-enabled-ucmec)|
 |[joint optimization of base station clustering and service caching in user-centric mec](https://arxiv.org/abs/2302.10558)|[jo-cdsd](https://github.com/qlt315/jo-cdsd)|
+|[a local machine learning approach for fingerprint-based indoor localization](https://arxiv.org/abs/2302.10810)|[-a-local-machine-learning-approach-for-fingerprint-based-indoor-localization](https://github.com/noraagah/-a-local-machine-learning-approach-for-fingerprint-based-indoor-localization)|
 |[scalable infomin learning](https://arxiv.org/abs/2302.10701)|[infomin](https://github.com/cyz-ai/infomin)|
 ## 2023-02-21
 |paper|code|
