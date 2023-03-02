@@ -1,9 +1,12 @@
+## 2023-03-01
+|paper|code|
+|---|---|
+|[implementation of dnn based data detector for qpsk systems](https://arxiv.org/abs/2302.10073)|[qpsk_sdr_dnn_detector](https://github.com/abadi13/qpsk_sdr_dnn_detector)|
 ## 2023-02-28
 |paper|code|
 |---|---|
 |[compressing multisets with large alphabets using bits-back coding](https://arxiv.org/abs/2107.09202)|[multiset-compression](https://github.com/facebookresearch/multiset-compression)|
 |[hybrid far- and near-field channel estimation for thz ultra-massive mimo via fixed point networks](https://arxiv.org/abs/2205.04944)|[FPN-OAMP-THz-Channel-Estimation](https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation)|
-|[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
 |[learned robust pca: a scalable deep unfolding approach for high-dimensional outlier detection](https://arxiv.org/abs/2110.05649)|[lrpca](https://github.com/caesarcai/lrpca)|
 ## 2023-02-27
 |paper|code|
