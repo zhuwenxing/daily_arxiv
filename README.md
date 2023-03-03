@@ -1,7 +1,15 @@
+## 2023-03-02
+|paper|code|
+|---|---|
+|[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
+|[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
+|[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
 ## 2023-03-01
 |paper|code|
 |---|---|
 |[implementation of dnn based data detector for qpsk systems](https://arxiv.org/abs/2302.10073)|[qpsk_sdr_dnn_detector](https://github.com/abadi13/qpsk_sdr_dnn_detector)|
+|[brainbert: self-supervised representation learning for intracranial recordings](https://arxiv.org/abs/2302.14367)|[brainbert](https://github.com/czlwang/brainbert)|
+|[robust one-shot estimation over shared networks in the presence of denial-of-service attacks](https://arxiv.org/abs/2302.14689)|[ieee-tac2023](https://github.com/mullervasconcelos/ieee-tac2023)|
 ## 2023-02-28
 |paper|code|
 |---|---|
