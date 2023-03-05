@@ -2,13 +2,16 @@
 |paper|code|
 |---|---|
 |[signal inpainting from fourier magnitudes](https://arxiv.org/abs/2210.15951)|[inpainting-fourier](https://github.com/louis-bahrman/inpainting-fourier)|
+|[distributed adaptive norm estimation for blind system identification in wireless sensor networks](https://arxiv.org/abs/2303.00832)|[icassp2023-adapt-dist-avg](https://github.com/sounds-research/icassp2023-adapt-dist-avg)|
 |[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/jessezhou18/dacen)|
+|[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 ## 2023-03-02
 |paper|code|
 |---|---|
 |[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
 |[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
 |[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
+|[information plane analysis for dropout neural networks](https://arxiv.org/abs/2303.00596)|[ip_dropout](https://github.com/link-er/ip_dropout)|
 ## 2023-03-01
 |paper|code|
 |---|---|
