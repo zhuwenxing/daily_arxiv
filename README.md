@@ -5,6 +5,7 @@
 |[distributed adaptive norm estimation for blind system identification in wireless sensor networks](https://arxiv.org/abs/2303.00832)|[icassp2023-adapt-dist-avg](https://github.com/sounds-research/icassp2023-adapt-dist-avg)|
 |[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/jessezhou18/dacen)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
+|[the greedy side of the lasso: new algorithms for weighted sparse recovery via loss function-based orthogonal matching pursuit](https://arxiv.org/abs/2303.00844)|[greedy_lasso_womp](https://github.com/sina-taheri/greedy_lasso_womp)|
 ## 2023-03-02
 |paper|code|
 |---|---|
