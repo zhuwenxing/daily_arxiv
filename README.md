@@ -1,6 +1,16 @@
+## 2023-03-07
+|paper|code|
+|---|---|
+|[few-shot domain adaptation for end-to-end communication](https://arxiv.org/abs/2108.00874)|[domain-adaptation-autoencoder](https://github.com/jayaram-r/domain-adaptation-autoencoder)|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[searching for effective neural network architectures for heart murmur detection from phonocardiogram](https://arxiv.org/abs/2303.02988)|[cinc2022](https://github.com/deeppsp/cinc2022)|
+|[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
+|[on probabilistic qam shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
+|[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 ## 2023-03-06
 |paper|code|
 |---|---|
+|[graph neural networks for distributed power allocation in wireless networks: aggregation over-the-air](https://arxiv.org/abs/2207.08498)|[gnn-aggregation-over-the-air](https://github.com/yifan-gu-szu/gnn-aggregation-over-the-air)|
 |[towards v2i age-aware fairness access: a dqn based intelligent vehicular node training and test method](https://arxiv.org/abs/2208.01283)|[age-fairness](https://github.com/qiongwu86/age-fairness)|
 |[distributed deep joint source-channel coding over a multiple access channel](https://arxiv.org/abs/2211.09920)|[deepjscc-noma](https://github.com/ipc-lab/deepjscc-noma)|
 |[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
@@ -16,7 +26,6 @@
 ## 2023-03-02
 |paper|code|
 |---|---|
-|[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
 |[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
 |[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
 |[information plane analysis for dropout neural networks](https://arxiv.org/abs/2303.00596)|[ip_dropout](https://github.com/link-er/ip_dropout)|
