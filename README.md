@@ -1,8 +1,20 @@
+## 2023-03-14
+|paper|code|
+|---|---|
+|[fundamentals of wobbling and hardware impairments-aware air-to-ground channel model](https://arxiv.org/abs/2205.10957)|[Wobbling-HI-Drones](https://github.com/mbanagar/Wobbling-HI-Drones)|
+|[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[dnn-ha](https://github.com/hearingtechnology/dnn-ha)|
+|[exploiting temporal structures of cyclostationary signals for data-driven single-channel source separation](https://arxiv.org/abs/2208.10325)|[scss_csgaussian](https://github.com/rfchallenge/scss_csgaussian)|
+|[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
+|[assessing gender fairness in eeg-based machine learning detection of parkinson's disease: a multi-center study](https://arxiv.org/abs/2303.06376)|[multicentric-ml-parkinson-detection](https://github.com/biomedical-data-analysis-laboratory/multicentric-ml-parkinson-detection)|
+|[challenges facing the explainability of age prediction models: case study for two modalities](https://arxiv.org/abs/2303.06640)|[challenges-xai-aging-aaai23](https://github.com/pbiecek/challenges-xai-aging-aaai23)|
+|[securing data in multimode fibers by exploiting mode-dependent light propagation effects](https://arxiv.org/abs/2203.02064)|[mmf-physec](https://github.com/klb2/mmf-physec)|
 ## 2023-03-13
 |paper|code|
 |---|---|
 |[neonatal eeg graded for severity of background abnormalities in hypoxic-ischaemic encephalopathy](https://arxiv.org/abs/2206.04420)|[downsample_open_eeg](https://github.com/otoolej/downsample_open_eeg)|
 |[sliced-wasserstein on symmetric positive definite matrices for m/eeg signals](https://arxiv.org/abs/2303.05798)|[Sliced-Wasserstein_on_Symmetric_Positive_Definite_Matrices](https://github.com/clbonet/Sliced-Wasserstein_on_Symmetric_Positive_Definite_Matrices)|
+|[eeg synthetic data generation using probabilistic diffusion models](https://arxiv.org/abs/2303.06068)|[eeg-diffusion-pytorch](https://github.com/devjake/eeg-diffusion-pytorch)|
 |[wigner distribution deconvolution adaptation for live ptychography reconstruction](https://arxiv.org/abs/2212.01309)|[livewdd](https://github.com/ptychography-4-0/livewdd)|
 ## 2023-03-10
 |paper|code|
