@@ -1,3 +1,9 @@
+## 2023-03-15
+|paper|code|
+|---|---|
+|[phaseaug: a differentiable augmentation for speech synthesis to simulate one-to-many mapping](https://arxiv.org/abs/2211.04610)|[phaseaug](https://github.com/mindslab-ai/phaseaug)|
+|[self-attention for enhanced oamp detection in mimo systems](https://arxiv.org/abs/2303.07821)|[self_attention_oamp_mimo](https://github.com/alexf1991/self_attention_oamp_mimo)|
+|[transition waste optimization for coded elastic computing](https://arxiv.org/abs/1910.00796)|[coded_elastic_computing](https://github.com/dausonhoang/coded_elastic_computing)|
 ## 2023-03-14
 |paper|code|
 |---|---|
