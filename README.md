@@ -1,3 +1,9 @@
+## 2023-03-16
+|paper|code|
+|---|---|
+|[dct-former: efficient self-attention with discrete cosine transform](https://arxiv.org/abs/2203.01178)|[dct-former-public](https://github.com/cscribano/dct-former-public)|
+|[learning resilient radio resource management policies with graph neural networks](https://arxiv.org/abs/2203.11012)|[Resilient_RRM_GNN](https://github.com/navid-naderi/Resilient_RRM_GNN)|
+|[flex-net: a graph neural network approach to resource management in flexible duplex networks](https://arxiv.org/abs/2301.11166)|[flex-net](https://github.com/tharaka-perera/flex-net)|
 ## 2023-03-15
 |paper|code|
 |---|---|
