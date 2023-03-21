@@ -1,3 +1,7 @@
+## 2023-03-20
+|paper|code|
+|---|---|
+|[annealed langevin dynamics for massive mimo detection](https://arxiv.org/abs/2205.05776)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
 ## 2023-03-17
 |paper|code|
 |---|---|
