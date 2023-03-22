@@ -1,3 +1,15 @@
+## 2023-03-21
+|paper|code|
+|---|---|
+|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[defending adversarial attacks on deep learning based power allocation in massive mimo using denoising autoencoders](https://arxiv.org/abs/2211.15365)|[dae_for_adv_attacks_in_mimo](https://github.com/jess-jpg-txt/dae_for_adv_attacks_in_mimo)|
+|[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
+|[emc2-net: joint equalization and modulation classification based on constellation network](https://arxiv.org/abs/2303.10934)|[emc2net](https://github.com/hyun-ryu/emc2net)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
+|[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
+|[encoding, decoding, and causality between complex networks](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
+|[sionna rt: differentiable ray tracing for radio propagation modeling](https://arxiv.org/abs/2303.11103)|[diff-rt](https://github.com/nvlabs/diff-rt)|
 ## 2023-03-20
 |paper|code|
 |---|---|
