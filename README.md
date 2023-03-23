@@ -1,3 +1,9 @@
+## 2023-03-22
+|paper|code|
+|---|---|
+|[mean subtraction and mode selection in dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
+|[probabilistic estimation of instantaneous frequencies of chirp signals](https://arxiv.org/abs/2205.06306)|[chirpgp](https://github.com/spdes/chirpgp)|
+|[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
 ## 2023-03-21
 |paper|code|
 |---|---|
