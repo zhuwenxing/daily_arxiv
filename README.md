@@ -1,9 +1,15 @@
+## 2023-03-23
+|paper|code|
+|---|---|
+|[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
+|[orthogonal non-negative matrix factorization: a maximum-entropy-principle approach](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2023-03-22
 |paper|code|
 |---|---|
 |[mean subtraction and mode selection in dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
 |[probabilistic estimation of instantaneous frequencies of chirp signals](https://arxiv.org/abs/2205.06306)|[chirpgp](https://github.com/spdes/chirpgp)|
 |[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
+|[learning model-free robust precoding for cooperative multibeam satellite communications](https://arxiv.org/abs/2303.11427)|[2302_learning_beamforming_code](https://github.com/steffengra/2302_learning_beamforming_code)|
 ## 2023-03-21
 |paper|code|
 |---|---|
