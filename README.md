@@ -1,7 +1,14 @@
+## 2023-03-24
+|paper|code|
+|---|---|
+|[physical lidar simulation in real-time engine](https://arxiv.org/abs/2208.10295)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 ## 2023-03-23
 |paper|code|
 |---|---|
 |[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
+|[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[localization-based ofdm framework for ris-aided systems](https://arxiv.org/abs/2303.12763)|[ris-ofdm-loca-scheduling](https://github.com/lostinafro/ris-ofdm-loca-scheduling)|
 |[orthogonal non-negative matrix factorization: a maximum-entropy-principle approach](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2023-03-22
 |paper|code|
