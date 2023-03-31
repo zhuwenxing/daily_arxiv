@@ -1,9 +1,18 @@
+## 2023-03-30
+|paper|code|
+|---|---|
+|[urglq: an efficient covariance matrix reconstruction method for robust adaptive beamforming](https://arxiv.org/abs/2210.02214)|[robust-adaptive-beamforming-2022](https://github.com/chenpengseu/robust-adaptive-beamforming-2022)|
+|[deep reinforcement learning based joint downlink beamforming and ris configuration in ris-aided mu-miso systems under hardware impairments and imperfect csi](https://arxiv.org/abs/2211.09702)|[ris-miso-pda-deep-reinforcement-learning](https://github.com/baturaysaglam/ris-miso-pda-deep-reinforcement-learning)|
+|[lmda-net:a lightweight multi-dimensional attention network for general eeg-based brain-computer interface paradigms and interpretability](https://arxiv.org/abs/2303.16407)|[braindecode](https://github.com/TNTLFreiburg/braindecode)|
+|[a framework for control channels applied to reconfigurable intelligent surfaces](https://arxiv.org/abs/2303.16797)|[ris-control](https://github.com/lostinafro/ris-control)|
+|[folded polynomial codes for coded distributed $aa^\top$-type matrix multiplication](https://arxiv.org/abs/2211.15267)|[foldedpolynomialcodes](https://github.com/shinez9/foldedpolynomialcodes)|
 ## 2023-03-29
 |paper|code|
 |---|---|
 |[dictionary learning for the almost-linear sparsity regime](https://arxiv.org/abs/2210.10855)|[spectral_dict_learn](https://github.com/sew347/spectral_dict_learn)|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 |[transthoracic super-resolution ultrasound localisation microscopy of myocardial vasculature in patients](https://arxiv.org/abs/2303.14003)|[srussoftware](https://github.com/jipengyan1995/srussoftware)|
+|[square root {lasso}: well-posedness, lipschitz stability and the tuning trade off](https://arxiv.org/abs/2303.15588)|[srlasso_revolutions](https://github.com/asberk/srlasso_revolutions)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 ## 2023-03-28
 |paper|code|
