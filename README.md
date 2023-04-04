@@ -1,3 +1,9 @@
+## 2023-04-03
+|paper|code|
+|---|---|
+|[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
+|[towards flexibility and interpretability of gaussian process state-space model](https://arxiv.org/abs/2301.08843)|[tgpssm](https://github.com/zhidilin/tgpssm)|
+|[far from asymptopia](https://arxiv.org/abs/2205.03343)|[atomicpriors.jl](https://github.com/mcabbott/atomicpriors.jl)|
 ## 2023-03-31
 |paper|code|
 |---|---|
