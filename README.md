@@ -1,3 +1,10 @@
+## 2023-04-05
+|paper|code|
+|---|---|
+|[attention-embedded quadratic network (qttention) for effective and interpretable bearing fault diagnosis](https://arxiv.org/abs/2206.00390)|[QCNN_for_bearing_diagnosis](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)|
+|[autoencoder based iterative modeling and multivariate time-series subsequence clustering algorithm](https://arxiv.org/abs/2209.04213)|[abimca](https://github.com/jokonu/abimca)|
+|[time-space-frequency feature fusion for 3-channel motor imagery classification](https://arxiv.org/abs/2304.01461)|[tsff](https://github.com/miaozhengqing/tsff)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
 ## 2023-04-04
 |paper|code|
 |---|---|
