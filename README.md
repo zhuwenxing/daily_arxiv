@@ -1,6 +1,12 @@
+## 2023-04-06
+|paper|code|
+|---|---|
+|[a semi-supervised adaptive discriminative discretization method improving discrimination power of regularized naive bayes](https://arxiv.org/abs/2111.10983)|[Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier](https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier)|
+|[the optimality of word lengths. theoretical foundations and an empirical study](https://arxiv.org/abs/2208.10384)|[iql-research-project-21-22](https://github.com/iql-course/iql-research-project-21-22)|
 ## 2023-04-05
 |paper|code|
 |---|---|
+|[communication-efficient federated linear and deep generalized canonical correlation analysis](https://arxiv.org/abs/2109.12400)|[federated_max_var_gcca](https://github.com/XiaoFuLab/federated_max_var_gcca)|
 |[attention-embedded quadratic network (qttention) for effective and interpretable bearing fault diagnosis](https://arxiv.org/abs/2206.00390)|[QCNN_for_bearing_diagnosis](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)|
 |[autoencoder based iterative modeling and multivariate time-series subsequence clustering algorithm](https://arxiv.org/abs/2209.04213)|[abimca](https://github.com/jokonu/abimca)|
 |[time-space-frequency feature fusion for 3-channel motor imagery classification](https://arxiv.org/abs/2304.01461)|[tsff](https://github.com/miaozhengqing/tsff)|
@@ -19,7 +25,6 @@
 |paper|code|
 |---|---|
 |[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
-|[towards flexibility and interpretability of gaussian process state-space model](https://arxiv.org/abs/2301.08843)|[tgpssm](https://github.com/zhidilin/tgpssm)|
 |[far from asymptopia](https://arxiv.org/abs/2205.03343)|[atomicpriors.jl](https://github.com/mcabbott/atomicpriors.jl)|
 ## 2023-03-31
 |paper|code|
