@@ -1,8 +1,16 @@
+## 2023-04-07
+|paper|code|
+|---|---|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[towards flexibility and interpretability of gaussian process state-space model](https://arxiv.org/abs/2301.08843)|[tgpssm](https://github.com/zhidilin/tgpssm)|
+|[learning stage-wise gans for whistle extraction in time-frequency spectrograms](https://arxiv.org/abs/2304.02714)|[CompositeGAN_WhistleAugment](https://github.com/Paul-LiPu/CompositeGAN_WhistleAugment)|
 ## 2023-04-06
 |paper|code|
 |---|---|
 |[a semi-supervised adaptive discriminative discretization method improving discrimination power of regularized naive bayes](https://arxiv.org/abs/2111.10983)|[Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier](https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier)|
 |[the optimality of word lengths. theoretical foundations and an empirical study](https://arxiv.org/abs/2208.10384)|[iql-research-project-21-22](https://github.com/iql-course/iql-research-project-21-22)|
+|[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
+|[randomized and exchangeable improvements of markov's, chebyshev's and chernoff's inequalities](https://arxiv.org/abs/2304.02611)|[randomized-markov](https://github.com/tmanole/randomized-markov)|
 ## 2023-04-05
 |paper|code|
 |---|---|
