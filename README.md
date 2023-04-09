@@ -9,6 +9,7 @@
 |---|---|
 |[a semi-supervised adaptive discriminative discretization method improving discrimination power of regularized naive bayes](https://arxiv.org/abs/2111.10983)|[Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier](https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier)|
 |[the optimality of word lengths. theoretical foundations and an empirical study](https://arxiv.org/abs/2208.10384)|[iql-research-project-21-22](https://github.com/iql-course/iql-research-project-21-22)|
+|[visualizing quantum circuit probability -- estimating computational action for quantum program synthesis](https://arxiv.org/abs/2304.02358)|[qcircscape](https://github.com/advanced-research-centre/qcircscape)|
 |[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
 |[randomized and exchangeable improvements of markov's, chebyshev's and chernoff's inequalities](https://arxiv.org/abs/2304.02611)|[randomized-markov](https://github.com/tmanole/randomized-markov)|
 ## 2023-04-05
