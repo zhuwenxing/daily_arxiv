@@ -1,3 +1,7 @@
+## 2023-04-12
+|paper|code|
+|---|---|
+|[self-stabilization: the implicit bias of gradient descent at the edge of stability](https://arxiv.org/abs/2209.15594)|[eos](https://github.com/adamian98/eos)|
 ## 2023-04-11
 |paper|code|
 |---|---|
