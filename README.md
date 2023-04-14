@@ -1,3 +1,8 @@
+## 2023-04-13
+|paper|code|
+|---|---|
+|[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
+|[interpreting neural min-sum decoders](https://arxiv.org/abs/2205.10684)|[nams](https://github.com/sravan-ankireddy/nams)|
 ## 2023-04-12
 |paper|code|
 |---|---|
