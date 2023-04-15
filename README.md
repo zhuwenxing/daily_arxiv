@@ -1,3 +1,10 @@
+## 2023-04-14
+|paper|code|
+|---|---|
+|[neural network based generation of 1-dimensional stochastic fields with turbulent velocity statistics](https://arxiv.org/abs/2211.11580)|[nn-turb](https://github.com/cgranerob/nn-turb)|
+|[square root lasso: well-posedness, lipschitz stability and the tuning trade off](https://arxiv.org/abs/2303.15588)|[srlasso_revolutions](https://github.com/asberk/srlasso_revolutions)|
+|[eegmatch: learning with incomplete labels for semi-supervised eeg-based cross-subject emotion recognition](https://arxiv.org/abs/2304.06496)|[eegmatch](https://github.com/kazabana/eegmatch)|
+|[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
 ## 2023-04-13
 |paper|code|
 |---|---|
