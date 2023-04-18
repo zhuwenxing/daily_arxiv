@@ -1,3 +1,10 @@
+## 2023-04-17
+|paper|code|
+|---|---|
+|[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
+|[cast: a toolchain for creating and characterizing realistic wireless network emulation scenarios](https://arxiv.org/abs/2208.03993)|[cast](https://github.com/wineslab/cast)|
+|[a byte sequence is worth an image: cnn for file fragment classification using bit shift and n-gram embeddings](https://arxiv.org/abs/2304.06983)|[byte2image](https://github.com/wenyang001/byte2image)|
+|[compressing multidimensional weather and climate data into neural networks](https://arxiv.org/abs/2210.12538)|[nncompression](https://github.com/spcl/nncompression)|
 ## 2023-04-14
 |paper|code|
 |---|---|
