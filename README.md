@@ -1,8 +1,15 @@
+## 2023-04-18
+|paper|code|
+|---|---|
+|[data-driven method for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[dimensionality collapse: optimal measurement selection for low-error infinite-horizon forecasting](https://arxiv.org/abs/2303.15407)|[naumer_dimensionality_2022.jl](https://github.com/helmuthn/naumer_dimensionality_2022.jl)|
+|[learning to predict arbitrary quantum processes](https://arxiv.org/abs/2210.14894)|[learning-quantum-process](https://github.com/hsinyuan-huang/learning-quantum-process)|
 ## 2023-04-17
 |paper|code|
 |---|---|
 |[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
 |[cast: a toolchain for creating and characterizing realistic wireless network emulation scenarios](https://arxiv.org/abs/2208.03993)|[cast](https://github.com/wineslab/cast)|
+|[online recognition of incomplete gesture data to interface collaborative robots](https://arxiv.org/abs/2304.06777)|[uc2017_classification](https://github.com/miguelsimao/uc2017_classification)|
 |[a byte sequence is worth an image: cnn for file fragment classification using bit shift and n-gram embeddings](https://arxiv.org/abs/2304.06983)|[byte2image](https://github.com/wenyang001/byte2image)|
 |[compressing multidimensional weather and climate data into neural networks](https://arxiv.org/abs/2210.12538)|[nncompression](https://github.com/spcl/nncompression)|
 ## 2023-04-14
