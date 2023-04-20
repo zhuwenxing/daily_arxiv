@@ -1,3 +1,10 @@
+## 2023-04-19
+|paper|code|
+|---|---|
+|[tree-amp: compositional inference with tree approximate message passing](https://arxiv.org/abs/2004.01571)|[tramp](https://github.com/sphinxteam/tramp)|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
+|[covid19 reproduction number: credibility intervals by blockwise proximal monte carlo samplers](https://arxiv.org/abs/2203.09142)|[OpSiMorE](https://github.com/gfort-lab/OpSiMorE)|
+|[a semi-supervised adaptive discriminative discretization method improving discrimination power of regularized naive bayes](https://arxiv.org/abs/2111.10983)|[Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier](https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier)|
 ## 2023-04-18
 |paper|code|
 |---|---|
