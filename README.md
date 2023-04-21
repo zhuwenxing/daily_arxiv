@@ -1,3 +1,7 @@
+## 2023-04-20
+|paper|code|
+|---|---|
+|[robust semantic communications with masked vq-vae enabled codebook](https://arxiv.org/abs/2206.04011)|[RobustSemanComm](https://github.com/hqyyqh888/RobustSemanComm)|
 ## 2023-04-19
 |paper|code|
 |---|---|
