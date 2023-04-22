@@ -1,3 +1,7 @@
+## 2023-04-21
+|paper|code|
+|---|---|
+|[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
 ## 2023-04-20
 |paper|code|
 |---|---|
