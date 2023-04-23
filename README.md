@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
+|[latent-kalmannet: learned kalman filtering for tracking from high-dimensional signals](https://arxiv.org/abs/2304.07827)|[latent_kalmannet_tsp](https://github.com/kalmannet/latent_kalmannet_tsp)|
 ## 2023-04-20
 |paper|code|
 |---|---|
@@ -16,6 +17,7 @@
 ## 2023-04-18
 |paper|code|
 |---|---|
+|[random access protocol with channel oracle enabled by a reconfigurable intelligent surface](https://arxiv.org/abs/2210.04230)|[ris-random-access-channel-oracle](https://github.com/victorcroisfelt/ris-random-access-channel-oracle)|
 |[data-driven method for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[dimensionality collapse: optimal measurement selection for low-error infinite-horizon forecasting](https://arxiv.org/abs/2303.15407)|[naumer_dimensionality_2022.jl](https://github.com/helmuthn/naumer_dimensionality_2022.jl)|
 |[learning to predict arbitrary quantum processes](https://arxiv.org/abs/2210.14894)|[learning-quantum-process](https://github.com/hsinyuan-huang/learning-quantum-process)|
