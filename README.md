@@ -1,3 +1,8 @@
+## 2023-04-24
+|paper|code|
+|---|---|
+|[smoothed separable nonnegative matrix factorization](https://arxiv.org/abs/2110.05528)|[smoothed-separable-nmf](https://gitlab.com/nnadisic/smoothed-separable-nmf)|
+|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
 ## 2023-04-21
 |paper|code|
 |---|---|
