@@ -1,3 +1,11 @@
+## 2023-04-25
+|paper|code|
+|---|---|
+|[ultra lite convolutional neural network for fast automatic modulation classification in low-resource scenarios](https://arxiv.org/abs/2208.04659)|[ultra-lite-convolutional-neural-network-for-automatic-modulation-classification](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)|
+|[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
+|[identifying stochasticity in time-series with autoencoder-based content-aware 2d representation: application to black hole data](https://arxiv.org/abs/2304.11560)|[blackhole_1d_2d_label](https://github.com/csai-arc/blackhole_1d_2d_label)|
+|[a lightweight recurrent learning network for sustainable compressed sensing](https://arxiv.org/abs/2304.11674)|[csrn](https://github.com/c66yu/csrn)|
 ## 2023-04-24
 |paper|code|
 |---|---|
@@ -12,6 +20,7 @@
 |paper|code|
 |---|---|
 |[robust semantic communications with masked vq-vae enabled codebook](https://arxiv.org/abs/2206.04011)|[RobustSemanComm](https://github.com/hqyyqh888/RobustSemanComm)|
+|[entropy estimation via uniformization](https://arxiv.org/abs/2304.09700)|[nfee](https://github.com/ziq-ao/nfee)|
 ## 2023-04-19
 |paper|code|
 |---|---|
