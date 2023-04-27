@@ -1,3 +1,7 @@
+## 2023-04-26
+|paper|code|
+|---|---|
+|[data-driven modeling of noise time series with convolutional generative adversarial networks](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
 ## 2023-04-25
 |paper|code|
 |---|---|
@@ -6,6 +10,7 @@
 |[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
 |[identifying stochasticity in time-series with autoencoder-based content-aware 2d representation: application to black hole data](https://arxiv.org/abs/2304.11560)|[blackhole_1d_2d_label](https://github.com/csai-arc/blackhole_1d_2d_label)|
 |[a lightweight recurrent learning network for sustainable compressed sensing](https://arxiv.org/abs/2304.11674)|[csrn](https://github.com/c66yu/csrn)|
+|[model-free learning of optimal two-stage beamformers for passive irs-aided network design](https://arxiv.org/abs/2304.11464)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
 ## 2023-04-24
 |paper|code|
 |---|---|
