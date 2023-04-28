@@ -1,11 +1,18 @@
+## 2023-04-27
+|paper|code|
+|---|---|
+|[computationally-efficient initialisation of gps: the generalised variogram method](https://arxiv.org/abs/2210.05394)|[generalised-variogram-method](https://github.com/games-uchile/generalised-variogram-method)|
+|[quantifying the impact of data characteristics on the transferability of sleep stage scoring models](https://arxiv.org/abs/2304.06033)|[transferability_sleep](https://github.com/akaraspt/transferability_sleep)|
 ## 2023-04-26
 |paper|code|
 |---|---|
 |[data-driven modeling of noise time series with convolutional generative adversarial networks](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
+|[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
 ## 2023-04-25
 |paper|code|
 |---|---|
 |[ultra lite convolutional neural network for fast automatic modulation classification in low-resource scenarios](https://arxiv.org/abs/2208.04659)|[ultra-lite-convolutional-neural-network-for-automatic-modulation-classification](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)|
+|[energy-efficient cell-free massive mimo through sparse large-scale fading processing](https://arxiv.org/abs/2208.13552)|[sparse-lsfprocess-cfmmimo](https://github.com/shuaifeichen273/sparse-lsfprocess-cfmmimo)|
 |[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
 |[identifying stochasticity in time-series with autoencoder-based content-aware 2d representation: application to black hole data](https://arxiv.org/abs/2304.11560)|[blackhole_1d_2d_label](https://github.com/csai-arc/blackhole_1d_2d_label)|
@@ -16,6 +23,7 @@
 |---|---|
 |[smoothed separable nonnegative matrix factorization](https://arxiv.org/abs/2110.05528)|[smoothed-separable-nmf](https://gitlab.com/nnadisic/smoothed-separable-nmf)|
 |[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[an orchestration framework for open system models of reconfigurable intelligent surfaces](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
 ## 2023-04-21
 |paper|code|
 |---|---|
