@@ -1,3 +1,9 @@
+## 2023-04-28
+|paper|code|
+|---|---|
+|[spiking neural network decision feedback equalization for im/dd systems](https://arxiv.org/abs/2304.14152)|[snn-dfe](https://github.com/kit-cel/snn-dfe)|
+|[self-dual hadamard bent sequences](https://arxiv.org/abs/2203.16439)|[hadamard_bent](https://github.com/qomo-cheng/hadamard_bent)|
+|[randomized and exchangeable improvements of markov's, chebyshev's and chernoff's inequalities](https://arxiv.org/abs/2304.02611)|[randomized-markov](https://github.com/tmanole/randomized-markov)|
 ## 2023-04-27
 |paper|code|
 |---|---|
