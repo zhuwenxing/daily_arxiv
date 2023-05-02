@@ -1,3 +1,10 @@
+## 2023-05-01
+|paper|code|
+|---|---|
+|[clnet: complex input lightweight neural network designed for massive mimo csi feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
+|[scatterformer: locally-invariant scattering transformer for patient-independent multispectral detection of epileptiform discharges](https://arxiv.org/abs/2304.14919)|[scatterformer](https://github.com/albertcheng19/scatterformer)|
+|[information theory inspired pattern analysis for time-series data](https://arxiv.org/abs/2302.11654)|[entropypipeline](https://github.com/yushan-huang/entropypipeline)|
+|[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
 ## 2023-04-28
 |paper|code|
 |---|---|
