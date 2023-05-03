@@ -1,3 +1,10 @@
+## 2023-05-02
+|paper|code|
+|---|---|
+|[latent signal models: learning compact representations of signal evolution for improved time-resolved, multi-contrast mri](https://arxiv.org/abs/2208.13003)|[latent_signal_models_mrm_2022](https://github.com/yaminarefeen/latent_signal_models_mrm_2022)|
+|[modeling multivariate biosignals with graph neural networks and structured state space models](https://arxiv.org/abs/2211.11176)|[graphs4mer](https://github.com/tsy935/graphs4mer)|
+|[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
+|[leveraging label non-uniformity for node classification in graph neural networks](https://arxiv.org/abs/2305.00139)|[label-non-uniformity-gnn](https://github.com/amblee0306/label-non-uniformity-gnn)|
 ## 2023-05-01
 |paper|code|
 |---|---|
