@@ -1,3 +1,7 @@
+## 2023-05-05
+|paper|code|
+|---|---|
+|[conditional and residual methods in scalable coding for humans and machines](https://arxiv.org/abs/2305.02562)|[research](https://github.com/adeandrade/research)|
 ## 2023-05-03
 |paper|code|
 |---|---|
