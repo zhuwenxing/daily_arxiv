@@ -14,6 +14,7 @@
 |[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
 |[leveraging label non-uniformity for node classification in graph neural networks](https://arxiv.org/abs/2305.00139)|[label-non-uniformity-gnn](https://github.com/amblee0306/label-non-uniformity-gnn)|
 |[non-linear phase-retrieval algorithms for x-ray propagation-based phase-contrast tomography](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
 ## 2023-05-01
 |paper|code|
 |---|---|
