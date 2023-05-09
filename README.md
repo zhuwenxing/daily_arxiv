@@ -1,3 +1,9 @@
+## 2023-05-08
+|paper|code|
+|---|---|
+|[slurp! spectroscopy of liquids using robot pre-touch sensing](https://arxiv.org/abs/2210.04941)|[slurp_grasping](https://github.com/river-lab/slurp_grasping)|
+|[model-free reinforcement learning of semantic communication by stochastic policy gradient](https://arxiv.org/abs/2305.03571)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
 ## 2023-05-05
 |paper|code|
 |---|---|
