@@ -1,3 +1,10 @@
+## 2023-05-09
+|paper|code|
+|---|---|
+|[simple pooling front-ends for efficient audio classification](https://arxiv.org/abs/2210.00943)|[simpfs](https://github.com/liuxubo717/simpfs)|
+|[selective noise suppression using random svpwm to shape the voltage spectrum](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[unrolled architectures for high-throughput encoding of multi-kernel polar codes](https://arxiv.org/abs/2305.04257)|[polar-encoder-compiler](https://github.com/hosseinrezaeii91/polar-encoder-compiler)|
 ## 2023-05-08
 |paper|code|
 |---|---|
