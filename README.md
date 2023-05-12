@@ -1,3 +1,8 @@
+## 2023-05-11
+|paper|code|
+|---|---|
+|[phaseaug: a differentiable augmentation for speech synthesis to simulate one-to-many mapping](https://arxiv.org/abs/2211.04610)|[phaseaug](https://github.com/mindslab-ai/phaseaug)|
+|[spiking neural networks in the alexiewicz topology: a new perspective on analysis and error bounds](https://arxiv.org/abs/2305.05772)|[alexsnn](https://github.com/lunglmayrmoser/alexsnn)|
 ## 2023-05-10
 |paper|code|
 |---|---|
