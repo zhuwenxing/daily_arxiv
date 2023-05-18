@@ -1,3 +1,8 @@
+## 2023-05-17
+|paper|code|
+|---|---|
+|[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
 ## 2023-05-16
 |paper|code|
 |---|---|
