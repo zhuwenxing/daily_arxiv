@@ -1,8 +1,18 @@
+## 2023-05-18
+|paper|code|
+|---|---|
+|[pmnet: robust pathloss map prediction via supervised learning](https://arxiv.org/abs/2211.10527)|[pmnet](https://github.com/abman23/pmnet)|
+|[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
+|[a modular and high-resolution time-frequency post-processing technique](https://arxiv.org/abs/2305.10009)|[Time-frequency-analysis](https://github.com/jsshen1/Time-frequency-analysis)|
+|[algorithms for boolean matrix factorization using integer programming](https://arxiv.org/abs/2305.10185)|[booleanmf](https://gitlab.com/ngillis/booleanmf)|
+|[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
+|[random edge coding: one-shot bits-back coding of large labeled graphs](https://arxiv.org/abs/2305.09705)|[random-edge-coding](https://github.com/dsevero/random-edge-coding)|
 ## 2023-05-17
 |paper|code|
 |---|---|
 |[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
 |[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
+|[phase retrieval via model-free power flow jacobian recovery](https://arxiv.org/abs/2305.09661)|[powerphaseretrieval.jl](https://github.com/samtalki/powerphaseretrieval.jl)|
 ## 2023-05-16
 |paper|code|
 |---|---|
