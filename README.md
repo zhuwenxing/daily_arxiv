@@ -1,3 +1,12 @@
+## 2023-05-19
+|paper|code|
+|---|---|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[neural network entropy (nneten): entropy-based eeg signal and chaotic time series classification, python package for nneten calculation](https://arxiv.org/abs/2303.17995)|[nneten](https://github.com/izotov93/nneten)|
+|[nonparametric two-sample testing by betting](https://arxiv.org/abs/2112.09162)|[nonparametric-testing-by-betting](https://github.com/sshekhar17/nonparametric-testing-by-betting)|
+|[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
+|[synchronizing many filesystems in near linear time](https://arxiv.org/abs/2302.09666)|[algebraic-reconciler](https://github.com/csirmaz/algebraic-reconciler)|
+|[deir: efficient and robust exploration through discriminative-model-based episodic intrinsic rewards](https://arxiv.org/abs/2304.10770)|[deir](https://github.com/swan-utokyo/deir)|
 ## 2023-05-18
 |paper|code|
 |---|---|
