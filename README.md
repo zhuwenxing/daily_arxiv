@@ -1,7 +1,11 @@
+## 2023-05-22
+|paper|code|
+|---|---|
+|[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[marginalized beam search algorithms for hierarchical hmms](https://arxiv.org/abs/2305.11752)|[mbs](https://github.com/chunxxc/mbs)|
 ## 2023-05-19
 |paper|code|
 |---|---|
-|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
 |[neural network entropy (nneten): entropy-based eeg signal and chaotic time series classification, python package for nneten calculation](https://arxiv.org/abs/2303.17995)|[nneten](https://github.com/izotov93/nneten)|
 |[nonparametric two-sample testing by betting](https://arxiv.org/abs/2112.09162)|[nonparametric-testing-by-betting](https://github.com/sshekhar17/nonparametric-testing-by-betting)|
 |[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
@@ -14,7 +18,6 @@
 |[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
 |[a modular and high-resolution time-frequency post-processing technique](https://arxiv.org/abs/2305.10009)|[Time-frequency-analysis](https://github.com/jsshen1/Time-frequency-analysis)|
 |[algorithms for boolean matrix factorization using integer programming](https://arxiv.org/abs/2305.10185)|[booleanmf](https://gitlab.com/ngillis/booleanmf)|
-|[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
 |[random edge coding: one-shot bits-back coding of large labeled graphs](https://arxiv.org/abs/2305.09705)|[random-edge-coding](https://github.com/dsevero/random-edge-coding)|
 ## 2023-05-17
 |paper|code|
