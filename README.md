@@ -1,7 +1,19 @@
+## 2023-05-23
+|paper|code|
+|---|---|
+|[gradient-based learning of discrete structured measurement operators for signal recovery](https://arxiv.org/abs/2202.03391)|[glodismo](https://github.com/josauder/glodismo)|
+|[machine learning-based csi feedback with variable length in fdd massive mimo](https://arxiv.org/abs/2204.04723)|[ml-based-csi-feedback](https://github.com/matteonerini/ml-based-csi-feedback)|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
+|[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
+|[commodity-specific triads in the dutch inter-industry production network](https://arxiv.org/abs/2305.12179)|[numetris](https://github.com/marsmdk/numetris)|
+|[evaluating prompt-based question answering for object prediction in the open research knowledge graph](https://arxiv.org/abs/2305.12900)|[thesis_work](https://github.com/as18cia/thesis_work)|
 ## 2023-05-22
 |paper|code|
 |---|---|
+|[joint distribution of distance and angles in finite wireless networks](https://arxiv.org/abs/2203.13510)|[joint_pdf_dist_angles](https://github.com/franmarve/joint_pdf_dist_angles)|
 |[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[parameter-efficient learning for text-to-speech accent adaptation](https://arxiv.org/abs/2305.11320)|[PEL-TTS](https://github.com/TTS-Research/PEL-TTS)|
 |[marginalized beam search algorithms for hierarchical hmms](https://arxiv.org/abs/2305.11752)|[mbs](https://github.com/chunxxc/mbs)|
 ## 2023-05-19
 |paper|code|
