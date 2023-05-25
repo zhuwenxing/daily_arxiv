@@ -1,3 +1,9 @@
+## 2023-05-24
+|paper|code|
+|---|---|
+|[extending conformal prediction to hidden markov models with exact validity via de finetti's theorem for markov chains](https://arxiv.org/abs/2210.02271)|[cp_hmm](https://github.com/complexinfo/cp_hmm)|
+|[cooperative channel capacity learning](https://arxiv.org/abs/2305.13493)|[CORTICAL](https://github.com/tonellolab/CORTICAL)|
+|[temporally causal discovery tests for discrete time series and neural spike trains](https://arxiv.org/abs/2305.14131)|[github_temporal_causality](https://github.com/andreas947/github_temporal_causality)|
 ## 2023-05-23
 |paper|code|
 |---|---|
