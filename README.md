@@ -1,10 +1,15 @@
+## 2023-05-26
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
 ## 2023-05-25
 |paper|code|
 |---|---|
 |[sliced-wasserstein on symmetric positive definite matrices for m/eeg signals](https://arxiv.org/abs/2303.05798)|[spdsw](https://github.com/clbonet/spdsw)|
 |[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
 |[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
-|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[mine-pytorch](https://github.com/billywu1029/mine-pytorch)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
+|[directed message passing based on attention for prediction of molecular properties](https://arxiv.org/abs/2305.14819)|[d-gats](https://github.com/gongchen-1995/d-gats)|
 |[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
 ## 2023-05-24
 |paper|code|
