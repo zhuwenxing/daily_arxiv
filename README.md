@@ -1,3 +1,9 @@
+## 2023-05-29
+|paper|code|
+|---|---|
+|[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
+|[computation of reliability statistics for finite samples of success-failure experiments](https://arxiv.org/abs/2305.16578)|[relistats](https://github.com/sanjaymjoshi/relistats)|
 ## 2023-05-26
 |paper|code|
 |---|---|
