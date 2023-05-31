@@ -1,3 +1,14 @@
+## 2023-05-30
+|paper|code|
+|---|---|
+|[traffic simulator for multibeam satellite communication systems](https://arxiv.org/abs/2007.07148)|[Satellite-Traffic-Simulator](https://github.com/hayder-hussein/Satellite-Traffic-Simulator)|
+|[exploring self-attention mechanisms for speech separation](https://arxiv.org/abs/2202.02884)|[speechbrain](https://github.com/speechbrain/speechbrain)|
+|[a hybrid quantum-classical approach based on the hadamard transform for the convolutional layer](https://arxiv.org/abs/2305.17510)|[icml2023-ht](https://github.com/phy710/icml2023-ht)|
+|[pulse shape discrimination based on the tempotron: a powerful classifier on gpu](https://arxiv.org/abs/2305.18205)|[TempotronGPU](https://github.com/HaoranLiu507/TempotronGPU)|
+|[crisp: curriculum based sequential neural decoders for polar code family](https://arxiv.org/abs/2210.00313)|[neural_polar_decoder](https://github.com/hebbarashwin/neural_polar_decoder)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
+|[dime: maximizing mutual information by a difference of matrix-based entropies](https://arxiv.org/abs/2301.08164)|[DiME](https://github.com/uk-cliplab/DiME)|
+|[on probability shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
 ## 2023-05-29
 |paper|code|
 |---|---|
