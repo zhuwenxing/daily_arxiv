@@ -1,3 +1,13 @@
+## 2023-06-01
+|paper|code|
+|---|---|
+|[on the convergence of inexact gradient descent with controlled synchronization steps](https://arxiv.org/abs/2208.07797)|[inexact-gradient-descent](https://github.com/Sandushan/inexact-gradient-descent)|
+|[a hybrid quantum-classical approach based on the hadamard transform for the convolutional layer](https://arxiv.org/abs/2305.17510)|[icml2023-ht](https://github.com/phy710/icml2023-ht)|
+|[variational $f$-divergence and derangements for discriminative mutual information estimation](https://arxiv.org/abs/2305.20025)|[fdime](https://github.com/tonellolab/fdime)|
+|[recovering top-two answers and confusion probability in multi-choice crowdsourcing](https://arxiv.org/abs/2301.00006)|[toptwo](https://github.com/hyeonsu-jeong/toptwo)|
+|[domain adaptive decision trees: implications for accuracy and fairness](https://arxiv.org/abs/2302.13846)|[domain-adaptive-trees](https://github.com/nobias-project/domain-adaptive-trees)|
+|[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
+|[causal discovery for time series with constraint-based model and pmime measure](https://arxiv.org/abs/2305.19695)|[cd_for_ts_with_cbm_and_pmime](https://github.com/aarsac/cd_for_ts_with_cbm_and_pmime)|
 ## 2023-05-31
 |paper|code|
 |---|---|
@@ -8,7 +18,6 @@
 |[the representation jensen-r\'enyi divergence](https://arxiv.org/abs/2112.01583)|[jensen-renyi-divergence](https://github.com/uk-cliplab/jensen-renyi-divergence)|
 |[distributed inference over linear models using alternating gaussian belief propagation](https://arxiv.org/abs/2210.09808)|[FactorGraph.jl](https://github.com/mcosovic/FactorGraph.jl)|
 |[structured model selection via $\ell_1-\ell_2$ optimization](https://arxiv.org/abs/2305.17467)|[nonconvexsparsecyclicrecovery](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
-|[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
 |[how does information bottleneck help deep learning?](https://arxiv.org/abs/2305.18887)|[information-bottleneck](https://github.com/xu-ji/information-bottleneck)|
 |[ambient diffusion: learning clean distributions from corrupted data](https://arxiv.org/abs/2305.19256)|[ambient-diffusion](https://github.com/giannisdaras/ambient-diffusion)|
 ## 2023-05-30
