@@ -1,3 +1,12 @@
+## 2023-06-02
+|paper|code|
+|---|---|
+|[structural optimization of factor graphs for symbol detection via continuous clustering and machine learning](https://arxiv.org/abs/2211.11406)|[factor_graph_structural_opt](https://github.com/kit-cel/factor_graph_structural_opt)|
+|[unearthing insights into mars: unsupervised source separation with limited data](https://arxiv.org/abs/2301.11981)|[insight_src_sep](https://github.com/alisiahkoohi/insight_src_sep)|
+|[conditionally strongly log-concave generative models](https://arxiv.org/abs/2306.00181)|[wcrg](https://github.com/elempereur/wcrg)|
+|[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
+|[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
 ## 2023-06-01
 |paper|code|
 |---|---|
