@@ -1,3 +1,9 @@
+## 2023-06-05
+|paper|code|
+|---|---|
+|[swl-adapt: an unsupervised domain adaptation model with sample weight learning for cross-user wearable human activity recognition](https://arxiv.org/abs/2212.00724)|[SWL-Adapt](https://github.com/Rxannro/SWL-Adapt)|
+|[bayes-optimal limits in structured pca, and how to reach them](https://arxiv.org/abs/2210.01237)|[structured-pca-](https://github.com/fcamilli95/structured-pca-)|
+|[probably anytime-safe stochastic combinatorial semi-bandits](https://arxiv.org/abs/2301.13393)|[passcsb](https://github.com/y-hou/passcsb)|
 ## 2023-06-02
 |paper|code|
 |---|---|
@@ -7,7 +13,6 @@
 |[graph neural networks-based user pairing in wireless communication systems](https://arxiv.org/abs/2306.00717)|[userpairing](https://github.com/sharanmourya/userpairing)|
 |[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
 |[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
-|[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
 ## 2023-06-01
 |paper|code|
 |---|---|
