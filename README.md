@@ -1,3 +1,11 @@
+## 2023-06-06
+|paper|code|
+|---|---|
+|[adaptive whitening in neural populations with gain-modulating interneurons](https://arxiv.org/abs/2301.11955)|[frame_whitening](https://github.com/lyndond/frame_whitening)|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[optimal resource allocation with delay guarantees for network slicing in disaggregated ran](https://arxiv.org/abs/2305.17321)|[paper-fgkcj-2023](https://github.com/labora-inf-ufg/paper-fgkcj-2023)|
+|[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
 ## 2023-06-05
 |paper|code|
 |---|---|
