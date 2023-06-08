@@ -1,11 +1,22 @@
+## 2023-06-07
+|paper|code|
+|---|---|
+|[lora backscatter communications: temporal, spectral, and error performance analysis](https://arxiv.org/abs/2306.02323)|[lora-backscatter-communications-temperal-spectral-and-error-performance-analysis](https://github.com/slingovie/lora-backscatter-communications-temperal-spectral-and-error-performance-analysis)|
+|[under-counted tensor completion with neural incorporation of attributes](https://arxiv.org/abs/2306.03273)|[undercounted-tensor-completion](https://github.com/shahanaibrahimosu/undercounted-tensor-completion)|
+|[deep learning from crowdsourced labels: coupled cross-entropy minimization, identifiability, and regularization](https://arxiv.org/abs/2306.03288)|[end-to-end-crowdsourcing](https://github.com/shahanaibrahimosu/end-to-end-crowdsourcing)|
+|[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
 ## 2023-06-06
 |paper|code|
 |---|---|
 |[adaptive whitening in neural populations with gain-modulating interneurons](https://arxiv.org/abs/2301.11955)|[frame_whitening](https://github.com/lyndond/frame_whitening)|
 |[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[optimal resource allocation with delay guarantees for network slicing in disaggregated ran](https://arxiv.org/abs/2305.17321)|[paper-fgkcj-2023](https://github.com/labora-inf-ufg/paper-fgkcj-2023)|
+|[fast and interpretable nonlocal neural networks for image denoising via group-sparse convolutional dictionary learning](https://arxiv.org/abs/2306.01950)|[groupcdl-tip](https://github.com/nikopj/groupcdl-tip)|
+|[why we should report the details in subjective evaluation of tts more rigorously](https://arxiv.org/abs/2306.02044)|[subjectiveevaluation](https://github.com/d223302/subjectiveevaluation)|
 |[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
 |[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
+|[admm-based detector for large-scale mimo code-domain noma systems](https://arxiv.org/abs/2306.02032)|[admm-based-detector-for-noma](https://github.com/vikas2020-del/admm-based-detector-for-noma)|
 ## 2023-06-05
 |paper|code|
 |---|---|
