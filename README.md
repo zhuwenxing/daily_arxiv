@@ -1,3 +1,9 @@
+## 2023-06-08
+|paper|code|
+|---|---|
+|[one-dimensional deep image prior for curve fitting of s-parameters from electromagnetic solvers](https://arxiv.org/abs/2306.04001)|[curvefitting-dip](https://github.com/sriram-ravula/curvefitting-dip)|
+|[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
+|[multimodal learning without labeled multimodal data: guarantees and applications](https://arxiv.org/abs/2306.04539)|[pid](https://github.com/pliang279/pid)|
 ## 2023-06-07
 |paper|code|
 |---|---|
