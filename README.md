@@ -1,7 +1,16 @@
+## 2023-06-09
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[an adaptive and robust deep learning framework for thz ultra-massive mimo channel estimation](https://arxiv.org/abs/2211.15939)|[FPN-OAMP-THz-Channel-Estimation](https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation)|
+|[toward more accurate and generalizable brain deformation estimators for traumatic brain injury detection with unsupervised domain adaptation](https://arxiv.org/abs/2306.05255)|[drca-mlhm](https://github.com/xzhan96-stf/drca-mlhm)|
+|[power allocation algorithms for massive mimo systems with multi-antenna users](https://arxiv.org/abs/2201.08068)|[Power-Allocation-Algorithms-for-Massive-MIMO-Systems-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Power-Allocation-Algorithms-for-Massive-MIMO-Systems-with-Multi-Antenna-Users)|
+|[learning to maximize mutual information for dynamic feature selection](https://arxiv.org/abs/2301.00557)|[dynamic-selection](https://github.com/iancovert/dynamic-selection)|
 ## 2023-06-08
 |paper|code|
 |---|---|
 |[one-dimensional deep image prior for curve fitting of s-parameters from electromagnetic solvers](https://arxiv.org/abs/2306.04001)|[curvefitting-dip](https://github.com/sriram-ravula/curvefitting-dip)|
+|[model-based deep learning](https://arxiv.org/abs/2306.04469)|[mbdl_book](https://github.com/shlezingerlab/mbdl_book)|
 |[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
 |[multimodal learning without labeled multimodal data: guarantees and applications](https://arxiv.org/abs/2306.04539)|[pid](https://github.com/pliang279/pid)|
 ## 2023-06-07
