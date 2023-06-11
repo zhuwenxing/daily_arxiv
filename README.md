@@ -6,6 +6,7 @@
 |[toward more accurate and generalizable brain deformation estimators for traumatic brain injury detection with unsupervised domain adaptation](https://arxiv.org/abs/2306.05255)|[drca-mlhm](https://github.com/xzhan96-stf/drca-mlhm)|
 |[power allocation algorithms for massive mimo systems with multi-antenna users](https://arxiv.org/abs/2201.08068)|[Power-Allocation-Algorithms-for-Massive-MIMO-Systems-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Power-Allocation-Algorithms-for-Massive-MIMO-Systems-with-Multi-Antenna-Users)|
 |[learning to maximize mutual information for dynamic feature selection](https://arxiv.org/abs/2301.00557)|[dynamic-selection](https://github.com/iancovert/dynamic-selection)|
+|[generic decoding of restricted errors](https://arxiv.org/abs/2303.08882)|[rest-dec](https://github.com/sebastianbitzer/rest-dec)|
 ## 2023-06-08
 |paper|code|
 |---|---|
