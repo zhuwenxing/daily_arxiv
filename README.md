@@ -1,7 +1,16 @@
+## 2023-06-13
+|paper|code|
+|---|---|
+|[semantic information recovery in wireless networks](https://arxiv.org/abs/2204.13366)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[weight freezing: a regularization approach for fully connected layers with an application in eeg classification](https://arxiv.org/abs/2306.05775)|[weightfreezing](https://github.com/miaozhengqing/weightfreezing)|
+|[bayesian calibration of mems accelerometers](https://arxiv.org/abs/2306.06144)|[bayes_cal_paper](https://github.com/oduerr/bayes_cal_paper)|
+|[ts-moco: time-series momentum contrast for self-supervised physiological representation learning](https://arxiv.org/abs/2306.06522)|[ts-moco](https://github.com/philipph77/ts-moco)|
+|[evaluating prompt-based question answering for object prediction in the open research knowledge graph](https://arxiv.org/abs/2305.12900)|[thesis_work](https://github.com/as18cia/thesis_work)|
 ## 2023-06-12
 |paper|code|
 |---|---|
 |[hrtf upsampling with a generative adversarial network using a gnomonic equiangular projection](https://arxiv.org/abs/2306.05812)|[hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)|
+|[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
 |[correlative information maximization: a biologically plausible approach to supervised deep neural networks without weight symmetry](https://arxiv.org/abs/2306.04810)|[Supervised-CorInfoMax](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)|
 ## 2023-06-09
 |paper|code|
