@@ -1,7 +1,12 @@
-## 2023-06-13
+## 2023-06-14
 |paper|code|
 |---|---|
 |[semantic information recovery in wireless networks](https://arxiv.org/abs/2204.13366)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[deep demixing: reconstructing the evolution of network epidemics](https://arxiv.org/abs/2306.07938)|[Deep_demixing](https://github.com/gojkoc54/Deep_demixing)|
+|[binomial line cox processes: statistical characterization and applications in wireless network analysis](https://arxiv.org/abs/2302.05151)|[blcp](https://github.com/mt19146/blcp)|
+## 2023-06-13
+|paper|code|
+|---|---|
 |[weight freezing: a regularization approach for fully connected layers with an application in eeg classification](https://arxiv.org/abs/2306.05775)|[weightfreezing](https://github.com/miaozhengqing/weightfreezing)|
 |[bayesian calibration of mems accelerometers](https://arxiv.org/abs/2306.06144)|[bayes_cal_paper](https://github.com/oduerr/bayes_cal_paper)|
 |[ts-moco: time-series momentum contrast for self-supervised physiological representation learning](https://arxiv.org/abs/2306.06522)|[ts-moco](https://github.com/philipph77/ts-moco)|
