@@ -1,3 +1,10 @@
+## 2023-06-16
+|paper|code|
+|---|---|
+|[hierarchical dirichlet process based gamma mixture modelling for terahertz band wireless communication channels](https://arxiv.org/abs/2205.03812)|[DPGMM-Channel-Modelling](https://github.com/erhankarakoca/DPGMM-Channel-Modelling)|
+|[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
+|[diffusion-based conditional ecg generation with structured state space models](https://arxiv.org/abs/2301.08227)|[sssd-ecg](https://github.com/ai4healthuol/sssd-ecg)|
+|[towards trustworthy seizure onset detection using workflow notes](https://arxiv.org/abs/2306.08728)|[eeg_robustness](https://github.com/khaledsaab/eeg_robustness)|
 ## 2023-06-14
 |paper|code|
 |---|---|
