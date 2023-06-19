@@ -4,7 +4,9 @@
 |[hierarchical dirichlet process based gamma mixture modelling for terahertz band wireless communication channels](https://arxiv.org/abs/2205.03812)|[DPGMM-Channel-Modelling](https://github.com/erhankarakoca/DPGMM-Channel-Modelling)|
 |[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
 |[diffusion-based conditional ecg generation with structured state space models](https://arxiv.org/abs/2301.08227)|[sssd-ecg](https://github.com/ai4healthuol/sssd-ecg)|
+|[low-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
 |[towards trustworthy seizure onset detection using workflow notes](https://arxiv.org/abs/2306.08728)|[eeg_robustness](https://github.com/khaledsaab/eeg_robustness)|
+|[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
 ## 2023-06-14
 |paper|code|
 |---|---|
