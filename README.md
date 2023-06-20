@@ -1,3 +1,7 @@
+## 2023-06-19
+|paper|code|
+|---|---|
+|[super-resolution radar imaging with sparse arrays using a deep neural network trained with enhanced virtual data](https://arxiv.org/abs/2306.09839)|[sparse-array-radar-imaging](https://github.com/christianschuessler/sparse-array-radar-imaging)|
 ## 2023-06-16
 |paper|code|
 |---|---|
