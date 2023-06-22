@@ -1,3 +1,21 @@
+## 2023-06-21
+|paper|code|
+|---|---|
+|[distributed set-based observers using diffusion strategies](https://arxiv.org/abs/2003.10347)|[Distributed-Set-Based-Observers-Using-Diffusion-Strategy](https://github.com/aalanwar/Distributed-Set-Based-Observers-Using-Diffusion-Strategy)|
+|[scale dependencies and self-similar models with wavelet scattering spectra](https://arxiv.org/abs/2204.10177)|[scattering_spectra](https://github.com/rudymorel/scattering_spectra)|
+|[decomposed linear dynamical systems (dlds) for learning the latent components of neural dynamics](https://arxiv.org/abs/2206.02972)|[dLDS-Discrete-Python-Model](https://github.com/dLDS-Decomposed-Linear-Dynamics/dLDS-Discrete-Python-Model)|
+|[data-driven denoising of stationary accelerometer signals](https://arxiv.org/abs/2206.05937)|[MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)|
+|[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[dnn-ha](https://github.com/hearingtechnology/dnn-ha)|
+|[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
+|[deep comparisons of neural networks from the eegnet family](https://arxiv.org/abs/2302.08797)|[bionic_apps](https://github.com/kolcs/bionic_apps)|
+|[lora backscatter communications: temporal, spectral, and error performance analysis](https://arxiv.org/abs/2306.02323)|[lora-backscatter-performance-analysis](https://github.com/slingovie/lora-backscatter-performance-analysis)|
+|[multiwave: multiresolution deep architectures through wavelet decomposition for multivariate time series prediction](https://arxiv.org/abs/2306.10164)|[multiwave](https://github.com/information-fusion-lab-umass/multiwave)|
+|[matnet: multi-level fusion and self-attention transformer-based model for multivariate multi-step day-ahead pv generation forecasting](https://arxiv.org/abs/2306.10356)|[matnet](https://github.com/cosbidev/matnet)|
+|[duta-vc: a duration-aware typical-to-atypical voice conversion approach with diffusion probabilistic model](https://arxiv.org/abs/2306.10588)|[duta-vc](https://github.com/wanghelin1997/duta-vc)|
+|[to fold or not to fold: graph regularized tensor train for visual data completion](https://arxiv.org/abs/2306.11123)|[graphttc](https://github.com/xumaomao94/graphttc)|
+|[fdnet: focal decomposed network for efficient, robust and practical time series forecasting](https://arxiv.org/abs/2306.10703)|[fdnet](https://github.com/origamisl/fdnet)|
+|[beyond normal: on the evaluation of mutual information estimators](https://arxiv.org/abs/2306.11078)|[bmi](https://github.com/cbg-ethz/bmi)|
 ## 2023-06-19
 |paper|code|
 |---|---|
