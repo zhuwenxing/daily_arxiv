@@ -1,3 +1,7 @@
+## 2023-06-23
+|paper|code|
+|---|---|
+|[signal inpainting from fourier magnitudes](https://arxiv.org/abs/2210.15951)|[inpainting-fourier](https://github.com/louis-bahrman/inpainting-fourier)|
 ## 2023-06-22
 |paper|code|
 |---|---|
