@@ -7,7 +7,6 @@
 |---|---|
 |[space-time design for deep joint source channel coding of images over mimo channels](https://arxiv.org/abs/2210.16985)|[st_jscc](https://github.com/aprilbian/st_jscc)|
 |[high throughput open-source implementation of wi-fi 6 and wimax ldpc encoder and decoder](https://arxiv.org/abs/2306.12063)|[yaldpc](https://github.com/talenik/yaldpc)|
-|[recoil: parallel rans decoding with decoder-adaptive scalability](https://arxiv.org/abs/2306.12141)|[recoil](https://github.com/lin-toto/recoil)|
 ## 2023-06-21
 |paper|code|
 |---|---|
