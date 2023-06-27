@@ -1,3 +1,7 @@
+## 2023-06-26
+|paper|code|
+|---|---|
+|[necessary and sufficient graphical conditions for optimal adjustment sets in causal graphical models with hidden variables](https://arxiv.org/abs/2102.10324)|[tigramite](https://github.com/jakobrunge/tigramite)|
 ## 2023-06-23
 |paper|code|
 |---|---|
@@ -17,6 +21,7 @@
 |[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[dnn-ha](https://github.com/hearingtechnology/dnn-ha)|
 |[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
 |[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
+|[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
 |[deep comparisons of neural networks from the eegnet family](https://arxiv.org/abs/2302.08797)|[bionic_apps](https://github.com/kolcs/bionic_apps)|
 |[lora backscatter communications: temporal, spectral, and error performance analysis](https://arxiv.org/abs/2306.02323)|[lora-backscatter-performance-analysis](https://github.com/slingovie/lora-backscatter-performance-analysis)|
 |[multiwave: multiresolution deep architectures through wavelet decomposition for multivariate time series prediction](https://arxiv.org/abs/2306.10164)|[multiwave](https://github.com/information-fusion-lab-umass/multiwave)|
