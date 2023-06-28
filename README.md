@@ -1,6 +1,18 @@
+## 2023-06-27
+|paper|code|
+|---|---|
+|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/lanl/openfwi)|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[robust spatiotemporal traffic forecasting with reinforced dynamic adversarial training](https://arxiv.org/abs/2306.14126)|[rdat](https://github.com/usail-hkust/rdat)|
+|[cst-yolo: a novel method for blood cell detection based on improved yolov7 and cnn-swin transformer](https://arxiv.org/abs/2306.14590)|[CST-YOLO](https://github.com/mkang315/CST-YOLO)|
+|[folded polynomial codes for coded distributed $aa^\top$-type matrix multiplication](https://arxiv.org/abs/2211.15267)|[foldedpolynomialcodes](https://github.com/shinez9/foldedpolynomialcodes)|
+|[domain adaptive decision trees: implications for accuracy and fairness](https://arxiv.org/abs/2302.13846)|[domain-adaptive-trees](https://github.com/nobias-project/domain-adaptive-trees)|
+|[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
+|[recoil: parallel rans decoding with decoder-adaptive scalability](https://arxiv.org/abs/2306.12141)|[recoil](https://github.com/lin-toto/recoil)|
 ## 2023-06-26
 |paper|code|
 |---|---|
+|[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
 |[necessary and sufficient graphical conditions for optimal adjustment sets in causal graphical models with hidden variables](https://arxiv.org/abs/2102.10324)|[tigramite](https://github.com/jakobrunge/tigramite)|
 ## 2023-06-23
 |paper|code|
