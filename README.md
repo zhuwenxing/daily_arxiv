@@ -1,3 +1,8 @@
+## 2023-06-29
+|paper|code|
+|---|---|
+|[understanding a version of multivariate symmetric uncertainty to assist in feature selection](https://arxiv.org/abs/1709.08730)|[package=msu](https://cran.r-project.org/package=msu)|
+|[on information captured by neural networks: connections with memorization and generalization](https://arxiv.org/abs/2306.15918)|[aws-cv-unique-information](https://github.com/awslabs/aws-cv-unique-information)|
 ## 2023-06-28
 |paper|code|
 |---|---|
