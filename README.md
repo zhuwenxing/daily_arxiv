@@ -1,3 +1,9 @@
+## 2023-06-30
+|paper|code|
+|---|---|
+|[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
+|[assessing the performance of 1d-convolution neural networks to predict concentration of mixture components from raman spectra](https://arxiv.org/abs/2306.16621)|[ramix](https://github.com/dexterantonio/ramix)|
+|[tokenization and the noiseless channel](https://arxiv.org/abs/2306.16842)|[tokenization-scorer](https://github.com/zouharvi/tokenization-scorer)|
 ## 2023-06-29
 |paper|code|
 |---|---|
