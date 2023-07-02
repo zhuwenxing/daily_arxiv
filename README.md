@@ -3,11 +3,15 @@
 |---|---|
 |[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
 |[assessing the performance of 1d-convolution neural networks to predict concentration of mixture components from raman spectra](https://arxiv.org/abs/2306.16621)|[ramix](https://github.com/dexterantonio/ramix)|
+|[accurate pet reconstruction from reduced set of measurements based on gmm](https://arxiv.org/abs/2306.17028)|[accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm](https://github.com/tm2005/accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm)|
 |[tokenization and the noiseless channel](https://arxiv.org/abs/2306.16842)|[tokenization-scorer](https://github.com/zouharvi/tokenization-scorer)|
 ## 2023-06-29
 |paper|code|
 |---|---|
+|[ai-generated incentive mechanism and full-duplex semantic communications for information sharing](https://arxiv.org/abs/2303.01896)|[semsharing](https://github.com/hongyangdu/semsharing)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
 |[understanding a version of multivariate symmetric uncertainty to assist in feature selection](https://arxiv.org/abs/1709.08730)|[package=msu](https://cran.r-project.org/package=msu)|
+|[on graph uncertainty principle and eigenvector delocalization](https://arxiv.org/abs/2306.15810)|[uncertainty-delocalization](https://github.com/erebrova/uncertainty-delocalization)|
 |[on information captured by neural networks: connections with memorization and generalization](https://arxiv.org/abs/2306.15918)|[aws-cv-unique-information](https://github.com/awslabs/aws-cv-unique-information)|
 ## 2023-06-28
 |paper|code|
