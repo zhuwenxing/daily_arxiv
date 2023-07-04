@@ -1,3 +1,8 @@
+## 2023-07-03
+|paper|code|
+|---|---|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+|[root tracking for rate-distortion: approximating a solution curve with higher implicit multivariate derivatives](https://arxiv.org/abs/2206.11369)|[rtrd](https://github.com/shlomiag/rtrd)|
 ## 2023-06-30
 |paper|code|
 |---|---|
