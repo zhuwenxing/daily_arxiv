@@ -5,6 +5,7 @@
 |[towards domain generalization for ecg and eeg classification: algorithms and benchmarks](https://arxiv.org/abs/2303.11338)|[biodg](https://github.com/aristotelisballas/biodg)|
 |[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
 |[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
+|[worth of knowledge in deep learning](https://arxiv.org/abs/2307.00712)|[worth_of_knowledge](https://github.com/woshixuhao/worth_of_knowledge)|
 ## 2023-07-03
 |paper|code|
 |---|---|
