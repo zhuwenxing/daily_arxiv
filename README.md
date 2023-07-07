@@ -1,3 +1,12 @@
+## 2023-07-06
+|paper|code|
+|---|---|
+|[d\'em\'elange, d\'econvolution et d\'ebruitage conjoints d'un mod\`ele convolutif parcimonieux avec d\'erive instrumentale, par p\'enalisation de rapports de normes ou quasi-normes liss\'ees (pendantss)](https://arxiv.org/abs/2307.01761)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[deep generation of heterogeneous networks](https://arxiv.org/abs/2206.12336)|[hgen](https://github.com/lingchen0331/hgen)|
+|[on probability shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
+|[conditional and residual methods in scalable coding for humans and machines](https://arxiv.org/abs/2305.02562)|[research](https://github.com/adeandrade/research)|
+|[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-07-04
 |paper|code|
 |---|---|
@@ -6,6 +15,7 @@
 |[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
 |[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
 |[worth of knowledge in deep learning](https://arxiv.org/abs/2307.00712)|[worth_of_knowledge](https://github.com/woshixuhao/worth_of_knowledge)|
+|[engage: explanation guided data augmentation for graph representation learning](https://arxiv.org/abs/2307.01053)|[engage](https://github.com/sycny/engage)|
 ## 2023-07-03
 |paper|code|
 |---|---|
