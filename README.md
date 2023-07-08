@@ -1,3 +1,10 @@
+## 2023-07-07
+|paper|code|
+|---|---|
+|[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
+|[semi-device-dependent blind quantum tomography](https://arxiv.org/abs/2006.03069)|[blind-quantum-tomography](https://gitlab.com/wilkensJ/blind-quantum-tomography)|
+|[fast and multi-aspect mining of complex time-stamped event streams](https://arxiv.org/abs/2303.03789)|[cubescope](https://github.com/kotanakm/cubescope)|
+|[on the noise sensitivity of the randomized svd](https://arxiv.org/abs/2305.17435)|[randomized-svd-code](https://github.com/eladromanov/randomized-svd-code)|
 ## 2023-07-06
 |paper|code|
 |---|---|
