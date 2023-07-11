@@ -1,3 +1,8 @@
+## 2023-07-10
+|paper|code|
+|---|---|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[avoiding post-processing with event-based detection in biomedical signals](https://arxiv.org/abs/2209.11007)|[eventnet](https://github.com/n1xu5/eventnet)|
 ## 2023-07-07
 |paper|code|
 |---|---|
@@ -13,7 +18,6 @@
 |[on probability shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
 |[conditional and residual methods in scalable coding for humans and machines](https://arxiv.org/abs/2305.02562)|[research](https://github.com/adeandrade/research)|
 |[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
-|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-07-04
 |paper|code|
 |---|---|
