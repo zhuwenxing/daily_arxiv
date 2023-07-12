@@ -1,8 +1,14 @@
+## 2023-07-11
+|paper|code|
+|---|---|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-07-10
 |paper|code|
 |---|---|
 |[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
 |[avoiding post-processing with event-based detection in biomedical signals](https://arxiv.org/abs/2209.11007)|[eventnet](https://github.com/n1xu5/eventnet)|
+|[exact recovery of the support of piecewise constant images via total variation regularization](https://arxiv.org/abs/2307.03709)|[2023-support-recovery-tv](https://github.com/rpetit/2023-support-recovery-tv)|
 ## 2023-07-07
 |paper|code|
 |---|---|
