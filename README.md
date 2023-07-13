@@ -1,7 +1,14 @@
+## 2023-07-12
+|paper|code|
+|---|---|
+|[super-resolution radar imaging with sparse arrays using a deep neural network trained with enhanced virtual data](https://arxiv.org/abs/2306.09839)|[sparse-array-radar-imaging](https://github.com/christianschuessler/sparse-array-radar-imaging)|
+|[tsdownsample: high-performance time series downsampling for scalable visualization](https://arxiv.org/abs/2307.05389)|[tsdownsample](https://github.com/predict-idlab/tsdownsample)|
 ## 2023-07-11
 |paper|code|
 |---|---|
+|[grid-free mimo beam alignment through site-specific deep learning](https://arxiv.org/abs/2209.08198)|[dlgf](https://github.com/yuqiangheng/dlgf)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[spoofing-resilient lidar-gps factor graph localization with chimera authentication](https://arxiv.org/abs/2307.04692)|[chimera_fgo](https://github.com/stanford-navlab/chimera_fgo)|
 |[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-07-10
 |paper|code|
@@ -13,7 +20,6 @@
 |paper|code|
 |---|---|
 |[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
-|[semi-device-dependent blind quantum tomography](https://arxiv.org/abs/2006.03069)|[blind-quantum-tomography](https://gitlab.com/wilkensJ/blind-quantum-tomography)|
 |[fast and multi-aspect mining of complex time-stamped event streams](https://arxiv.org/abs/2303.03789)|[cubescope](https://github.com/kotanakm/cubescope)|
 |[on the noise sensitivity of the randomized svd](https://arxiv.org/abs/2305.17435)|[randomized-svd-code](https://github.com/eladromanov/randomized-svd-code)|
 ## 2023-07-06
