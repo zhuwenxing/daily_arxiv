@@ -1,3 +1,9 @@
+## 2023-07-13
+|paper|code|
+|---|---|
+|[b-har: an open-source baseline framework for in depth study of human activity recognition datasets and workflows](https://arxiv.org/abs/2101.10870)|[B-HAR](https://github.com/B-HAR-HumanActivityRecognition/B-HAR)|
+|[semi-device-dependent blind quantum tomography](https://arxiv.org/abs/2006.03069)|[blind-quantum-tomography](https://gitlab.com/wilkensJ/blind-quantum-tomography)|
+|[fundamental limits for sensor-based robot control](https://arxiv.org/abs/2202.00129)|[performance-limits](https://github.com/irom-lab/performance-limits)|
 ## 2023-07-12
 |paper|code|
 |---|---|
