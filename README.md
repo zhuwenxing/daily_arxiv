@@ -1,3 +1,8 @@
+## 2023-07-14
+|paper|code|
+|---|---|
+|[semantic information recovery in wireless networks](https://arxiv.org/abs/2204.13366)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[human biophysics as network weights: conditional generative models for dynamic simulation](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
 ## 2023-07-13
 |paper|code|
 |---|---|
