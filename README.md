@@ -1,3 +1,8 @@
+## 2023-07-20
+|paper|code|
+|---|---|
+|[sionna rt: differentiable ray tracing for radio propagation modeling](https://arxiv.org/abs/2303.11103)|[diff-rt](https://github.com/nvlabs/diff-rt)|
+|[genkl: an iterative framework for resolving label ambiguity and label non-conformity in web images via a new generalized kl divergence](https://arxiv.org/abs/2307.09810)|[genkl](https://github.com/codetopaper/genkl)|
 ## 2023-07-19
 |paper|code|
 |---|---|
@@ -7,6 +12,7 @@
 |[3dinvnet: a deep learning-based 3d ground-penetrating radar data inversion](https://arxiv.org/abs/2305.05425)|[3dinvnet](https://github.com/qiqi-dai/3dinvnet)|
 |[classification with incoherent kernel dictionary learning](https://arxiv.org/abs/2307.08796)|[incoherent-kernel-dictionary-learning](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)|
 |[reduced kernel dictionary learning](https://arxiv.org/abs/2307.08798)|[rkdl](https://github.com/denisilie94/rkdl)|
+|[radar-stda: a high-performance spatial-temporal denoising autoencoder for interference mitigation of fmcw radars](https://arxiv.org/abs/2307.09063)|[rd_map_temporal_spatial_denoising_autoencoder](https://github.com/guanrunwei/rd_map_temporal_spatial_denoising_autoencoder)|
 |[application of bert in wind power forecasting-teletraan's solution in baidu kdd cup 2022](https://arxiv.org/abs/2307.09248)|[kdd2022-baidu](https://github.com/longxingtan/kdd2022-baidu)|
 |[deepcabac: a universal compression algorithm for deep neural networks](https://arxiv.org/abs/1907.11900)|[DeepCABAC](https://github.com/fraunhoferhhi/DeepCABAC)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
