@@ -1,3 +1,10 @@
+## 2023-07-21
+|paper|code|
+|---|---|
+|[learning-based reconstruction of fri signals](https://arxiv.org/abs/2212.08758)|[LearningBasedFRI](https://github.com/vchleung/LearningBasedFRI)|
+|[multi-view self-supervised learning for multivariate variable-channel time series](https://arxiv.org/abs/2307.09614)|[multiview_ts_ssl](https://github.com/theabrusch/multiview_ts_ssl)|
+|[novel batch active learning approach and its application to synthetic aperture radar datasets](https://arxiv.org/abs/2307.10495)|[sar_bal](https://github.com/chapman20j/sar_bal)|
+|[can information flows suggest targets for interventions in neural circuits?](https://arxiv.org/abs/2111.05299)|[ann-info-flow](https://github.com/praveenv253/ann-info-flow)|
 ## 2023-07-20
 |paper|code|
 |---|---|
@@ -8,6 +15,7 @@
 |---|---|
 |[on the convergence of inexact gradient descent with controlled synchronization steps](https://arxiv.org/abs/2208.07797)|[inexact-gradient-descent](https://github.com/Sandushan/inexact-gradient-descent)|
 |[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[implicit anatomical rendering for medical image segmentation with stochastic experts](https://arxiv.org/abs/2304.03209)|[morse](https://github.com/charlesyou999648/morse)|
 |[gaussian process deconvolution](https://arxiv.org/abs/2305.04871)|[gaussian-process-deconvolution](https://github.com/games-uchile/gaussian-process-deconvolution)|
 |[3dinvnet: a deep learning-based 3d ground-penetrating radar data inversion](https://arxiv.org/abs/2305.05425)|[3dinvnet](https://github.com/qiqi-dai/3dinvnet)|
 |[classification with incoherent kernel dictionary learning](https://arxiv.org/abs/2307.08796)|[incoherent-kernel-dictionary-learning](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)|
