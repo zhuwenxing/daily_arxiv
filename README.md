@@ -1,3 +1,14 @@
+## 2023-07-25
+|paper|code|
+|---|---|
+|[nilm as a regression versus classification problem: the importance of thresholding](https://arxiv.org/abs/2010.16050)|[better_nilm](https://github.com/UCA-Datalab/better_nilm)|
+|[trumpets: injective flows for inference and inverse problems](https://arxiv.org/abs/2102.10461)|[trumpets](https://github.com/swing-research/trumpets)|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[deep injective prior for inverse scattering](https://arxiv.org/abs/2301.03092)|[scattering_injective_prior](https://github.com/swing-research/scattering_injective_prior)|
+|[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[deep unfolded simulated bifurcation for massive mimo signal detection](https://arxiv.org/abs/2306.16264)|[unfolded_simbif](https://github.com/s-takabe/unfolded_simbif)|
+|[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[concept-based explainability for an eeg transformer model](https://arxiv.org/abs/2307.12745)|[tcav-bendr](https://github.com/andersgmadsen/tcav-bendr)|
 ## 2023-07-24
 |paper|code|
 |---|---|
