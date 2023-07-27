@@ -1,3 +1,11 @@
+## 2023-07-26
+|paper|code|
+|---|---|
+|[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
+|[denoising noisy neural networks: a bayesian approach with compensation](https://arxiv.org/abs/2105.10699)|[NoisyNN](https://github.com/lynshao/NoisyNN)|
+|[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
+|[a switching gaussian process latent force model for the identification of mechanical systems with a discontinuous nonlinearity](https://arxiv.org/abs/2303.03858)|[switching-gplfm](https://github.com/l-marino/switching-gplfm)|
+|[adaptive regularized zero-forcing beamforming in massive mimo with multi-antenna users](https://arxiv.org/abs/2107.00853)|[Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users)|
 ## 2023-07-25
 |paper|code|
 |---|---|
@@ -9,6 +17,7 @@
 |[deep unfolded simulated bifurcation for massive mimo signal detection](https://arxiv.org/abs/2306.16264)|[unfolded_simbif](https://github.com/s-takabe/unfolded_simbif)|
 |[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
 |[concept-based explainability for an eeg transformer model](https://arxiv.org/abs/2307.12745)|[tcav-bendr](https://github.com/andersgmadsen/tcav-bendr)|
+|[in search of maximum non-overlapping codes](https://arxiv.org/abs/2307.12593)|[nono-codes](https://github.com/magdevska/nono-codes)|
 ## 2023-07-24
 |paper|code|
 |---|---|
