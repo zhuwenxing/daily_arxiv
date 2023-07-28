@@ -1,3 +1,10 @@
+## 2023-07-27
+|paper|code|
+|---|---|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[learning to design analog circuits to meet threshold specifications](https://arxiv.org/abs/2307.13861)|[circuit-synthesis](https://github.com/indylab/circuit-synthesis)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-07-26
 |paper|code|
 |---|---|
