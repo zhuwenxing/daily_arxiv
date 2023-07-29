@@ -1,3 +1,8 @@
+## 2023-07-28
+|paper|code|
+|---|---|
+|[matnilm: multi-appliance-task non-intrusive load monitoring with limited labeled data](https://arxiv.org/abs/2307.14778)|[matnilm](https://github.com/jxiong22/matnilm)|
+|[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 ## 2023-07-27
 |paper|code|
 |---|---|
