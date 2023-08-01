@@ -1,8 +1,12 @@
+## 2023-07-31
+|paper|code|
+|---|---|
+|[dime: maximizing mutual information by a difference of matrix-based entropies](https://arxiv.org/abs/2301.08164)|[DiME](https://github.com/uk-cliplab/DiME)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-07-28
 |paper|code|
 |---|---|
 |[bayesian algorithms for kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2307.14719)|[journalkrosbl](https://github.com/yanbinhe/journalkrosbl)|
-|[matnilm: multi-appliance-task non-intrusive load monitoring with limited labeled data](https://arxiv.org/abs/2307.14778)|[matnilm](https://github.com/jxiong22/matnilm)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 ## 2023-07-27
 |paper|code|
