@@ -1,3 +1,13 @@
+## 2023-08-01
+|paper|code|
+|---|---|
+|[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
+|[matnilm: multi-appliance-task non-intrusive load monitoring with limited labeled data](https://arxiv.org/abs/2307.14778)|[matnilm](https://github.com/jxiong22/matnilm)|
+|[ultrasound image reconstruction with denoising diffusion restoration models](https://arxiv.org/abs/2307.15990)|[drus-v1](https://github.com/yuxin-zhang-jasmine/drus-v1)|
+|[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
+|[spherical and hyperbolic toric topology-based codes on graph embedding for ising mrf models: classical and quantum topology machine learning](https://arxiv.org/abs/2307.15778)|[Topology-Signal-Processing](https://github.com/Lcrypto/Topology-Signal-Processing)|
+|[llms4ol: large language models for ontology learning](https://arxiv.org/abs/2307.16648)|[llms4ol](https://github.com/hamedbabaei/llms4ol)|
 ## 2023-07-31
 |paper|code|
 |---|---|
