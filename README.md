@@ -1,3 +1,9 @@
+## 2023-08-02
+|paper|code|
+|---|---|
+|[an integrated multi-time-scale modeling for solar irradiance forecasting using deep learning](https://arxiv.org/abs/1905.02616)|[LSTM_Solar_Forecasting](https://github.com/sakshi-mishra/LSTM_Solar_Forecasting)|
+|[vit2eeg: leveraging hybrid pretrained vision transformers for eeg data](https://arxiv.org/abs/2308.00454)|[eegeyenet-vit](https://github.com/ruiqirichard/eegeyenet-vit)|
+|[nystr\"om $m$-hilbert-schmidt independence criterion](https://arxiv.org/abs/2302.09930)|[nystroem-mhsic](https://github.com/flopska/nystroem-mhsic)|
 ## 2023-08-01
 |paper|code|
 |---|---|
@@ -7,7 +13,6 @@
 |[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
 |[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
 |[spherical and hyperbolic toric topology-based codes on graph embedding for ising mrf models: classical and quantum topology machine learning](https://arxiv.org/abs/2307.15778)|[Topology-Signal-Processing](https://github.com/Lcrypto/Topology-Signal-Processing)|
-|[llms4ol: large language models for ontology learning](https://arxiv.org/abs/2307.16648)|[llms4ol](https://github.com/hamedbabaei/llms4ol)|
 ## 2023-07-31
 |paper|code|
 |---|---|
@@ -16,7 +21,6 @@
 ## 2023-07-28
 |paper|code|
 |---|---|
-|[bayesian algorithms for kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2307.14719)|[journalkrosbl](https://github.com/yanbinhe/journalkrosbl)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 ## 2023-07-27
 |paper|code|
