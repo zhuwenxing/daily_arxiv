@@ -9,6 +9,7 @@
 |---|---|
 |[an integrated multi-time-scale modeling for solar irradiance forecasting using deep learning](https://arxiv.org/abs/1905.02616)|[LSTM_Solar_Forecasting](https://github.com/sakshi-mishra/LSTM_Solar_Forecasting)|
 |[vit2eeg: leveraging hybrid pretrained vision transformers for eeg data](https://arxiv.org/abs/2308.00454)|[eegeyenet-vit](https://github.com/ruiqirichard/eegeyenet-vit)|
+|[data augmentation of bridging the delay gap for dl-based massive mimo csi feedback](https://arxiv.org/abs/2308.00478)|[crnetaug](https://github.com/zhanghy23/crnetaug)|
 |[nystr\"om $m$-hilbert-schmidt independence criterion](https://arxiv.org/abs/2302.09930)|[nystroem-mhsic](https://github.com/flopska/nystroem-mhsic)|
 ## 2023-08-01
 |paper|code|
