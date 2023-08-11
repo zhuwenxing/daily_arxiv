@@ -1,7 +1,13 @@
+## 2023-08-10
+|paper|code|
+|---|---|
+|[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
 ## 2023-08-09
 |paper|code|
 |---|---|
 |[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[quantum and quantum-inspired stereographic k nearest-neighbour clustering](https://arxiv.org/abs/2308.03949)|[stereographic-quantum-embedding-clustering](https://github.com/alonsoviladomat/stereographic-quantum-embedding-clustering)|
 ## 2023-08-08
 |paper|code|
 |---|---|
