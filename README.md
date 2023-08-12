@@ -1,3 +1,7 @@
+## 2023-08-11
+|paper|code|
+|---|---|
+|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 ## 2023-08-10
 |paper|code|
 |---|---|
