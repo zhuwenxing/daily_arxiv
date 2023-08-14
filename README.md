@@ -2,11 +2,14 @@
 |paper|code|
 |---|---|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
+|[information decomposition reveals hidden high-order contributions to temporal irreversibility](https://arxiv.org/abs/2308.05664)|[fastdmf](https://gitlab.com/concog/fastdmf)|
 ## 2023-08-10
 |paper|code|
 |---|---|
 |[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[striking the right balance: three-dimensional ocean sound speed field reconstruction using tensor neural networks](https://arxiv.org/abs/2308.04930)|[tensor-neural-network](https://github.com/oceanstarlab/tensor-neural-network)|
 ## 2023-08-09
 |paper|code|
 |---|---|
