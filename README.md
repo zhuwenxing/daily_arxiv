@@ -1,3 +1,10 @@
+## 2023-08-14
+|paper|code|
+|---|---|
+|[collaborative learning with a drone orchestrator](https://arxiv.org/abs/2303.02266)|[collaborative-learning-with-a-drone-orchestrator](https://github.com/drmahdiboloursazmashhadi/collaborative-learning-with-a-drone-orchestrator)|
+|[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
+|[unlocking the diagnostic potential of ecg through knowledge transfer from cardiac mri](https://arxiv.org/abs/2308.05764)|[mmcl-ecg-cmr](https://github.com/oetu/mmcl-ecg-cmr)|
+|[a law of data separation in deep learning](https://arxiv.org/abs/2210.17020)|[re-equi-sepa](https://github.com/dadacheng/re-equi-sepa)|
 ## 2023-08-11
 |paper|code|
 |---|---|
