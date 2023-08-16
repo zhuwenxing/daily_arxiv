@@ -1,3 +1,7 @@
+## 2023-08-15
+|paper|code|
+|---|---|
+|[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
 ## 2023-08-14
 |paper|code|
 |---|---|
