@@ -1,3 +1,8 @@
+## 2023-08-16
+|paper|code|
+|---|---|
+|[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
 ## 2023-08-15
 |paper|code|
 |---|---|
@@ -14,6 +19,7 @@
 |---|---|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 |[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
 |[information decomposition reveals hidden high-order contributions to temporal irreversibility](https://arxiv.org/abs/2308.05664)|[fastdmf](https://gitlab.com/concog/fastdmf)|
 ## 2023-08-10
 |paper|code|
