@@ -1,3 +1,7 @@
+## 2023-08-17
+|paper|code|
+|---|---|
+|[quaternary neural belief propagation decoding of quantum ldpc codes with overcomplete check matrices](https://arxiv.org/abs/2308.08208)|[quantum-neural-bp4-demo](https://github.com/kit-cel/quantum-neural-bp4-demo)|
 ## 2023-08-16
 |paper|code|
 |---|---|
