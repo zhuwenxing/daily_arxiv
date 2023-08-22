@@ -1,3 +1,8 @@
+## 2023-08-21
+|paper|code|
+|---|---|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
+|[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
 ## 2023-08-17
 |paper|code|
 |---|---|
