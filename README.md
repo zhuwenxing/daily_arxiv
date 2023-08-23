@@ -1,8 +1,16 @@
+## 2023-08-22
+|paper|code|
+|---|---|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
+|[entropy estimation via uniformization](https://arxiv.org/abs/2304.09700)|[nfee](https://github.com/ziq-ao/nfee)|
 ## 2023-08-21
 |paper|code|
 |---|---|
 |[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
 |[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[swinjscc: taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361)|[swinjscc](https://github.com/semcomm/swinjscc)|
 ## 2023-08-17
 |paper|code|
 |---|---|
