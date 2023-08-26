@@ -1,8 +1,15 @@
+## 2023-08-25
+|paper|code|
+|---|---|
+|[quantized radio map estimation using tensor and deep generative models](https://arxiv.org/abs/2303.01770)|[Quantized-Radio-Map-Estimation-BTD-and-DGM](https://github.com/XiaoFuLab/Quantized-Radio-Map-Estimation-BTD-and-DGM)|
+|[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
 ## 2023-08-24
 |paper|code|
 |---|---|
 |[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
 |[compressed sensing: a discrete optimization approach](https://arxiv.org/abs/2306.04647)|[discretecompressedsensing.jl](https://github.com/nicholasjohnson2020/discretecompressedsensing.jl)|
+|[iot data trust evaluation via machine learning](https://arxiv.org/abs/2308.11638)|[iot_datatrust_rwi](https://github.com/tim-tadj/iot_datatrust_rwi)|
+|[optimal linear precoder design for mimo-ofdm integrated sensing and communications based on bayesian cram\'er-rao bound](https://arxiv.org/abs/2308.12106)|[isac-mimo-ofdm-wf](https://github.com/xinyanglii/isac-mimo-ofdm-wf)|
 |[system identification using the signed cumulative distribution transform in structural health monitoring applications](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
 ## 2023-08-23
 |paper|code|
