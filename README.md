@@ -24,7 +24,6 @@
 |[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
 |[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[multidimensional graph neural networks for wireless communications](https://arxiv.org/abs/2212.11531)|[mdgnn](https://github.com/lsj-buaa/mdgnn)|
-|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
 |[entropy estimation via uniformization](https://arxiv.org/abs/2304.09700)|[nfee](https://github.com/ziq-ao/nfee)|
 |[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2023-08-21
