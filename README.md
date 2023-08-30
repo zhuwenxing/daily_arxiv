@@ -1,3 +1,8 @@
+## 2023-08-29
+|paper|code|
+|---|---|
+|[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[a comparison of neural networks for wireless channel prediction](https://arxiv.org/abs/2308.14020)|[channel_prediction_dnn](https://github.com/osst3224/channel_prediction_dnn)|
 ## 2023-08-28
 |paper|code|
 |---|---|
