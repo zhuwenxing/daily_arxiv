@@ -1,3 +1,7 @@
+## 2023-08-31
+|paper|code|
+|---|---|
+|[on low-rank trace regression under general sampling distribution](https://arxiv.org/abs/1904.08576)|[cv-impute](https://github.com/mohsenbayati/cv-impute)|
 ## 2023-08-30
 |paper|code|
 |---|---|
