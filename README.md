@@ -1,3 +1,7 @@
+## 2023-09-01
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
 ## 2023-08-31
 |paper|code|
 |---|---|
