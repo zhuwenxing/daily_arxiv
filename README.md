@@ -2,6 +2,8 @@
 |paper|code|
 |---|---|
 |[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[phonmatchnet: phoneme-guided zero-shot keyword spotting for user-defined keywords](https://arxiv.org/abs/2308.16511)|[phonmatchnet](https://github.com/ncsoft/phonmatchnet)|
+|[time-varying quasi-closed-phase analysis for accurate formant tracking in speech signals](https://arxiv.org/abs/2308.16540)|[ftrack](https://github.com/njaygowda/ftrack)|
 ## 2023-08-31
 |paper|code|
 |---|---|
