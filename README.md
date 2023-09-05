@@ -1,3 +1,9 @@
+## 2023-09-04
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[neural augmented kalman filtering with bollinger bands for pairs trading](https://arxiv.org/abs/2210.15448)|[kalmanbot_icassp23](https://github.com/kalmannet/kalmanbot_icassp23)|
+|[from prediction markets to interpretable collective intelligence](https://arxiv.org/abs/2204.13424)|[collective-intelligence-research](https://github.com/nicknick85/collective-intelligence-research)|
 ## 2023-09-01
 |paper|code|
 |---|---|
