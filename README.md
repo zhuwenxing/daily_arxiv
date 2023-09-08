@@ -1,3 +1,10 @@
+## 2023-09-07
+|paper|code|
+|---|---|
+|[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[spherical and hyperbolic toric topology-based codes on graph embedding for ising mrf models: classical and quantum topology machine learning](https://arxiv.org/abs/2307.15778)|[classical-and-quantum-topology-ml-toric-spherical](https://github.com/lcrypto/classical-and-quantum-topology-ml-toric-spherical)|
 ## 2023-09-06
 |paper|code|
 |---|---|
