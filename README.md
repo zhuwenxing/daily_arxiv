@@ -1,9 +1,15 @@
+## 2023-09-08
+|paper|code|
+|---|---|
+|[watch this space: securing satellite communication through resilient transmitter fingerprinting](https://arxiv.org/abs/2305.06947)|[SatIQ](https://github.com/ssloxford/SatIQ)|
+|[dynamic causal graph convolutional network for traffic prediction](https://arxiv.org/abs/2306.07019)|[DCGCN](https://github.com/MonBG/DCGCN)|
 ## 2023-09-07
 |paper|code|
 |---|---|
 |[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[uncertainty quantification in deep learning based kalman filters](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
 |[spherical and hyperbolic toric topology-based codes on graph embedding for ising mrf models: classical and quantum topology machine learning](https://arxiv.org/abs/2307.15778)|[classical-and-quantum-topology-ml-toric-spherical](https://github.com/lcrypto/classical-and-quantum-topology-ml-toric-spherical)|
 ## 2023-09-06
 |paper|code|
