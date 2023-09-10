@@ -15,6 +15,7 @@
 |paper|code|
 |---|---|
 |[generalized minimum error entropy for adaptive filtering](https://arxiv.org/abs/2109.03463)|[Generalized-minimum-error-entropy-for-robust-learning](https://github.com/Asmallorange123/Generalized-minimum-error-entropy-for-robust-learning)|
+|[towards efficient modeling and inference in multi-dimensional gaussian process state-space models](https://arxiv.org/abs/2309.01074)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 ## 2023-09-04
 |paper|code|
 |---|---|
