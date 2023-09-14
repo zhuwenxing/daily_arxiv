@@ -1,3 +1,7 @@
+## 2023-09-13
+|paper|code|
+|---|---|
+|[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
 ## 2023-09-12
 |paper|code|
 |---|---|
@@ -8,6 +12,7 @@
 |[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[AudioLDM](https://github.com/haoheliu/AudioLDM)|
 |[deep metric learning for the hemodynamics inference with electrocardiogram signals](https://arxiv.org/abs/2308.04650)|[ssldml](https://github.com/mandiehyewon/ssldml)|
 |[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[perceptual adjustment queries and an inverted measurement paradigm for low-rank metric learning](https://arxiv.org/abs/2309.04626)|[paq](https://github.com/austinxu87/paq)|
 ## 2023-09-11
 |paper|code|
 |---|---|
