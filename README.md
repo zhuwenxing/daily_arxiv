@@ -1,7 +1,17 @@
+## 2023-09-14
+|paper|code|
+|---|---|
+|[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[a worker-task specialization model for crowdsourcing: efficient inference and fundamental limits](https://arxiv.org/abs/2111.12550)|[dtype](https://github.com/iids88/dtype)|
+|[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 ## 2023-09-13
 |paper|code|
 |---|---|
 |[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[reinforcement learning for supply chain attacks against frequency and voltage control](https://arxiv.org/abs/2309.05814)|[rl-cps-attacks](https://github.com/amrmsab/rl-cps-attacks)|
+|[concurrent composition for interactive differential privacy with adaptive privacy-loss parameters](https://arxiv.org/abs/2309.05901)|[concurrent-composition](https://github.com/concurrent-composition/concurrent-composition)|
+|[chebyshev particles](https://arxiv.org/abs/2309.06373)|[chebyshevparticles](https://github.com/986876245/chebyshevparticles)|
 ## 2023-09-12
 |paper|code|
 |---|---|
@@ -12,6 +22,8 @@
 |[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[AudioLDM](https://github.com/haoheliu/AudioLDM)|
 |[deep metric learning for the hemodynamics inference with electrocardiogram signals](https://arxiv.org/abs/2308.04650)|[ssldml](https://github.com/mandiehyewon/ssldml)|
 |[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[perceptual adjustment queries and an inverted measurement paradigm for low-rank metric learning](https://arxiv.org/abs/2309.04626)|[paq](https://github.com/austinxu87/paq)|
 ## 2023-09-11
 |paper|code|
