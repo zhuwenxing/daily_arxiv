@@ -1,8 +1,18 @@
+## 2023-09-15
+|paper|code|
+|---|---|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
 ## 2023-09-14
 |paper|code|
 |---|---|
 |[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
 |[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
 |[a worker-task specialization model for crowdsourcing: efficient inference and fundamental limits](https://arxiv.org/abs/2111.12550)|[dtype](https://github.com/iids88/dtype)|
 |[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 ## 2023-09-13
