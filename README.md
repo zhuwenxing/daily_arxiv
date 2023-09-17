@@ -4,6 +4,8 @@
 |[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
 |[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
 |[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[pypvroof: a python package for extracting the characteristics of rooftop pv installations using remote sensing data](https://arxiv.org/abs/2309.07143)|[pypvroof](https://github.com/gabrielkasmi/pypvroof)|
+|[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
 |[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
@@ -26,6 +28,7 @@
 |paper|code|
 |---|---|
 |[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[hermes](https://github.com/etidav/hermes)|
+|[efficient and scalable parametric high-order portfolios design via the skew-t distribution](https://arxiv.org/abs/2206.02412)|[highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios)|
 |[efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
 |[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
 |[physics-informed neural networks for prognostics and health management of lithium-ion batteries](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
