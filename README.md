@@ -7,7 +7,6 @@
 |[pypvroof: a python package for extracting the characteristics of rooftop pv installations using remote sensing data](https://arxiv.org/abs/2309.07143)|[pypvroof](https://github.com/gabrielkasmi/pypvroof)|
 |[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
 |[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
-|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
 ## 2023-09-14
 |paper|code|
