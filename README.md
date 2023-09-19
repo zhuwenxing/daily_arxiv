@@ -1,3 +1,11 @@
+## 2023-09-18
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[closed loop bci system for cybathlon 2020](https://arxiv.org/abs/2212.04172)|[GoPar](https://github.com/kolcs/GoPar)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
 ## 2023-09-15
 |paper|code|
 |---|---|
@@ -11,6 +19,7 @@
 ## 2023-09-14
 |paper|code|
 |---|---|
+|[is channel estimation necessary to select phase-shifts for ris-assisted massive mimo?](https://arxiv.org/abs/2106.09770)|[ris-massive-mimo](https://github.com/emilbjornson/ris-massive-mimo)|
 |[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
 |[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
 |[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
