@@ -1,3 +1,8 @@
+## 2023-09-19
+|paper|code|
+|---|---|
+|[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
+|[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
 ## 2023-09-18
 |paper|code|
 |---|---|
