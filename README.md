@@ -1,6 +1,14 @@
+## 2023-09-20
+|paper|code|
+|---|---|
+|[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
+|[electrocardioguard: preventing patient misidentification in electrocardiogram databases through neural networks](https://arxiv.org/abs/2306.06196)|[electrocardioguard](https://github.com/captaintrojan/electrocardioguard)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
 ## 2023-09-19
 |paper|code|
 |---|---|
+|[frequency estimation using complex-valued shifted window transformer](https://arxiv.org/abs/2309.09352)|[spectral-super-resolution-swin](https://github.com/josiahwsmith10/spectral-super-resolution-swin)|
 |[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
 |[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
 ## 2023-09-18
@@ -9,6 +17,7 @@
 |[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
 |[closed loop bci system for cybathlon 2020](https://arxiv.org/abs/2212.04172)|[GoPar](https://github.com/kolcs/GoPar)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
 |[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
 ## 2023-09-15
