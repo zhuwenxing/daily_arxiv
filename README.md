@@ -1,9 +1,20 @@
+## 2023-09-22
+|paper|code|
+|---|---|
+|[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
+|[limitations in odour recognition and generalisation in a neuromorphic olfactory circuit](https://arxiv.org/abs/2309.11555)|[eplnetwork_imamcleland2020](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)|
+|[a class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/abs/2309.11717)|[CCQNet](https://github.com/yuweien1120/CCQNet)|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[multimodal transformers for wireless communications: a case study in beam prediction](https://arxiv.org/abs/2309.11811)|[deepsense6g_tii](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)|
+|[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
 ## 2023-09-21
 |paper|code|
 |---|---|
 |[online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series](https://arxiv.org/abs/2210.04033)|[online_learning_tm](https://github.com/labogigan/online_learning_tm)|
 |[on the formation of min-weight codewords of polar/pac codes and its applications](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
 |[towards disentangling information paths with coded resnext](https://arxiv.org/abs/2202.05343)|[coded-resnext](https://github.com/avranasa/coded-resnext)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2023-09-20
 |paper|code|
 |---|---|
@@ -26,6 +37,7 @@
 |[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
 |[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
+|[the multi-cluster fluctuating two-ray fading model](https://arxiv.org/abs/2212.02448)|[mftr-fading-channel-model](https://github.com/josedavidvega/mftr-fading-channel-model)|
 ## 2023-09-15
 |paper|code|
 |---|---|
