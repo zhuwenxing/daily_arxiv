@@ -1,3 +1,7 @@
+## 2023-09-27
+|paper|code|
+|---|---|
+|[joint communication and computation framework for goal-oriented semantic communication with distortion rate resilience](https://arxiv.org/abs/2309.14587)|[drgo-semcom](https://github.com/skyd-semantic/drgo-semcom)|
 ## 2023-09-26
 |paper|code|
 |---|---|
@@ -9,8 +13,12 @@
 |[functional graph contrastive learning of hyperscanning eeg reveals emotional contagion evoked by stereotype-based stressors](https://arxiv.org/abs/2308.13546)|[Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG](https://github.com/Maxwell-Wong/Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[dnn-danm: a high-accuracy two-dimensional doa estimation method using practical ris](https://arxiv.org/abs/2309.13856)|[dnn-danm](https://github.com/chenpengseu/dnn-danm)|
+|[single-antenna jammers in mimo-ofdm can resemble multi-antenna jammers](https://arxiv.org/abs/2309.14059)|[ofdm-jammer](https://github.com/iip-group/ofdm-jammer)|
 |[partition and code: learning how to compress graphs](https://arxiv.org/abs/2107.01952)|[PnC](https://github.com/gbouritsas/PnC)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2023-09-22
 |paper|code|
 |---|---|
