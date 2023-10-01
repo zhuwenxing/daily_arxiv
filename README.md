@@ -9,6 +9,8 @@
 |paper|code|
 |---|---|
 |[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[fully adaptive time-varying wave-shape model: applications in biomedical signal processing](https://arxiv.org/abs/2309.15211)|[tvwse](https://github.com/joaquinr-uner/tvwse)|
+|[scaling representation learning from ubiquitous ecg with state-space models](https://arxiv.org/abs/2309.15292)|[tiles](https://github.com/klean2050/tiles)|
 |[investigating the changes in bold responses during viewing of images with varied complexity: an fmri time-series based analysis on human vision](https://arxiv.org/abs/2309.15495)|[fmri-time-series-classification](https://github.com/naveen7102/fmri-time-series-classification)|
 ## 2023-09-27
 |paper|code|
