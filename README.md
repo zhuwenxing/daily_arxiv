@@ -1,3 +1,7 @@
+## 2023-10-02
+|paper|code|
+|---|---|
+|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
 ## 2023-09-29
 |paper|code|
 |---|---|
