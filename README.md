@@ -1,3 +1,10 @@
+## 2023-10-03
+|paper|code|
+|---|---|
+|[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
+|[minimising the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
 ## 2023-10-02
 |paper|code|
 |---|---|
@@ -6,7 +13,6 @@
 |paper|code|
 |---|---|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
-|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[optimal receive filter design for misaligned over-the-air computation](https://arxiv.org/abs/2309.16033)|[filteraircomp](https://github.com/henrikhellstrom93/filteraircomp)|
 |[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 |[geometry of sensitivity: twice sampling and hybrid clipping in differential privacy with optimal gaussian noise and application to deep learning](https://arxiv.org/abs/2309.02672)|[twice_sampling_and_hybrid_clipping](https://github.com/hanshen-xiao/twice_sampling_and_hybrid_clipping)|
