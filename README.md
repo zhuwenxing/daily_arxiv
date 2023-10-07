@@ -1,3 +1,10 @@
+## 2023-10-06
+|paper|code|
+|---|---|
+|[accoustate: auto-annotation of imu-generated activity signatures under smart infrastructure](https://arxiv.org/abs/2112.06651)|[acconotate](https://github.com/stilllearningsoumya/acconotate)|
+|[conditional generative models for simulation of emg during naturalistic movements](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
+|[procedural text mining with large language models](https://arxiv.org/abs/2310.03376)|[proc-tm](https://github.com/jd-coderepos/proc-tm)|
 ## 2023-10-05
 |paper|code|
 |---|---|
