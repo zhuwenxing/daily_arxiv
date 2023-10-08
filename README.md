@@ -28,6 +28,7 @@
 |[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
 |[minimising the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
 |[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
+|[age of information in slotted aloha with energy harvesting](https://arxiv.org/abs/2310.00348)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
 |[mining java memory errors using subjective interesting subgroups with hierarchical targets](https://arxiv.org/abs/2310.00781)|[sca-miner](https://github.com/remilyoucef/sca-miner)|
 ## 2023-10-02
 |paper|code|
