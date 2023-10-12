@@ -1,3 +1,23 @@
+## 2023-10-11
+|paper|code|
+|---|---|
+|[tiny-ppg: a lightweight deep neural network for real-time detection of motion artifacts in photoplethysmogram signals on edge devices](https://arxiv.org/abs/2305.03308)|[tiny-ppg](https://github.com/sztu-wearable/tiny-ppg)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+## 2023-10-10
+|paper|code|
+|---|---|
+|[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
+|[voicefixer: a unified framework for high-fidelity speech restoration](https://arxiv.org/abs/2204.05841)|[voicefixer](https://github.com/haoheliu/voicefixer)|
+|[distributed deep joint source-channel coding over a multiple access channel](https://arxiv.org/abs/2211.09920)|[deepjscc-noma](https://github.com/ipc-lab/deepjscc-noma)|
+|[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
+|[the first cadenza signal processing challenge: improving music for those with a hearing loss](https://arxiv.org/abs/2310.05799)|[task1](https://github.com/claritychallenge/clarity/tree/main/recipes/cad1/task1)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
+## 2023-10-09
+|paper|code|
+|---|---|
+|[link scheduling using graph neural networks](https://arxiv.org/abs/2109.05536)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[a comprehensive indoor environment dataset from single-family houses in the us](https://arxiv.org/abs/2310.03771)|[bdl_data_1](https://github.com/anik801/bdl_data_1)|
 ## 2023-10-06
 |paper|code|
 |---|---|
