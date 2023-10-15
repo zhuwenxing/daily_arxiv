@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
+|[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
 ## 2023-10-12
 |paper|code|
 |---|---|
