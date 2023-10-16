@@ -11,6 +11,7 @@
 |[reconfigurable intelligent surfaces-enabled intra-cell pilot reuse in massive mimo systems](https://arxiv.org/abs/2310.06975)|[ris-pilot-reuse](https://github.com/josecarlos-marinello/ris-pilot-reuse)|
 |[brain age revisited: investigating the state vs. trait hypotheses of eeg-derived brain-age dynamics with deep learning](https://arxiv.org/abs/2310.07029)|[eeg-brain-age](https://github.com/gemeinl/eeg-brain-age)|
 |[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-10-11
 |paper|code|
 |---|---|
