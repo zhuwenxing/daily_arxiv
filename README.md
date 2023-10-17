@@ -1,3 +1,9 @@
+## 2023-10-16
+|paper|code|
+|---|---|
+|[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
+|[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
 ## 2023-10-13
 |paper|code|
 |---|---|
@@ -11,6 +17,7 @@
 |[reconfigurable intelligent surfaces-enabled intra-cell pilot reuse in massive mimo systems](https://arxiv.org/abs/2310.06975)|[ris-pilot-reuse](https://github.com/josecarlos-marinello/ris-pilot-reuse)|
 |[brain age revisited: investigating the state vs. trait hypotheses of eeg-derived brain-age dynamics with deep learning](https://arxiv.org/abs/2310.07029)|[eeg-brain-age](https://github.com/gemeinl/eeg-brain-age)|
 |[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
+|[boosting learning for ldpc codes to improve the error-floor performance](https://arxiv.org/abs/2310.07194)|[ldpc_error_floor](https://github.com/ghy1228/ldpc_error_floor)|
 |[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-10-11
 |paper|code|
