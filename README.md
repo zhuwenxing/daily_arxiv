@@ -1,3 +1,10 @@
+## 2023-10-17
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[autodeconj: a gpu accelerated imagej plugin for 3d light field deconvolution with optimal iteration numbers predicting](https://arxiv.org/abs/2208.11422)|[autodeconj](https://github.com/onetism/autodeconj)|
+|[beyond normal: on the evaluation of mutual information estimators](https://arxiv.org/abs/2306.11078)|[bmi](https://github.com/cbg-ethz/bmi)|
+|[the mixtures and the neural critics: on the pointwise mutual information profiles of fine distributions](https://arxiv.org/abs/2310.10240)|[bmi](https://github.com/cbg-ethz/bmi)|
 ## 2023-10-16
 |paper|code|
 |---|---|
@@ -9,6 +16,7 @@
 |---|---|
 |[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
 |[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
+|[fast search method for large polarization kernels](https://arxiv.org/abs/2310.08369)|[kernelbruteforcer](https://github.com/gtrofimiuk/kernelbruteforcer)|
 ## 2023-10-12
 |paper|code|
 |---|---|
