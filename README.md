@@ -1,3 +1,8 @@
+## 2023-10-18
+|paper|code|
+|---|---|
+|[removing structured noise with diffusion models](https://arxiv.org/abs/2302.05290)|[joint-diffusion](https://github.com/tristan-deep/joint-diffusion)|
+|[correlative information maximization: a biologically plausible approach to supervised deep neural networks without weight symmetry](https://arxiv.org/abs/2306.04810)|[Supervised-CorInfoMax](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)|
 ## 2023-10-17
 |paper|code|
 |---|---|
