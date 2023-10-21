@@ -1,3 +1,7 @@
+## 2023-10-20
+|paper|code|
+|---|---|
+|[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
 ## 2023-10-19
 |paper|code|
 |---|---|
