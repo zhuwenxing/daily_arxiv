@@ -1,6 +1,7 @@
 ## 2023-10-20
 |paper|code|
 |---|---|
+|[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
 |[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
 ## 2023-10-19
 |paper|code|
