@@ -6,7 +6,6 @@
 ## 2023-10-19
 |paper|code|
 |---|---|
-|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
 |[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
 |[perceptual measurements, distances and metrics](https://arxiv.org/abs/2310.11759)|[perceptual_metric](https://github.com/jonathanvacher/perceptual_metric)|
 ## 2023-10-18
