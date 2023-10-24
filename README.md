@@ -1,3 +1,8 @@
+## 2023-10-23
+|paper|code|
+|---|---|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
 ## 2023-10-20
 |paper|code|
 |---|---|
