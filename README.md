@@ -1,3 +1,14 @@
+## 2023-10-24
+|paper|code|
+|---|---|
+|[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[learning informative representation for fairness-aware multivariate time-series forecasting: a group-based perspective](https://arxiv.org/abs/2301.11535)|[fairfor](https://github.com/huihevv/fairfor)|
+|[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
+|[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
+|[teleqna: a benchmark dataset to assess large language models telecommunications knowledge](https://arxiv.org/abs/2310.15051)|[teleqna](https://github.com/netop-team/teleqna)|
 ## 2023-10-23
 |paper|code|
 |---|---|
