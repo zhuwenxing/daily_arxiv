@@ -1,3 +1,7 @@
+## 2023-10-26
+|paper|code|
+|---|---|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
 ## 2023-10-25
 |paper|code|
 |---|---|
