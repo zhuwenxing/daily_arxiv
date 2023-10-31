@@ -1,3 +1,7 @@
+## 2023-10-30
+|paper|code|
+|---|---|
+|[novel models for multiple dependent heteroskedastic time series](https://arxiv.org/abs/2310.17760)|[stat40710](https://github.com/13204942/stat40710)|
 ## 2023-10-27
 |paper|code|
 |---|---|
