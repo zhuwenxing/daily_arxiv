@@ -1,3 +1,11 @@
+## 2023-11-01
+|paper|code|
+|---|---|
+|[a multimodal sensing ring for quantification of scratch intensity](https://arxiv.org/abs/2302.03813)|[wearable_scratch_intensity](https://github.com/rchi-lab/wearable_scratch_intensity)|
+|[message passing meets graph neural networks: a new paradigm for massive mimo systems](https://arxiv.org/abs/2302.06896)|[amp_gnn](https://github.com/hehengtao/amp_gnn)|
+|[on the impact of control signaling in ris-empowered wireless communications](https://arxiv.org/abs/2303.16797)|[ris-control](https://github.com/lostinafro/ris-control)|
+|[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
 ## 2023-10-31
 |paper|code|
 |---|---|
