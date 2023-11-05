@@ -5,6 +5,11 @@
 |[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
 |[representing edge flows on graphs via sparse cell complexes](https://arxiv.org/abs/2309.01632)|[edge-flow-cell-complexes](https://github.com/josefhoppe/edge-flow-cell-complexes)|
 |[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+## 2023-11-02
+|paper|code|
+|---|---|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[generating hsr bogie vibration signals via pulse voltage-guided conditional diffusion model](https://arxiv.org/abs/2311.00496)|[vgcdm](https://github.com/xuanliu2000/vgcdm)|
 ## 2023-11-01
 |paper|code|
 |---|---|
