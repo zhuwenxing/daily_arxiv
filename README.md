@@ -1,3 +1,7 @@
+## 2023-11-06
+|paper|code|
+|---|---|
+|[vehicular visible light positioning for collision avoidance and platooning: a survey](https://arxiv.org/abs/2010.09858)|[vehicular-vlp-simulations](https://github.com/sonebu/vehicular-vlp-simulations)|
 ## 2023-11-03
 |paper|code|
 |---|---|
