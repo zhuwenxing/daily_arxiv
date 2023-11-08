@@ -1,3 +1,9 @@
+## 2023-11-07
+|paper|code|
+|---|---|
+|[quantifying non-linear dependencies in blind source separation of power system signals using copula statistics](https://arxiv.org/abs/2309.07814)|[ccca](https://github.com/apooja1/ccca)|
+|[gacs-korner common information variational autoencoder](https://arxiv.org/abs/2205.12239)|[common-vae](https://github.com/mjkleinman/common-vae)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2023-11-06
 |paper|code|
 |---|---|
