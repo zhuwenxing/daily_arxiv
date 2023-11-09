@@ -1,7 +1,11 @@
+## 2023-11-08
+|paper|code|
+|---|---|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[the fairness stitch: unveiling the potential of model stitching in neural network de-biasing](https://arxiv.org/abs/2311.03532)|[the_fairness_stitch](https://github.com/modar7/the_fairness_stitch)|
 ## 2023-11-07
 |paper|code|
 |---|---|
-|[quantifying non-linear dependencies in blind source separation of power system signals using copula statistics](https://arxiv.org/abs/2309.07814)|[ccca](https://github.com/apooja1/ccca)|
 |[gacs-korner common information variational autoencoder](https://arxiv.org/abs/2205.12239)|[common-vae](https://github.com/mjkleinman/common-vae)|
 |[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2023-11-06
