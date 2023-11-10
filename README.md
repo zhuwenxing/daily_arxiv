@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[classification of various types of damages in honeycomb composite sandwich structures using guided wave structural health monitoring](https://arxiv.org/abs/2311.03765)|[damage-classification-using-feature-engineering](https://github.com/shrutisawant099/damage-classification-using-feature-engineering)|
 |[the fairness stitch: unveiling the potential of model stitching in neural network de-biasing](https://arxiv.org/abs/2311.03532)|[the_fairness_stitch](https://github.com/modar7/the_fairness_stitch)|
 ## 2023-11-07
 |paper|code|
