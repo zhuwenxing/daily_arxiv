@@ -1,3 +1,14 @@
+## 2023-11-10
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
+|[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
+## 2023-11-09
+|paper|code|
+|---|---|
+|[exploring best practices for ecg signal processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
+|[discerning and enhancing the weighted sum-rate maximization algorithms in communications](https://arxiv.org/abs/2311.04546)|[ratemax](https://github.com/zepengzhang/ratemax)|
 ## 2023-11-08
 |paper|code|
 |---|---|
