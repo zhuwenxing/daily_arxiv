@@ -4,6 +4,8 @@
 |[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
 |[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
 |[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
+|[eeg-dg: a multi-source domain generalization framework for motor imagery eeg classification](https://arxiv.org/abs/2311.05415)|[eeg-dg](https://github.com/xc-zhonghit/eeg-dg)|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
 ## 2023-11-09
 |paper|code|
 |---|---|
