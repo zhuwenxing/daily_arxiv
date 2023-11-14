@@ -1,3 +1,8 @@
+## 2023-11-13
+|paper|code|
+|---|---|
+|[abs+ polar codes: exploiting more linear transforms on adjacent bits](https://arxiv.org/abs/2209.02461)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[in-context learning for mimo equalization using transformer-based sequence models](https://arxiv.org/abs/2311.06101)|[icl-equalization](https://github.com/kclip/icl-equalization)|
 ## 2023-11-10
 |paper|code|
 |---|---|
