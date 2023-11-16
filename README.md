@@ -1,3 +1,7 @@
+## 2023-11-15
+|paper|code|
+|---|---|
+|[cslp-ae: a contrastive split-latent permutation autoencoder framework for zero-shot electroencephalography signal conversion](https://arxiv.org/abs/2311.07788)|[cslp-ae](https://github.com/andersxa/cslp-ae)|
 ## 2023-11-14
 |paper|code|
 |---|---|
@@ -9,6 +13,7 @@
 |[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
 |[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
 |[chatgpt in the context of precision agriculture data analytics](https://arxiv.org/abs/2311.06390)|[chatgpt-in-the-context-of-precision-agriculture-data-analytics](https://github.com/potamitis123/chatgpt-in-the-context-of-precision-agriculture-data-analytics)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
 ## 2023-11-13
 |paper|code|
 |---|---|
