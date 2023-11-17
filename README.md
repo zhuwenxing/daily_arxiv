@@ -1,3 +1,8 @@
+## 2023-11-16
+|paper|code|
+|---|---|
+|[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
 ## 2023-11-15
 |paper|code|
 |---|---|
