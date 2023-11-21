@@ -1,3 +1,8 @@
+## 2023-11-20
+|paper|code|
+|---|---|
+|[modeling and correcting bias in sequential evaluation](https://arxiv.org/abs/2205.01607)|[sequential-bias](https://github.com/jingyanw/sequential-bias)|
+|[temporally causal discovery tests for discrete time series and neural spike trains](https://arxiv.org/abs/2305.14131)|[github_temporal_causality](https://github.com/andreas947/github_temporal_causality)|
 ## 2023-11-17
 |paper|code|
 |---|---|
