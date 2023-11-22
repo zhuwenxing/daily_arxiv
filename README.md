@@ -1,3 +1,11 @@
+## 2023-11-21
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
+|[source-free domain adaptation for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2305.17403)|[sfda-ssvep-bci](https://github.com/osmanberke/sfda-ssvep-bci)|
+|[estimation of entropy-regularized optimal transport maps between non-compactly supported measures](https://arxiv.org/abs/2311.11934)|[entropic-map](https://github.com/mattwerenski/entropic-map)|
 ## 2023-11-20
 |paper|code|
 |---|---|
