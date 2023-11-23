@@ -1,3 +1,7 @@
+## 2023-11-22
+|paper|code|
+|---|---|
+|[ssvep-dan: a data alignment network for ssvep-based brain computer interfaces](https://arxiv.org/abs/2311.12666)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
 ## 2023-11-21
 |paper|code|
 |---|---|
