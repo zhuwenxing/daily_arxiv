@@ -1,6 +1,7 @@
 ## 2023-11-23
 |paper|code|
 |---|---|
+|[high-power and safe rf wireless charging: cautious deployment and operation](https://arxiv.org/abs/2311.12809)|[high_power_and_safe_wpt](https://github.com/onel2428/high_power_and_safe_wpt)|
 |[applying dimensionality reduction as precursor to lstm-cnn models for classifying imagery and motor signals in ecog-based bcis](https://arxiv.org/abs/2311.13507)|[dim-reduction-with-cnn-lstm](https://github.com/bafanas/dim-reduction-with-cnn-lstm)|
 ## 2023-11-22
 |paper|code|
