@@ -1,3 +1,10 @@
+## 2023-11-30
+|paper|code|
+|---|---|
+|[zero-shot self-supervised learning for mri reconstruction](https://arxiv.org/abs/2102.07737)|[ZS-SSL](https://github.com/byaman14/ZS-SSL)|
+|[fast and expressive gesture recognition using a combination-homomorphic electromyogram encoder](https://arxiv.org/abs/2311.14675)|[com-hom-emg](https://github.com/nik-sm/com-hom-emg)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
+|[quantifying the redundancy between prosody and text](https://arxiv.org/abs/2311.17233)|[quantifying-redundancy](https://github.com/lu-wo/quantifying-redundancy)|
 ## 2023-11-29
 |paper|code|
 |---|---|
