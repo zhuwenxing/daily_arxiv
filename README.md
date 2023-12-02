@@ -26,6 +26,7 @@
 |[non-stationary transformers: exploring the stationarity in time series forecasting](https://arxiv.org/abs/2205.14415)|[Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers)|
 |[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
 |[windformer:bi-directional long-distance spatio-temporal network for wind speed prediction](https://arxiv.org/abs/2311.14316)|[windformer](https://github.com/szwszwszw123/windformer)|
+|[kernel-based tests for likelihood-free hypothesis testing](https://arxiv.org/abs/2308.09043)|[lfi](https://github.com/sr-11/lfi)|
 ## 2023-11-23
 |paper|code|
 |---|---|
