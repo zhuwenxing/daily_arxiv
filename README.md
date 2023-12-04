@@ -1,3 +1,7 @@
+## 2023-12-01
+|paper|code|
+|---|---|
+|[2d signal estimation for sparse distributed target photon counting data](https://arxiv.org/abs/2311.18037)|[signal-estimation-sparse-data](https://github.com/ncar/signal-estimation-sparse-data)|
 ## 2023-11-30
 |paper|code|
 |---|---|
