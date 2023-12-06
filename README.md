@@ -1,13 +1,23 @@
+## 2023-12-05
+|paper|code|
+|---|---|
+|[w-transformers : a wavelet-based transformer framework for univariate time series forecasting](https://arxiv.org/abs/2209.03945)|[w-transformer](https://github.com/capwidow/w-transformer)|
+|[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
+|[model-free learning of two-stage beamformers for passive irs-aided network design](https://arxiv.org/abs/2304.11464)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
 ## 2023-12-04
 |paper|code|
 |---|---|
 |[deepjscc-l++: robust and bandwidth-adaptive wireless image transmission](https://arxiv.org/abs/2305.13161)|[deepjscc-lplusplus](https://github.com/aprilbian/deepjscc-lplusplus)|
 |[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
 |[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 ## 2023-12-01
 |paper|code|
 |---|---|
 |[2d signal estimation for sparse distributed target photon counting data](https://arxiv.org/abs/2311.18037)|[signal-estimation-sparse-data](https://github.com/ncar/signal-estimation-sparse-data)|
+|[balancing summarization and change detection in graph streams](https://arxiv.org/abs/2311.18694)|[bsc](https://github.com/s-fuku/bsc)|
 ## 2023-11-30
 |paper|code|
 |---|---|
