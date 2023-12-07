@@ -1,3 +1,8 @@
+## 2023-12-06
+|paper|code|
+|---|---|
+|[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
 ## 2023-12-05
 |paper|code|
 |---|---|
