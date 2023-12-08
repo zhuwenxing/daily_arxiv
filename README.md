@@ -1,8 +1,15 @@
+## 2023-12-07
+|paper|code|
+|---|---|
+|[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-12-06
 |paper|code|
 |---|---|
 |[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[spectral temporal graph neural network for massive mimo csi prediction](https://arxiv.org/abs/2312.02159)|[csi-prediction](https://github.com/sharanmourya/csi-prediction)|
 |[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 ## 2023-12-05
 |paper|code|
 |---|---|
@@ -10,6 +17,8 @@
 |[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
 |[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
 |[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
+|[towards decentralized task offloading and resource allocation in user-centric mobile edge computing](https://arxiv.org/abs/2312.01499)|[ucmec-mmwave-fronthaul](https://github.com/qlt315/ucmec-mmwave-fronthaul)|
+|[augmenting channel charting with classical wireless source localization techniques](https://arxiv.org/abs/2312.01968)|[toa-aoa-augmented-channelcharting](https://github.com/jeija/toa-aoa-augmented-channelcharting)|
 |[model-free learning of two-stage beamformers for passive irs-aided network design](https://arxiv.org/abs/2304.11464)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
 ## 2023-12-04
 |paper|code|
@@ -17,6 +26,7 @@
 |[deepjscc-l++: robust and bandwidth-adaptive wireless image transmission](https://arxiv.org/abs/2305.13161)|[deepjscc-lplusplus](https://github.com/aprilbian/deepjscc-lplusplus)|
 |[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
 |[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
+|[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 |[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 ## 2023-12-01
 |paper|code|
