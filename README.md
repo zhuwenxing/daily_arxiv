@@ -1,9 +1,12 @@
+## 2023-12-11
+|paper|code|
+|---|---|
+|[assessing neural network representations during training using noise-resilient diffusion spectral entropy](https://arxiv.org/abs/2312.04823)|[DiffusionSpectralEntropy](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)|
 ## 2023-12-08
 |paper|code|
 |---|---|
 |[neural network based generation of a 1-dimensional stochastic field with turbulent velocity statistics](https://arxiv.org/abs/2211.11580)|[nn-turb](https://github.com/cgranerob/nn-turb)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
-|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
 |[a scalable and generalizable pathloss map prediction](https://arxiv.org/abs/2312.03950)|[pmnet](https://github.com/abman23/pmnet)|
 ## 2023-12-07
 |paper|code|
