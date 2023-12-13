@@ -1,7 +1,19 @@
+## 2023-12-12
+|paper|code|
+|---|---|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
+|[simpsi: a simple strategy to preserve spectral information in time series data augmentation](https://arxiv.org/abs/2312.05790)|[simpsi](https://github.com/hyun-ryu/simpsi)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
+|[robust graph neural network based on graph denoising](https://arxiv.org/abs/2312.06557)|[robust_gnn](https://github.com/vmtenorio/robust_gnn)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-12-11
 |paper|code|
 |---|---|
+|[robust single-shot 3d fluorescence imaging in scattering media with a simulator-trained neural network](https://arxiv.org/abs/2303.12573)|[sbrnet](https://github.com/bu-cisl/sbrnet)|
 |[assessing neural network representations during training using noise-resilient diffusion spectral entropy](https://arxiv.org/abs/2312.04823)|[DiffusionSpectralEntropy](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)|
+|[on the regret of online coded caching](https://arxiv.org/abs/2312.05003)|[onlinecodedcaching](https://github.com/sheelfshah/onlinecodedcaching)|
 ## 2023-12-08
 |paper|code|
 |---|---|
