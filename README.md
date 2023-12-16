@@ -1,3 +1,9 @@
+## 2023-12-15
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 ## 2023-12-14
 |paper|code|
 |---|---|
