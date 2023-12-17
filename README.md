@@ -7,6 +7,9 @@
 ## 2023-12-14
 |paper|code|
 |---|---|
+|[fast variational block-sparse bayesian learning](https://arxiv.org/abs/2306.00442)|[fast-variational-block-sparse-bayesian-learning](https://gitlab.com/jmoederl/fast-variational-block-sparse-bayesian-learning)|
+|[annotating sleep states in children from wrist-worn accelerometer data using machine learning](https://arxiv.org/abs/2312.07561)|[ece381k-applied-ml-project](https://github.com/ss26/ece381k-applied-ml-project)|
+|[towards a geometric understanding of spatio temporal graph convolution networks](https://arxiv.org/abs/2312.07777)|[stg-gradcam](https://github.com/daspraty/stg-gradcam)|
 |[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
 |[learning to transmit with provable guarantees in wireless federated learning](https://arxiv.org/abs/2304.09329)|[wirelessfl-pdg](https://github.com/bl166/wirelessfl-pdg)|
 ## 2023-12-13
