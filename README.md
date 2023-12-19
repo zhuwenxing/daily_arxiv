@@ -1,3 +1,15 @@
+## 2023-12-18
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models (preprint)](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[approaching globally optimal energy efficiency in interference networks via machine learning](https://arxiv.org/abs/2212.12329)|[ee](https://github.com/bilepeng/ee)|
+|[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[multi-stage learning for radar pulse activity segmentation](https://arxiv.org/abs/2312.09489)|[radseg](https://github.com/abcxyzi/radseg)|
+|[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
+|[probabilistic learning of the purkinje network from the electrocardiogram](https://arxiv.org/abs/2312.09887)|[purkinje-learning](https://github.com/fsahli/purkinje-learning)|
+|[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
+|[srmac -- smoothed recursive moving average crossover for real-time systolic peak detection in photoplethysmography](https://arxiv.org/abs/2312.10013)|[SRMAC_peak_detector](https://github.com/GMicro-uPPG/SRMAC_peak_detector)|
+|[understanding probe behaviors through variational bounds of mutual information](https://arxiv.org/abs/2312.10019)|[information_probing](https://github.com/juice500ml/information_probing)|
 ## 2023-12-15
 |paper|code|
 |---|---|
