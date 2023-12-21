@@ -1,3 +1,8 @@
+## 2023-12-20
+|paper|code|
+|---|---|
+|[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[a study on transferability of deep learning models for network intrusion detection](https://arxiv.org/abs/2312.11550)|[transferability](https://github.com/ghosh64/transferability)|
 ## 2023-12-19
 |paper|code|
 |---|---|
@@ -6,6 +11,8 @@
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
+|[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
+|[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
 |[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
 |[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
 ## 2023-12-18
@@ -14,6 +21,7 @@
 |[rtsnet: learning to smooth in partially known state-space models (preprint)](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
 |[approaching globally optimal energy efficiency in interference networks via machine learning](https://arxiv.org/abs/2212.12329)|[ee](https://github.com/bilepeng/ee)|
 |[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
 |[multi-stage learning for radar pulse activity segmentation](https://arxiv.org/abs/2312.09489)|[radseg](https://github.com/abcxyzi/radseg)|
 |[a novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification](https://arxiv.org/abs/2312.09623)|[dstf-sleepstaging](https://github.com/serg99io/dstf-sleepstaging)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
@@ -27,6 +35,8 @@
 |[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
 |[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[score-based diffusion priors for multi-target detection](https://arxiv.org/abs/2312.08500)|[2d-mtd_diffusion](https://github.com/zabatani/2d-mtd_diffusion)|
+|[simulation-based evaluation of indoor positioning systems in connected aircraft cabins](https://arxiv.org/abs/2312.08765)|[ewgt_2023](https://github.com/paulschwarzbach/ewgt_2023)|
 ## 2023-12-14
 |paper|code|
 |---|---|
