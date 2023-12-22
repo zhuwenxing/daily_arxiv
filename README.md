@@ -1,3 +1,8 @@
+## 2023-12-21
+|paper|code|
+|---|---|
+|[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
+|[energy-efficient spiking neural network equalization for im/dd systems with optimized neural encoding](https://arxiv.org/abs/2312.12909)|[optispike](https://github.com/kit-cel/optispike)|
 ## 2023-12-20
 |paper|code|
 |---|---|
@@ -14,7 +19,6 @@
 |[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
 |[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
 |[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
-|[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
 ## 2023-12-18
 |paper|code|
 |---|---|
