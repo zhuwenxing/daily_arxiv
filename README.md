@@ -16,7 +16,9 @@
 |paper|code|
 |---|---|
 |[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[deep plug-and-play prior for multitask channel reconstruction in massive mimo systems](https://arxiv.org/abs/2308.04728)|[pnpmt](https://github.com/wc253/pnpmt)|
 |[a study on transferability of deep learning models for network intrusion detection](https://arxiv.org/abs/2312.11550)|[transferability](https://github.com/ghosh64/transferability)|
+|[control aspects for using ris in latency-constrained mobile edge computing](https://arxiv.org/abs/2312.12025)|[mec-with-ris-control](https://github.com/victorcroisfelt/mec-with-ris-control)|
 ## 2023-12-19
 |paper|code|
 |---|---|
@@ -24,10 +26,13 @@
 |[eat-radar: continuous fine-grained intake gesture detection using fmcw radar and 3d temporal convolutional network with attention](https://arxiv.org/abs/2211.04253)|[eat-radar](https://github.com/pituohai/eat-radar)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[channel estimation for quantized systems based on conditionally gaussian latent models](https://arxiv.org/abs/2309.04014)|[quantized_channel_estimation](https://github.com/benediktfesl/quantized_channel_estimation)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
 |[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
+|[a refining underlying information framework for speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
 |[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[wisegrt: dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing](https://arxiv.org/abs/2312.11245)|[wisegrt](https://github.com/sunlab-uga/wisegrt)|
 ## 2023-12-18
 |paper|code|
 |---|---|
