@@ -5,7 +5,9 @@
 |[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
 |[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
 |[revisiting deep generalized canonical correlation analysis](https://arxiv.org/abs/2312.13455)|[revisiting-dgcca](https://github.com/pariskarakasis/revisiting-dgcca)|
+|[angle of arrival and centimeter distance estimation on a smart uwb sensor node](https://arxiv.org/abs/2312.13672)|[uwb_dualantenna_aoa](https://github.com/eth-pbl/uwb_dualantenna_aoa)|
 |[leveraging visual supervision for array-based active speaker detection and localization](https://arxiv.org/abs/2312.14021)|[leveraging-visual-supervision-for-array-based-asdl](https://github.com/dberghi/leveraging-visual-supervision-for-array-based-asdl)|
+|[bayesian optimized physics-informed neural network for estimating wave propagation velocities](https://arxiv.org/abs/2312.14064)|[bopinn](https://github.com/mahindrautela/bopinn)|
 |[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
 ## 2023-12-21
 |paper|code|
