@@ -1,3 +1,7 @@
+## 2023-12-25
+|paper|code|
+|---|---|
+|[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
 ## 2023-12-22
 |paper|code|
 |---|---|
