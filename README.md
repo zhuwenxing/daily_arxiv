@@ -1,3 +1,11 @@
+## 2023-12-27
+|paper|code|
+|---|---|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[sparsity-aware distributed learning for gaussian processes with linear multiple kernel](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
+|[a refining underlying information framework for monaural speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
 ## 2023-12-25
 |paper|code|
 |---|---|
