@@ -6,10 +6,12 @@
 |[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
 |[a refining underlying information framework for monaural speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
+|[robust stochastically-descending unrolled networks](https://arxiv.org/abs/2312.15788)|[unrolledglow](https://github.com/smrhadou/unrolledglow)|
 ## 2023-12-25
 |paper|code|
 |---|---|
 |[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
+|[instantaneous frequency estimation in multicomponent signals in case of interference based on the prony method](https://arxiv.org/abs/2312.14500)|[prony_if_estimation](https://github.com/bdbonnaire/prony_if_estimation)|
 ## 2023-12-22
 |paper|code|
 |---|---|
