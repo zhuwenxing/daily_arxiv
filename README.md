@@ -2,7 +2,9 @@
 |paper|code|
 |---|---|
 |[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[robust kalman filters based on the sub-gaussian $\alpha$-stable distribution](https://arxiv.org/abs/2305.07890)|[robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution](https://github.com/pengchengh/robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution)|
 |[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[a generalization of the convolution theorem and its connections to non-stationarity and the graph frequency domain](https://arxiv.org/abs/2312.16922)|[genconv](https://github.com/albertonat/genconv)|
 |[efficient physics-based learned reconstruction methods for real-time 3d near-field mimo radar imaging](https://arxiv.org/abs/2312.16959)|[efficient-learned-3d-near-field-mimo-imaging](https://github.com/metu-space-lab/efficient-learned-3d-near-field-mimo-imaging)|
 ## 2023-12-27
 |paper|code|
