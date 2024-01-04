@@ -1,3 +1,8 @@
+## 2024-01-03
+|paper|code|
+|---|---|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[families of costs with zero and nonnegative mtw tensor in optimal transport](https://arxiv.org/abs/2401.00953)|[regularmtw](https://github.com/dnguyend/regularmtw)|
 ## 2024-01-02
 |paper|code|
 |---|---|
