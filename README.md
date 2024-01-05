@@ -1,3 +1,7 @@
+## 2024-01-04
+|paper|code|
+|---|---|
+|[concurrent brainstorming & hypothesis satisfying: an iterative framework for enhanced retrieval-augmented generation (r2cbr3h-sr)](https://arxiv.org/abs/2401.01835)|[r2cbr3h-sr](https://github.com/arash-shahmansoori/r2cbr3h-sr)|
 ## 2024-01-03
 |paper|code|
 |---|---|
