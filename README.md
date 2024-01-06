@@ -1,3 +1,7 @@
+## 2024-01-05
+|paper|code|
+|---|---|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
 ## 2024-01-04
 |paper|code|
 |---|---|
