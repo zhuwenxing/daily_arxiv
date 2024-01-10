@@ -1,12 +1,23 @@
+## 2024-01-09
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[calibration-free online test-time adaptation for electroencephalography motor imagery decoding](https://arxiv.org/abs/2311.18520)|[eeg-otta](https://github.com/martinwimpff/eeg-otta)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[improving transferability of network intrusion detection in a federated learning setup](https://arxiv.org/abs/2401.03560)|[transferability](https://github.com/ghosh64/transferability)|
 ## 2024-01-08
 |paper|code|
 |---|---|
+|[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
 ## 2024-01-05
 |paper|code|
 |---|---|
+|[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
 |[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
+|[multi-agent context learning strategy for interference-aware beam allocation in mmwave vehicular communications](https://arxiv.org/abs/2401.02323)|[beam-analysis](https://github.com/cfoh/beam-analysis)|
 ## 2024-01-04
 |paper|code|
 |---|---|
