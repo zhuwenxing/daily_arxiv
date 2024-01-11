@@ -1,3 +1,8 @@
+## 2024-01-10
+|paper|code|
+|---|---|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[online test-time adaptation of spatial-temporal traffic flow forecasting](https://arxiv.org/abs/2401.04148)|[adcsd](https://github.com/pengxin-guo/adcsd)|
 ## 2024-01-09
 |paper|code|
 |---|---|
@@ -6,6 +11,8 @@
 |[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
 |[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[improving transferability of network intrusion detection in a federated learning setup](https://arxiv.org/abs/2401.03560)|[transferability](https://github.com/ghosh64/transferability)|
+|[ddd: a perceptually superior low-response-time dnn-based declipper](https://arxiv.org/abs/2401.03650)|[ddd](https://github.com/stet-stet/ddd)|
+|[lofi user scheduling for multiuser mimo wireless systems](https://arxiv.org/abs/2401.04077)|[lofi-user-scheduling](https://github.com/iip-group/lofi-user-scheduling)|
 ## 2024-01-08
 |paper|code|
 |---|---|
