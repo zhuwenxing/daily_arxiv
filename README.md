@@ -1,3 +1,7 @@
+## 2024-01-11
+|paper|code|
+|---|---|
+|[in search of maximum non-overlapping codes](https://arxiv.org/abs/2307.12593)|[nono-codes](https://github.com/magdevska/nono-codes)|
 ## 2024-01-10
 |paper|code|
 |---|---|
