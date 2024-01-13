@@ -1,6 +1,12 @@
+## 2024-01-12
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[adf & transapp: a transformer-based framework for appliance detection using smart meter consumption series](https://arxiv.org/abs/2401.05381)|[transapp](https://github.com/adrienpetralia/transapp)|
 ## 2024-01-11
 |paper|code|
 |---|---|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 |[in search of maximum non-overlapping codes](https://arxiv.org/abs/2307.12593)|[nono-codes](https://github.com/magdevska/nono-codes)|
 ## 2024-01-10
 |paper|code|
