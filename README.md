@@ -2,7 +2,13 @@
 |paper|code|
 |---|---|
 |[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[online action recognition for human risk prediction with anticipated haptic alert via wearables](https://arxiv.org/abs/2401.05365)|[paper_guo_2023_humanoids_lifting_risk_prediction](https://github.com/ami-iit/paper_guo_2023_humanoids_lifting_risk_prediction)|
 |[adf & transapp: a transformer-based framework for appliance detection using smart meter consumption series](https://arxiv.org/abs/2401.05381)|[transapp](https://github.com/adrienpetralia/transapp)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
+|[rfrl gym: a reinforcement learning testbed for cognitive radio applications](https://arxiv.org/abs/2401.05406)|[rfrl-gym](https://github.com/vtnsisdd/rfrl-gym)|
+|[weiss-weinstein bound of frequency estimation error for very weak gnss signals](https://arxiv.org/abs/2401.05606)|[WWB](https://github.com/TMBOC/WWB)|
 ## 2024-01-11
 |paper|code|
 |---|---|
