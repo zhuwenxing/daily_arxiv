@@ -16,6 +16,8 @@
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
 |[rfrl gym: a reinforcement learning testbed for cognitive radio applications](https://arxiv.org/abs/2401.05406)|[rfrl-gym](https://github.com/vtnsisdd/rfrl-gym)|
+|[seamless and multi-resolution energy forecasting](https://arxiv.org/abs/2401.05413)|[multiresolutionforecasting](https://github.com/willwang1113/multiresolutionforecasting)|
+|[pulsatiomech: an open-source matlab toolbox for seismocardiography signal processing](https://arxiv.org/abs/2401.05480)|[scg_master_toolbox](https://github.com/nzavanelli/scg_master_toolbox)|
 |[weiss-weinstein bound of frequency estimation error for very weak gnss signals](https://arxiv.org/abs/2401.05606)|[WWB](https://github.com/TMBOC/WWB)|
 ## 2024-01-11
 |paper|code|
