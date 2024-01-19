@@ -1,3 +1,14 @@
+## 2024-01-18
+|paper|code|
+|---|---|
+|[a comparative study of deep learning and iterative algorithms for joint channel estimation and signal detection](https://arxiv.org/abs/2303.03678)|[mimo_jcesd](https://github.com/j991222/mimo_jcesd)|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
+|[neural network equalizers and successive interference cancellation for bandlimited channels with a nonlinearity](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[entanglement purification with quantum ldpc codes and iterative decoding](https://arxiv.org/abs/2210.14143)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
+|[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
+|[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
 ## 2024-01-17
 |paper|code|
 |---|---|
