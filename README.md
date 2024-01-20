@@ -1,3 +1,10 @@
+## 2024-01-19
+|paper|code|
+|---|---|
+|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[pac codes: sequential decoding vs list decoding](https://arxiv.org/abs/2002.06805)|[List-Decoding-for-Polar-and-PAC-Codes](https://github.com/mohammad-rowshan/List-Decoding-for-Polar-and-PAC-Codes)|
+|[recovering simultaneously structured data via non-convex iteratively reweighted least squares](https://arxiv.org/abs/2306.04961)|[simirls](https://github.com/ckuemmerle/simirls)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2024-01-18
 |paper|code|
 |---|---|
