@@ -1,7 +1,6 @@
 ## 2024-01-19
 |paper|code|
 |---|---|
-|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
 |[learning to extract distributed polarization sensing data from noisy jones matrices](https://arxiv.org/abs/2401.09917)|[physics-based-distributed-polarization-sensing](https://github.com/mohammadfarsi1994/physics-based-distributed-polarization-sensing)|
 |[pac codes: sequential decoding vs list decoding](https://arxiv.org/abs/2002.06805)|[List-Decoding-for-Polar-and-PAC-Codes](https://github.com/mohammad-rowshan/List-Decoding-for-Polar-and-PAC-Codes)|
 |[recovering simultaneously structured data via non-convex iteratively reweighted least squares](https://arxiv.org/abs/2306.04961)|[simirls](https://github.com/ckuemmerle/simirls)|
