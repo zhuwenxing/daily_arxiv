@@ -1,3 +1,10 @@
+## 2024-01-22
+|paper|code|
+|---|---|
+|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
+|[attentive fusion: a transformer-based approach to multimodal hate speech detection](https://arxiv.org/abs/2401.10653)|[Multimodality-Hate-Speech-Identification](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)|
+|[a novel maximum-entropy-driven technique for low-rank orthogonal nonnegative matrix factorization with $\ell_0$-norm sparsity constraint](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2024-01-19
 |paper|code|
 |---|---|
