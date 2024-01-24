@@ -1,9 +1,23 @@
+## 2024-01-23
+|paper|code|
+|---|---|
+|[the icanclean algorithm: how to remove artifacts using reference noise recordings](https://arxiv.org/abs/2201.11798)|[iCanClean](https://github.com/downeyryanj/iCanClean)|
+|[the manifold scattering transform for high-dimensional point cloud data](https://arxiv.org/abs/2206.10078)|[pointcloud_scattering](https://github.com/steachhr/pointcloud_scattering)|
+|[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
+|[congestion-aware distributed task offloading in wireless multi-hop networks using graph neural networks](https://arxiv.org/abs/2312.02471)|[multihop-offload](https://github.com/zhongyuanzhao/multihop-offload)|
+|[nlcg-net: a model-based zero-shot learning framework for undersampled quantitative mri reconstruction](https://arxiv.org/abs/2401.12004)|[NLCG-Net](https://github.com/Xinrui-Jiang/NLCG-Net)|
+|[in-context learning for mimo equalization using transformer-based sequence models](https://arxiv.org/abs/2311.06101)|[icl-equalization](https://github.com/kclip/icl-equalization)|
 ## 2024-01-22
 |paper|code|
 |---|---|
 |[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
 |[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
-|[attentive fusion: a transformer-based approach to multimodal hate speech detection](https://arxiv.org/abs/2401.10653)|[Multimodality-Hate-Speech-Identification](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)|
+|[chaotic properties of an fir filtered h\'enon map](https://arxiv.org/abs/2401.10281)|[chaotic-properties-of-an-fir-filtered-henon-map](https://github.com/vinicius-s-borges/chaotic-properties-of-an-fir-filtered-henon-map)|
+|[window stacking meta-models for clinical eeg classification](https://arxiv.org/abs/2401.10283)|[eegscopeandarbitration](https://github.com/zhuyixuan1997/eegscopeandarbitration)|
+|[morpheusnet: resource efficient sleep stage classifier for embedded on-line systems](https://arxiv.org/abs/2401.10284)|[morphuesnet](https://github.com/ali77sina/morphuesnet)|
+|[learning non-myopic power allocation in constrained scenarios](https://arxiv.org/abs/2401.10297)|[nmpa](https://github.com/archo48/nmpa)|
+|[attentive fusion: a transformer-based approach to multimodal hate speech detection](https://arxiv.org/abs/2401.10653)|[hate-speech-identification](https://github.com/atanumandal0491/hate-speech-identification)|
 |[a novel maximum-entropy-driven technique for low-rank orthogonal nonnegative matrix factorization with $\ell_0$-norm sparsity constraint](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2024-01-19
 |paper|code|
