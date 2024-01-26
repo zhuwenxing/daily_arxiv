@@ -1,7 +1,15 @@
+## 2024-01-25
+|paper|code|
+|---|---|
+|[data-driven estimation of capacity upper bounds](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[a generalized multiscale bundle-based hyperspectral sparse unmixing algorithm](https://arxiv.org/abs/2401.13161)|[gmbua](https://github.com/lucayress/gmbua)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
 ## 2024-01-24
 |paper|code|
 |---|---|
 |[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[towards adaptive subspace detection in heterogeneous environment](https://arxiv.org/abs/2401.12469)|[heterogeneous_detector](https://github.com/arekavandi/heterogeneous_detector)|
 |[a review of deep learning methods for photoplethysmography data](https://arxiv.org/abs/2401.12783)|[dl_ppg_review](https://github.com/ngk03/dl_ppg_review)|
 |[entanglement purification with quantum ldpc codes and iterative decoding](https://arxiv.org/abs/2210.14143)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
 |[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
@@ -14,8 +22,11 @@
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
 |[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
 |[congestion-aware distributed task offloading in wireless multi-hop networks using graph neural networks](https://arxiv.org/abs/2312.02471)|[multihop-offload](https://github.com/zhongyuanzhao/multihop-offload)|
+|[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
 |[nlcg-net: a model-based zero-shot learning framework for undersampled quantitative mri reconstruction](https://arxiv.org/abs/2401.12004)|[NLCG-Net](https://github.com/Xinrui-Jiang/NLCG-Net)|
+|[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
 |[in-context learning for mimo equalization using transformer-based sequence models](https://arxiv.org/abs/2311.06101)|[icl-equalization](https://github.com/kclip/icl-equalization)|
+|[deep learning-based adaptive joint source-channel coding using hypernetworks](https://arxiv.org/abs/2401.11155)|[hyper-ajscc](https://github.com/songjiexie/hyper-ajscc)|
 ## 2024-01-22
 |paper|code|
 |---|---|
