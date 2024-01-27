@@ -1,3 +1,8 @@
+## 2024-01-26
+|paper|code|
+|---|---|
+|[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
+|[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 ## 2024-01-25
 |paper|code|
 |---|---|
