@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 ## 2024-01-25
 |paper|code|
@@ -38,6 +39,7 @@
 |[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
 |[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
 |[chaotic properties of an fir filtered h\'enon map](https://arxiv.org/abs/2401.10281)|[chaotic-properties-of-an-fir-filtered-henon-map](https://github.com/vinicius-s-borges/chaotic-properties-of-an-fir-filtered-henon-map)|
+|[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
 |[window stacking meta-models for clinical eeg classification](https://arxiv.org/abs/2401.10283)|[eegscopeandarbitration](https://github.com/zhuyixuan1997/eegscopeandarbitration)|
 |[morpheusnet: resource efficient sleep stage classifier for embedded on-line systems](https://arxiv.org/abs/2401.10284)|[morphuesnet](https://github.com/ali77sina/morphuesnet)|
 |[learning non-myopic power allocation in constrained scenarios](https://arxiv.org/abs/2401.10297)|[nmpa](https://github.com/archo48/nmpa)|
