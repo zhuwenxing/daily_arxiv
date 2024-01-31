@@ -1,3 +1,13 @@
+## 2024-01-30
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
+## 2024-01-29
+|paper|code|
+|---|---|
+|[gaussian adaptive attention is all you need: robust contextual representations across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
 ## 2024-01-26
 |paper|code|
 |---|---|
