@@ -1,13 +1,19 @@
+## 2024-01-31
+|paper|code|
+|---|---|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
+|[a fully differentiable model for unsupervised singing voice separation](https://arxiv.org/abs/2401.16837)|[umss_icassp](https://github.com/pierrechouteau/umss_icassp)|
+|[channel characterization of uav-ris-aided systems with adaptive phase-shift configuration](https://arxiv.org/abs/2401.17180)|[uav-ris-blockage](https://github.com/thanhluannguyen/uav-ris-blockage)|
+|[unrestricted error-type codebook generation for error correction code in dna storage inspired by nlp](https://arxiv.org/abs/2401.15915)|[code_generation_for_dna_storage](https://github.com/ylu1997/code_generation_for_dna_storage)|
+|[large language model evaluation via matrix entropy](https://arxiv.org/abs/2401.17139)|[matrix-entropy](https://github.com/waltonfuture/matrix-entropy)|
 ## 2024-01-30
 |paper|code|
 |---|---|
 |[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
 |[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
 |[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
-## 2024-01-29
-|paper|code|
-|---|---|
-|[gaussian adaptive attention is all you need: robust contextual representations across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
+|[effective communication with dynamic feature compression](https://arxiv.org/abs/2401.16236)|[tmlcn_code](https://github.com/pietro-talli/tmlcn_code)|
 ## 2024-01-26
 |paper|code|
 |---|---|
