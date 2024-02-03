@@ -1,3 +1,9 @@
+## 2024-02-02
+|paper|code|
+|---|---|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
+|[online speaker diarization of meetings guided by speech separation](https://arxiv.org/abs/2402.00067)|[sspavaldo](https://github.com/egruttadauria98/sspavaldo)|
+|[determination of trace organic contaminant concentration via machine classification of surface-enhanced raman spectra](https://arxiv.org/abs/2402.00197)|[Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra](https://github.com/VishnuJay/Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra)|
 ## 2024-02-01
 |paper|code|
 |---|---|
