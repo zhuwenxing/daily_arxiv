@@ -1,3 +1,9 @@
+## 2024-02-05
+|paper|code|
+|---|---|
+|[graph representation learning for contention and interference management in wireless networks](https://arxiv.org/abs/2402.00879)|[ac-grl-wi-fi](https://github.com/zhouyou-gu/ac-grl-wi-fi)|
+|[an information-theoretic approach to analyze nlp classification tasks](https://arxiv.org/abs/2402.00978)|[nlp-element-influence](https://github.com/wangluran/nlp-element-influence)|
+|[flexible variational information bottleneck: achieving diverse compression with a single training](https://arxiv.org/abs/2402.01238)|[fvib](https://github.com/sotakudo/fvib)|
 ## 2024-02-02
 |paper|code|
 |---|---|
