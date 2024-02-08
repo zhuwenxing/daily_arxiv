@@ -1,3 +1,10 @@
+## 2024-02-07
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[attention with markov: a framework for principled analysis of transformers via markov chains](https://arxiv.org/abs/2402.04161)|[markov](https://github.com/bond1995/markov)|
 ## 2024-02-06
 |paper|code|
 |---|---|
