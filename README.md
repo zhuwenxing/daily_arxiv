@@ -1,3 +1,7 @@
+## 2024-02-08
+|paper|code|
+|---|---|
+|[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
 ## 2024-02-07
 |paper|code|
 |---|---|
