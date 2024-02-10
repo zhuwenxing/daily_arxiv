@@ -1,3 +1,8 @@
+## 2024-02-09
+|paper|code|
+|---|---|
+|[spiking neural networks in the alexiewicz topology: a new perspective on analysis and error bounds](https://arxiv.org/abs/2305.05772)|[alexsnn](https://github.com/lunglmayrmoser/alexsnn)|
+|[multi-timescale ensemble q-learning for markov decision process policy optimization](https://arxiv.org/abs/2402.05476)|[tsp_23_supplementary_file](https://github.com/talhabozkus/tsp_23_supplementary_file)|
 ## 2024-02-08
 |paper|code|
 |---|---|
