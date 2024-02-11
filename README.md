@@ -18,6 +18,7 @@
 |paper|code|
 |---|---|
 |[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[algorithms for computing the free distance of convolutional codes](https://arxiv.org/abs/2402.02982)|[algorithms-for-computing-the-free-distance-of-convolutional-codes](https://github.com/uscpr/algorithms-for-computing-the-free-distance-of-convolutional-codes)|
 |[minimum description length and generalization guarantees for representation learning](https://arxiv.org/abs/2402.03254)|[mdl_and_generalization_guarantees_for_representation_learning](https://github.com/piotrkrasnowski/mdl_and_generalization_guarantees_for_representation_learning)|
 ## 2024-02-05
 |paper|code|
