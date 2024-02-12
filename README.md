@@ -7,6 +7,7 @@
 |paper|code|
 |---|---|
 |[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
 ## 2024-02-07
 |paper|code|
 |---|---|
