@@ -1,3 +1,9 @@
+## 2024-02-12
+|paper|code|
+|---|---|
+|[a new inexact proximal linear algorithm with adaptive stopping criteria for robust phase retrieval](https://arxiv.org/abs/2304.12522)|[ipl-code-share](https://github.com/zhengzhongpku/ipl-code-share)|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
+|[checking the sufficiently scattered condition using a global non-convex optimization software](https://arxiv.org/abs/2402.06019)|[check-ssc](https://gitlab.com/ngillis/check-ssc)|
 ## 2024-02-09
 |paper|code|
 |---|---|
