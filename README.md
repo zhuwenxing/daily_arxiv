@@ -1,3 +1,12 @@
+## 2024-02-13
+|paper|code|
+|---|---|
+|[harpa: high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[design space exploration on efficient and accurate human pose estimation from sparse imu-sensing](https://arxiv.org/abs/2308.02397)|[dse-sparse-imu](https://github.com/itiv-kit/dse-sparse-imu)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
+|[treet: transfer entropy estimation via transformer](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
+|[tighter bounds on the information bottleneck with application to deep learning](https://arxiv.org/abs/2402.07639)|[vub](https://github.com/hopl1t/vub)|
 ## 2024-02-12
 |paper|code|
 |---|---|
