@@ -1,3 +1,7 @@
+## 2024-02-15
+|paper|code|
+|---|---|
+|[lightweight deep learning based channel estimation for extremely large-scale massive mimo systems](https://arxiv.org/abs/2402.08916)|[XLCNet](https://github.com/gaoshen90/XLCNet)|
 ## 2024-02-14
 |paper|code|
 |---|---|
