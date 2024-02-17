@@ -1,6 +1,14 @@
+## 2024-02-16
+|paper|code|
+|---|---|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[multidimensional gabor-like filters derived from gaussian functions on logarithmic frequency axes](https://arxiv.org/abs/2402.09419)|[gabor-like-filters](https://gitlab.com/eidheim/gabor-like-filters)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2024-02-15
 |paper|code|
 |---|---|
+|[prediction, communication, and computing duration optimization for vr video streaming](https://arxiv.org/abs/1910.13884)|[code4vr-prediction-communication-and-computing](https://github.com/xizhicher/code4vr-prediction-communication-and-computing)|
+|[introducing rsess: an open source enumerative sphere shaping implementation coded in rust](https://arxiv.org/abs/2402.08771)|[rsess](https://github.com/kit-cel/rsess)|
 |[lightweight deep learning based channel estimation for extremely large-scale massive mimo systems](https://arxiv.org/abs/2402.08916)|[XLCNet](https://github.com/gaoshen90/XLCNet)|
 ## 2024-02-14
 |paper|code|
