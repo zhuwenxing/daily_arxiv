@@ -3,6 +3,7 @@
 |---|---|
 |[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
 |[multidimensional gabor-like filters derived from gaussian functions on logarithmic frequency axes](https://arxiv.org/abs/2402.09419)|[gabor-like-filters](https://gitlab.com/eidheim/gabor-like-filters)|
+|[improving eeg signal classification accuracy using wasserstein generative adversarial networks](https://arxiv.org/abs/2402.09453)|[eeg-wgan](https://github.com/joshparksj/eeg-wgan)|
 |[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2024-02-15
 |paper|code|
