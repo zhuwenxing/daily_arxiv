@@ -1,3 +1,8 @@
+## 2024-02-21
+|paper|code|
+|---|---|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
+|[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 ## 2024-02-20
 |paper|code|
 |---|---|
@@ -8,6 +13,7 @@
 ## 2024-02-19
 |paper|code|
 |---|---|
+|[wimans: a benchmark dataset for wifi-based multi-user activity sensing](https://arxiv.org/abs/2402.09430)|[wimans](https://github.com/huangshk/wimans)|
 |[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
 |[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
 |[towards cohesion-fairness harmony: contrastive regularization in individual fair graph clustering](https://arxiv.org/abs/2402.10756)|[ifairnmtf](https://github.com/siamakghodsi/ifairnmtf)|
