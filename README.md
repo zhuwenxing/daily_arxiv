@@ -1,15 +1,28 @@
+## 2024-02-22
+|paper|code|
+|---|---|
+|[ris-admm: a ris and admm-based passive and sparse sensing method with interference removal](https://arxiv.org/abs/2206.06172)|[ris-admm](https://github.com/chenpengseu/ris-admm)|
+|[motor imagery decoding using ensemble curriculum learning and collaborative training](https://arxiv.org/abs/2211.11460)|[ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[diffplf: a conditional diffusion model for probabilistic forecasting of ev charging load](https://arxiv.org/abs/2402.13548)|[DiffPLF](https://github.com/LSY-Cython/DiffPLF)|
+|[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
+|[comparing comparators in generalization bounds](https://arxiv.org/abs/2310.10534)|[comparing-comparators](https://github.com/fredrikhellstrom/comparing-comparators)|
+|[treet: transfer entropy estimation via transformer](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
 ## 2024-02-21
 |paper|code|
 |---|---|
+|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
+|[beyond diagonal reconfigurable intelligent surfaces utilizing graph theory: modeling, architecture design, and optimization](https://arxiv.org/abs/2305.05013)|[bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|
+|[on the impact of mutual coupling on ris-assisted channel estimation](https://arxiv.org/abs/2309.04990)|[communication](https://github.com/zpinjun/communication)|
 |[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 ## 2024-02-20
 |paper|code|
 |---|---|
 |[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
+|[apsense: data-driven algorithm in ppg-based sleep apnea sensing](https://arxiv.org/abs/2306.10863)|[apsense](https://github.com/iobt-vistec/apsense)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
-|[dynamic multi-network mining of tensor time series](https://arxiv.org/abs/2402.11773)|[dmm](https://github.com/koheiobata/dmm)|
 ## 2024-02-19
 |paper|code|
 |---|---|
