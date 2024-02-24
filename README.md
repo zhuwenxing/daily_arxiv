@@ -1,3 +1,10 @@
+## 2024-02-23
+|paper|code|
+|---|---|
+|[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation](https://arxiv.org/abs/2402.14131)|[magnav](https://github.com/aminmoradixl/magnav)|
+|[gdtm: an indoor geospatial tracking dataset with distributed multimodal sensors](https://arxiv.org/abs/2402.14136)|[gdtm](https://github.com/nesl/gdtm)|
+|[dynamic multi-network mining of tensor time series](https://arxiv.org/abs/2402.11773)|[dmm](https://github.com/koheiobata/dmm)|
 ## 2024-02-22
 |paper|code|
 |---|---|
