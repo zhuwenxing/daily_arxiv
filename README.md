@@ -1,3 +1,12 @@
+## 2024-02-26
+|paper|code|
+|---|---|
+|[cell-free isac mimo systems: joint sensing and communication beamforming](https://arxiv.org/abs/2301.11328)|[Cell-free-ISAC-beamforming](https://github.com/umut-demirhan/Cell-free-ISAC-beamforming)|
+|[a hybrid quantum-classical approach based on the hadamard transform for the convolutional layer](https://arxiv.org/abs/2305.17510)|[icml2023-ht](https://github.com/phy710/icml2023-ht)|
+|[reconfigurable intelligent surfaces-enabled intra-cell pilot reuse in massive mimo systems](https://arxiv.org/abs/2310.06975)|[ris-pilot-reuse](https://github.com/josecarlos-marinello/ris-pilot-reuse)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
+|[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
 ## 2024-02-23
 |paper|code|
 |---|---|
@@ -20,7 +29,6 @@
 ## 2024-02-21
 |paper|code|
 |---|---|
-|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
 |[beyond diagonal reconfigurable intelligent surfaces utilizing graph theory: modeling, architecture design, and optimization](https://arxiv.org/abs/2305.05013)|[bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|
 |[on the impact of mutual coupling on ris-assisted channel estimation](https://arxiv.org/abs/2309.04990)|[communication](https://github.com/zpinjun/communication)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
