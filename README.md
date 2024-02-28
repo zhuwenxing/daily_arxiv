@@ -1,3 +1,9 @@
+## 2024-02-27
+|paper|code|
+|---|---|
+|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
+|[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
+|[bagged deep image prior for recovering images in the presence of speckle noise](https://arxiv.org/abs/2402.15635)|[Bagged-DIP-Speckle](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)|
 ## 2024-02-26
 |paper|code|
 |---|---|
