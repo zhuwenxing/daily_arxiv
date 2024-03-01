@@ -1,14 +1,21 @@
+## 2024-02-29
+|paper|code|
+|---|---|
+|[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 ## 2024-02-28
 |paper|code|
 |---|---|
 |[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
 |[hrtf upsampling with a generative adversarial network using a gnomonic equiangular projection](https://arxiv.org/abs/2306.05812)|[hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)|
 |[distributed deep joint source-channel coding with decoder-only side information](https://arxiv.org/abs/2310.04311)|[deepjscc-wz](https://github.com/ipc-lab/deepjscc-wz)|
+|[computation rate maximization for wireless powered edge computing with multi-user cooperation](https://arxiv.org/abs/2402.16866)|[wptmec](https://github.com/cpngroup/wptmec)|
 ## 2024-02-27
 |paper|code|
 |---|---|
 |[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
 |[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
+|[flexible robust beamforming for multibeam satellite downlink using reinforcement learning](https://arxiv.org/abs/2402.16563)|[2310_beamforming_learner_2](https://github.com/steffengra/2310_beamforming_learner_2)|
 |[bagged deep image prior for recovering images in the presence of speckle noise](https://arxiv.org/abs/2402.15635)|[Bagged-DIP-Speckle](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)|
 ## 2024-02-26
 |paper|code|
