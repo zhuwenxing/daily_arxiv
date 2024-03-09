@@ -1,9 +1,14 @@
+## 2024-03-08
+|paper|code|
+|---|---|
+|[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
 ## 2024-03-07
 |paper|code|
 |---|---|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
 |[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
 |[diffusion-based generative prior for low-complexity mimo channel estimation](https://arxiv.org/abs/2403.03545)|[diffusion_channel_est](https://github.com/benediktfesl/diffusion_channel_est)|
 ## 2024-03-05
 |paper|code|
@@ -11,6 +16,7 @@
 |[matnet: multi-level fusion transformer-based model for day-ahead pv generation forecasting](https://arxiv.org/abs/2306.10356)|[matnet](https://github.com/cosbidev/matnet)|
 |[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
 |[neuro-gpt: towards a foundation model for eeg](https://arxiv.org/abs/2311.03764)|[neurogpt](https://github.com/wenhui0206/neurogpt)|
+|[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
 |[lum-vit: learnable under-sampling mask vision transformer for bandwidth limited optical signal acquisition](https://arxiv.org/abs/2403.01412)|[lum-vit](https://github.com/maxllf/lum-vit)|
 |[powerskel: a device-free framework using csi signal for human skeleton estimation in power station](https://arxiv.org/abs/2403.01913)|[ckdformer](https://github.com/power-operation/ckdformer)|
 |[hybrid quantum neural network advantage for radar-based drone detection and classification in low signal-to-noise ratio](https://arxiv.org/abs/2403.02080)|[hybrid-quantum-classical-Neural-Network-for-radar-data](https://github.com/AishSweety/hybrid-quantum-classical-Neural-Network-for-radar-data)|
@@ -20,6 +26,7 @@
 |paper|code|
 |---|---|
 |[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[active sensing for reciprocal mimo channels](https://arxiv.org/abs/2403.00134)|[active-sensing-for-reciprocal-mimo-channels](https://github.com/taojiang-github/active-sensing-for-reciprocal-mimo-channels)|
 |[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
 |[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2024-03-01
