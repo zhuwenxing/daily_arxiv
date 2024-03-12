@@ -1,3 +1,12 @@
+## 2024-03-11
+|paper|code|
+|---|---|
+|[blind source separation of single-channel mixtures via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[differentiable learning of generalized structured matrices for efficient deep neural networks](https://arxiv.org/abs/2310.18882)|[Gaudi-GBLR](https://github.com/changwoolee/Gaudi-GBLR)|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
+|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-03-08
 |paper|code|
 |---|---|
