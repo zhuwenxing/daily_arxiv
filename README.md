@@ -1,3 +1,11 @@
+## 2024-03-12
+|paper|code|
+|---|---|
+|[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+|[learning unknown intervention targets in structural causal models from heterogeneous data](https://arxiv.org/abs/2312.06091)|[lit](https://github.com/yuqin-yang/lit)|
+|[detection of unobserved common causes based on nml code in discrete, mixed, and continuous variables](https://arxiv.org/abs/2403.06499)|[cloud](https://github.com/matsushima-lab/cloud)|
 ## 2024-03-11
 |paper|code|
 |---|---|
@@ -5,8 +13,8 @@
 |[differentiable learning of generalized structured matrices for efficient deep neural networks](https://arxiv.org/abs/2310.18882)|[Gaudi-GBLR](https://github.com/changwoolee/Gaudi-GBLR)|
 |[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
 |[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[gan-based massive mimo channel model trained on measured data](https://arxiv.org/abs/2403.05321)|[gan-wireless-channel-model](https://github.com/jeija/gan-wireless-channel-model)|
 |[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
-|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-03-08
 |paper|code|
 |---|---|
