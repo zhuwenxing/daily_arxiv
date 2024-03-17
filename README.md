@@ -23,6 +23,7 @@
 |paper|code|
 |---|---|
 |[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
 |[blockchain-enabled variational information bottleneck for iot networks](https://arxiv.org/abs/2403.06129)|[blockchain-enabled-variational-information-bottleneck-for-iot-networks](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-iot-networks)|
