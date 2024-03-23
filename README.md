@@ -1,26 +1,34 @@
+## 2024-03-22
+|paper|code|
+|---|---|
+|[interpretable causal inference for analyzing wearable, sensor, and distributional data](https://arxiv.org/abs/2312.10569)|[addmalts](https://github.com/almost-matching-exactly/addmalts)|
+|[towards better statistical understanding of watermarking llms](https://arxiv.org/abs/2403.13027)|[dualga](https://github.com/zhongzecai/dualga)|
 ## 2024-03-21
 |paper|code|
 |---|---|
-|[sdoa-net: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
+|[sdoa-net: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoa-net](https://github.com/chenpengseu/sdoa-net)|
+|[design of efficient point-mass filter with application in terrain aided navigation](https://arxiv.org/abs/2303.05100)|[efficient-pmf](https://github.com/idm-uwb/efficient-pmf)|
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
 |[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
-|[towards better statistical understanding of watermarking llms](https://arxiv.org/abs/2403.13027)|[dualga](https://github.com/zhongzecai/dualga)|
 ## 2024-03-20
 |paper|code|
 |---|---|
 |[deep joint source-channel coding over cooperative relay networks](https://arxiv.org/abs/2211.06705)|[relay_jscc](https://github.com/aprilbian/relay_jscc)|
+|[brain tumor detection based on a novel and high-quality prediction of the tumor pixel distributions](https://arxiv.org/abs/2308.07495)|[Brain-tumor-detection-based-on-a-novel-and-high-quality-prediction-of-the-tumor-pixel-distributions](https://github.com/YanmingSun/Brain-tumor-detection-based-on-a-novel-and-high-quality-prediction-of-the-tumor-pixel-distributions)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
 |[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
 |[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
 |[finding the missing data: a bert-inspired approach against package loss in wireless sensing](https://arxiv.org/abs/2403.12400)|[csi-bert](https://github.com/rs2002/csi-bert)|
 |[information decomposition in complex systems via machine learning](https://arxiv.org/abs/2307.04755)|[distributed-information-bottleneck.github.io](https://github.com/distributed-information-bottleneck/distributed-information-bottleneck.github.io)|
+|[a fast and provable algorithm for sparse phase retrieval](https://arxiv.org/abs/2309.02046)|[sparsepr](https://github.com/jxying/sparsepr)|
 |[language modeling is compression](https://arxiv.org/abs/2309.10668)|[language_modeling_is_compression](https://github.com/google-deepmind/language_modeling_is_compression)|
 ## 2024-03-19
 |paper|code|
 |---|---|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[data-driven forced oscillation localization using inferred impulse responses](https://arxiv.org/abs/2310.01656)|[fo_local](https://github.com/shaohuiliu/fo_local)|
 |[deep regularized compound gaussian network for solving linear inverse problems](https://arxiv.org/abs/2311.17248)|[dr-cg-net](https://github.com/clyons19/dr-cg-net)|
 |[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 |[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
@@ -31,6 +39,7 @@
 ## 2024-03-18
 |paper|code|
 |---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
 |[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-03-15
