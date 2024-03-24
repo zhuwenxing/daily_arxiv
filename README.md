@@ -9,6 +9,7 @@
 |[sdoa-net: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoa-net](https://github.com/chenpengseu/sdoa-net)|
 |[design of efficient point-mass filter with application in terrain aided navigation](https://arxiv.org/abs/2303.05100)|[efficient-pmf](https://github.com/idm-uwb/efficient-pmf)|
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[energy-efficient analog beamforming for rf-wet with charging time constraint](https://arxiv.org/abs/2311.05325)|[ee-analog-beamforming-wet](https://github.com/osmel-dev/ee-analog-beamforming-wet)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
 |[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
