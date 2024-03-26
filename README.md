@@ -1,3 +1,8 @@
+## 2024-03-25
+|paper|code|
+|---|---|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
+|[crowdsourced multilingual speech intelligibility testing](https://arxiv.org/abs/2403.14817)|[multilingual-speech-testing](https://github.com/cisco/multilingual-speech-testing)|
 ## 2024-03-22
 |paper|code|
 |---|---|
