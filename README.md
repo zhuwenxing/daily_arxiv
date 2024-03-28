@@ -1,8 +1,14 @@
+## 2024-03-27
+|paper|code|
+|---|---|
+|[hill: hierarchy-aware information lossless contrastive learning for hierarchical text classification](https://arxiv.org/abs/2403.17307)|[hill](https://github.com/rooooyy/hill)|
 ## 2024-03-26
 |paper|code|
 |---|---|
 |[user training with error augmentation for electromyogram-based gesture classification](https://arxiv.org/abs/2309.07289)|[emg-feedback-user-training](https://github.com/neu-spiral/emg-feedback-user-training)|
 |[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
+|[coupled generator decomposition for fusion of electro- and magnetoencephalography data](https://arxiv.org/abs/2403.15409)|[coupled-generator-decomposition](https://github.com/anders-s-olsen/coupled-generator-decomposition)|
+|[fast real-time arbitrary waveform generation using graphic processing units](https://arxiv.org/abs/2403.15582)|[awg-on-gpu](https://github.com/jqiamo/awg-on-gpu)|
 |[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
 ## 2024-03-25
 |paper|code|
