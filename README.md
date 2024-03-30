@@ -1,11 +1,22 @@
+## 2024-03-29
+|paper|code|
+|---|---|
+|[efficient deep learning-based estimation of the vital signs on smartphones](https://arxiv.org/abs/2204.08989)|[medvse](https://github.com/mahdifarvardin/medvse)|
+|[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
+|[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
+|[gan-supervised seismic data reconstruction: an enhanced-learning for improved generalization](https://arxiv.org/abs/2311.10910)|[gan_guided_seismic](https://github.com/paulgoyes/gan_guided_seismic)|
+|[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
 ## 2024-03-28
 |paper|code|
 |---|---|
 |[high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
 |[clustering change sign detection by fusing mixture complexity](https://arxiv.org/abs/2403.18269)|[mc-fusion](https://github.com/uraken38/mc-fusion)|
 ## 2024-03-27
 |paper|code|
 |---|---|
+|[on the intersection of signal processing and machine learning: a use case-driven analysis approach](https://arxiv.org/abs/2403.17181)|[signal-processing-for-machine-learning](https://github.com/western-oc2-lab/signal-processing-for-machine-learning)|
 |[hill: hierarchy-aware information lossless contrastive learning for hierarchical text classification](https://arxiv.org/abs/2403.17307)|[hill](https://github.com/rooooyy/hill)|
 ## 2024-03-26
 |paper|code|
