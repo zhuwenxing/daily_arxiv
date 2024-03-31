@@ -7,6 +7,8 @@
 |[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
 |[gan-supervised seismic data reconstruction: an enhanced-learning for improved generalization](https://arxiv.org/abs/2311.10910)|[gan_guided_seismic](https://github.com/paulgoyes/gan_guided_seismic)|
 |[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[deep csi compression for dual-polarized massive mimo channels with disentangled representation learning](https://arxiv.org/abs/2403.19185)|[direnet](https://github.com/seushf/direnet)|
+|[toward low-latency iterative decoding of qldpc codes under circuit-level noise](https://arxiv.org/abs/2403.18901)|[slidingwindowdecoder](https://github.com/gongaa/slidingwindowdecoder)|
 ## 2024-03-28
 |paper|code|
 |---|---|
