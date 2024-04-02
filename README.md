@@ -1,3 +1,14 @@
+## 2024-04-01
+|paper|code|
+|---|---|
+|[square root lasso: well-posedness, lipschitz stability and the tuning trade off](https://arxiv.org/abs/2303.15588)|[srlasso_revolutions](https://github.com/asberk/srlasso_revolutions)|
+|[exact recovery of the support of piecewise constant images via total variation regularization](https://arxiv.org/abs/2307.03709)|[2023-support-recovery-tv](https://github.com/rpetit/2023-support-recovery-tv)|
+|[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
+|[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
+|[3d-speaker-toolkit: an open source toolkit for multi-modal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[dual simplex volume maximization for simplex-structured matrix factorization](https://arxiv.org/abs/2403.20197)|[maxvol_dual](https://github.com/mabdolali/maxvol_dual)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
 ## 2024-03-29
 |paper|code|
 |---|---|
