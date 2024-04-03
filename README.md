@@ -1,3 +1,10 @@
+## 2024-04-02
+|paper|code|
+|---|---|
+|[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
+|[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
+|[computational solar energy -- ensemble learning methods for prediction of solar power generation based on meteorological parameters in eastern india](https://arxiv.org/abs/2301.10159)|[solar_energy_prediction_srra](https://github.com/debojyoti7/solar_energy_prediction_srra)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
 ## 2024-04-01
 |paper|code|
 |---|---|
