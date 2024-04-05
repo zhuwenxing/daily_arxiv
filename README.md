@@ -1,3 +1,8 @@
+## 2024-04-04
+|paper|code|
+|---|---|
+|[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
 ## 2024-04-03
 |paper|code|
 |---|---|
