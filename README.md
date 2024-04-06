@@ -1,3 +1,12 @@
+## 2024-04-05
+|paper|code|
+|---|---|
+|[decoding natural images from eeg for object recognition](https://arxiv.org/abs/2308.13234)|[nice-eeg](https://github.com/eeyhsong/nice-eeg)|
+|[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
+|[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
 ## 2024-04-04
 |paper|code|
 |---|---|
@@ -15,6 +24,7 @@
 |[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
 |[computational solar energy -- ensemble learning methods for prediction of solar power generation based on meteorological parameters in eastern india](https://arxiv.org/abs/2301.10159)|[solar_energy_prediction_srra](https://github.com/debojyoti7/solar_energy_prediction_srra)|
 |[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[complex neural network based joint aoa and aod estimation for bistatic isac](https://arxiv.org/abs/2404.00582)|[bistatic_isac](https://github.com/salmane-s9/bistatic_isac)|
 ## 2024-04-01
 |paper|code|
 |---|---|
@@ -23,6 +33,7 @@
 |[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
 |[3d-speaker-toolkit: an open source toolkit for multi-modal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
 |[dual simplex volume maximization for simplex-structured matrix factorization](https://arxiv.org/abs/2403.20197)|[maxvol_dual](https://github.com/mabdolali/maxvol_dual)|
+|[evolving semantic communication with generative model](https://arxiv.org/abs/2403.20237)|[gan_secom](https://github.com/recusant7/gan_secom)|
 |[localising the seizure onset zone from single-pulse electrical stimulation responses with a transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
 |[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
 ## 2024-03-29
