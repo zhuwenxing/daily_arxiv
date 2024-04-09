@@ -1,3 +1,8 @@
+## 2024-04-08
+|paper|code|
+|---|---|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
 ## 2024-04-05
 |paper|code|
 |---|---|
@@ -5,6 +10,7 @@
 |[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
 |[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
 |[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
+|[early warning systems for financial markets of emerging economies](https://arxiv.org/abs/2404.03319)|[ews_condent](https://github.com/kraevskiyaa/ews_condent)|
 |[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
 ## 2024-04-04
 |paper|code|
