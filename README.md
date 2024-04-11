@@ -1,3 +1,9 @@
+## 2024-04-10
+|paper|code|
+|---|---|
+|[synaptogen: a cross-domain generative device model for large-scale neuromorphic circuit design](https://arxiv.org/abs/2404.06344)|[synaptogen](https://github.com/thennen/synaptogen)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+|[just wing it: optimal estimation of missing mass in a markovian sequence](https://arxiv.org/abs/2404.05819)|[missing-mass](https://github.com/andrewthan/missing-mass)|
 ## 2024-04-09
 |paper|code|
 |---|---|
