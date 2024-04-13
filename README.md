@@ -1,6 +1,13 @@
+## 2024-04-12
+|paper|code|
+|---|---|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
 ## 2024-04-11
 |paper|code|
 |---|---|
+|[what is learnt by the learnable front-end (leaf)? adapting per-channel energy normalisation (pcen) to noisy conditions](https://arxiv.org/abs/2404.06702)|[adapting-leaf](https://github.com/hanyu-meng/adapting-leaf)|
 |[quantum message-passing algorithm for optimal and efficient decoding](https://arxiv.org/abs/2109.08170)|[quantum-message-passing-paper](https://github.com/chripiv/quantum-message-passing-paper)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 ## 2024-04-10
@@ -14,6 +21,7 @@
 |---|---|
 |[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[subspace phase retrieval](https://arxiv.org/abs/2206.02480)|[spr](https://github.com/mengchuxu97/spr)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 ## 2024-04-08
 |paper|code|
