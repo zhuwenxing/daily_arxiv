@@ -1,9 +1,10 @@
 ## 2024-04-12
 |paper|code|
 |---|---|
-|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
 |[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[trainable joint channel estimation, detection and decoding for mimo urllc systems](https://arxiv.org/abs/2404.07721)|[jcddnet](https://github.com/sunyi0101/jcddnet)|
 |[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
+|[on naisargik images of varshamov-tenengolts and helberg codes](https://arxiv.org/abs/2404.07670)|[grayvt](https://github.com/guptalab/grayvt)|
 ## 2024-04-11
 |paper|code|
 |---|---|
