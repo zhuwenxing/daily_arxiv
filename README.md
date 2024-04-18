@@ -1,9 +1,12 @@
+## 2024-04-17
+|paper|code|
+|---|---|
+|[wemac: women and emotion multi-modal affective computing dataset](https://arxiv.org/abs/2203.00456)|[wemac_dataset_speech_processing](https://github.com/bindi-uc3m/wemac_dataset_speech_processing)|
 ## 2024-04-16
 |paper|code|
 |---|---|
 |[impact analysis of antenna array geometry on performance of semi-blind structured channel estimation for massive mimo-ofdm systems](https://arxiv.org/abs/2305.09263)|[CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation](https://github.com/DoHaiSon/CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation)|
 |[on the semi-blind mutually referenced equalizers for mimo systems](https://arxiv.org/abs/2311.00325)|[Semi-blind_Mutually_Referenced_Equalizers](https://github.com/DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers)|
-|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
 |[rf-diffusion: radio signal generation via time-frequency diffusion](https://arxiv.org/abs/2404.09140)|[rf-diffusion](https://github.com/mobicom24/rf-diffusion)|
 |[foundational gpt model for meg](https://arxiv.org/abs/2404.09256)|[meg-transfer-decoding](https://github.com/ricsinaruto/meg-transfer-decoding)|
 |[amplitude-phase fusion for enhanced electrocardiogram morphological analysis](https://arxiv.org/abs/2404.09729)|[ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)|
@@ -13,6 +16,7 @@
 |[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
 |[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
 |[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
+|[snake-fmri: a modular fmri data simulator from the space-time domain to k-space and back](https://arxiv.org/abs/2404.08282)|[snake-fmri](https://github.com/paquiteau/snake-fmri)|
 ## 2024-04-12
 |paper|code|
 |---|---|
