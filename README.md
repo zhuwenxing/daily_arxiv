@@ -1,3 +1,12 @@
+## 2024-04-18
+|paper|code|
+|---|---|
+|[the luvira dataset: measurement description](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[personalized heart disease detection via ecg digital twin generation](https://arxiv.org/abs/2404.11171)|[lavq-editor](https://github.com/huyjj/lavq-editor)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 ## 2024-04-17
 |paper|code|
 |---|---|
@@ -5,11 +14,15 @@
 ## 2024-04-16
 |paper|code|
 |---|---|
+|[on interference-rejection using riemannian geometry for direction of arrival estimation](https://arxiv.org/abs/2301.03399)|[interference-rejection-using-riemannian-geometry-for-doa-estimation](https://github.com/amitaybar/interference-rejection-using-riemannian-geometry-for-doa-estimation)|
 |[impact analysis of antenna array geometry on performance of semi-blind structured channel estimation for massive mimo-ofdm systems](https://arxiv.org/abs/2305.09263)|[CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation](https://github.com/DoHaiSon/CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation)|
 |[on the semi-blind mutually referenced equalizers for mimo systems](https://arxiv.org/abs/2311.00325)|[Semi-blind_Mutually_Referenced_Equalizers](https://github.com/DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers)|
 |[rf-diffusion: radio signal generation via time-frequency diffusion](https://arxiv.org/abs/2404.09140)|[rf-diffusion](https://github.com/mobicom24/rf-diffusion)|
 |[foundational gpt model for meg](https://arxiv.org/abs/2404.09256)|[meg-transfer-decoding](https://github.com/ricsinaruto/meg-transfer-decoding)|
+|[leveraging the doppler effect for channel charting](https://arxiv.org/abs/2404.09620)|[doppler-effect-channelcharting](https://github.com/jeija/doppler-effect-channelcharting)|
+|[openairlink: reproducible wireless channel emulation using software defined radios](https://arxiv.org/abs/2404.09660)|[openairlink](https://github.com/n3martix/openairlink)|
 |[amplitude-phase fusion for enhanced electrocardiogram morphological analysis](https://arxiv.org/abs/2404.09729)|[ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)|
+|[compression represents intelligence linearly](https://arxiv.org/abs/2404.09937)|[llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence)|
 ## 2024-04-15
 |paper|code|
 |---|---|
