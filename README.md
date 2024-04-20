@@ -1,3 +1,7 @@
+## 2024-04-19
+|paper|code|
+|---|---|
+|[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 ## 2024-04-18
 |paper|code|
 |---|---|
