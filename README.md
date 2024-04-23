@@ -1,3 +1,8 @@
+## 2024-04-22
+|paper|code|
+|---|---|
+|[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
+|[frequency-aware masked autoencoders for multimodal pretraining on biosignals](https://arxiv.org/abs/2309.05927)|[ml-famae](https://github.com/apple/ml-famae)|
 ## 2024-04-19
 |paper|code|
 |---|---|
