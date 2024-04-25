@@ -3,6 +3,8 @@
 |---|---|
 |[using explainable ai to investigate electrocardiogram changes during healthy aging -- from expert features to raw signals](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[a multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities](https://arxiv.org/abs/2404.14019)|[mctseg](https://github.com/mkang315/mctseg)|
+|[collaborative filtering based on diffusion models: unveiling the potential of high-order connectivity](https://arxiv.org/abs/2404.14240)|[cf_diff](https://github.com/jackfrost168/cf_diff)|
+|[turbo-cf: matrix decomposition-free graph filtering for fast recommendation](https://arxiv.org/abs/2404.14243)|[turbo-cf](https://github.com/jindeok/turbo-cf)|
 ## 2024-04-22
 |paper|code|
 |---|---|
