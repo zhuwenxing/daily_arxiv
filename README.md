@@ -1,3 +1,11 @@
+## 2024-04-25
+|paper|code|
+|---|---|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
+|[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
+|[the largest eeg-based bci reproducibility study for open science: the moabb benchmark](https://arxiv.org/abs/2404.15319)|[moabb](https://github.com/NeuroTechX/moabb)|
+|[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
+|[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 ## 2024-04-23
 |paper|code|
 |---|---|
