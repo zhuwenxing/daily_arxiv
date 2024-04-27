@@ -1,3 +1,7 @@
+## 2024-04-26
+|paper|code|
+|---|---|
+|[luvira dataset validation and discussion: comparing vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2309.02961)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
 ## 2024-04-25
 |paper|code|
 |---|---|
