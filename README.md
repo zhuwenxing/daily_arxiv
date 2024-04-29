@@ -7,6 +7,7 @@
 |---|---|
 |[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 |[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
+|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[the largest eeg-based bci reproducibility study for open science: the moabb benchmark](https://arxiv.org/abs/2404.15319)|[moabb](https://github.com/NeuroTechX/moabb)|
 |[mp-dpd: low-complexity mixed-precision neural networks for energy-efficient digital predistortion of wideband power amplifiers](https://arxiv.org/abs/2404.15364)|[opendpd](https://github.com/lab-emi/opendpd)|
 |[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
