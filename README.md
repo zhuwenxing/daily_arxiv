@@ -1,3 +1,7 @@
+## 2024-04-29
+|paper|code|
+|---|---|
+|[the luvira dataset: synchronized vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
 ## 2024-04-26
 |paper|code|
 |---|---|
