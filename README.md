@@ -1,7 +1,15 @@
+## 2024-04-30
+|paper|code|
+|---|---|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
+|[cauchy-schwarz divergence information bottleneck for regression](https://arxiv.org/abs/2404.17951)|[cauchy-schwarz-information-bottleneck](https://github.com/sjyucnel/cauchy-schwarz-information-bottleneck)|
 ## 2024-04-29
 |paper|code|
 |---|---|
 |[the luvira dataset: synchronized vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
+|[enumeration of minimum weight codewords of pre-transformed polar codes by tree intersection](https://arxiv.org/abs/2311.17774)|[ptpc](https://github.com/andreaszunker/ptpc)|
 ## 2024-04-26
 |paper|code|
 |---|---|
@@ -13,9 +21,14 @@
 |[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
 |[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[the largest eeg-based bci reproducibility study for open science: the moabb benchmark](https://arxiv.org/abs/2404.15319)|[moabb](https://github.com/NeuroTechX/moabb)|
+|[comparing self-supervised learning techniques for wearable human activity recognition](https://arxiv.org/abs/2404.15331)|[self-supervised-learning-har](https://github.com/getalp/self-supervised-learning-har)|
+|[classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise](https://arxiv.org/abs/2404.15341)|[classbd](https://github.com/asdvfghg/classbd)|
+|[evaluating fast adaptability of neural networks for brain-computer interface](https://arxiv.org/abs/2404.15350)|[fast_bci](https://github.com/anp-scp/fast_bci)|
+|[squwa: signal quality aware dnn architecture for enhanced accuracy in atrial fibrillation detection from noisy ppg signals](https://arxiv.org/abs/2404.15353)|[squwa](https://github.com/runz96/squwa)|
 |[mp-dpd: low-complexity mixed-precision neural networks for energy-efficient digital predistortion of wideband power amplifiers](https://arxiv.org/abs/2404.15364)|[opendpd](https://github.com/lab-emi/opendpd)|
 |[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
 |[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[vg_for_arrhythmia_classification_with_gcn](https://github.com/raffoliveira/vg_for_arrhythmia_classification_with_gcn)|
+|[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
 |[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 ## 2024-04-23
 |paper|code|
