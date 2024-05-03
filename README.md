@@ -1,3 +1,10 @@
+## 2024-05-02
+|paper|code|
+|---|---|
+|[titan: bringing the deep image prior to implicit representations](https://arxiv.org/abs/2211.00219)|[titan-implicit-prior](https://github.com/dlej/titan-implicit-prior)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-05-01
 |paper|code|
 |---|---|
