@@ -3,6 +3,7 @@
 |---|---|
 |[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
 |[locality regularized reconstruction: structured sparsity and delaunay triangulations](https://arxiv.org/abs/2405.00837)|[LocalityRegularization](https://github.com/MarshMue/LocalityRegularization)|
+|[dynamic online ensembles of basis expansions](https://arxiv.org/abs/2405.01365)|[DynamicOnlineBasisExpansions](https://github.com/danwaxman/DynamicOnlineBasisExpansions)|
 ## 2024-05-02
 |paper|code|
 |---|---|
