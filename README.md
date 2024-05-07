@@ -1,9 +1,15 @@
+## 2024-05-06
+|paper|code|
+|---|---|
+|[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
+|[extended kalman filter -- koopman operator for tractable stochastic optimal control](https://arxiv.org/abs/2402.18554)|[linearizing-uncertainty-for-control](https://github.com/msramada/linearizing-uncertainty-for-control)|
 ## 2024-05-03
 |paper|code|
 |---|---|
 |[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[joint signal detection and automatic modulation classification via deep learning](https://arxiv.org/abs/2405.00736)|[changshuoradiodata](https://github.com/singingkettle/changshuoradiodata)|
 |[locality regularized reconstruction: structured sparsity and delaunay triangulations](https://arxiv.org/abs/2405.00837)|[LocalityRegularization](https://github.com/MarshMue/LocalityRegularization)|
-|[dynamic online ensembles of basis expansions](https://arxiv.org/abs/2405.01365)|[DynamicOnlineBasisExpansions](https://github.com/danwaxman/DynamicOnlineBasisExpansions)|
 ## 2024-05-02
 |paper|code|
 |---|---|
