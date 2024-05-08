@@ -1,3 +1,7 @@
+## 2024-05-07
+|paper|code|
+|---|---|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 ## 2024-05-06
 |paper|code|
 |---|---|
