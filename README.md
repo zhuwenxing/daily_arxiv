@@ -1,7 +1,12 @@
+## 2024-05-08
+|paper|code|
+|---|---|
+|[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[learning linear block error correction codes](https://arxiv.org/abs/2405.04050)|[e2e_dc_ecct](https://github.com/yonilc/e2e_dc_ecct)|
 ## 2024-05-07
 |paper|code|
 |---|---|
-|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[generalised envelope spectrum-based signal-to-noise objectives: formulation, optimisation and application for gear fault detection under time-varying speed conditions](https://arxiv.org/abs/2405.00727)|[snrocl](https://gitlab.com/vspa/snrocl)|
 ## 2024-05-06
 |paper|code|
 |---|---|
