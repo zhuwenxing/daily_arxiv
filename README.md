@@ -1,3 +1,10 @@
+## 2024-05-09
+|paper|code|
+|---|---|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[enhancing deep reinforcement learning: a tutorial on generative diffusion models in network optimization](https://arxiv.org/abs/2308.05384)|[gdmopt](https://github.com/hongyangdu/gdmopt)|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
+|[communication-efficient collaborative perception via information filling with codebook](https://arxiv.org/abs/2405.04966)|[codefilling](https://github.com/phyllish/codefilling)|
 ## 2024-05-08
 |paper|code|
 |---|---|
@@ -7,11 +14,13 @@
 |paper|code|
 |---|---|
 |[generalised envelope spectrum-based signal-to-noise objectives: formulation, optimisation and application for gear fault detection under time-varying speed conditions](https://arxiv.org/abs/2405.00727)|[snrocl](https://gitlab.com/vspa/snrocl)|
+|[antenna failure resilience: deep learning-enabled robust doa estimation with single snapshot sparse arrays](https://arxiv.org/abs/2405.02788)|[deep_rsa_doa](https://github.com/ruxinzh/deep_rsa_doa)|
 ## 2024-05-06
 |paper|code|
 |---|---|
 |[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
 |[extended kalman filter -- koopman operator for tractable stochastic optimal control](https://arxiv.org/abs/2402.18554)|[linearizing-uncertainty-for-control](https://github.com/msramada/linearizing-uncertainty-for-control)|
+|[identification of snps in genomes using gramep, an alignment-free method based on the principle of maximum entropy](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
 ## 2024-05-03
 |paper|code|
 |---|---|
