@@ -1,3 +1,7 @@
+## 2024-05-10
+|paper|code|
+|---|---|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
 ## 2024-05-09
 |paper|code|
 |---|---|
