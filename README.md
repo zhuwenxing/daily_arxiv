@@ -8,6 +8,7 @@
 |[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[enhancing deep reinforcement learning: a tutorial on generative diffusion models in network optimization](https://arxiv.org/abs/2308.05384)|[gdmopt](https://github.com/hongyangdu/gdmopt)|
 |[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
 |[communication-efficient collaborative perception via information filling with codebook](https://arxiv.org/abs/2405.04966)|[codefilling](https://github.com/phyllish/codefilling)|
 ## 2024-05-08
 |paper|code|
@@ -19,6 +20,9 @@
 |---|---|
 |[generalised envelope spectrum-based signal-to-noise objectives: formulation, optimisation and application for gear fault detection under time-varying speed conditions](https://arxiv.org/abs/2405.00727)|[snrocl](https://gitlab.com/vspa/snrocl)|
 |[antenna failure resilience: deep learning-enabled robust doa estimation with single snapshot sparse arrays](https://arxiv.org/abs/2405.02788)|[deep_rsa_doa](https://github.com/ruxinzh/deep_rsa_doa)|
+|[fully reversing the shoebox image source method: from impulse responses to room parameters](https://arxiv.org/abs/2405.03385)|[acoustic-sfw](https://github.com/sprunckt/acoustic-sfw)|
+|[performance evaluation of pac decoding with deep neural networks](https://arxiv.org/abs/2405.02590)|[Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks](https://github.com/daijingixn/Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks)|
+|[perfect codes over non-prime power alphabets: an approach based on diophantine equations](https://arxiv.org/abs/2405.03347)|[perfect-q-ary-codes](https://github.com/pjcazorla/perfect-q-ary-codes)|
 ## 2024-05-06
 |paper|code|
 |---|---|
