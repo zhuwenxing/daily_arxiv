@@ -1,3 +1,17 @@
+## 2024-05-14
+|paper|code|
+|---|---|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[prospects for ai-enhanced ecg as a unified screening tool for cardiac and non-cardiac conditions -- an explorative study in emergency care](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
+|[personalized heart disease detection via ecg digital twin generation](https://arxiv.org/abs/2404.11171)|[lavq-editor](https://github.com/huyjj/lavq-editor)|
+|[neuronet: a novel hybrid self-supervised learning framework for sleep stage classification using single-channel eeg](https://arxiv.org/abs/2404.17585)|[NeuroNet](https://github.com/dlcjfgmlnasa/NeuroNet)|
+|[timely status updates in slotted aloha networks with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[time-of-arrival estimation and phase unwrapping of head-related transfer functions with integer linear programming](https://arxiv.org/abs/2405.06804)|[hrtf-ilp](https://github.com/yoyololicon/hrtf-ilp)|
+|[a supervised information enhanced multi-granularity contrastive learning framework for eeg based emotion recognition](https://arxiv.org/abs/2405.07260)|[si-cleer](https://github.com/muzixiang/si-cleer)|
+|[transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481)|[transition-role-of-entangled-data-in-qml](https://github.com/wangxinbiao08/transition-role-of-entangled-data-in-qml)|
+|[texshape: information theoretic sentence embedding for language models](https://arxiv.org/abs/2402.05132)|[neuralinformationshaping](https://github.com/hesfahanizadeh/neuralinformationshaping)|
+|[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 ## 2024-05-13
 |paper|code|
 |---|---|
