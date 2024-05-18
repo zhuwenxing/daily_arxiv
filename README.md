@@ -1,3 +1,10 @@
+## 2024-05-17
+|paper|code|
+|---|---|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[dynamic gnns for precise seizure detection and classification from eeg data](https://arxiv.org/abs/2405.09568)|[NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN)|
+|[language-oriented semantic latent representation for image transmission](https://arxiv.org/abs/2405.09976)|[img2img-sc](https://github.com/ispamm/img2img-sc)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
 ## 2024-05-16
 |paper|code|
 |---|---|
