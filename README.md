@@ -15,7 +15,6 @@
 |paper|code|
 |---|---|
 |[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
-|[clash: contrastive learning through alignment shifting to extract stimulus information from eeg](https://arxiv.org/abs/2302.01924)|[shift_detection_icassp2023](https://github.com/exporl/shift_detection_icassp2023)|
 |[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
 ## 2024-05-14
 |paper|code|
@@ -30,6 +29,7 @@
 |[a supervised information enhanced multi-granularity contrastive learning framework for eeg based emotion recognition](https://arxiv.org/abs/2405.07260)|[si-cleer](https://github.com/muzixiang/si-cleer)|
 |[transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481)|[transition-role-of-entangled-data-in-qml](https://github.com/wangxinbiao08/transition-role-of-entangled-data-in-qml)|
 |[texshape: information theoretic sentence embedding for language models](https://arxiv.org/abs/2402.05132)|[neuralinformationshaping](https://github.com/hesfahanizadeh/neuralinformationshaping)|
+|[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
 |[partial information decomposition as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 ## 2024-05-13
@@ -38,6 +38,7 @@
 |[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
 |[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
 |[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
+|[optimal beamforming of ris-aided wireless communications: an alternating inner product maximization approach](https://arxiv.org/abs/2405.06442)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 ## 2024-05-10
 |paper|code|
 |---|---|
