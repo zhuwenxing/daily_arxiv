@@ -1,3 +1,18 @@
+## 2024-05-21
+|paper|code|
+|---|---|
+|[surrogate-based cross-correlation for particle image velocimetry](https://arxiv.org/abs/2112.05303)|[sbcc](https://github.com/yongleex/sbcc)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
+|[differentially private fair binary classifications](https://arxiv.org/abs/2402.15603)|[dp_fair_binary](https://github.com/hradghoukasian/dp_fair_binary)|
+## 2024-05-20
+|paper|code|
+|---|---|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
 ## 2024-05-17
 |paper|code|
 |---|---|
@@ -11,6 +26,7 @@
 |[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
 |[unsupervised learning based end-to-end delayless generative fixed-filter active noise control](https://arxiv.org/abs/2402.09460)|[unsupervised-gfanc](https://github.com/luo-zhengding/unsupervised-gfanc)|
 |[unsupervised learning for joint beamforming design in ris-aided isac systems](https://arxiv.org/abs/2403.17324)|[DL-Beamforming-RIS-ISAC](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|
+|[joint instantaneous amplitude-frequency analysis of vibration signals for vibration-based condition monitoring of rolling bearings](https://arxiv.org/abs/2405.08919)|[Joint-Instantaneous-Amplitude-Frequency-Analysis-for-Vibration-Based-Condition-Monitoring](https://github.com/Western-OC2-Lab/Joint-Instantaneous-Amplitude-Frequency-Analysis-for-Vibration-Based-Condition-Monitoring)|
 ## 2024-05-15
 |paper|code|
 |---|---|
