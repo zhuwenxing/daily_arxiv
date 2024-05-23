@@ -1,3 +1,9 @@
+## 2024-05-22
+|paper|code|
+|---|---|
+|[optimizing polynomial graph filters: a novel adaptive krylov subspace approach](https://arxiv.org/abs/2403.07954)|[AdaptKry](https://github.com/kkhuang81/AdaptKry)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
+|[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
 ## 2024-05-21
 |paper|code|
 |---|---|
@@ -17,6 +23,7 @@
 |paper|code|
 |---|---|
 |[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[dynamic gnns for precise seizure detection and classification from eeg data](https://arxiv.org/abs/2405.09568)|[NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN)|
 |[language-oriented semantic latent representation for image transmission](https://arxiv.org/abs/2405.09976)|[img2img-sc](https://github.com/ispamm/img2img-sc)|
 |[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
