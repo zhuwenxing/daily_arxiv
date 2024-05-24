@@ -10,7 +10,6 @@
 |[surrogate-based cross-correlation for particle image velocimetry](https://arxiv.org/abs/2112.05303)|[sbcc](https://github.com/yongleex/sbcc)|
 |[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
-|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
 |[differentially private fair binary classifications](https://arxiv.org/abs/2402.15603)|[dp_fair_binary](https://github.com/hradghoukasian/dp_fair_binary)|
