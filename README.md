@@ -1,3 +1,8 @@
+## 2024-05-27
+|paper|code|
+|---|---|
+|[analog or digital in-memory computing? benchmarking through quantitative modeling](https://arxiv.org/abs/2405.14978)|[zigzag-imc](https://github.com/KULeuven-MICAS/zigzag-imc)|
+|[perfect codes over non-prime power alphabets: an approach based on diophantine equations](https://arxiv.org/abs/2405.03347)|[perfect-q-ary-codes](https://github.com/pjcazorla/perfect-q-ary-codes)|
 ## 2024-05-24
 |paper|code|
 |---|---|
@@ -9,7 +14,6 @@
 |paper|code|
 |---|---|
 |[optimizing polynomial graph filters: a novel adaptive krylov subspace approach](https://arxiv.org/abs/2403.07954)|[AdaptKry](https://github.com/kkhuang81/AdaptKry)|
-|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
 |[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
 ## 2024-05-21
 |paper|code|
