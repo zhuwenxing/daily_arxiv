@@ -1,3 +1,9 @@
+## 2024-05-28
+|paper|code|
+|---|---|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[physics-informed appliance signatures generator for energy disaggregation](https://arxiv.org/abs/2401.01828)|[edframe](https://github.com/arx7ti/edframe)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
 ## 2024-05-27
 |paper|code|
 |---|---|
