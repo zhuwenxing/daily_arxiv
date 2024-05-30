@@ -1,3 +1,11 @@
+## 2024-05-29
+|paper|code|
+|---|---|
+|[assessment of unsteady flow predictions using hybrid deep learning based reduced order models](https://arxiv.org/abs/2009.04396)|[Assessment-of-hybrid-DLROM](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM)|
+|[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[mambavc: learned visual compression with selective state spaces](https://arxiv.org/abs/2405.15413)|[2024-mambavc](https://github.com/qinsy123/2024-mambavc)|
 ## 2024-05-28
 |paper|code|
 |---|---|
@@ -13,7 +21,6 @@
 |paper|code|
 |---|---|
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
-|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
 |[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2024-05-22
