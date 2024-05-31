@@ -1,3 +1,11 @@
+## 2024-05-30
+|paper|code|
+|---|---|
+|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation](https://arxiv.org/abs/2402.14131)|[magnav](https://github.com/aminmoradixl/magnav)|
+|[on the properties and estimation of pointwise mutual information profiles](https://arxiv.org/abs/2310.10240)|[bmi](https://github.com/cbg-ethz/bmi)|
+|[track initialization and re-identification for~3d multi-view multi-object tracking](https://arxiv.org/abs/2405.18606)|[mv-glmb-ab](https://github.com/linh-gist/mv-glmb-ab)|
 ## 2024-05-29
 |paper|code|
 |---|---|
