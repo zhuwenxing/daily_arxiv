@@ -1,3 +1,7 @@
+## 2024-05-31
+|paper|code|
+|---|---|
+|[a large-scale evaluation of speech foundation models](https://arxiv.org/abs/2404.09385)|[s3prl](https://github.com/s3prl/s3prl)|
 ## 2024-05-30
 |paper|code|
 |---|---|
