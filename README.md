@@ -16,6 +16,7 @@
 |[assessment of unsteady flow predictions using hybrid deep learning based reduced order models](https://arxiv.org/abs/2009.04396)|[Assessment-of-hybrid-DLROM](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM)|
 |[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[sleepfm: multi-modal representation learning for sleep across brain activity, ecg and respiratory signals](https://arxiv.org/abs/2405.17766)|[sleepfm-codebase](https://github.com/rthapa84/sleepfm-codebase)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 |[mambavc: learned visual compression with selective state spaces](https://arxiv.org/abs/2405.15413)|[2024-mambavc](https://github.com/qinsy123/2024-mambavc)|
 ## 2024-05-28
