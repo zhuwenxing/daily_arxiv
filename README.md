@@ -1,15 +1,24 @@
+## 2024-06-05
+|paper|code|
+|---|---|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[kernel vs. kernel: exploring how the data structure affects neural collapse](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
 ## 2024-06-04
 |paper|code|
 |---|---|
 |[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
 |[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[a gaussian process-based streaming algorithm for prediction of time series with regimes and outliers](https://arxiv.org/abs/2406.00570)|[Lintel](https://github.com/DanWaxman/Lintel)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics](https://arxiv.org/abs/2406.01539)|[PINN_high_dimensional_PDE](https://github.com/WeiqiWangMath/PINN_high_dimensional_PDE)|
 ## 2024-05-31
 |paper|code|
 |---|---|
 |[a large-scale evaluation of speech foundation models](https://arxiv.org/abs/2404.09385)|[s3prl](https://github.com/s3prl/s3prl)|
+|[eeg-dbnet: a dual-branch network for temporal-spectral decoding in motor-imagery brain-computer interfaces](https://arxiv.org/abs/2405.16090)|[eeg-dbnet](https://github.com/xicheng105/eeg-dbnet)|
+|[medformer: a multi-granularity patching transformer for medical time-series classification](https://arxiv.org/abs/2405.19363)|[medformer](https://github.com/dl4mhealth/medformer)|
 ## 2024-05-30
 |paper|code|
 |---|---|
