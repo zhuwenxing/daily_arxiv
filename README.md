@@ -1,3 +1,9 @@
+## 2024-06-06
+|paper|code|
+|---|---|
+|[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
+|[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
+|[deeppolar: inventing nonlinear large-kernel polar codes via deep learning](https://arxiv.org/abs/2402.08864)|[deeppolar](https://github.com/hebbarashwin/deeppolar)|
 ## 2024-06-05
 |paper|code|
 |---|---|
