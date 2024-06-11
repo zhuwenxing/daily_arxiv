@@ -1,17 +1,21 @@
+## 2024-06-10
+|paper|code|
+|---|---|
+|[active sensing for reciprocal mimo channels](https://arxiv.org/abs/2403.00134)|[active-sensing-for-reciprocal-mimo-channels](https://github.com/taojiang-github/active-sensing-for-reciprocal-mimo-channels)|
+|[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
+|[revisiting attention weights as interpretations of message-passing neural networks](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
 ## 2024-06-07
 |paper|code|
 |---|---|
 |[clarifying the effect of mean subtraction on dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
 |[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
 |[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
-|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
 |[untrained neural nets for snapshot compressive imaging: theory and algorithms](https://arxiv.org/abs/2406.03694)|[SCI-BDVP](https://github.com/Computational-Imaging-RU/SCI-BDVP)|
 ## 2024-06-06
 |paper|code|
 |---|---|
 |[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
 |[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
-|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
 |[deeppolar: inventing nonlinear large-kernel polar codes via deep learning](https://arxiv.org/abs/2402.08864)|[deeppolar](https://github.com/hebbarashwin/deeppolar)|
 ## 2024-06-05
 |paper|code|
