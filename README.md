@@ -1,7 +1,22 @@
+## 2024-06-11
+|paper|code|
+|---|---|
+|[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
+|[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
+|[solving inverse problems with model mismatch using untrained neural networks within model-based architectures](https://arxiv.org/abs/2403.04847)|[a-adaptive-model-based-methods](https://github.com/invprobs/a-adaptive-model-based-methods)|
+|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
+|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
+|[winner-takes-all learners are geometry-aware conditional density estimators](https://arxiv.org/abs/2406.04706)|[VoronoiWTA](https://github.com/Victorletzelter/VoronoiWTA)|
+|[lessons from generalization error analysis of federated learning: you may communicate less often!](https://arxiv.org/abs/2306.05862)|[generalization_fl_icml2024](https://github.com/romainchor/generalization_fl_icml2024)|
+|[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics](https://arxiv.org/abs/2406.01539)|[PINN_high_dimensional_PDE](https://github.com/WeiqiWangMath/PINN_high_dimensional_PDE)|
 ## 2024-06-10
 |paper|code|
 |---|---|
 |[active sensing for reciprocal mimo channels](https://arxiv.org/abs/2403.00134)|[active-sensing-for-reciprocal-mimo-channels](https://github.com/taojiang-github/active-sensing-for-reciprocal-mimo-channels)|
+|[learning optimal linear precoding for cell-free massive mimo with gnn](https://arxiv.org/abs/2406.04456)|[olp-gnn](https://github.com/Nokia-Bell-Labs/olp-gnn)|
+|[digital twins of the em environment: benchmark for ray launching models](https://arxiv.org/abs/2406.05042)|[ray-launching-benchmark](https://github.com/Michele-Zhu/ray-launching-benchmark)|
 |[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
 |[revisiting attention weights as interpretations of message-passing neural networks](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
 ## 2024-06-07
@@ -10,6 +25,7 @@
 |[clarifying the effect of mean subtraction on dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
 |[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
 |[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
+|[informed graph learning by domain knowledge injection and smooth graph signal representation](https://arxiv.org/abs/2406.03898)|[igl](https://github.com/keiv4n/igl)|
 |[untrained neural nets for snapshot compressive imaging: theory and algorithms](https://arxiv.org/abs/2406.03694)|[SCI-BDVP](https://github.com/Computational-Imaging-RU/SCI-BDVP)|
 ## 2024-06-06
 |paper|code|
