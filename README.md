@@ -1,3 +1,8 @@
+## 2024-06-14
+|paper|code|
+|---|---|
+|[toward fully-end-to-end listened speech decoding from eeg signals](https://arxiv.org/abs/2406.08644)|[fesde](https://github.com/lee-jhwn/fesde)|
+|[multimodal learning without labeled multimodal data: guarantees and applications](https://arxiv.org/abs/2306.04539)|[pid](https://github.com/pliang279/pid)|
 ## 2024-06-13
 |paper|code|
 |---|---|
