@@ -1,3 +1,14 @@
+## 2024-06-18
+|paper|code|
+|---|---|
+|[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[a decoupled approach for composite sparse-plus-smooth penalized optimization](https://arxiv.org/abs/2403.05204)|[compositesps](https://github.com/adriaj/compositesps)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[full reference point cloud quality assessment using support vector regression](https://arxiv.org/abs/2406.10520)|[frsvr-pcqa](https://github.com/stac-usc/frsvr-pcqa)|
+|[deep-reinforcement-learning-based aoi-aware resource allocation for ris-aided iov networks](https://arxiv.org/abs/2406.11245)|[ris-rb-aoi-v2x-drl](https://github.com/qiongwu86/ris-rb-aoi-v2x-drl)|
+|[reconfigurable intelligent surface assisted vec based on multi-agent reinforcement learning](https://arxiv.org/abs/2406.11318)|[ris-vec-marl](https://github.com/qiongwu86/ris-vec-marl)|
+|[an efficient frequency diversity scheme for ultra-reliable communications in two-path fading channels](https://arxiv.org/abs/2206.13459)|[two-ray-ultra-reliability](https://github.com/klb2/two-ray-ultra-reliability)|
+|[generalization error of graph neural networks in the mean-field regime](https://arxiv.org/abs/2402.07025)|[gnn_mf_ge](https://github.com/sherylhyx/gnn_mf_ge)|
 ## 2024-06-17
 |paper|code|
 |---|---|
@@ -16,6 +27,7 @@
 |[provably robust score-based diffusion posterior sampling for plug-and-play image reconstruction](https://arxiv.org/abs/2403.17042)|[diffusion-plug-and-play](https://github.com/x1xu/diffusion-plug-and-play)|
 |[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[semantic-aware resource allocation based on deep reinforcement learning for 5g-v2x hetnets](https://arxiv.org/abs/2406.07996)|[semantic-aware-resource-allocation-based-on-deep-reinforcement-learning-for-5g-v2x-hetnets](https://github.com/qiongwu86/semantic-aware-resource-allocation-based-on-deep-reinforcement-learning-for-5g-v2x-hetnets)|
 |[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
 ## 2024-06-12
 |paper|code|
