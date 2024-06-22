@@ -1,3 +1,9 @@
+## 2024-06-21
+|paper|code|
+|---|---|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[eeg-dbnet: a dual-branch network for temporal-spectral decoding in motor-imagery brain-computer interfaces](https://arxiv.org/abs/2405.16090)|[eeg-dbnet](https://github.com/xicheng105/eeg-dbnet)|
+|[on the inductive biases of demographic parity-based fair learning algorithms](https://arxiv.org/abs/2402.18129)|[fairness-ib](https://github.com/lh218/fairness-ib)|
 ## 2024-06-19
 |paper|code|
 |---|---|
