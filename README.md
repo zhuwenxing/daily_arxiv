@@ -1,3 +1,10 @@
+## 2024-06-25
+|paper|code|
+|---|---|
+|[motion-robust free-running volumetric cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2024-06-24
 |paper|code|
 |---|---|
