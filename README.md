@@ -1,3 +1,8 @@
+## 2024-06-26
+|paper|code|
+|---|---|
+|[mind's eye: image recognition by eeg via multimodal similarity-keeping contrastive learning](https://arxiv.org/abs/2406.16910)|[MUSE_EEG](https://github.com/ChiShengChen/MUSE_EEG)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-06-25
 |paper|code|
 |---|---|
