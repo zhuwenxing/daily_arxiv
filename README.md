@@ -1,3 +1,10 @@
+## 2024-06-28
+|paper|code|
+|---|---|
+|[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
+|[partial information decomposition: redundancy as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
+|[local to global: learning dynamics and effect of initialization for transformers](https://arxiv.org/abs/2406.03072)|[markov](https://github.com/bond1995/markov)|
 ## 2024-06-27
 |paper|code|
 |---|---|
