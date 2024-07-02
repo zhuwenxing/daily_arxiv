@@ -1,8 +1,13 @@
+## 2024-07-01
+|paper|code|
+|---|---|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[kernel vs. kernel: exploring how the data structure affects neural collapse](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
 ## 2024-06-28
 |paper|code|
 |---|---|
 |[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
-|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
 |[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 |[partial information decomposition: redundancy as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
 |[local to global: learning dynamics and effect of initialization for transformers](https://arxiv.org/abs/2406.03072)|[markov](https://github.com/bond1995/markov)|
@@ -13,6 +18,7 @@
 |[whalenet: a novel deep learning architecture for marine mammals vocalizations on watkins marine mammal sound database](https://arxiv.org/abs/2402.17775)|[whalenet](https://github.com/alelicciardi99/whalenet)|
 |[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
 |[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[flocora: federated learning compression with low-rank adaptation](https://arxiv.org/abs/2406.14082)|[flocora_eusipco24](https://github.com/lgrativol/flocora_eusipco24)|
 |[benchmarking mortality risk prediction from electrocardiograms](https://arxiv.org/abs/2406.17002)|[ecg-survival-benchmark](https://github.com/cavalab/ecg-survival-benchmark)|
 |[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
 ## 2024-06-26
