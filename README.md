@@ -1,9 +1,20 @@
+## 2024-07-02
+|paper|code|
+|---|---|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[srvit: vision transformers for estimating radar reflectivity from satellite observations at scale](https://arxiv.org/abs/2406.16955)|[srvit](https://github.com/stockeh/srvit)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[neural distributed source coding](https://arxiv.org/abs/2106.02797)|[neural-dsc](https://github.com/acnagle/neural-dsc)|
+|[generalization error of graph neural networks in the mean-field regime](https://arxiv.org/abs/2402.07025)|[gnn_mf_ge](https://github.com/sherylhyx/gnn_mf_ge)|
 ## 2024-07-01
 |paper|code|
 |---|---|
+|[linear periodically time-variant digital pll phase noise modeling using conversion matrices and uncorrelated upsampling](https://arxiv.org/abs/2401.13897)|[PLL](https://github.com/patmercier/PLL)|
 |[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 |[kernel vs. kernel: exploring how the data structure affects neural collapse](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
+|[machine learning predictors for min-entropy estimation](https://arxiv.org/abs/2406.19983)|[ml-predictors-min-entropy-estimation](https://github.com/qursa-uc3m/ml-predictors-min-entropy-estimation)|
 ## 2024-06-28
 |paper|code|
 |---|---|
