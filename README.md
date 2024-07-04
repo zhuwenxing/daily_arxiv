@@ -1,3 +1,7 @@
+## 2024-07-03
+|paper|code|
+|---|---|
+|[deep imbalanced regression to estimate vascular age from ppg data: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2406.14953)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
 ## 2024-07-02
 |paper|code|
 |---|---|
