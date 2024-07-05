@@ -1,3 +1,7 @@
+## 2024-07-04
+|paper|code|
+|---|---|
+|[fullsubnet: a full-band and sub-band fusion model for real-time single-channel speech enhancement](https://arxiv.org/abs/2010.15508)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
 ## 2024-07-03
 |paper|code|
 |---|---|
