@@ -1,3 +1,13 @@
+## 2024-07-08
+|paper|code|
+|---|---|
+|[neuro-bert: rethinking masked autoencoding for self-supervised neurological pretraining](https://arxiv.org/abs/2204.12440)|[OpenBioSeq](https://github.com/Westlake-AI/OpenBioSeq)|
+|[swinjscc: taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361)|[swinjscc](https://github.com/semcomm/swinjscc)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 ## 2024-07-04
 |paper|code|
 |---|---|
