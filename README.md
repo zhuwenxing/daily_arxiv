@@ -1,3 +1,11 @@
+## 2024-07-09
+|paper|code|
+|---|---|
+|[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
+|[annotation of sleep depth index with scalable deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[ldgcn: an edge-end lightweight dual gcn based on single-channel eeg for driver drowsiness monitoring](https://arxiv.org/abs/2407.05749)|[driver-drowsiness-monitoring](https://github.com/bryantdom/driver-drowsiness-monitoring)|
+|[information limits and thouless-anderson-palmer equations for spiked matrix models with structured noise](https://arxiv.org/abs/2405.20993)|[spiked-matrix-models-with-structured-noise](https://github.com/xu-yz19/spiked-matrix-models-with-structured-noise)|
+|[rpn: reconciled polynomial network towards unifying pgms, kernel svms, mlp and kan](https://arxiv.org/abs/2407.04819)|[tinyBIG](https://github.com/jwzhanggy/tinyBIG)|
 ## 2024-07-08
 |paper|code|
 |---|---|
@@ -6,12 +14,14 @@
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
 |[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
 |[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 ## 2024-07-04
 |paper|code|
 |---|---|
 |[fullsubnet: a full-band and sub-band fusion model for real-time single-channel speech enhancement](https://arxiv.org/abs/2010.15508)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
+|[edpnet: an efficient dual prototype network for motor imagery eeg decoding](https://arxiv.org/abs/2407.03177)|[edpnet](https://github.com/hancan16/edpnet)|
 ## 2024-07-03
 |paper|code|
 |---|---|
