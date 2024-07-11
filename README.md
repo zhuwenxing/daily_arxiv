@@ -1,3 +1,8 @@
+## 2024-07-10
+|paper|code|
+|---|---|
+|[subject-adaptive transfer learning using resting state eeg signals for cross-subject eeg motor imagery classification](https://arxiv.org/abs/2405.19346)|[miccai2024-restl](https://github.com/sionan/miccai2024-restl)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-07-09
 |paper|code|
 |---|---|
