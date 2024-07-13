@@ -1,3 +1,10 @@
+## 2024-07-12
+|paper|code|
+|---|---|
+|[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
+|[joint optimization of age of information and energy consumption in nr-v2x system based on deep reinforcement learning](https://arxiv.org/abs/2407.08458)|[joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)|
 ## 2024-07-11
 |paper|code|
 |---|---|
@@ -13,6 +20,7 @@
 |---|---|
 |[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
 |[annotation of sleep depth index with scalable deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[ldgcn: an edge-end lightweight dual gcn based on single-channel eeg for driver drowsiness monitoring](https://arxiv.org/abs/2407.05749)|[driver-drowsiness-monitoring](https://github.com/bryantdom/driver-drowsiness-monitoring)|
 |[information limits and thouless-anderson-palmer equations for spiked matrix models with structured noise](https://arxiv.org/abs/2405.20993)|[spiked-matrix-models-with-structured-noise](https://github.com/xu-yz19/spiked-matrix-models-with-structured-noise)|
 |[rpn: reconciled polynomial network towards unifying pgms, kernel svms, mlp and kan](https://arxiv.org/abs/2407.04819)|[tinyBIG](https://github.com/jwzhanggy/tinyBIG)|
@@ -24,6 +32,8 @@
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
 |[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[groupwise deformable registration of diffusion tensor cardiovascular magnetic resonance: disentangling diffusion contrast, respiratory and cardiac motions](https://arxiv.org/abs/2406.13788)|[dtcmr-reg](https://github.com/ayanglab/dtcmr-reg)|
+|[prediction of rare channel conditions using bayesian statistics and extreme value theory](https://arxiv.org/abs/2407.01188)|[bayesian_evt_urllc](https://github.com/aau-cnt/bayesian_evt_urllc)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
 |[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 ## 2024-07-04
