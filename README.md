@@ -1,3 +1,7 @@
+## 2024-07-15
+|paper|code|
+|---|---|
+|[compressed sensing: a discrete optimization approach](https://arxiv.org/abs/2306.04647)|[discretecompressedsensing.jl](https://github.com/nicholasjohnson2020/discretecompressedsensing.jl)|
 ## 2024-07-12
 |paper|code|
 |---|---|
