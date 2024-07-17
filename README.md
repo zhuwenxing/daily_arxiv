@@ -1,3 +1,10 @@
+## 2024-07-16
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with smartwatches](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[type-based unsourced multiple access](https://arxiv.org/abs/2404.19552)|[TUMA](https://github.com/khachoang1412/TUMA)|
 ## 2024-07-15
 |paper|code|
 |---|---|
