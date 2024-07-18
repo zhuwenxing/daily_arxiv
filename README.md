@@ -1,3 +1,9 @@
+## 2024-07-17
+|paper|code|
+|---|---|
+|[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
+|[multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ecg from arbitrary single-lead ecg](https://arxiv.org/abs/2407.11481)|[mcma](https://github.com/chenjiar3/mcma)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 ## 2024-07-16
 |paper|code|
 |---|---|
