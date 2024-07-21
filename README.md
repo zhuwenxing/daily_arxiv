@@ -3,6 +3,7 @@
 |---|---|
 |[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
 |[thraws: a novel dataset for thermal hotspots detection in raw sentinel-2 data](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[an empirical investigation into the time and frequency response characteristics of hopf resonators](https://arxiv.org/abs/2407.13629)|[DetectorBank](https://github.com/keziah55/DetectorBank)|
 |[the language of infographics: toward understanding conceptual metaphor use in scientific storytelling](https://arxiv.org/abs/2407.13416)|[metaphortool](https://github.com/lauragarrison87/metaphortool)|
 ## 2024-07-18
 |paper|code|
