@@ -1,3 +1,8 @@
+## 2024-07-22
+|paper|code|
+|---|---|
+|[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
 ## 2024-07-19
 |paper|code|
 |---|---|
@@ -6,7 +11,6 @@
 |[advanced mathematical modelling for energy-efficient data transmission and fusion in wireless sensor networks](https://arxiv.org/abs/2407.12806)|[bpnn_wsn](https://github.com/hikomal/bpnn_wsn)|
 |[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
 |[an empirical investigation into the time and frequency response characteristics of hopf resonators](https://arxiv.org/abs/2407.13629)|[DetectorBank](https://github.com/keziah55/DetectorBank)|
-|[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
 |[the language of infographics: toward understanding conceptual metaphor use in scientific storytelling](https://arxiv.org/abs/2407.13416)|[metaphortool](https://github.com/lauragarrison87/metaphortool)|
 |[non-asymptotic uncertainty quantification in high-dimensional learning](https://arxiv.org/abs/2407.13666)|[UQ_high_dim_learning](https://github.com/frederikhoppe/UQ_high_dim_learning)|
 ## 2024-07-18
