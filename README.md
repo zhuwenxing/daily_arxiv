@@ -1,3 +1,11 @@
+## 2024-07-23
+|paper|code|
+|---|---|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
 ## 2024-07-22
 |paper|code|
 |---|---|
