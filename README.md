@@ -1,3 +1,9 @@
+## 2024-07-24
+|paper|code|
+|---|---|
+|[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
+|[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[dc is all you need: describing relu from a signal processing standpoint](https://arxiv.org/abs/2407.16556)|[relu_dc_is_all_you_need](https://github.com/esl-epfl/relu_dc_is_all_you_need)|
 ## 2024-07-23
 |paper|code|
 |---|---|
