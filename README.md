@@ -1,3 +1,10 @@
+## 2024-07-26
+|paper|code|
+|---|---|
+|[a physical-layer orchestration framework for open system models of autonomous riss](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[mds-ed: multimodal decision support in the emergency department -- a benchmark dataset for diagnoses and deterioration prediction in emergency medicine](https://arxiv.org/abs/2407.17856)|[mds-ed](https://github.com/ai4healthuol/mds-ed)|
+|[scaling training data with lossy image compression](https://arxiv.org/abs/2407.17954)|[lossycompressionscalingkdd2024](https://github.com/granica-ai/lossycompressionscalingkdd2024)|
 ## 2024-07-25
 |paper|code|
 |---|---|
