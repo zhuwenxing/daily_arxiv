@@ -1,9 +1,9 @@
 ## 2024-07-26
 |paper|code|
 |---|---|
-|[a physical-layer orchestration framework for open system models of autonomous riss](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
 |[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
-|[mds-ed: multimodal decision support in the emergency department -- a benchmark dataset for diagnoses and deterioration prediction in emergency medicine](https://arxiv.org/abs/2407.17856)|[mds-ed](https://github.com/ai4healthuol/mds-ed)|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[detection of manatee vocalisations using the audio spectrogram transformer](https://arxiv.org/abs/2407.18083)|[manatees](https://github.com/tdewolff/manatees)|
 |[scaling training data with lossy image compression](https://arxiv.org/abs/2407.17954)|[lossycompressionscalingkdd2024](https://github.com/granica-ai/lossycompressionscalingkdd2024)|
 ## 2024-07-25
 |paper|code|
@@ -23,6 +23,7 @@
 |[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
 |[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[dreamer: dual-ris-aided imager in complementary modes](https://arxiv.org/abs/2407.14820)|[dreamer](https://github.com/fuhaiwang/dreamer)|
+|[can all variations within the unified mask-based beamformer framework achieve identical peak extraction performance?](https://arxiv.org/abs/2407.15310)|[unified_framework_for_mask-based_bf](https://github.com/hreshare/unified_framework_for_mask-based_bf)|
 |[the rlign algorithm for enhanced electrocardiogram analysis through r-peak alignment for explainable classification and clustering](https://arxiv.org/abs/2407.15555)|[rlign](https://github.com/imi-ms/rlign)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
