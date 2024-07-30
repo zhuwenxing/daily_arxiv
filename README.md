@@ -1,3 +1,9 @@
+## 2024-07-29
+|paper|code|
+|---|---|
+|[a physical-layer orchestration framework for open system models of autonomous riss](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[mds-ed: multimodal decision support in the emergency department -- a benchmark dataset for diagnoses and deterioration prediction in emergency medicine](https://arxiv.org/abs/2407.17856)|[mds-ed](https://github.com/ai4healthuol/mds-ed)|
+|[a scalable quantum non-local neural network for image classification](https://arxiv.org/abs/2407.18906)|[QNL-Net](https://github.com/sparshgup/QNL-Net)|
 ## 2024-07-26
 |paper|code|
 |---|---|
