@@ -1,3 +1,8 @@
+## 2024-07-30
+|paper|code|
+|---|---|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
 ## 2024-07-29
 |paper|code|
 |---|---|
@@ -7,7 +12,6 @@
 ## 2024-07-26
 |paper|code|
 |---|---|
-|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
 |[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
 |[detection of manatee vocalisations using the audio spectrogram transformer](https://arxiv.org/abs/2407.18083)|[manatees](https://github.com/tdewolff/manatees)|
 |[scaling training data with lossy image compression](https://arxiv.org/abs/2407.17954)|[lossycompressionscalingkdd2024](https://github.com/granica-ai/lossycompressionscalingkdd2024)|
