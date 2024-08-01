@@ -1,3 +1,10 @@
+## 2024-07-31
+|paper|code|
+|---|---|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[edge learning based collaborative automatic modulation classification for hierarchical cognitive radio networks](https://arxiv.org/abs/2407.20772)|[CAMC](https://github.com/AI4CogComm/CAMC)|
 ## 2024-07-30
 |paper|code|
 |---|---|
