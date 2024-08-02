@@ -1,3 +1,10 @@
+## 2024-08-01
+|paper|code|
+|---|---|
+|[k-deep simplex: deep manifold learning via local dictionaries](https://arxiv.org/abs/2012.02134)|[manifold-learning-with-simplex-constraints](https://github.com/pbt17/manifold-learning-with-simplex-constraints)|
+|[sleepyco: automatic sleep scoring with feature pyramid and contrastive learning](https://arxiv.org/abs/2209.09452)|[sleepyco](https://github.com/gist-ailab/sleepyco)|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[an exact theory of causal emergence for linear stochastic iteration systems](https://arxiv.org/abs/2405.09207)|[an_exact_causal_emergence_theory](https://github.com/kilovoltage/an_exact_causal_emergence_theory)|
 ## 2024-07-31
 |paper|code|
 |---|---|
