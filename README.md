@@ -1,3 +1,9 @@
+## 2024-08-02
+|paper|code|
+|---|---|
+|[localization of brain activity from eeg/meg using mv-pure framework](https://arxiv.org/abs/1809.03930)|[supFunSim](https://github.com/IS-UMK/supFunSim)|
+|[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
 ## 2024-08-01
 |paper|code|
 |---|---|
@@ -10,7 +16,6 @@
 |---|---|
 |[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
 |[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
-|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
 |[edge learning based collaborative automatic modulation classification for hierarchical cognitive radio networks](https://arxiv.org/abs/2407.20772)|[CAMC](https://github.com/AI4CogComm/CAMC)|
 ## 2024-07-30
 |paper|code|
