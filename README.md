@@ -1,3 +1,9 @@
+## 2024-08-05
+|paper|code|
+|---|---|
+|[approximate message passing with rigorous guarantees for pooled data and quantitative group testing](https://arxiv.org/abs/2309.15507)|[amp_pooled_qgt](https://github.com/pablopasc/amp_pooled_qgt)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2024-08-02
 |paper|code|
 |---|---|
