@@ -1,3 +1,8 @@
+## 2024-08-06
+|paper|code|
+|---|---|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-08-05
 |paper|code|
 |---|---|
