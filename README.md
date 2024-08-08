@@ -1,3 +1,7 @@
+## 2024-08-07
+|paper|code|
+|---|---|
+|[comparison analysis between standard polysomnographic data and in-ear-eeg signals: a preliminary study](https://arxiv.org/abs/2401.10107)|[in_ear_eeg_vs_psg](https://github.com/gianpaolopalo13/in_ear_eeg_vs_psg)|
 ## 2024-08-06
 |paper|code|
 |---|---|
