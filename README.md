@@ -1,3 +1,11 @@
+## 2024-08-08
+|paper|code|
+|---|---|
+|[exploiting semantic localization in highly dynamic wireless networks using deep homoscedastic domain adaptation](https://arxiv.org/abs/2310.07792)|[semanticloc](https://github.com/leo-chu/semanticloc)|
+|[telco-rag: navigating the challenges of retrieval-augmented language models for telecommunications](https://arxiv.org/abs/2404.15939)|[telco-rag](https://github.com/netop-team/telco-rag)|
+|[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
+|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[bayes-optimal learning of an extensive-width neural network from quadratically many samples](https://arxiv.org/abs/2408.03733)|[ExtensiveWidthQuadraticSamples](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)|
 ## 2024-08-07
 |paper|code|
 |---|---|
