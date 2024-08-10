@@ -1,3 +1,7 @@
+## 2024-08-09
+|paper|code|
+|---|---|
+|[exploiting structure in quantum relative entropy programs](https://arxiv.org/abs/2407.00241)|[qrep-structure](https://github.com/kerry-he/qrep-structure)|
 ## 2024-08-08
 |paper|code|
 |---|---|
