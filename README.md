@@ -1,3 +1,7 @@
+## 2024-08-12
+|paper|code|
+|---|---|
+|[the rlign algorithm for enhanced electrocardiogram analysis through r-peak alignment for explainable classification and clustering](https://arxiv.org/abs/2407.15555)|[rlign](https://github.com/imi-ms/rlign)|
 ## 2024-08-09
 |paper|code|
 |---|---|
@@ -8,7 +12,7 @@
 |[exploiting semantic localization in highly dynamic wireless networks using deep homoscedastic domain adaptation](https://arxiv.org/abs/2310.07792)|[semanticloc](https://github.com/leo-chu/semanticloc)|
 |[telco-rag: navigating the challenges of retrieval-augmented language models for telecommunications](https://arxiv.org/abs/2404.15939)|[telco-rag](https://github.com/netop-team/telco-rag)|
 |[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
-|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[real-time event recognition of long-distance distributed vibration sensing with knowledge distillation and hardware acceleration](https://arxiv.org/abs/2408.03647)|[efficient-dvs](https://github.com/hust-iof/efficient-dvs)|
 |[bayes-optimal learning of an extensive-width neural network from quadratically many samples](https://arxiv.org/abs/2408.03733)|[ExtensiveWidthQuadraticSamples](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)|
 ## 2024-08-07
 |paper|code|
