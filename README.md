@@ -1,3 +1,9 @@
+## 2024-08-13
+|paper|code|
+|---|---|
+|[convolutional proximal neural networks and plug-and-play algorithms](https://arxiv.org/abs/2011.02281)|[Proximal_Neural_Networks](https://github.com/johertrich/Proximal_Neural_Networks)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
 ## 2024-08-12
 |paper|code|
 |---|---|
