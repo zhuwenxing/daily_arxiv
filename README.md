@@ -1,3 +1,9 @@
+## 2024-08-14
+|paper|code|
+|---|---|
+|[eeg-macs: manifold attention and confidence stratification for eeg-based cross-center brain disease diagnosis under unreliable annotations](https://arxiv.org/abs/2405.00734)|[eeg-disease-macs](https://github.com/ici-bci/eeg-disease-macs)|
+|[interpretable pre-trained transformers for heart time-series data](https://arxiv.org/abs/2407.20775)|[heartgpt](https://github.com/harryjdavies/heartgpt)|
+|[how transformers learn causal structure with gradient descent](https://arxiv.org/abs/2402.14735)|[transformers-learn-causal-structure](https://github.com/eshnich/transformers-learn-causal-structure)|
 ## 2024-08-13
 |paper|code|
 |---|---|
