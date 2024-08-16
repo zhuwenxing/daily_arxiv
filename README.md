@@ -1,3 +1,13 @@
+## 2024-08-15
+|paper|code|
+|---|---|
+|[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
+|[lipcot: linear predictive coding based tokenizer for self-supervised learning of time series data via language models](https://arxiv.org/abs/2408.07292)|[lipcot](https://github.com/mdfahimanjum/lipcot)|
+|[adaptive basis function selection for computationally efficient predictions](https://arxiv.org/abs/2408.07480)|[adaptive-bf-selection](https://github.com/aokullberg/adaptive-bf-selection)|
+|[periodwave: multi-period flow matching for high-fidelity waveform generation](https://arxiv.org/abs/2408.07547)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
+|[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 ## 2024-08-14
 |paper|code|
 |---|---|
