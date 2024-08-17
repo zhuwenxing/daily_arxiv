@@ -1,13 +1,22 @@
+## 2024-08-16
+|paper|code|
+|---|---|
+|[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
+|[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
+|[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
+|[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
 ## 2024-08-15
 |paper|code|
 |---|---|
 |[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[virus-nerf -- vision, infrared and ultrasonic based neural radiance fields](https://arxiv.org/abs/2403.09477)|[virus_nerf](https://github.com/ethz-asl/virus_nerf)|
 |[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
 |[lipcot: linear predictive coding based tokenizer for self-supervised learning of time series data via language models](https://arxiv.org/abs/2408.07292)|[lipcot](https://github.com/mdfahimanjum/lipcot)|
 |[adaptive basis function selection for computationally efficient predictions](https://arxiv.org/abs/2408.07480)|[adaptive-bf-selection](https://github.com/aokullberg/adaptive-bf-selection)|
 |[periodwave: multi-period flow matching for high-fidelity waveform generation](https://arxiv.org/abs/2408.07547)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
 |[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+|[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2024-08-14
 |paper|code|
 |---|---|
@@ -20,6 +29,8 @@
 |[convolutional proximal neural networks and plug-and-play algorithms](https://arxiv.org/abs/2011.02281)|[Proximal_Neural_Networks](https://github.com/johertrich/Proximal_Neural_Networks)|
 |[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
 |[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[a robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests](https://arxiv.org/abs/2408.05764)|[rio](https://github.com/ethz-asl/rio)|
+|[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
 ## 2024-08-12
 |paper|code|
 |---|---|
