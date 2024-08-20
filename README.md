@@ -1,7 +1,13 @@
+## 2024-08-19
+|paper|code|
+|---|---|
+|[multistatic-radar rcs-signature recognition of aerial vehicles: a bayesian fusion approach](https://arxiv.org/abs/2402.17987)|[rcs_atr](https://github.com/mlpotter/rcs_atr)|
+|[entropy coding of unordered data structures](https://arxiv.org/abs/2408.08837)|[shuffle-coding](https://github.com/juliuskunze/shuffle-coding)|
 ## 2024-08-16
 |paper|code|
 |---|---|
 |[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
+|[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
 |[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
 |[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
 |[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
