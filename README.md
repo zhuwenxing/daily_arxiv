@@ -1,3 +1,10 @@
+## 2024-08-20
+|paper|code|
+|---|---|
+|[textless unit-to-unit training for many-to-many multilingual speech-to-speech translation](https://arxiv.org/abs/2308.01831)|[utut](https://github.com/choijeongsoo/utut)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[an observability-constrained magnetic field-aided inertial navigation system -- extended version](https://arxiv.org/abs/2406.02161)|[OC-MAINS-code](https://github.com/Huang-Chuan/OC-MAINS-code)|
+|[compression represents intelligence linearly](https://arxiv.org/abs/2404.09937)|[llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence)|
 ## 2024-08-19
 |paper|code|
 |---|---|
@@ -7,7 +14,6 @@
 |paper|code|
 |---|---|
 |[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
-|[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
 |[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
 |[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
 |[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
