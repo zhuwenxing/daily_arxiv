@@ -1,3 +1,8 @@
+## 2024-08-21
+|paper|code|
+|---|---|
+|[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
+|[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
 ## 2024-08-20
 |paper|code|
 |---|---|
