@@ -1,19 +1,34 @@
+## 2024-08-22
+|paper|code|
+|---|---|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+|[energy-efficient beamforming for riss-aided communications: gradient based meta learning](https://arxiv.org/abs/2311.06861)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[towards end-to-end gps localization with neural pseudorange correction](https://arxiv.org/abs/2401.10685)|[e2eprnet](https://github.com/ailocar/e2eprnet)|
+|[trellis bma: coded trace reconstruction on ids channels for dna storage](https://arxiv.org/abs/2107.06440)|[clustered-nanopore-reads-dataset](https://github.com/microsoft/clustered-nanopore-reads-dataset)|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
+|[improved field size bounds for higher order mds codes](https://arxiv.org/abs/2212.11262)|[mds3-groebner](https://github.com/jbrakensiek/mds3-groebner)|
+|[understanding is compression](https://arxiv.org/abs/2407.07723)|[medal](https://github.com/mcGill-NLP/medal)|
 ## 2024-08-21
 |paper|code|
 |---|---|
 |[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
 |[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
+|[parkinson's disease classification via eeg: all you need is a single convolutional layer](https://arxiv.org/abs/2408.10457)|[LightCNNforPD](https://github.com/MDFahimAnjum/LightCNNforPD)|
 ## 2024-08-20
 |paper|code|
 |---|---|
 |[textless unit-to-unit training for many-to-many multilingual speech-to-speech translation](https://arxiv.org/abs/2308.01831)|[utut](https://github.com/choijeongsoo/utut)|
+|[learning based dynamic cluster reconfiguration for uav mobility management with 3d beamforming](https://arxiv.org/abs/2402.00224)|[icmlcn-2024-dynamic-clustering](https://github.com/irshadmeer/icmlcn-2024-dynamic-clustering)|
 |[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
 |[an observability-constrained magnetic field-aided inertial navigation system -- extended version](https://arxiv.org/abs/2406.02161)|[OC-MAINS-code](https://github.com/Huang-Chuan/OC-MAINS-code)|
+|[an optimal pairwise merge algorithm improves the quality and consistency of nonnegative matrix factorization](https://arxiv.org/abs/2408.09013)|[NMFMerge.jl](https://github.com/HolyLab/NMFMerge.jl)|
 |[compression represents intelligence linearly](https://arxiv.org/abs/2404.09937)|[llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence)|
 ## 2024-08-19
 |paper|code|
 |---|---|
 |[multistatic-radar rcs-signature recognition of aerial vehicles: a bayesian fusion approach](https://arxiv.org/abs/2402.17987)|[rcs_atr](https://github.com/mlpotter/rcs_atr)|
+|[adversarial contrastive learning based physics-informed temporal networks for cuffless blood pressure estimation](https://arxiv.org/abs/2408.08488)|[acl-pitn](https://github.com/zest86/acl-pitn)|
 |[entropy coding of unordered data structures](https://arxiv.org/abs/2408.08837)|[shuffle-coding](https://github.com/juliuskunze/shuffle-coding)|
 ## 2024-08-16
 |paper|code|
