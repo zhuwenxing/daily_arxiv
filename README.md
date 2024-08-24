@@ -1,3 +1,13 @@
+## 2024-08-23
+|paper|code|
+|---|---|
+|[self-supervised learning for clustering of wireless spectrum activity](https://arxiv.org/abs/2210.02899)|[self-supervised-spectrum-sensing](https://github.com/sensorlab/self-supervised-spectrum-sensing)|
+|[pulse shape discrimination based on the tempotron: a powerful classifier on gpu](https://arxiv.org/abs/2305.18205)|[TempotronGPU](https://github.com/HaoranLiu507/TempotronGPU)|
+|[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
+|[real-time event recognition of long-distance distributed vibration sensing with knowledge distillation and hardware acceleration](https://arxiv.org/abs/2408.03647)|[efficient-dvs](https://github.com/hust-iof/efficient-dvs)|
+|[gram-schmidt methods for unsupervised feature extraction and selection](https://arxiv.org/abs/2311.09386)|[gram_schmidt_feature_extraction](https://github.com/byaghooti/gram_schmidt_feature_extraction)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[a scalable quantum non-local neural network for image classification](https://arxiv.org/abs/2407.18906)|[QNL-Net](https://github.com/sparshgup/QNL-Net)|
 ## 2024-08-22
 |paper|code|
 |---|---|
