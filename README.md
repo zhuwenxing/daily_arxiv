@@ -1,3 +1,8 @@
+## 2024-08-26
+|paper|code|
+|---|---|
+|[mitigating mismatch compression in differential local field potentials](https://arxiv.org/abs/2204.03778)|[mismatch_compression](https://github.com/virati/mismatch_compression)|
+|[concept-based explainability for an eeg transformer model](https://arxiv.org/abs/2307.12745)|[tcav-bendr](https://github.com/andersgmadsen/tcav-bendr)|
 ## 2024-08-23
 |paper|code|
 |---|---|
@@ -15,7 +20,6 @@
 |[energy-efficient beamforming for riss-aided communications: gradient based meta learning](https://arxiv.org/abs/2311.06861)|[GMML](https://github.com/fenghaozhu/GMML)|
 |[towards end-to-end gps localization with neural pseudorange correction](https://arxiv.org/abs/2401.10685)|[e2eprnet](https://github.com/ailocar/e2eprnet)|
 |[trellis bma: coded trace reconstruction on ids channels for dna storage](https://arxiv.org/abs/2107.06440)|[clustered-nanopore-reads-dataset](https://github.com/microsoft/clustered-nanopore-reads-dataset)|
-|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
 |[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
 |[improved field size bounds for higher order mds codes](https://arxiv.org/abs/2212.11262)|[mds3-groebner](https://github.com/jbrakensiek/mds3-groebner)|
 |[understanding is compression](https://arxiv.org/abs/2407.07723)|[medal](https://github.com/mcGill-NLP/medal)|
