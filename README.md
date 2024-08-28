@@ -1,3 +1,15 @@
+## 2024-08-27
+|paper|code|
+|---|---|
+|[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
+|[interpretable and robust ai in eeg systems: a survey](https://arxiv.org/abs/2304.10755)|[survey](https://github.com/xinliangzhou/survey)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[wi-bfi: extracting the ieee 802.11 beamforming feedback information from commercial wi-fi devices](https://arxiv.org/abs/2309.04408)|[wi-bfi](https://github.com/kfoysalhaque/wi-bfi)|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[topological filtering of a signal over a network](https://arxiv.org/abs/2408.14109)|[topapprox](https://github.com/mvlier/topapprox)|
+|[reduce computational complexity for continuous wavelet transform in acoustic recognition using hop size](https://arxiv.org/abs/2408.14302)|[Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[hrgraph: leveraging llms for hr data knowledge graphs with information propagation-based job recommendation](https://arxiv.org/abs/2408.13521)|[hrgraph](https://github.com/azminewasi/hrgraph)|
 ## 2024-08-26
 |paper|code|
 |---|---|
@@ -19,6 +31,7 @@
 |[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
 |[energy-efficient beamforming for riss-aided communications: gradient based meta learning](https://arxiv.org/abs/2311.06861)|[GMML](https://github.com/fenghaozhu/GMML)|
 |[towards end-to-end gps localization with neural pseudorange correction](https://arxiv.org/abs/2401.10685)|[e2eprnet](https://github.com/ailocar/e2eprnet)|
+|[5g nr prach detection with convolutional neural networks (cnn): overcoming cell interference challenges](https://arxiv.org/abs/2408.11659)|[PRACHInterferenceDetectionModel](https://github.com/dguel82/PRACHInterferenceDetectionModel)|
 |[trellis bma: coded trace reconstruction on ids channels for dna storage](https://arxiv.org/abs/2107.06440)|[clustered-nanopore-reads-dataset](https://github.com/microsoft/clustered-nanopore-reads-dataset)|
 |[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
 |[improved field size bounds for higher order mds codes](https://arxiv.org/abs/2212.11262)|[mds3-groebner](https://github.com/jbrakensiek/mds3-groebner)|
