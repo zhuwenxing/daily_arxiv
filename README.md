@@ -1,3 +1,12 @@
+## 2024-08-28
+|paper|code|
+|---|---|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[graph gospa metric: a metric to measure the discrepancy between graphs of different sizes](https://arxiv.org/abs/2311.07596)|[the-graph-gospa-metric](https://github.com/jinhaogu/the-graph-gospa-metric)|
+|[neural network-based successive interference cancellation for non-linear bandlimited channels](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[minimal algorithmic information loss methods for dimension reduction, feature selection and network sparsification](https://arxiv.org/abs/1802.05843)|[Network-Robustness-by-Kolmogorov-Complexity](https://github.com/andandandand/Network-Robustness-by-Kolmogorov-Complexity)|
+|[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
 ## 2024-08-27
 |paper|code|
 |---|---|
