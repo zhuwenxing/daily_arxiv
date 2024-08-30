@@ -1,3 +1,7 @@
+## 2024-08-29
+|paper|code|
+|---|---|
+|[geometric neural network based on phase space for bci-eeg decoding](https://arxiv.org/abs/2403.05645)|[Phase-SPDNet](https://github.com/carraraig/Phase-SPDNet)|
 ## 2024-08-28
 |paper|code|
 |---|---|
