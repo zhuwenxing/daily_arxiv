@@ -1,3 +1,10 @@
+## 2024-08-30
+|paper|code|
+|---|---|
+|[massive digital over-the-air computation for communication-efficient federated edge learning](https://arxiv.org/abs/2405.15969)|[md-aircomp](https://github.com/liqiao19/md-aircomp)|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[flexible framework for generating synthetic electrocardiograms and photoplethysmograms](https://arxiv.org/abs/2408.16291)|[framework_for_synthetic_biosignals](https://github.com/utu-health-research/framework_for_synthetic_biosignals)|
+|[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
 ## 2024-08-29
 |paper|code|
 |---|---|
