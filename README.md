@@ -1,3 +1,7 @@
+## 2024-08-31
+|paper|code|
+|---|---|
+|[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
 ## 2024-08-30
 |paper|code|
 |---|---|
