@@ -8,11 +8,15 @@
 |[massive digital over-the-air computation for communication-efficient federated edge learning](https://arxiv.org/abs/2405.15969)|[md-aircomp](https://github.com/liqiao19/md-aircomp)|
 |[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
 |[flexible framework for generating synthetic electrocardiograms and photoplethysmograms](https://arxiv.org/abs/2408.16291)|[framework_for_synthetic_biosignals](https://github.com/utu-health-research/framework_for_synthetic_biosignals)|
+|[espargos: phase-coherent wifi csi datasets for wireless sensing research](https://arxiv.org/abs/2408.16377)|[espargos-wifi-channelcharting](https://github.com/jeija/espargos-wifi-channelcharting)|
 |[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
+|[robomnist: a multimodal dataset for multi-robot activity recognition using wifi sensing, video, and audio](https://arxiv.org/abs/2408.16703)|[robomnist](https://github.com/siamilab/robomnist)|
+|[protograph-based batched network codes](https://arxiv.org/abs/2408.16365)|[bnc](https://github.com/zhu-mingyang/bnc)|
 ## 2024-08-29
 |paper|code|
 |---|---|
 |[geometric neural network based on phase space for bci-eeg decoding](https://arxiv.org/abs/2403.05645)|[Phase-SPDNet](https://github.com/carraraig/Phase-SPDNet)|
+|[es-ptam: event-based stereo parallel tracking and mapping](https://arxiv.org/abs/2408.15605)|[es-ptam](https://github.com/tub-rip/es-ptam)|
 ## 2024-08-28
 |paper|code|
 |---|---|
