@@ -1,3 +1,11 @@
+## 2024-09-02
+|paper|code|
+|---|---|
+|[eegmatch: learning with incomplete labels for semi-supervised eeg-based cross-subject emotion recognition](https://arxiv.org/abs/2304.06496)|[eegmatch](https://github.com/kazabana/eegmatch)|
+|[multi-timescale ensemble q-learning for markov decision process policy optimization](https://arxiv.org/abs/2402.05476)|[tsp_23_supplementary_file](https://github.com/talhabozkus/tsp_23_supplementary_file)|
+|[leveraging digital cousins for ensemble q-learning in large-scale wireless networks](https://arxiv.org/abs/2402.08022)|[digital-cousins-for-ensemble-q-learning](https://github.com/talhabozkus/digital-cousins-for-ensemble-q-learning)|
+|[biomedbench: a benchmark suite of tinyml biomedical applications for low-power wearables](https://arxiv.org/abs/2406.03886)|[biomedbench](https://github.com/esl-epfl/biomedbench)|
+|[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
 ## 2024-08-31
 |paper|code|
 |---|---|
