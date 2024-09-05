@@ -1,3 +1,11 @@
+## 2024-09-04
+|paper|code|
+|---|---|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[bmd-hs-dataset](https://github.com/mhealthbuet/bmd-hs-dataset)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[entropy loss: an interpretability amplifier of 3d object detection network for intelligent driving](https://arxiv.org/abs/2409.00839)|[Eloss-Interpretability](https://github.com/yhbcode000/Eloss-Interpretability)|
 ## 2024-09-02
 |paper|code|
 |---|---|
@@ -14,10 +22,8 @@
 |paper|code|
 |---|---|
 |[massive digital over-the-air computation for communication-efficient federated edge learning](https://arxiv.org/abs/2405.15969)|[md-aircomp](https://github.com/liqiao19/md-aircomp)|
-|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
 |[flexible framework for generating synthetic electrocardiograms and photoplethysmograms](https://arxiv.org/abs/2408.16291)|[framework_for_synthetic_biosignals](https://github.com/utu-health-research/framework_for_synthetic_biosignals)|
 |[espargos: phase-coherent wifi csi datasets for wireless sensing research](https://arxiv.org/abs/2408.16377)|[espargos-wifi-channelcharting](https://github.com/jeija/espargos-wifi-channelcharting)|
-|[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
 |[robomnist: a multimodal dataset for multi-robot activity recognition using wifi sensing, video, and audio](https://arxiv.org/abs/2408.16703)|[robomnist](https://github.com/siamilab/robomnist)|
 |[protograph-based batched network codes](https://arxiv.org/abs/2408.16365)|[bnc](https://github.com/zhu-mingyang/bnc)|
 ## 2024-08-29
