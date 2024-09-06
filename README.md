@@ -1,9 +1,17 @@
+## 2024-09-05
+|paper|code|
+|---|---|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[hybrid-segmentor: a hybrid approach to automated fine-grained crack segmentation in civil infrastructure](https://arxiv.org/abs/2409.02866)|[Hybrid-Segmentor](https://github.com/junegoo94/Hybrid-Segmentor)|
+|[quantum state preparation using an exact cnot synthesis formulation](https://arxiv.org/abs/2401.01009)|[quantum-xyz](https://github.com/nozidoali/quantum-xyz)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-09-04
 |paper|code|
 |---|---|
 |[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
 |[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
-|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[bmd-hs-dataset](https://github.com/mhealthbuet/bmd-hs-dataset)|
+|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[HS-Dataset](https://github.com/sani002/HS-Dataset)|
+|[unsure: unknown noise level stein's unbiased risk estimator](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 |[entropy loss: an interpretability amplifier of 3d object detection network for intelligent driving](https://arxiv.org/abs/2409.00839)|[Eloss-Interpretability](https://github.com/yhbcode000/Eloss-Interpretability)|
 ## 2024-09-02
@@ -14,6 +22,7 @@
 |[leveraging digital cousins for ensemble q-learning in large-scale wireless networks](https://arxiv.org/abs/2402.08022)|[digital-cousins-for-ensemble-q-learning](https://github.com/talhabozkus/digital-cousins-for-ensemble-q-learning)|
 |[biomedbench: a benchmark suite of tinyml biomedical applications for low-power wearables](https://arxiv.org/abs/2406.03886)|[biomedbench](https://github.com/esl-epfl/biomedbench)|
 |[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
+|[mpada: open source framework for multimodal time series antenna array measurements](https://arxiv.org/abs/2408.16850)|[mpada](https://github.com/yuyichang/mpada)|
 ## 2024-08-31
 |paper|code|
 |---|---|
