@@ -1,8 +1,11 @@
+## 2024-09-06
+|paper|code|
+|---|---|
+|[an efficient frequency diversity scheme for ultra-reliable communications in two-path fading channels](https://arxiv.org/abs/2206.13459)|[two-ray-ultra-reliability](https://github.com/klb2/two-ray-ultra-reliability)|
 ## 2024-09-05
 |paper|code|
 |---|---|
 |[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
-|[hybrid-segmentor: a hybrid approach to automated fine-grained crack segmentation in civil infrastructure](https://arxiv.org/abs/2409.02866)|[Hybrid-Segmentor](https://github.com/junegoo94/Hybrid-Segmentor)|
 |[quantum state preparation using an exact cnot synthesis formulation](https://arxiv.org/abs/2401.01009)|[quantum-xyz](https://github.com/nozidoali/quantum-xyz)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-09-04
