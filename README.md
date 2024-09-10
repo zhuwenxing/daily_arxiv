@@ -1,3 +1,9 @@
+## 2024-09-09
+|paper|code|
+|---|---|
+|[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
+|[mixnet: joining force of classical and modern approaches toward the comprehensive pipeline in motor imagery eeg classification](https://arxiv.org/abs/2409.04104)|[mixnet](https://github.com/max-phairot-a/mixnet)|
+|[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
 ## 2024-09-06
 |paper|code|
 |---|---|
