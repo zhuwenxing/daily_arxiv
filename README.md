@@ -1,9 +1,17 @@
+## 2024-09-10
+|paper|code|
+|---|---|
+|[doubly-iterative sparsified mmse turbo equalization for otfs modulation](https://arxiv.org/abs/2207.00866)|[dismmse-turbo-equalizer-for-otfs](https://github.com/alga53/dismmse-turbo-equalizer-for-otfs)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 ## 2024-09-09
 |paper|code|
 |---|---|
 |[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
 |[mixnet: joining force of classical and modern approaches toward the comprehensive pipeline in motor imagery eeg classification](https://arxiv.org/abs/2409.04104)|[mixnet](https://github.com/max-phairot-a/mixnet)|
-|[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
 ## 2024-09-06
 |paper|code|
 |---|---|
