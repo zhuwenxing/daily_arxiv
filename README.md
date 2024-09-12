@@ -1,3 +1,9 @@
+## 2024-09-11
+|paper|code|
+|---|---|
+|[unlocking the use of raw multispectral earth observation imagery for onboard artificial intelligence](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
+|[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
 ## 2024-09-10
 |paper|code|
 |---|---|
