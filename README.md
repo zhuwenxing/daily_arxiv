@@ -1,9 +1,15 @@
+## 2024-09-12
+|paper|code|
+|---|---|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[tinychirp: bird song recognition using tinyml models on low-power wireless acoustic sensors](https://arxiv.org/abs/2407.21453)|[tinychirp](https://github.com/tinypart/tinychirp)|
 ## 2024-09-11
 |paper|code|
 |---|---|
 |[unlocking the use of raw multispectral earth observation imagery for onboard artificial intelligence](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
 |[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
 |[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
+|[can large language models learn independent causal mechanisms?](https://arxiv.org/abs/2402.02636)|[modular-lm](https://github.com/strong-ai-lab/modular-lm)|
 ## 2024-09-10
 |paper|code|
 |---|---|
@@ -18,6 +24,7 @@
 |---|---|
 |[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
 |[mixnet: joining force of classical and modern approaches toward the comprehensive pipeline in motor imagery eeg classification](https://arxiv.org/abs/2409.04104)|[mixnet](https://github.com/max-phairot-a/mixnet)|
+|[3d-gp-lmvic: learning-based multi-view image coding with 3d gaussian geometric priors](https://arxiv.org/abs/2409.04013)|[3D-GP-LMVIC](https://github.com/YujunHuang063/3D-GP-LMVIC)|
 ## 2024-09-06
 |paper|code|
 |---|---|
