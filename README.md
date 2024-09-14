@@ -1,3 +1,7 @@
+## 2024-09-13
+|paper|code|
+|---|---|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
 ## 2024-09-12
 |paper|code|
 |---|---|
