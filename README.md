@@ -2,10 +2,11 @@
 |paper|code|
 |---|---|
 |[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[domain adaptation for doa estimation in multipath channels with interferences](https://arxiv.org/abs/2409.07782)|[domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)|
+|[identification of head impact locations, speeds, and force based on head kinematics](https://arxiv.org/abs/2409.08177)|[impact_retriever](https://github.com/xzhan96-stf/impact_retriever)|
 ## 2024-09-12
 |paper|code|
 |---|---|
-|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[tinychirp: bird song recognition using tinyml models on low-power wireless acoustic sensors](https://arxiv.org/abs/2407.21453)|[tinychirp](https://github.com/tinypart/tinychirp)|
 ## 2024-09-11
 |paper|code|
@@ -23,6 +24,8 @@
 |[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
 |[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
 |[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+|[adaptive $k$-nearest neighbor classifier based on the local estimation of the shape operator](https://arxiv.org/abs/2409.05084)|[kknn](https://github.com/alexandrelevada/kknn)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
 ## 2024-09-09
 |paper|code|
 |---|---|
