@@ -1,3 +1,8 @@
+## 2024-09-17
+|paper|code|
+|---|---|
+|[harnessing the power of federated learning in federated contextual bandits](https://arxiv.org/abs/2312.16341)|[fedigw](https://github.com/shengroup/fedigw)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
 ## 2024-09-16
 |paper|code|
 |---|---|
