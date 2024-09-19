@@ -1,3 +1,12 @@
+## 2024-09-18
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
+|[neural fields for adaptive photoacoustic computed tomography](https://arxiv.org/abs/2409.10876)|[NF-APACT](https://github.com/Lukeli0425/NF-APACT)|
+|[muse: flexible voiceprint receptive fields and multi-path fusion enhanced taylor transformer for u-net-based speech enhancement](https://arxiv.org/abs/2406.04589)|[MUSE-Speech-Enhancement](https://github.com/huaidanquede/MUSE-Speech-Enhancement)|
+|[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
 ## 2024-09-17
 |paper|code|
 |---|---|
