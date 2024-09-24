@@ -1,17 +1,24 @@
+## 2024-09-23
+|paper|code|
+|---|---|
+|[high perceptual quality wireless image delivery with denoising diffusion models](https://arxiv.org/abs/2309.15889)|[deepjscc-diffusion](https://github.com/ipc-lab/deepjscc-diffusion)|
 ## 2024-09-20
 |paper|code|
 |---|---|
 |[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+|[enhancing 3d robotic vision robustness by minimizing adversarial mutual information through a curriculum training approach](https://arxiv.org/abs/2409.12379)|[mine-n-learn](https://github.com/nstrndrbi/mine-n-learn)|
 ## 2024-09-19
 |paper|code|
 |---|---|
+|[real-time sound event localization and detection: deployment challenges on edge devices](https://arxiv.org/abs/2409.11700)|[realtime-seld-edge](https://github.com/itsjunwei/realtime-seld-edge)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 ## 2024-09-18
 |paper|code|
 |---|---|
 |[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
-|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/modelscope/3D-Speaker)|
 |[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
+|[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
 |[muse: flexible voiceprint receptive fields and multi-path fusion enhanced taylor transformer for u-net-based speech enhancement](https://arxiv.org/abs/2406.04589)|[MUSE-Speech-Enhancement](https://github.com/huaidanquede/MUSE-Speech-Enhancement)|
 |[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
 ## 2024-09-17
