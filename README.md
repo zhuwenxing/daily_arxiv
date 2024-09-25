@@ -1,3 +1,13 @@
+## 2024-09-24
+|paper|code|
+|---|---|
+|[beamfocusing optimization for near-field wideband multi-user communications](https://arxiv.org/abs/2306.16861)|[beamfocusing-optimization-for-near-field-wideband-multi-user-communications](https://github.com/zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications)|
+|[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[sz-validation-framework](https://github.com/esl-epfl/sz-validation-framework)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[speed: scalable preprocessing of eeg data for self-supervised learning](https://arxiv.org/abs/2408.08065)|[speed](https://github.com/andersgmadsen/speed)|
+|[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
+|[performance evaluation of pac decoding with deep neural networks](https://arxiv.org/abs/2405.02590)|[Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks](https://github.com/daijingixn/Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks)|
 ## 2024-09-23
 |paper|code|
 |---|---|
