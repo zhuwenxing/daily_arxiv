@@ -1,3 +1,9 @@
+## 2024-09-26
+|paper|code|
+|---|---|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[the language of infographics: toward understanding conceptual metaphor use in scientific storytelling](https://arxiv.org/abs/2407.13416)|[metaphortool](https://github.com/lauragarrison87/metaphortool)|
 ## 2024-09-25
 |paper|code|
 |---|---|
