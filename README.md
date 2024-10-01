@@ -1,3 +1,9 @@
+## 2024-09-30
+|paper|code|
+|---|---|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
+|[simpler gradient methods for blind super-resolution with lower iteration complexity](https://arxiv.org/abs/2409.18387)|[SimplerGDs-VHL](https://github.com/Jinshengg/SimplerGDs-VHL)|
 ## 2024-09-26
 |paper|code|
 |---|---|
