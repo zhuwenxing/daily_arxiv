@@ -1,3 +1,24 @@
+## 2024-10-08
+|paper|code|
+|---|---|
+|[fast variational block-sparse bayesian learning](https://arxiv.org/abs/2306.00442)|[fast-variational-block-sparse-bayesian-learning](https://gitlab.com/jmoederl/fast-variational-block-sparse-bayesian-learning)|
+|[cst-yolo: a novel method for blood cell detection based on improved yolov7 and cnn-swin transformer](https://arxiv.org/abs/2306.14590)|[CST-YOLO](https://github.com/mkang315/CST-YOLO)|
+|[sparse learned kernels for interpretable and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[real-time eeg-based emotion recognition model using principal component analysis and tree-based models for neurohumanities](https://arxiv.org/abs/2401.15743)|[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)|
+|[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+## 2024-10-07
+|paper|code|
+|---|---|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/ncclab-sustech/eeg_image_decode)|
+|[manikin-recorded cardiopulmonary sounds dataset using digital stethoscope](https://arxiv.org/abs/2410.03280)|[hls-cmds](https://github.com/torabiy/hls-cmds)|
+|[an ebpf-based trace-driven emulation method for satellite networks](https://arxiv.org/abs/2408.15581)|[ebpf-trace-emu](https://github.com/yeliqseu/ebpf-trace-emu)|
+|[receptors cluster in high-curvature membrane regions for optimal spatial gradient sensing](https://arxiv.org/abs/2410.03395)|[recloc](https://github.com/kirkegaardlab/recloc)|
+## 2024-10-04
+|paper|code|
+|---|---|
+|[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
+|[multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ecg from arbitrary single-lead ecg](https://arxiv.org/abs/2407.11481)|[mcma](https://github.com/chenjiar3/mcma)|
+|[capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves](https://arxiv.org/abs/2410.02221)|[SmartTextileGlove](https://github.com/arvintashakori/SmartTextileGlove)|
 ## 2024-09-30
 |paper|code|
 |---|---|
