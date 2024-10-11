@@ -1,3 +1,12 @@
+## 2024-10-10
+|paper|code|
+|---|---|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
+|[trustemg-net: using representation-masking transformer with u-net for surface electromyography enhancement](https://arxiv.org/abs/2410.03843)|[TrustEMG](https://github.com/eric-wang135/TrustEMG)|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
+|[accelerating error correction code transformers](https://arxiv.org/abs/2410.05911)|[aecct](https://github.com/mlaetvayn/aecct)|
 ## 2024-10-08
 |paper|code|
 |---|---|
@@ -6,6 +15,7 @@
 |[sparse learned kernels for interpretable and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
 |[real-time eeg-based emotion recognition model using principal component analysis and tree-based models for neurohumanities](https://arxiv.org/abs/2401.15743)|[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)|
 |[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[widistill: distilling large-scale wi-fi datasets with trajectory matching](https://arxiv.org/abs/2410.04073)|[widistill](https://github.com/the-sky001/widistill)|
 ## 2024-10-07
 |paper|code|
 |---|---|
