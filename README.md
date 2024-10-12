@@ -1,3 +1,7 @@
+## 2024-10-11
+|paper|code|
+|---|---|
+|[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 ## 2024-10-10
 |paper|code|
 |---|---|
