@@ -1,13 +1,19 @@
 ## 2024-10-11
 |paper|code|
 |---|---|
+|[eegunity: open-source tool in facilitating unified eeg datasets towards large-scale eeg model](https://arxiv.org/abs/2410.07196)|[eegunity](https://github.com/baizhige/eegunity)|
+|[rfboost: understanding and boosting deep wifi sensing via physical data augmentation](https://arxiv.org/abs/2410.07230)|[rfboost](https://github.com/aiot-lab/rfboost)|
+|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
+|[almost minimax optimal best arm identification in piecewise stationary linear bandits](https://arxiv.org/abs/2410.07638)|[BAI-in-PSLB](https://github.com/Y-Hou/BAI-in-PSLB)|
 ## 2024-10-10
 |paper|code|
 |---|---|
 |[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
 |[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[trustemg-net: using representation-masking transformer with u-net for surface electromyography enhancement](https://arxiv.org/abs/2410.03843)|[TrustEMG](https://github.com/eric-wang135/TrustEMG)|
+|[episodic fine-tuning prototypical networks for optimization-based few-shot learning: application to audio classification](https://arxiv.org/abs/2410.05302)|[proto-MAML](https://github.com/zdsy/proto-MAML)|
+|[closed-loop phase selection in eeg-tms using bayesian optimization](https://arxiv.org/abs/2410.05747)|[BO_for_EEG-TMS_phase](https://github.com/MiriamKirchhoff/BO_for_EEG-TMS_phase)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 |[accelerating error correction code transformers](https://arxiv.org/abs/2410.05911)|[aecct](https://github.com/mlaetvayn/aecct)|
@@ -20,6 +26,7 @@
 |[real-time eeg-based emotion recognition model using principal component analysis and tree-based models for neurohumanities](https://arxiv.org/abs/2401.15743)|[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)|
 |[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
 |[widistill: distilling large-scale wi-fi datasets with trajectory matching](https://arxiv.org/abs/2410.04073)|[widistill](https://github.com/the-sky001/widistill)|
+|[large-scale gnss spreading code optimization](https://arxiv.org/abs/2410.04653)|[decor](https://github.com/Stanford-NavLab/decor)|
 ## 2024-10-07
 |paper|code|
 |---|---|
