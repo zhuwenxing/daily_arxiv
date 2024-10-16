@@ -1,20 +1,40 @@
+## 2024-10-15
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[temporal action localization for inertial-based human activity recognition](https://arxiv.org/abs/2311.15831)|[tal_for_har](https://github.com/mariusbock/tal_for_har)|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[channel correlation matrix extrapolation based on roughness calibration of scatterers](https://arxiv.org/abs/2409.10900)|[CCM-Extrapolation](https://github.com/zhanghl24/CCM-Extrapolation)|
+|[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
+|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
+|[multimodal physical activity forecasting in free-living clinical settings: hunting opportunities for just-in-time interventions](https://arxiv.org/abs/2410.09643)|[movesense](https://github.com/ab9mamun/movesense)|
+|[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
+|[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
+|[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
+## 2024-10-14
+|paper|code|
+|---|---|
+|[brainib: interpretable brain network-based psychiatric diagnosis with graph information bottleneck](https://arxiv.org/abs/2205.03612)|[brain-and-information-bottleneck](https://github.com/sjyucnel/brain-and-information-bottleneck)|
+|[biomedbench: a benchmark suite of tinyml biomedical applications for low-power wearables](https://arxiv.org/abs/2406.03886)|[biomedbench](https://github.com/esl-epfl/biomedbench)|
+|[physics and deep learning in computational wave imaging](https://arxiv.org/abs/2410.08329)|[ML-NDT](https://github.com/iikka-v/ML-NDT)|
+|[radarode-mtl: a multi-task learning framework with eccentric gradient alignment for robust radar-based ecg reconstruction](https://arxiv.org/abs/2410.08656)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
+|[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2024-10-11
 |paper|code|
 |---|---|
 |[eegunity: open-source tool in facilitating unified eeg datasets towards large-scale eeg model](https://arxiv.org/abs/2410.07196)|[eegunity](https://github.com/baizhige/eegunity)|
 |[rfboost: understanding and boosting deep wifi sensing via physical data augmentation](https://arxiv.org/abs/2410.07230)|[rfboost](https://github.com/aiot-lab/rfboost)|
-|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 |[almost minimax optimal best arm identification in piecewise stationary linear bandits](https://arxiv.org/abs/2410.07638)|[BAI-in-PSLB](https://github.com/Y-Hou/BAI-in-PSLB)|
 ## 2024-10-10
 |paper|code|
 |---|---|
-|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
 |[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[trustemg-net: using representation-masking transformer with u-net for surface electromyography enhancement](https://arxiv.org/abs/2410.03843)|[TrustEMG](https://github.com/eric-wang135/TrustEMG)|
 |[episodic fine-tuning prototypical networks for optimization-based few-shot learning: application to audio classification](https://arxiv.org/abs/2410.05302)|[proto-MAML](https://github.com/zdsy/proto-MAML)|
 |[closed-loop phase selection in eeg-tms using bayesian optimization](https://arxiv.org/abs/2410.05747)|[BO_for_EEG-TMS_phase](https://github.com/MiriamKirchhoff/BO_for_EEG-TMS_phase)|
-|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 |[accelerating error correction code transformers](https://arxiv.org/abs/2410.05911)|[aecct](https://github.com/mlaetvayn/aecct)|
 ## 2024-10-08
