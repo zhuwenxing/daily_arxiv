@@ -1,3 +1,7 @@
+## 2024-10-16
+|paper|code|
+|---|---|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 ## 2024-10-15
 |paper|code|
 |---|---|
