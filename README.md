@@ -1,7 +1,10 @@
 ## 2024-10-16
 |paper|code|
 |---|---|
+|[mobile edge generation-enabled digital twin: architecture design and research opportunities](https://arxiv.org/abs/2407.02804)|[meg_dt](https://github.com/xiaoxiaxusummer/meg_dt)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[channel charting-based channel prediction on real-world distributed massive mimo csi](https://arxiv.org/abs/2410.11486)|[channelcharting-channelprediction](https://github.com/phillipstephan/channelcharting-channelprediction)|
+|[null models for comparing information decomposition across complex systems](https://arxiv.org/abs/2410.11583)|[numit](https://github.com/alberto-liardi/numit)|
 ## 2024-10-15
 |paper|code|
 |---|---|
@@ -17,6 +20,7 @@
 |[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
 |[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
 |[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
+|[a deep learning based decoder for concatenated coding over deletion channels](https://arxiv.org/abs/2410.09460)|[DNN-for-Deletion-Channel](https://github.com/Bilkent-CTAR-Lab/DNN-for-Deletion-Channel)|
 ## 2024-10-14
 |paper|code|
 |---|---|
