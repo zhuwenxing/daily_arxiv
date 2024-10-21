@@ -16,6 +16,7 @@
 |[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
 |[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
 |[multimodal physical activity forecasting in free-living clinical settings: hunting opportunities for just-in-time interventions](https://arxiv.org/abs/2410.09643)|[movesense](https://github.com/ab9mamun/movesense)|
+|[wand: wavelet analysis-based neural decomposition of mrs signals for artifact removal](https://arxiv.org/abs/2410.10427)|[wand-for-mrs](https://github.com/julianmer/wand-for-mrs)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
 |[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
 |[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
