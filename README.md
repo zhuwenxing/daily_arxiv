@@ -1,8 +1,15 @@
+## 2024-10-21
+|paper|code|
+|---|---|
+|[gabor is enough: interpretable deep denoising with a gabor synthesis dictionary prior](https://arxiv.org/abs/2204.11146)|[cdlnet-ojsp](https://github.com/nikopj/cdlnet-ojsp)|
+|[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[convergence of manifold filter-combine networks](https://arxiv.org/abs/2410.14639)|[mfcn](https://github.com/dj408/mfcn)|
+|[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
 ## 2024-10-16
 |paper|code|
 |---|---|
 |[mobile edge generation-enabled digital twin: architecture design and research opportunities](https://arxiv.org/abs/2407.02804)|[meg_dt](https://github.com/xiaoxiaxusummer/meg_dt)|
-|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[channel charting-based channel prediction on real-world distributed massive mimo csi](https://arxiv.org/abs/2410.11486)|[channelcharting-channelprediction](https://github.com/phillipstephan/channelcharting-channelprediction)|
 |[null models for comparing information decomposition across complex systems](https://arxiv.org/abs/2410.11583)|[numit](https://github.com/alberto-liardi/numit)|
 ## 2024-10-15
