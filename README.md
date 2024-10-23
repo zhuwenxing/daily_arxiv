@@ -1,3 +1,24 @@
+## 2024-10-22
+|paper|code|
+|---|---|
+|[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
+|[uncertainty-aware and reliable neural mimo receivers via modular bayesian deep learning](https://arxiv.org/abs/2302.02436)|[bayesian-learning-in-receivers-for-decoding](https://github.com/tomerraviv95/bayesian-learning-in-receivers-for-decoding)|
+|[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
+|[a rainbow in deep network black boxes](https://arxiv.org/abs/2305.18512)|[rainbow](https://github.com/florentinguth/rainbow)|
+|[apsense: data-driven algorithm in ppg-based sleep apnea sensing](https://arxiv.org/abs/2306.10863)|[apsense](https://github.com/iobt-vistec/apsense)|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[experimental analysis of the trc benchmark system](https://arxiv.org/abs/2403.07438)|[](https://github.com/maltekrack/NLtest/blob/main/TESTRIGS/01_TRChallenge/)|
+|[improving galileo osnma time to first authenticated fix](https://arxiv.org/abs/2403.14739)|[osnma](https://github.com/algafix/osnma)|
+|[time-of-arrival estimation and phase unwrapping of head-related transfer functions with integer linear programming](https://arxiv.org/abs/2405.06804)|[hrtf-ilp](https://github.com/yoyololicon/hrtf-ilp)|
+|[medformer: a multi-granularity patching transformer for medical time-series classification](https://arxiv.org/abs/2405.19363)|[medformer](https://github.com/dl4mhealth/medformer)|
+|[automatic ai model selection for wireless systems: online learning via digital twinning](https://arxiv.org/abs/2406.15819)|[DT-powered-AMS](https://github.com/qiushuo0913/DT-powered-AMS)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[upper limb surface electromyography -- geometry, spectral characteristics, temporal evolution, and demographic confounds](https://arxiv.org/abs/2409.19939)|[wristEMG](https://github.com/HarshavardhanaTG/wristEMG)|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[deepvigor+: scalable and accurate semi-analytical fault resilience analysis for deep neural network](https://arxiv.org/abs/2410.15742)|[deepvigor](https://github.com/mhahmadilivany/deepvigor)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
+|[attempting the impossible: enumerating extremal submodular functions for n=6](https://arxiv.org/abs/2410.15502)|[submodular-functions-6](https://github.com/csirmaz/submodular-functions-6)|
 ## 2024-10-21
 |paper|code|
 |---|---|
