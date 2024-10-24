@@ -1,3 +1,10 @@
+## 2024-10-23
+|paper|code|
+|---|---|
+|[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
+|[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[onboard satellite image classification for earth observation: a comparative study of vit models](https://arxiv.org/abs/2409.03901)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
 ## 2024-10-22
 |paper|code|
 |---|---|
@@ -17,6 +24,7 @@
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
 |[deepvigor+: scalable and accurate semi-analytical fault resilience analysis for deep neural network](https://arxiv.org/abs/2410.15742)|[deepvigor](https://github.com/mhahmadilivany/deepvigor)|
+|[blind equalization using a variational autoencoder with second order volterra channel model](https://arxiv.org/abs/2410.16125)|[volterra-vae](https://github.com/sfvnielsen/volterra-vae)|
 |[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
 |[attempting the impossible: enumerating extremal submodular functions for n=6](https://arxiv.org/abs/2410.15502)|[submodular-functions-6](https://github.com/csirmaz/submodular-functions-6)|
 ## 2024-10-21
