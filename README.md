@@ -1,9 +1,16 @@
+## 2024-10-24
+|paper|code|
+|---|---|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
+|[eeg-dif: early warning of epileptic seizures through generative diffusion model-based multi-channel eeg signals forecasting](https://arxiv.org/abs/2410.17343)|[eeg-dif](https://github.com/jzk00/eeg-dif)|
 ## 2024-10-23
 |paper|code|
 |---|---|
 |[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
 |[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
 |[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[low-coherence sequence design under papr constraints](https://arxiv.org/abs/2407.21400)|[ieee-wcl-loceda](https://github.com/gangle-sun/ieee-wcl-loceda)|
 |[onboard satellite image classification for earth observation: a comparative study of vit models](https://arxiv.org/abs/2409.03901)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
 ## 2024-10-22
 |paper|code|
@@ -23,6 +30,7 @@
 |[upper limb surface electromyography -- geometry, spectral characteristics, temporal evolution, and demographic confounds](https://arxiv.org/abs/2409.19939)|[wristEMG](https://github.com/HarshavardhanaTG/wristEMG)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[unlocking the full potential of high-density surface emg: novel non-invasive high-yield motor unit decomposition](https://arxiv.org/abs/2410.14800)|[swarm-contrastive-decomposition](https://github.com/AgneGris/swarm-contrastive-decomposition)|
 |[deepvigor+: scalable and accurate semi-analytical fault resilience analysis for deep neural network](https://arxiv.org/abs/2410.15742)|[deepvigor](https://github.com/mhahmadilivany/deepvigor)|
 |[blind equalization using a variational autoencoder with second order volterra channel model](https://arxiv.org/abs/2410.16125)|[volterra-vae](https://github.com/sfvnielsen/volterra-vae)|
 |[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
