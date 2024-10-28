@@ -1,9 +1,13 @@
+## 2024-10-27
+|paper|code|
+|---|---|
+|[synaptogen: a cross-domain generative device model for large-scale neuromorphic circuit design](https://arxiv.org/abs/2404.06344)|[synaptogen](https://github.com/thennen/synaptogen)|
 ## 2024-10-25
 |paper|code|
 |---|---|
 |[approximate message passing with rigorous guarantees for pooled data and quantitative group testing](https://arxiv.org/abs/2309.15507)|[amp_pooled_qgt](https://github.com/pablopasc/amp_pooled_qgt)|
 |[ecg semantic integrator (esi): a foundation ecg model pretrained with llm-enhanced cardiological text](https://arxiv.org/abs/2405.19366)|[esi](https://github.com/comp-well-org/esi)|
-|[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[WavetableCVAE_Plugin](https://github.com/tsugumasa320/WavetableCVAE_Plugin)|
+|[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[wavetablecvae](https://github.com/tsugumasa320/wavetablecvae)|
 |[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
 |[striking a new chord: neural networks in music information dynamics](https://arxiv.org/abs/2410.17989)|[SeqLab](https://github.com/frshdjfry/SeqLab)|
 ## 2024-10-24
@@ -27,7 +31,6 @@
 |[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
 |[uncertainty-aware and reliable neural mimo receivers via modular bayesian deep learning](https://arxiv.org/abs/2302.02436)|[bayesian-learning-in-receivers-for-decoding](https://github.com/tomerraviv95/bayesian-learning-in-receivers-for-decoding)|
 |[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
-|[a rainbow in deep network black boxes](https://arxiv.org/abs/2305.18512)|[rainbow](https://github.com/florentinguth/rainbow)|
 |[apsense: data-driven algorithm in ppg-based sleep apnea sensing](https://arxiv.org/abs/2306.10863)|[apsense](https://github.com/iobt-vistec/apsense)|
 |[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
 |[experimental analysis of the trc benchmark system](https://arxiv.org/abs/2403.07438)|[](https://github.com/maltekrack/NLtest/blob/main/TESTRIGS/01_TRChallenge/)|
