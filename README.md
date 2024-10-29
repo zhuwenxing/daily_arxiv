@@ -1,3 +1,28 @@
+## 2024-10-28
+|paper|code|
+|---|---|
+|[deep reinforcement learning for urllc data management on top of scheduled embb traffic](https://arxiv.org/abs/2103.01801)|[telerl2021](https://github.com/InsaneMonster/telerl2021)|
+|[fbcnet: a multi-view convolutional neural network for brain-computer interface](https://arxiv.org/abs/2104.01233)|[FBCNet](https://github.com/ravikiran-mane/FBCNet)|
+|[scalable power control/beamforming in heterogeneous wireless networks with graph neural networks](https://arxiv.org/abs/2104.05463)|[hignn](https://github.com/zhangxiaochen95/hignn)|
+|[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
+|[dilated convolution based csi feedback compression for massive mimo systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
+|[multi-modality fusion using canonical correlation analysis methods: application in breast cancer survival prediction from histology and genomics](https://arxiv.org/abs/2111.13987)|[modelling_cca_brca_survival](https://github.com/svaishnavi411/modelling_cca_brca_survival)|
+|[accoustate: auto-annotation of imu-generated activity signatures under smart infrastructure](https://arxiv.org/abs/2112.06651)|[acconotate](https://github.com/stilllearningsoumya/acconotate)|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[reconfigurable massive mimo: harnessing the power of the electromagnetic domain for enhanced information transfer](https://arxiv.org/abs/2302.11385)|[r-mmimo](https://github.com/kekeyingbit/r-mmimo)|
+|[invertible kernel pca with random fourier features](https://arxiv.org/abs/2303.05043)|[invertible_kernel_PCA](https://github.com/dgedon/invertible_kernel_PCA)|
+|[a novel channel model for reconfigurable intelligent surfaces with consideration of polarization and switch impairments](https://arxiv.org/abs/2304.03713)|[matlab_ris_channelmodel](https://github.com/icefreeman123/matlab_ris_channelmodel)|
+|[maximum likelihood based phase-retrieval using fresnel propagation forward models with optional constraints](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
+|[a rainbow in deep network black boxes](https://arxiv.org/abs/2305.18512)|[rainbow](https://github.com/florentinguth/rainbow)|
+|[graph neural network-enhanced expectation propagation algorithm for mimo turbo receivers](https://arxiv.org/abs/2308.11335)|[GNN-enhanced-EP-for-Turbo-MIMO](https://github.com/STARainZ/GNN-enhanced-EP-for-Turbo-MIMO)|
+|[deep learning based modeling of wireless communication channel with fading](https://arxiv.org/abs/2312.06849)|[Deep-Learning-based-Modeling-of-Wireless-Communication-Channel-with-Fading](https://github.com/BrightBlueCheese/Deep-Learning-based-Modeling-of-Wireless-Communication-Channel-with-Fading)|
+|[radio map estimation -- an open dataset with directive transmitter antennas and initial experiments](https://arxiv.org/abs/2402.00878)|[rml](https://github.com/fabja19/rml)|
+|[graph representation learning for contention and interference management in wireless networks](https://arxiv.org/abs/2402.00879)|[ac-grl-wi-fi](https://github.com/zhouyou-gu/ac-grl-wi-fi)|
+|[polyclean: atomic optimization for super-resolution imaging and uncertainty estimation in radio interferometry](https://arxiv.org/abs/2406.01342)|[polyclean](https://github.com/AdriaJ/polyclean)|
+|[the multi-cluster fluctuating two-ray fading model](https://arxiv.org/abs/2212.02448)|[mftr-fading-channel-model](https://github.com/josedavidvega/mftr-fading-channel-model)|
+|[a spatially non-stationary fading channel model for simulation and (semi-) analytical study of elaa-mimo](https://arxiv.org/abs/2308.13858)|[non-stationary-fading-channel-model](https://github.com/elaa-mimo/non-stationary-fading-channel-model)|
+|[treet: transfer entropy estimation via transformer](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
 ## 2024-10-27
 |paper|code|
 |---|---|
