@@ -1,3 +1,7 @@
+## 2024-10-29
+|paper|code|
+|---|---|
+|[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
 ## 2024-10-28
 |paper|code|
 |---|---|
@@ -38,7 +42,6 @@
 ## 2024-10-24
 |paper|code|
 |---|---|
-|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
 |[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
 |[eeg-dif: early warning of epileptic seizures through generative diffusion model-based multi-channel eeg signals forecasting](https://arxiv.org/abs/2410.17343)|[eeg-dif](https://github.com/jzk00/eeg-dif)|
 ## 2024-10-23
