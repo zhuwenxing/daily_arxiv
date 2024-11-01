@@ -1,3 +1,11 @@
+## 2024-10-31
+|paper|code|
+|---|---|
+|[spectral graph pruning against over-squashing and over-smoothing](https://arxiv.org/abs/2404.04612)|[spectralpruningbraess](https://github.com/relationalml/spectralpruningbraess)|
+|[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
+|[unfolding target detection with state space model](https://arxiv.org/abs/2410.22774)|[neurodet](https://github.com/aiot-lab/neurodet)|
+|[dynamic threshold-based two-layer online unsupervised anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
+|[contrastive learning and adversarial disentanglement for privacy-preserving task-oriented semantic communications](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
 ## 2024-10-30
 |paper|code|
 |---|---|
