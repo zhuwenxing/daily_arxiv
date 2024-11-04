@@ -38,7 +38,6 @@
 |[unimts: unified pre-training for motion time series](https://arxiv.org/abs/2410.19818)|[unimts](https://github.com/xiyuanzh/unimts)|
 |[automatic classification of sleep stages from eeg signals using riemannian metrics and transformer networks](https://arxiv.org/abs/2410.19819)|[SPDTransNet_plus](https://github.com/MathieuSeraphim/SPDTransNet_plus)|
 |[papagei: open foundation models for optical physiological signals](https://arxiv.org/abs/2410.20542)|[papagei-foundation-model](https://github.com/nokia-bell-labs/papagei-foundation-model)|
-|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
 ## 2024-10-28
 |paper|code|
 |---|---|
