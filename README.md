@@ -1,9 +1,15 @@
+## 2024-11-04
+|paper|code|
+|---|---|
+|[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
+|[du-in: discrete units-guided mask modeling for decoding speech from intracranial neural signals](https://arxiv.org/abs/2405.11459)|[du-in](https://github.com/liulab-repository/du-in)|
+|[hrrpgraphnet: make hrrps to be graphs for efficient target recognition](https://arxiv.org/abs/2407.08236)|[HRRPGraphNet](https://github.com/MountainChenCad/HRRPGraphNet)|
+|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
 ## 2024-11-01
 |paper|code|
 |---|---|
 |[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
 |[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
-|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 ## 2024-10-31
 |paper|code|
 |---|---|
