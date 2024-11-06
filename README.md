@@ -1,15 +1,28 @@
+## 2024-11-05
+|paper|code|
+|---|---|
+|[spectral clustering via orthogonalization-free methods](https://arxiv.org/abs/2305.10356)|[distributedlevp.jl](https://github.com/qiyuanpang/distributedlevp.jl)|
+|[synthesizing eeg signals from event-related potential paradigms with conditional diffusion models](https://arxiv.org/abs/2403.18486)|[Conditional-EEG-Diffusion](https://github.com/guido151/Conditional-EEG-Diffusion)|
+|[refining adhd diagnosis with eeg: the impact of preprocessing and temporal segmentation on classification accuracy](https://arxiv.org/abs/2407.08316)|[refining-adhd-diagnosis-with-eeg-preprocesing-and-temporal-segmentation](https://gitlab.com/lucentia/refining-adhd-diagnosis-with-eeg-preprocesing-and-temporal-segmentation)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[enhancing glucose level prediction of icu patients through irregular time-series analysis and integrated representation](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
 ## 2024-11-04
 |paper|code|
 |---|---|
 |[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
 |[du-in: discrete units-guided mask modeling for decoding speech from intracranial neural signals](https://arxiv.org/abs/2405.11459)|[du-in](https://github.com/liulab-repository/du-in)|
 |[hrrpgraphnet: make hrrps to be graphs for efficient target recognition](https://arxiv.org/abs/2407.08236)|[HRRPGraphNet](https://github.com/MountainChenCad/HRRPGraphNet)|
-|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
+|[semantic knowledge distillation for onboard satellite earth observation image classification](https://arxiv.org/abs/2411.00209)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
+|[multi-group proportional representation in retrieval](https://arxiv.org/abs/2407.08571)|[multigroup-proportional-representation](https://github.com/alex-oesterling/multigroup-proportional-representation)|
 ## 2024-11-01
 |paper|code|
 |---|---|
 |[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
-|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[a peaceman-rachford splitting approach with deep equilibrium network for channel estimation](https://arxiv.org/abs/2410.23752)|[PR-DEN](https://github.com/wushitong1234/PR-DEN)|
+|[generative ai-powered plugin for robust federated learning in heterogeneous iot networks](https://arxiv.org/abs/2410.23824)|[gaudi-fl](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)|
+|[cough-e: a multimodal, privacy-preserving cough detection algorithm for the edge](https://arxiv.org/abs/2410.24066)|[Cough-E](https://github.com/esl-epfl/Cough-E)|
+|[computation with quantum reed-muller codes and their mapping onto 2d atom arrays](https://arxiv.org/abs/2410.23263)|[RM127](https://github.com/gongaa/RM127)|
 ## 2024-10-31
 |paper|code|
 |---|---|
