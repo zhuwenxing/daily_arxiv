@@ -1,3 +1,9 @@
+## 2024-11-06
+|paper|code|
+|---|---|
+|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
+|[filternet: harnessing frequency filters for time series forecasting](https://arxiv.org/abs/2411.01623)|[filternet](https://github.com/aikunyi/filternet)|
+|[conditional vendi score: an information-theoretic approach to diversity evaluation of prompt-based generative models](https://arxiv.org/abs/2411.02817)|[conditional-vendi](https://github.com/mjalali/conditional-vendi)|
 ## 2024-11-05
 |paper|code|
 |---|---|
