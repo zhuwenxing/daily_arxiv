@@ -1,3 +1,8 @@
+## 2024-11-07
+|paper|code|
+|---|---|
+|[r-nerf: neural radiance fields for modeling ris-enabled wireless environments](https://arxiv.org/abs/2405.11541)|[R-NeRF](https://github.com/HUSTGSNeRF/R-NeRF)|
+|[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 ## 2024-11-06
 |paper|code|
 |---|---|
