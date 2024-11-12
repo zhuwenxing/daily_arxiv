@@ -1,3 +1,10 @@
+## 2024-11-11
+|paper|code|
+|---|---|
+|[pan-tompkins++: a robust approach to detect r-peaks in ecg signals](https://arxiv.org/abs/2211.03171)|[Pan-Tompkins-Plus-Plus](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)|
+|[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
+|[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
+|[exploiting the structure of two graphs with graph neural networks](https://arxiv.org/abs/2411.05119)|[io-gnn](https://github.com/vmtenorio/io-gnn)|
 ## 2024-11-08
 |paper|code|
 |---|---|
