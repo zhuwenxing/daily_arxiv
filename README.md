@@ -1,3 +1,14 @@
+## 2024-11-12
+|paper|code|
+|---|---|
+|[deep riemannian networks for end-to-end eeg decoding](https://arxiv.org/abs/2212.10426)|[eegspdnet](https://github.com/dcwil/eegspdnet)|
+|[orchestration framework for open system models with autonomous riss and oblivious base stations](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[mutual information estimation via $f$-divergence and data derangements](https://arxiv.org/abs/2305.20025)|[fdime](https://github.com/tonellolab/fdime)|
+|[magnetic hysteresis modeling with neural operators](https://arxiv.org/abs/2407.03261)|[magnetic_hysteresis_neural_operator](https://github.com/chandratue/magnetic_hysteresis_neural_operator)|
+|[fitting multiple machine learning models with performance based clustering](https://arxiv.org/abs/2411.06572)|[function-clustering](https://github.com/mefe06/function-clustering)|
+|[ultra-marginal feature importance: learning from data with causal guarantees](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/hydroml/umfi)|
+|[universal exact compression of differentially private mechanisms](https://arxiv.org/abs/2405.20782)|[poissonprivaterepr](https://github.com/cheuktingli/poissonprivaterepr)|
+|[understanding the role of equivariance in self-supervised learning](https://arxiv.org/abs/2411.06508)|[understanding-essl](https://github.com/kaotty/understanding-essl)|
 ## 2024-11-11
 |paper|code|
 |---|---|
@@ -5,6 +16,7 @@
 |[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
 |[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
 |[exploiting the structure of two graphs with graph neural networks](https://arxiv.org/abs/2411.05119)|[io-gnn](https://github.com/vmtenorio/io-gnn)|
+|[zipnn: lossless compression for ai models](https://arxiv.org/abs/2411.05239)|[zipnn](https://github.com/zipnn/zipnn)|
 ## 2024-11-08
 |paper|code|
 |---|---|
@@ -13,9 +25,11 @@
 |[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
 |[higher-order gnns meet efficiency: sparse sobolev graph neural networks](https://arxiv.org/abs/2411.04570)|[S2-GNN](https://github.com/jhonygiraldo/S2-GNN)|
 |[semantic-aware resource management for c-v2x platooning via multi-agent reinforcement learning](https://arxiv.org/abs/2411.04672)|[semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning](https://github.com/qiongwu86/semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning)|
+|[efficient channel estimation with shorter pilots in ris-aided communications: using array geometries and interference statistics](https://arxiv.org/abs/2411.04753)|[RIS-shorter-pilots](https://github.com/ozlemtugfedemir/RIS-shorter-pilots)|
 ## 2024-11-07
 |paper|code|
 |---|---|
+|[reconfigurable massive mimo: precoding design and channel estimation in the electromagnetic domain](https://arxiv.org/abs/2405.02823)|[pra](https://github.com/kekeyingbit/pra)|
 |[r-nerf: neural radiance fields for modeling ris-enabled wireless environments](https://arxiv.org/abs/2405.11541)|[R-NeRF](https://github.com/HUSTGSNeRF/R-NeRF)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 |[towards entropic constraints on quantum speedups](https://arxiv.org/abs/2411.03439)|[QI_Research](https://github.com/DylanJVA/QI_Research)|
