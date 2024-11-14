@@ -1,3 +1,8 @@
+## 2024-11-13
+|paper|code|
+|---|---|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[model reconstruction using counterfactual explanations: a perspective from polytope theory](https://arxiv.org/abs/2405.05369)|[model-reconstruction-using-counterfactuals](https://github.com/pasandissanayake/model-reconstruction-using-counterfactuals)|
 ## 2024-11-12
 |paper|code|
 |---|---|
