@@ -1,3 +1,11 @@
+## 2024-11-14
+|paper|code|
+|---|---|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[gradient networks](https://arxiv.org/abs/2404.07361)|[gradientnetworks](https://github.com/spronav/gradientnetworks)|
+|[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[inferring directed spectral information flow between mixed-frequency time series](https://arxiv.org/abs/2408.06109)|[mf-tfcca](https://github.com/qiqixian/mf-tfcca)|
+|[explainable enrichment-driven graph reasoner (edgar) for large knowledge graphs with applications in drug repurposing](https://arxiv.org/abs/2409.18659)|[edgar](https://github.com/ranking-agent/edgar)|
 ## 2024-11-13
 |paper|code|
 |---|---|
