@@ -1,3 +1,8 @@
+## 2024-11-18
+|paper|code|
+|---|---|
+|[boosted neural decoders: achieving extreme reliability of ldpc codes for 6g networks](https://arxiv.org/abs/2405.13413)|[ldpc_error_floor](https://github.com/ghy1228/ldpc_error_floor)|
+|[a hybrid artificial intelligence system for automated eeg background analysis and report generation](https://arxiv.org/abs/2411.09874)|[ai_eeeg_report](https://github.com/tcs211/ai_eeeg_report)|
 ## 2024-11-15
 |paper|code|
 |---|---|
