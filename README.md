@@ -1,3 +1,10 @@
+## 2024-11-19
+|paper|code|
+|---|---|
+|[b-har: an open-source baseline framework for in depth study of human activity recognition datasets and workflows](https://arxiv.org/abs/2101.10870)|[B-HAR](https://github.com/B-HAR-HumanActivityRecognition/B-HAR)|
+|[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[lightcode: light analytical and neural codes for channels with feedback](https://arxiv.org/abs/2403.10751)|[lightcode](https://github.com/sravan-ankireddy/lightcode)|
 ## 2024-11-18
 |paper|code|
 |---|---|
