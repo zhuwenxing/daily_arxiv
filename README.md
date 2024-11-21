@@ -1,3 +1,7 @@
+## 2024-11-20
+|paper|code|
+|---|---|
+|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
 ## 2024-11-19
 |paper|code|
 |---|---|
