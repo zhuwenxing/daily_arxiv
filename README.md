@@ -1,3 +1,8 @@
+## 2024-11-22
+|paper|code|
+|---|---|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[gramep: an alignment-free method based on the maximum entropy principle for identifying snps](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
 ## 2024-11-21
 |paper|code|
 |---|---|
