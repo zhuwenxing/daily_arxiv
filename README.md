@@ -6,6 +6,7 @@
 ## 2024-11-21
 |paper|code|
 |---|---|
+|[enhanced cross-dataset electroencephalogram-based emotion recognition using unsupervised domain adaptation](https://arxiv.org/abs/2411.12852)|[emotionrecognitionuda](https://github.com/ryersonmultimedialab/emotionrecognitionuda)|
 |[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
 ## 2024-11-20
 |paper|code|
