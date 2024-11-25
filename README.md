@@ -3,11 +3,11 @@
 |---|---|
 |[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[gramep: an alignment-free method based on the maximum entropy principle for identifying snps](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
+|[iterative decoding of short bch codes and its post-processing](https://arxiv.org/abs/2411.13876)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
 ## 2024-11-21
 |paper|code|
 |---|---|
 |[enhanced cross-dataset electroencephalogram-based emotion recognition using unsupervised domain adaptation](https://arxiv.org/abs/2411.12852)|[emotionrecognitionuda](https://github.com/ryersonmultimedialab/emotionrecognitionuda)|
-|[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
 ## 2024-11-20
 |paper|code|
 |---|---|
@@ -18,7 +18,6 @@
 |---|---|
 |[b-har: an open-source baseline framework for in depth study of human activity recognition datasets and workflows](https://arxiv.org/abs/2101.10870)|[B-HAR](https://github.com/B-HAR-HumanActivityRecognition/B-HAR)|
 |[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
-|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[lightcode: light analytical and neural codes for channels with feedback](https://arxiv.org/abs/2403.10751)|[lightcode](https://github.com/sravan-ankireddy/lightcode)|
 ## 2024-11-18
 |paper|code|
