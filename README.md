@@ -1,3 +1,9 @@
+## 2024-11-25
+|paper|code|
+|---|---|
+|[scalable-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
 ## 2024-11-22
 |paper|code|
 |---|---|
@@ -12,7 +18,6 @@
 |paper|code|
 |---|---|
 |[freezing of gait detection using gramian angular fields and federated learning from wearable sensors](https://arxiv.org/abs/2411.11764)|[fogsense](https://github.com/shovito66/fogsense)|
-|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
 ## 2024-11-19
 |paper|code|
 |---|---|
