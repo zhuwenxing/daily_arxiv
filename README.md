@@ -1,9 +1,23 @@
+## 2024-11-26
+|paper|code|
+|---|---|
+|[efficient wireless federated learning via low-rank gradient factorization](https://arxiv.org/abs/2401.07496)|[ota-lc](https://github.com/mingzhaoguo/ota-lc)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[mecg-e: mamba-based ecg enhancer for baseline wander removal](https://arxiv.org/abs/2409.18828)|[MECG-E](https://github.com/khhungg/MECG-E)|
+|[robust hybrid precoding for millimeter wave mu-miso system via meta-learning](https://arxiv.org/abs/2411.15762)|[ggml](https://github.com/mistybeep/ggml)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
+|[run-length-limited isi-mitigation (rlim) coding for molecular communication](https://arxiv.org/abs/2411.15955)|[mcchannelcoding](https://github.com/melihsahinedu/mcchannelcoding)|
 ## 2024-11-25
 |paper|code|
 |---|---|
 |[scalable-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
+|[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
+|[cardiolab: laboratory values estimation and monitoring from electrocardiogram signals -- a multimodal deep learning approach](https://arxiv.org/abs/2411.14886)|[cardiolab](https://github.com/ai4healthuol/cardiolab)|
 ## 2024-11-22
 |paper|code|
 |---|---|
