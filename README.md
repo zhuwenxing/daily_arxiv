@@ -1,3 +1,9 @@
+## 2024-11-27
+|paper|code|
+|---|---|
+|[bayesian kalmannet: quantifying uncertainty in deep learning augmented kalman filter](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
+|[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
+|[fast and robust phase retrieval via deep expectation-consistent approximation](https://arxiv.org/abs/2407.09687)|[deepECpr](https://github.com/Saurav-K-Shastri/deepECpr)|
 ## 2024-11-26
 |paper|code|
 |---|---|
