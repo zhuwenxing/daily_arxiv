@@ -5,7 +5,9 @@
 |[calibrated adaptive teacher for domain adaptive intelligent fault diagnosis](https://arxiv.org/abs/2312.02826)|[cat](https://github.com/epfl-imos/cat)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
 |[swim: short-window cnn integrated with mamba for eeg-based auditory spatial attention decoding](https://arxiv.org/abs/2409.19884)|[swim-asad](https://github.com/windowso/swim-asad)|
+|[finding "good views" of electrocardiogram signals for inferring abnormalities in cardiac condition](https://arxiv.org/abs/2411.17702)|[goodviews_ecg](https://github.com/mandiehyewon/goodviews_ecg)|
 |[analytic continuation by feature learning](https://arxiv.org/abs/2411.17728)|[Analytic-Continuation-by-Feature-Learning](https://github.com/Order-inz/Analytic-Continuation-by-Feature-Learning)|
+|[the more, the better? evaluating the role of eeg preprocessing for deep learning applications](https://arxiv.org/abs/2411.18392)|[eegprepro](https://github.com/medmaxlab/eegprepro)|
 |[surveying the space of descriptions of a composite system with machine learning](https://arxiv.org/abs/2411.18579)|[description_space](https://github.com/murphyka/description_space)|
 ## 2024-11-27
 |paper|code|
