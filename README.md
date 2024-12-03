@@ -1,3 +1,12 @@
+## 2024-12-02
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[robust stochastically-descending unrolled networks](https://arxiv.org/abs/2312.15788)|[unrolledglow](https://github.com/smrhadou/unrolledglow)|
+|[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
+|[scaling transformers for low-bitrate high-quality speech coding](https://arxiv.org/abs/2411.19842)|[stable-codec](https://github.com/Stability-AI/stable-codec)|
+|[scalable exploration via ensemble++](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
+|[fast mutual information computation for large binary datasets](https://arxiv.org/abs/2411.19702)|[bulk-MI](https://github.com/aofalcao/bulk-MI)|
 ## 2024-11-28
 |paper|code|
 |---|---|
