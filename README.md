@@ -1,3 +1,18 @@
+## 2024-12-03
+|paper|code|
+|---|---|
+|[robust graph filter identification and graph denoising from signal observations](https://arxiv.org/abs/2210.08488)|[graph_denoising](https://github.com/reysam93/graph_denoising)|
+|[recurrences reveal shared causal drivers of complex time series](https://arxiv.org/abs/2301.13516)|[shrec](https://github.com/williamgilpin/shrec)|
+|[kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2310.07869)|[dsr](https://github.com/yanbinhe/dsr)|
+|[doorinet: door heading prediction through inertial deep learning](https://arxiv.org/abs/2402.09427)|[doorinet](https://github.com/ansfl/doorinet)|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[soundscape captioning using sound affective quality network and large language model](https://arxiv.org/abs/2406.05914)|[soundscaper](https://github.com/yuanbo2020/soundscaper)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[snake-inspired mobile robot positioning with hybrid learning](https://arxiv.org/abs/2411.17430)|[MoRPINet](https://github.com/ansfl/MoRPINet)|
+|[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
+|[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
+|[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2024-12-02
 |paper|code|
 |---|---|
