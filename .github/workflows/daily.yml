@@ -7,40 +7,55 @@ on:
   push:
     branches:
       - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 env:
-
-  GITHUB_NAME: zhuwenxing
-  GITHUB_EMAIL: wenxing.zhu@qq.com
-
+  GITHUB_NAME: github-actions[bot]
+  GITHUB_EMAIL: github-actions[bot]@users.noreply.github.com
 
 jobs:
   sync:
-    name: update
+    name: Update Daily Arxiv
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3.0.2
-      - name: Set up Python
-        uses: actions/setup-python@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          python-version: 3.8
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install arxivscraper
-          pip install requests
+          pip install -r requirements.txt
 
-      - name: Run daily arxiv 
-        run: |
-          python daily_arxiv.py
-          
-      - name: Push new daily.md
-        uses: github-actions-x/commit@v2.9
+      - name: Run daily arxiv
+        id: daily-arxiv
+        run: python daily_arxiv.py
+        continue-on-error: false
+
+      - name: Commit and push changes
+        if: success()
+        uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.G_T }}
-          commit-message: "update today arxiv"
-          files: README.md daily.json
-          rebase: 'true'
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+          script: |
+            const fs = require('fs');
+            
+            await exec.exec('git', ['config', '--global', 'user.name', process.env.GITHUB_NAME]);
+            await exec.exec('git', ['config', '--global', 'user.email', process.env.GITHUB_EMAIL]);
+            
+            await exec.exec('git', ['add', 'README.md', 'daily.json', 'archives']);
+            await exec.exec('git', ['commit', '-m', 'update today arxiv']);
+            await exec.exec('git', ['push']);

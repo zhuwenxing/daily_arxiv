@@ -1,0 +1,3 @@
+arxivscraper>=0.0.4
+requests>=2.31.0
+pathlib>=1.0.1
