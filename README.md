@@ -1,3 +1,7 @@
+## 2024-12-04
+|paper|code|
+|---|---|
+|[pitn: physics-informed temporal networks for cuffless blood pressure estimation](https://arxiv.org/abs/2408.08488)|[acl-pitn](https://github.com/zest86/acl-pitn)|
 ## 2024-12-03
 |paper|code|
 |---|---|
@@ -10,6 +14,7 @@
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[snake-inspired mobile robot positioning with hybrid learning](https://arxiv.org/abs/2411.17430)|[MoRPINet](https://github.com/ansfl/MoRPINet)|
 |[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
+|[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 |[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
