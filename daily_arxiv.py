@@ -149,15 +149,14 @@ def json_to_md(filename):
         # Write latest updates
         f.write("## Latest Updates \n")
         yymm = f"{str(today.year)[2:]}{today.month:02d}"
+        f.write("|date|paper|code|\n" + "|---|---|---|\n")
         for day, day_content in latest_entries:
             if not day_content:
                 continue
-            f.write(f"### {day}\n")
-            f.write("|date|paper|code|\n" + "|---|---|---|\n")
             for k, v in day_content.items():
                 if k.startswith(yymm):
                     f.write(f"|{k}{v}")
-            f.write("\n")
+        f.write("\n")
         
         # Write archive links
         f.write("\n## Archives\n")
@@ -173,22 +172,22 @@ def json_to_md(filename):
         yymm = f"{year[2:]}{month}"
         with open(archive_file, "w") as f:
             f.write(f"# {datetime.date(int(year), int(month), 1).strftime('%B %Y')} Archive\n\n")
+            f.write("[Back to README](../../README.md)\n\n")
+            f.write("|date|paper|code|\n" + "|---|---|---|\n")
             for day, day_content in entries:
                 if not day_content:
                     continue
-                f.write(f"## {day}\n")
-                f.write("|date|paper|code|\n" + "|---|---|---|\n")
                 for k, v in day_content.items():
                     if k.startswith(yymm):
                         f.write(f"|{k}{v}")
-                f.write("\n")
+            f.write("\n")
     
     print("Finished generating markdown files")
 
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 1 # 往前查询的天数
+    N = 7
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))

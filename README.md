@@ -11,19 +11,10 @@ The main features include:
 - Automatic tracking and organization
 
 ## Latest Updates 
-### 2024-12-04
-|date|paper|code|
-|---|---|---|
-
-### 2024-12-03
 |date|paper|code|
 |---|---|---|
 |2412.00486|[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
 |2412.00562|[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
-
-### 2024-12-02
-|date|paper|code|
-|---|---|---|
 
 
 ## Archives
