@@ -36,6 +36,9 @@ def get_daily_code(DateToday,cats):
         _id = v["id"]
         paper_title = " ".join(v["title"].split())
         paper_url = v["url"]
+        paper_date = v.get("published", DateToday)
+        if isinstance(paper_date, datetime.datetime):
+            paper_date = paper_date.strftime("%Y-%m-%d")
         url = base_url + _id
         try:
             r = requests.get(url).json()
@@ -44,7 +47,7 @@ def get_daily_code(DateToday,cats):
                 repo_url = r["official"]["url"]
                 repo_name = repo_url.split("/")[-1]
 
-                content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
+                content[_id] = f"|{paper_date}|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
         except Exception as e:
             print(f"exception: {e} with id: {_id}")
     data = {DateToday:content}
@@ -78,8 +81,8 @@ def ensure_archive_dirs():
     # Create base archives dir
     pathlib.Path(archive_base).mkdir(exist_ok=True)
     
-    # Create directories for all years from 2020 to current year
-    for year in range(2020, current_year + 1):
+    # Create directories for all years from 2021 to current year
+    for year in range(2021, current_year + 1):
         year_dir = os.path.join(archive_base, str(year))
         pathlib.Path(year_dir).mkdir(exist_ok=True)
         
@@ -128,23 +131,32 @@ def json_to_md(filename):
     with open("README.md", "w") as f:
         # Write header and overview
         f.write("# Daily ArXiv\n\n")
-        f.write("HelloGitHub shares interesting, entry-level GitHub projects. Updated monthly on the 28th in the form of a monthly magazine. ")
-        f.write("Content includes: interesting and entry-level projects, open source books, practical projects, enterprise projects, etc., ")
-        f.write("allowing you to experience the charm of open source in a very short time and fall in love with open source!\n\n")
+        f.write("A curated collection of arXiv papers with open-source implementations, specifically focusing on Signal Processing (eess.SP) ")
+        f.write("and Information Theory (cs.IT) categories. This repository is designed to serve researchers and practitioners in information ")
+        f.write("and communication systems by providing easy access to papers that come with their source code implementations.\n\n")
         
         f.write("## Overview\n")
-        f.write("This project automatically analyzes papers from specific categories on arXiv daily using GitHub Actions, ")
-        f.write("identifying papers that have released their source code and appending them to this repository.\n\n")
+        f.write("This project automatically tracks and analyzes papers from eess.SP (Electrical Engineering and Systems Science - Signal Processing) ")
+        f.write("and cs.IT (Computer Science - Information Theory) categories on arXiv daily using GitHub Actions. It specifically identifies ")
+        f.write("and catalogs papers that have released their source code, making it easier for researchers in information and communication ")
+        f.write("systems to find implementable research work.\n\n")
+        
+        f.write("The main features include:\n")
+        f.write("- Daily updates of papers with open-source implementations\n")
+        f.write("- Focus on signal processing and information theory research\n")
+        f.write("- Automatic tracking and organization\n\n")
         
         # Write latest updates
-        f.write("## Latest Updates (Last 7 Days)\n")
+        f.write("## Latest Updates \n")
+        yymm = f"{str(today.year)[2:]}{today.month:02d}"
         for day, day_content in latest_entries:
             if not day_content:
                 continue
             f.write(f"### {day}\n")
-            f.write("|paper|code|\n" + "|---|---|\n")
+            f.write("|date|paper|code|\n" + "|---|---|---|\n")
             for k, v in day_content.items():
-                f.write(v)
+                if k.startswith(yymm):
+                    f.write(f"|{k}{v}")
             f.write("\n")
         
         # Write archive links
@@ -158,16 +170,17 @@ def json_to_md(filename):
     for year_month, entries in entries_by_month.items():
         year, month = year_month.split("/")
         archive_file = f"archives/{year}/{int(month):02d}.md"
-        
+        yymm = f"{year[2:]}{month}"
         with open(archive_file, "w") as f:
             f.write(f"# {datetime.date(int(year), int(month), 1).strftime('%B %Y')} Archive\n\n")
             for day, day_content in entries:
                 if not day_content:
                     continue
                 f.write(f"## {day}\n")
-                f.write("|paper|code|\n" + "|---|---|\n")
+                f.write("|date|paper|code|\n" + "|---|---|---|\n")
                 for k, v in day_content.items():
-                    f.write(v)
+                    if k.startswith(yymm):
+                        f.write(f"|{k}{v}")
                 f.write("\n")
     
     print("Finished generating markdown files")
@@ -175,7 +188,7 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 5 # 往前查询的天数
+    N = 1 # 往前查询的天数
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
