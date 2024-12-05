@@ -47,7 +47,7 @@ def get_daily_code(DateToday,cats):
                 repo_url = r["official"]["url"]
                 repo_name = repo_url.split("/")[-1]
 
-                content[_id] = f"|{paper_date}|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
+                content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
         except Exception as e:
             print(f"exception: {e} with id: {_id}")
     data = {DateToday:content}
