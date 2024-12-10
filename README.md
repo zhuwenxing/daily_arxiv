@@ -14,14 +14,6 @@ The main features include:
 |date|paper|code|
 |---|---|---|
 |2412.02482|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
-|2412.00215|[frequency-selective beamforming and single-shot beam training with dynamic metasurface antennas](https://arxiv.org/abs/2412.00215)|[FreqSelBeamformingBeamtrainingDMAs](https://github.com/nvdeshpa/FreqSelBeamformingBeamtrainingDMAs)|
-|2412.00310|[efficient off-grid bayesian parameter estimation for kronecker-structured signals](https://arxiv.org/abs/2412.00310)|[JournalDecomOffGrid](https://github.com/YanbinHe/JournalDecomOffGrid)|
-|2412.00328|[differentiable high-order markov models for spectrum prediction](https://arxiv.org/abs/2412.00328)|[Datasets-Paper-Differentiable-High-Order-Markov-Models-for-Spectrum-Prediction](https://github.com/corlay-MERCE/Datasets-Paper-Differentiable-High-Order-Markov-Models-for-Spectrum-Prediction)|
-|2412.00486|[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
-|2412.00562|[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
-|2412.00862|[toward real-time edge ai: model-agnostic task-oriented communication with visual feature alignment](https://arxiv.org/abs/2412.00862)|[feature-alignment-TOC](https://github.com/SongjieXie/feature-alignment-TOC)|
-|2412.01424|[state noise density identification of ltv system by kernel deconvolution](https://arxiv.org/abs/2412.01424)|[StateNoisePDFIdentification](https://github.com/IDM-UWB/StateNoisePDFIdentification)|
-|2412.01757|[structure-guided input graph for gnns facing heterophily](https://arxiv.org/abs/2412.01757)|[sg-gnn](https://github.com/vmtenorio/sg-gnn)|
 
 
 ## Archives
