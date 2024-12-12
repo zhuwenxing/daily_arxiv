@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2412.07236|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
 |2412.02482|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
 
 
