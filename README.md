@@ -14,7 +14,8 @@ The main features include:
 |date|paper|code|
 |---|---|---|
 |2412.07236|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
-|2412.02482|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
+|2412.07737|[explainable machine learning for neoplasms diagnosis via electrocardiograms: an externally validated study](https://arxiv.org/abs/2412.07737)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
+|2412.07278|[superficial consciousness hypothesis for autoregressive transformers](https://arxiv.org/abs/2412.07278)|[phimesasi](https://github.com/hirethehero/phimesasi)|
 
 
 ## Archives
