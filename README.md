@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2412.09405|[learned compression for compressed learning](https://arxiv.org/abs/2412.09405)|[LCCL](https://github.com/danjacobellis/LCCL)|
 |2412.07236|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
 |2412.07737|[explainable machine learning for neoplasms diagnosis via electrocardiograms: an externally validated study](https://arxiv.org/abs/2412.07737)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 |2412.07278|[superficial consciousness hypothesis for autoregressive transformers](https://arxiv.org/abs/2412.07278)|[phimesasi](https://github.com/hirethehero/phimesasi)|
