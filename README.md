@@ -23,7 +23,6 @@ The main features include:
 |2412.12428|[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
 |2412.12547|[a marl based multi-target tracking algorithm under jamming against radar](https://arxiv.org/abs/2412.12547)|[muav-mtt-mappo](https://github.com/s1s3r4/muav-mtt-mappo)|
 |2412.13070|[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
-|2412.10489|[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
 
 
 ## Archives
