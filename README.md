@@ -13,12 +13,12 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2412.10489|[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
+|2412.14522|[cwa-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
+|2412.16642|[l3tc: leveraging rwkv for learned lossless low-complexity text compression](https://arxiv.org/abs/2412.16642)|[l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression](https://github.com/alipay/l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression)|
 |2412.17646|[rate of model collapse in recursive training](https://arxiv.org/abs/2412.17646)|[rate-of-model-collapse](https://github.com/berserank/rate-of-model-collapse)|
 |2412.14373|[ecg-byte: a tokenizer for end-to-end generative electrocardiogram language modeling](https://arxiv.org/abs/2412.14373)|[ecg-byte](https://github.com/willxxy/ecg-byte)|
 |2412.15105|[exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid](https://arxiv.org/abs/2412.15105)|[dynamic](https://github.com/bhooi/dynamic)|
-|2412.14111|[event-based photometric bundle adjustment](https://arxiv.org/abs/2412.14111)|[epba](https://github.com/tub-rip/epba)|
-|2412.13204|[optimizing age of information in internet of vehicles over error-prone channels](https://arxiv.org/abs/2412.13204)|[blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov)|
-|2412.13534|[information-theoretic generative clustering of documents](https://arxiv.org/abs/2412.13534)|[lmgc](https://github.com/kduxin/lmgc)|
 
 
 ## Archives
