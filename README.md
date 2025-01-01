@@ -13,12 +13,6 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
-|2412.19549|[performance evaluation of iot lora networks on mars through ns-3 simulations](https://arxiv.org/abs/2412.19549)|[MarsPropagationLoss](https://github.com/manuelefavero/MarsPropagationLoss)|
-|2412.10489|[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
-|2412.14522|[cwa-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
-|2412.17851|[noisereduce: domain general noise reduction for time series signals](https://arxiv.org/abs/2412.17851)|[noisereduce](https://github.com/timsainb/noisereduce)|
-|2412.18348|[a zero-shot physics-informed dictionary learning approach for sound field reconstruction](https://arxiv.org/abs/2412.18348)|[local_soundfield_reconstruction](https://github.com/manvhah/local_soundfield_reconstruction)|
-|2412.16642|[l3tc: leveraging rwkv for learned lossless low-complexity text compression](https://arxiv.org/abs/2412.16642)|[l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression](https://github.com/alipay/l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression)|
 
 
 ## Archives
