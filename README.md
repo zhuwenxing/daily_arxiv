@@ -13,16 +13,13 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2501.06019|[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
 |2501.00242|[automotive speed estimation: sensor types and error characteristics from obd-ii to adas](https://arxiv.org/abs/2501.00242)|[navinst19](https://github.com/hanymragab/navinst19)|
 |2501.04844|[enhancing listened speech decoding from eeg via parallel phoneme sequence prediction](https://arxiv.org/abs/2501.04844)|[icassp25-fesde-phoneme](https://github.com/lee-jhwn/icassp25-fesde-phoneme)|
 |2501.05093|[hierarchical decomposed dual-domain deep learning for sparse-view ct reconstruction](https://arxiv.org/abs/2501.05093)|[hdd-dl-for-svct](https://github.com/hanyoseob/hdd-dl-for-svct)|
 |2501.04130|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
 |2501.04308|[fsc-loss: a frequency-domain structure consistency learning approach for signal data recovery and reconstruction](https://arxiv.org/abs/2501.04308)|[mpi_ssim_mix_loss](https://github.com/dreamenwalker/mpi_ssim_mix_loss)|
 |2501.03461|[radar signal recognition through self-supervised learning and domain adaptation](https://arxiv.org/abs/2501.03461)|[radcharssl](https://github.com/abcxyzi/radcharssl)|
-|2501.02016|[st-hcss: deep spatio-temporal hypergraph convolutional neural network for soft sensing](https://arxiv.org/abs/2501.02016)|[st-hcss](https://github.com/htew0001/st-hcss)|
-|2501.02362|[easing optimization paths: a circuit perspective](https://arxiv.org/abs/2501.02362)|[pal](https://github.com/facebookresearch/pal)|
-|2501.02521|[remote inference over dynamic links via adaptive rate deep task-oriented vector quantization](https://arxiv.org/abs/2501.02521)|[artoveq](https://github.com/eyalfish/artoveq)|
-|2501.02949|[msa-cnn: a lightweight multi-scale cnn with attention for sleep stage classification](https://arxiv.org/abs/2501.02949)|[msa-cnn](https://github.com/sgoerttler/msa-cnn)|
 
 
 ## Archives
