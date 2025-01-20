@@ -17,7 +17,6 @@ The main features include:
 |2501.03461|[radar signal recognition through self-supervised learning and domain adaptation](https://arxiv.org/abs/2501.03461)|[radcharssl](https://github.com/abcxyzi/radcharssl)|
 |2501.04130|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
 |2501.07008|[advancing single-snapshot doa estimation with siamese neural networks for sparse linear arrays](https://arxiv.org/abs/2501.07008)|[snns_sla](https://github.com/ruxinzh/snns_sla)|
-|2501.06019|[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
 
 
 ## Archives
