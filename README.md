@@ -13,10 +13,11 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2501.09212|[hierarchical deep reinforcement learning for adaptive resource management in integrated terrestrial and non-terrestrial networks](https://arxiv.org/abs/2501.09212)|[Spectrum-Sharing-Hierarchical-DRL](https://github.com/ahmd-mohsin/Spectrum-Sharing-Hierarchical-DRL)|
 |2501.09519|[multi-task deep-learning for sleep event detection and stage classification](https://arxiv.org/abs/2501.09519)|[sleep-events-detection](https://github.com/adrania/sleep-events-detection)|
 |2501.03461|[radar signal recognition through self-supervised learning and domain adaptation](https://arxiv.org/abs/2501.03461)|[radcharssl](https://github.com/abcxyzi/radcharssl)|
 |2501.04130|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
-|2501.07008|[advancing single-snapshot doa estimation with siamese neural networks for sparse linear arrays](https://arxiv.org/abs/2501.07008)|[snns_sla](https://github.com/ruxinzh/snns_sla)|
+|2501.08210|[efficient and accurate full-waveform inversion with total variation constraint](https://arxiv.org/abs/2501.08210)|[efficient_and_accurate_full-waveform_inversion_with_total_variation_constraint](https://github.com/mdi-tokyotech/efficient_and_accurate_full-waveform_inversion_with_total_variation_constraint)|
 
 
 ## Archives
