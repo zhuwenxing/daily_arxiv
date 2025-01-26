@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2501.13472|[radio map estimation via latent domain plug-and-play denoising](https://arxiv.org/abs/2501.13472)|[LaPnP](https://github.com/xumaomao94/LaPnP)|
 |2501.13018|[multi-objective hyperparameter selection via hypothesis testing on reliability graphs](https://arxiv.org/abs/2501.13018)|[rg-pt](https://github.com/kclip/rg-pt)|
 
 
