@@ -13,13 +13,12 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2501.17019|[adaptive multipliers for extrapolation in frequency](https://arxiv.org/abs/2501.17019)|[adaptiveextrapolationinfrequency](https://github.com/csl-lab/adaptiveextrapolationinfrequency)|
 |2501.12280|[bounds and codes for general phased burst errors](https://arxiv.org/abs/2501.12280)|[pbe](https://github.com/sebastianbitzer/pbe)|
+|2501.15252|[deep multimodal learning for real-time ddos attacks detection in internet of vehicles](https://arxiv.org/abs/2501.15252)|[deep-multimodal-learning-for-real-time-ddos-attacks-detection-in-internet-of-vehicles](https://github.com/mohab1707/deep-multimodal-learning-for-real-time-ddos-attacks-detection-in-internet-of-vehicles)|
 |2501.16215|[enhancing visual inspection capability of multi-modal large language models on medical time series with supportive conformalized and interpretable small specialized models](https://arxiv.org/abs/2501.16215)|[Conformalized-Multiple-Instance-Learning-For-MedTS](https://github.com/HuayuLiArizona/Conformalized-Multiple-Instance-Learning-For-MedTS)|
 |2501.15592|[information consistent pruning: how to efficiently search for sparse networks?](https://arxiv.org/abs/2501.15592)|[infcop](https://github.com/sekeh-lab/infcop)|
 |2501.14102|[5g ldpc linear transformer for channel decoding](https://arxiv.org/abs/2501.14102)|[5g-decoder](https://github.com/pollyjuice74/5g-decoder)|
-|2501.13472|[radio map estimation via latent domain plug-and-play denoising](https://arxiv.org/abs/2501.13472)|[LaPnP](https://github.com/xumaomao94/LaPnP)|
-|2501.13500|[interference prediction using gaussian process regression and management framework for critical services in local 6g networks](https://arxiv.org/abs/2501.13500)|[gpr-ieeewcnc2025](https://github.com/syed-luqman-shah-19/gpr-ieeewcnc2025)|
-|2501.13541|[a dual-polarization feature fusion network for radar automatic target recognition based on hrrp sequence](https://arxiv.org/abs/2501.13541)|[dpffn](https://github.com/xmpan/dpffn)|
 
 
 ## Archives
