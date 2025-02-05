@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2502.00319|[physics-inspired distributed radio map estimation](https://arxiv.org/abs/2502.00319)|[PI-DRME](https://github.com/DongYang26/PI-DRME)|
 
 
 ## Archives
