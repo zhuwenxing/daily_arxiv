@@ -14,6 +14,7 @@ The main features include:
 |date|paper|code|
 |---|---|---|
 |2502.00319|[physics-inspired distributed radio map estimation](https://arxiv.org/abs/2502.00319)|[PI-DRME](https://github.com/DongYang26/PI-DRME)|
+|2502.00973|[a wearable device dataset for mental health assessment using laser doppler flowmetry and fluorescence spectroscopy sensors](https://arxiv.org/abs/2502.00973)|[wearable_ldf-fs](https://github.com/leduckhai/wearable_ldf-fs)|
 
 
 ## Archives
