@@ -15,6 +15,7 @@ The main features include:
 |---|---|---|
 |2502.00724|[learned bayesian cram\'er-rao bound for unknown measurement models using score neural networks](https://arxiv.org/abs/2502.00724)|[learned-bcrb](https://github.com/haihabi/learned-bcrb)|
 |2502.01678|[lead: large foundation model for eeg-based alzheimer's disease detection](https://arxiv.org/abs/2502.01678)|[lead](https://github.com/dl4mhealth/lead)|
+|2502.05301|[decentralized online ensembles of gaussian processes for multi-agent systems](https://arxiv.org/abs/2502.05301)|[DecentralizedOnlineGPs](https://github.com/fllorente/DecentralizedOnlineGPs)|
 |2502.04918|[explainable and externally validated machine learning for neuropsychiatric diagnosis via electrocardiograms](https://arxiv.org/abs/2502.04918)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 
 
