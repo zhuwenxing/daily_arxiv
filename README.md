@@ -13,14 +13,14 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
-|2502.07112|[smell of source: learning-based odor source localization with molecular communication](https://arxiv.org/abs/2502.07112)|[OSL-SingleSource](https://github.com/aysesila/OSL-SingleSource)|
+|2502.08676|[lir-livo: a lightweight,robust lidar/vision/inertial odometry with illumination-resilient deep features](https://arxiv.org/abs/2502.08676)|[LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO)|
+|2502.09046|[criteria-aware graph filtering: extremely fast yet accurate multi-criteria recommendation](https://arxiv.org/abs/2502.09046)|[CA-GF](https://github.com/jindeok/CA-GF)|
+|2502.08041|[the art of misclassification: too many classes, not enough points](https://arxiv.org/abs/2502.08041)|[the-art-of-misclassification](https://github.com/Nogarx/the-art-of-misclassification)|
 |2502.00724|[learned bayesian cram\'er-rao bound for unknown measurement models using score neural networks](https://arxiv.org/abs/2502.00724)|[learned-bcrb](https://github.com/haihabi/learned-bcrb)|
 |2502.01678|[lead: large foundation model for eeg-based alzheimer's disease detection](https://arxiv.org/abs/2502.01678)|[lead](https://github.com/dl4mhealth/lead)|
 |2502.05301|[decentralized online ensembles of gaussian processes for multi-agent systems](https://arxiv.org/abs/2502.05301)|[DecentralizedOnlineGPs](https://github.com/fllorente/DecentralizedOnlineGPs)|
 |2502.06478|[retrieving filter spectra in cnn for explainable sleep stage classification](https://arxiv.org/abs/2502.06478)|[msa-cnn](https://github.com/sgoerttler/msa-cnn)|
 |2502.06112|[pcodec: better compression for numerical sequences](https://arxiv.org/abs/2502.06112)|[pcodec](https://github.com/mwlon/pcodec)|
-|2502.03736|[decoding human attentive states from spatial-temporal eeg patches using transformers](https://arxiv.org/abs/2502.03736)|[eeg-patchformer](https://github.com/yi-ding-cs/eeg-patchformer)|
-|2502.04918|[explainable and externally validated machine learning for neuropsychiatric diagnosis via electrocardiograms](https://arxiv.org/abs/2502.04918)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 
 
 ## Archives
