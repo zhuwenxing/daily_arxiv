@@ -13,16 +13,15 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2502.13972|[incepformernet: a multi-scale multi-head attention network for ssvep classification](https://arxiv.org/abs/2502.13972)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+|2502.12990|[artificial intelligence-derived vascular age from photoplethysmography: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2502.12990)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+|2502.13896|[toeplitz-hermitian admm-net for doa estimation](https://arxiv.org/abs/2502.13896)|[thadmmnet](https://github.com/youvalklioui/thadmmnet)|
 |2502.13870|[spex: scaling feature interaction explanations for llms](https://arxiv.org/abs/2502.13870)|[spectral-explain](https://github.com/basics-lab/spectral-explain)|
 |2502.12814|[dimension reduction methods, persistent homology and machine learning for eeg signal analysis of interictal epileptic discharges](https://arxiv.org/abs/2502.12814)|[dyca](https://github.com/HS-Ansbach-CCS/dyca)|
 |2502.10426|[musical score following using statistical inference](https://arxiv.org/abs/2502.10426)|[Score-follower](https://github.com/josephinecowley/Score-follower)|
 |2502.11686|[parallel-in-time kalman smoothing using orthogonal transformations](https://arxiv.org/abs/2502.11686)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
 |2502.11487|[non-binary ldpc arithmetic error correction for processing-in-memory](https://arxiv.org/abs/2502.11487)|[nbldpc_pim](https://github.com/nonamesubmission/nbldpc_pim)|
 |2502.11984|[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
-|2502.06239|[pre-equalization aided grant-free massive access in massive mimo system](https://arxiv.org/abs/2502.06239)|[tvt-2025](https://github.com/owenwang517/tvt-2025)|
-|2502.10371|[cissir: beam codebooks with self-interference reduction guarantees for integrated sensing and communication beyond 5g](https://arxiv.org/abs/2502.10371)|[cissir](https://github.com/rodrihgh/cissir)|
-|2502.10070|[topological neural networks over the air](https://arxiv.org/abs/2502.10070)|[AirTNN](https://github.com/SimoneFiorellino/AirTNN)|
-|2502.10178|[from markov to laplace: how mamba in-context learns markov chains](https://arxiv.org/abs/2502.10178)|[Markov-Mamba](https://github.com/Bond1995/Markov-Mamba)|
 
 
 ## Archives
