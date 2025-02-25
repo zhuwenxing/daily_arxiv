@@ -18,10 +18,6 @@ The main features include:
 |2502.13896|[toeplitz-hermitian admm-net for doa estimation](https://arxiv.org/abs/2502.13896)|[thadmmnet](https://github.com/youvalklioui/thadmmnet)|
 |2502.13870|[spex: scaling feature interaction explanations for llms](https://arxiv.org/abs/2502.13870)|[spectral-explain](https://github.com/basics-lab/spectral-explain)|
 |2502.12814|[dimension reduction methods, persistent homology and machine learning for eeg signal analysis of interictal epileptic discharges](https://arxiv.org/abs/2502.12814)|[dyca](https://github.com/HS-Ansbach-CCS/dyca)|
-|2502.10426|[musical score following using statistical inference](https://arxiv.org/abs/2502.10426)|[Score-follower](https://github.com/josephinecowley/Score-follower)|
-|2502.11686|[parallel-in-time kalman smoothing using orthogonal transformations](https://arxiv.org/abs/2502.11686)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
-|2502.11487|[non-binary ldpc arithmetic error correction for processing-in-memory](https://arxiv.org/abs/2502.11487)|[nbldpc_pim](https://github.com/nonamesubmission/nbldpc_pim)|
-|2502.11984|[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
 
 
 ## Archives
