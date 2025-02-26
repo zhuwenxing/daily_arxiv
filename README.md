@@ -17,7 +17,6 @@ The main features include:
 |2502.12990|[artificial intelligence-derived vascular age from photoplethysmography: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2502.12990)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
 |2502.13896|[toeplitz-hermitian admm-net for doa estimation](https://arxiv.org/abs/2502.13896)|[thadmmnet](https://github.com/youvalklioui/thadmmnet)|
 |2502.13870|[spex: scaling feature interaction explanations for llms](https://arxiv.org/abs/2502.13870)|[spectral-explain](https://github.com/basics-lab/spectral-explain)|
-|2502.12814|[dimension reduction methods, persistent homology and machine learning for eeg signal analysis of interictal epileptic discharges](https://arxiv.org/abs/2502.12814)|[dyca](https://github.com/HS-Ansbach-CCS/dyca)|
 
 
 ## Archives
