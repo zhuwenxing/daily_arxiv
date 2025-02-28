@@ -13,8 +13,13 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2502.17469|[pixleepflow: a pixel-based lifelog framework for predicting sleep quality and stress level](https://arxiv.org/abs/2502.17469)|[pixleep](https://github.com/seongjiko/pixleep)|
+|2502.17475|[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
+|2502.17462|[the case for cleaner biosignals: high-fidelity neural compressor enables transfer from cleaner ieeg to noisier eeg](https://arxiv.org/abs/2502.17462)|[eeg-ieeg-brain-compressor](https://github.com/ibm/eeg-ieeg-brain-compressor)|
+|2502.17468|[cssstn: a class-sensitive subject-to-subject semantic style transfer network for eeg classification in rsvp tasks](https://arxiv.org/abs/2502.17468)|[cssstn](https://github.com/ziyuey/cssstn)|
 |2502.17481|[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
-|2502.13972|[incepformernet: a multi-scale multi-head attention network for ssvep classification](https://arxiv.org/abs/2502.13972)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+|2502.15607|[benchmarking machine learning for bowel sound pattern classification from tabular features to pretrained models](https://arxiv.org/abs/2502.15607)|[bowel-sound-classification](https://github.com/AI4HealthUOL/bowel-sound-classification)|
+|2502.15540|[generalization guarantees for representation learning via data-dependent gaussian mixture priors](https://arxiv.org/abs/2502.15540)|[Gaussian_Mixture_Priors_for_Representation_Learning](https://github.com/PiotrKrasnowski/Gaussian_Mixture_Priors_for_Representation_Learning)|
 
 
 ## Archives
