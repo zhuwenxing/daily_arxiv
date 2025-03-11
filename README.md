@@ -15,7 +15,6 @@ The main features include:
 |---|---|---|
 |2503.02244|[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
 |2503.02299|[racnn: residual attention convolutional neural network for near-field channel estimation in 6g wireless communications](https://arxiv.org/abs/2503.02299)|[RACNN](https://github.com/DoHaiSon/RACNN)|
-|2503.01485|[flowdec: a flow-based full-band general audio codec with high perceptual quality](https://arxiv.org/abs/2503.01485)|[flowdec](https://github.com/facebookresearch/flowdec)|
 
 
 ## Archives
