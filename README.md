@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2503.02244|[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
 |2503.06311|[hybrid cnn-dilated self-attention model using inertial and body-area electrostatic sensing for gym workout recognition, counting, and user authentification](https://arxiv.org/abs/2503.06311)|[toolkit-for-hbc-sensing](https://github.com/zhaxidele/toolkit-for-hbc-sensing)|
 
 
