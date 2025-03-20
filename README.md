@@ -13,12 +13,17 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2503.13479|[eagle: contextual point cloud generation via adaptive continuous normalizing flow with self-attention](https://arxiv.org/abs/2503.13479)|[EAGLE](https://github.com/wanglh300/EAGLE)|
+|2503.14207|[room impulse response estimation through optimal mass transport barycenters](https://arxiv.org/abs/2503.14207)|[RIR_Estimation_OMT_Barycenter](https://github.com/yuyangLiu-1/RIR_Estimation_OMT_Barycenter)|
 |2503.07435|[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
+|2503.12368|[screedsolo: a secure and robust lsb image steganography framework with randomized symmetric encryption and reed-solomon coding](https://arxiv.org/abs/2503.12368)|[screedsolo-steganography](https://github.com/starscream-11813/screedsolo-steganography)|
+|2503.13403|[decentralized sensor network localization using matrix-parametrized proximal splittings](https://arxiv.org/abs/2503.13403)|[snl](https://github.com/peterbarkley/snl)|
+|2503.11112|[flexible intelligent metasurface-aided wireless communications: architecture and performance](https://arxiv.org/abs/2503.11112)|[flexible-ris](https://github.com/yyangsj/flexible-ris)|
+|2503.11123|[modeling and optimization for flexible cylindrical arrays-enabled wireless communications](https://arxiv.org/abs/2503.11123)|[flexible-cylindrical-arrays-beamforming](https://github.com/yyangsj/flexible-cylindrical-arrays-beamforming)|
+|2503.11470|[topological dictionary learning](https://arxiv.org/abs/2503.11470)|[topological-dictionary-learning](https://github.com/SPAICOM/topological-dictionary-learning)|
 |2503.09775|[real-time risky fault-chain search using time-varying graph rnns](https://arxiv.org/abs/2503.09775)|[GRNN-FaultChain-Predictor](https://github.com/anmold-07/GRNN-FaultChain-Predictor)|
 |2503.09777|[t-parameters based modeling for stacked intelligent metasurfaces: tractable and physically consistent model](https://arxiv.org/abs/2503.09777)|[sim-t-param](https://github.com/hmjasmi/sim-t-param)|
 |2503.10107|[high-resolution uplink sensing in millimeter-wave isac systems](https://arxiv.org/abs/2503.10107)|[UplinkSensing_mmWave](https://github.com/zhaoliangbin42/UplinkSensing_mmWave)|
-|2503.02244|[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
-|2503.09489|[optimal isac beamforming structure and efficient algorithms for sum rate and crlb balancing](https://arxiv.org/abs/2503.09489)|[OBS-for-CRLB-ISAC](https://github.com/Nostalgia2022/OBS-for-CRLB-ISAC)|
 
 
 ## Archives
