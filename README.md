@@ -21,9 +21,6 @@ The main features include:
 |2503.11112|[flexible intelligent metasurface-aided wireless communications: architecture and performance](https://arxiv.org/abs/2503.11112)|[flexible-ris](https://github.com/yyangsj/flexible-ris)|
 |2503.11123|[modeling and optimization for flexible cylindrical arrays-enabled wireless communications](https://arxiv.org/abs/2503.11123)|[flexible-cylindrical-arrays-beamforming](https://github.com/yyangsj/flexible-cylindrical-arrays-beamforming)|
 |2503.11470|[topological dictionary learning](https://arxiv.org/abs/2503.11470)|[topological-dictionary-learning](https://github.com/SPAICOM/topological-dictionary-learning)|
-|2503.09775|[real-time risky fault-chain search using time-varying graph rnns](https://arxiv.org/abs/2503.09775)|[GRNN-FaultChain-Predictor](https://github.com/anmold-07/GRNN-FaultChain-Predictor)|
-|2503.09777|[t-parameters based modeling for stacked intelligent metasurfaces: tractable and physically consistent model](https://arxiv.org/abs/2503.09777)|[sim-t-param](https://github.com/hmjasmi/sim-t-param)|
-|2503.10107|[high-resolution uplink sensing in millimeter-wave isac systems](https://arxiv.org/abs/2503.10107)|[UplinkSensing_mmWave](https://github.com/zhaoliangbin42/UplinkSensing_mmWave)|
 
 
 ## Archives
