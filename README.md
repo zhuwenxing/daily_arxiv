@@ -18,15 +18,11 @@ The main features include:
 |2503.13491|[flp-xr: future location prediction on extreme scale maritime data in real-time](https://arxiv.org/abs/2503.13491)|[FLP-XR](https://github.com/DataStories-UniPi/FLP-XR)|
 |2503.14799|[pruning-based tinyml optimization of machine learning models for anomaly detection in electric vehicle charging infrastructure](https://arxiv.org/abs/2503.14799)|[evci-pruning](https://github.com/western-oc2-lab/evci-pruning)|
 |2503.15213|[sig2text, a vision-language model for non-cooperative radar signal parsing](https://arxiv.org/abs/2503.15213)|[sig2text](https://github.com/na-choneko/sig2text)|
+|2503.13465|[a novel fourier adjacency transformer for advanced eeg emotion recognition](https://arxiv.org/abs/2503.13465)|[FAT](https://github.com/YanhaoHuang23/FAT)|
 |2503.13479|[eagle: contextual point cloud generation via adaptive continuous normalizing flow with self-attention](https://arxiv.org/abs/2503.13479)|[EAGLE](https://github.com/wanglh300/EAGLE)|
 |2503.13497|[is limited participant diversity impeding eeg-based machine learning?](https://arxiv.org/abs/2503.13497)|[participant-diversity-paper](https://github.com/bomatter/participant-diversity-paper)|
 |2503.14207|[room impulse response estimation through optimal mass transport barycenters](https://arxiv.org/abs/2503.14207)|[RIR_Estimation_OMT_Barycenter](https://github.com/yuyangLiu-1/RIR_Estimation_OMT_Barycenter)|
 |2503.14322|[consumer-grade eeg-based eye tracking](https://arxiv.org/abs/2503.14322)|[eeg_eye_tracking](https://github.com/FlorianHeinrichs/eeg_eye_tracking)|
-|2503.07435|[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
-|2503.12368|[screedsolo: a secure and robust lsb image steganography framework with randomized symmetric encryption and reed-solomon coding](https://arxiv.org/abs/2503.12368)|[screedsolo-steganography](https://github.com/starscream-11813/screedsolo-steganography)|
-|2503.13173|[pause: low-latency and privacy-aware active user selection for federated learning](https://arxiv.org/abs/2503.13173)|[PAUSE](https://github.com/oritalp/PAUSE)|
-|2503.13403|[decentralized sensor network localization using matrix-parametrized proximal splittings](https://arxiv.org/abs/2503.13403)|[snl](https://github.com/peterbarkley/snl)|
-|2503.11974|[weighted cycle-based identification of influential node groups in complex networks](https://arxiv.org/abs/2503.11974)|[WCycle](https://github.com/Wenxin02/WCycle)|
 
 
 ## Archives
