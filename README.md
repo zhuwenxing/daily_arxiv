@@ -16,9 +16,6 @@ The main features include:
 |2503.13558|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
 |2503.05406|[energy-free sensing and context recognition using photovoltaic cells](https://arxiv.org/abs/2503.05406)|[EnergyFreeStepCounting](https://github.com/k-shintani/EnergyFreeStepCounting)|
 |2503.07667|[climb: data foundations for large scale multimodal clinical foundation models](https://arxiv.org/abs/2503.07667)|[climb](https://github.com/ddvd233/climb)|
-|2503.13491|[flp-xr: future location prediction on extreme scale maritime data in real-time](https://arxiv.org/abs/2503.13491)|[FLP-XR](https://github.com/DataStories-UniPi/FLP-XR)|
-|2503.14799|[pruning-based tinyml optimization of machine learning models for anomaly detection in electric vehicle charging infrastructure](https://arxiv.org/abs/2503.14799)|[evci-pruning](https://github.com/western-oc2-lab/evci-pruning)|
-|2503.15213|[sig2text, a vision-language model for non-cooperative radar signal parsing](https://arxiv.org/abs/2503.15213)|[sig2text](https://github.com/na-choneko/sig2text)|
 
 
 ## Archives
