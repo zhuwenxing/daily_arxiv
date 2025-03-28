@@ -14,8 +14,12 @@ The main features include:
 |date|paper|code|
 |---|---|---|
 |2503.13558|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
-|2503.05406|[energy-free sensing and context recognition using photovoltaic cells](https://arxiv.org/abs/2503.05406)|[EnergyFreeStepCounting](https://github.com/k-shintani/EnergyFreeStepCounting)|
-|2503.07667|[climb: data foundations for large scale multimodal clinical foundation models](https://arxiv.org/abs/2503.07667)|[climb](https://github.com/ddvd233/climb)|
+|2503.17718|[flexible wmmse beamforming for mu-mimo movable antenna communications](https://arxiv.org/abs/2503.17718)|[f-wmmse-beamforming](https://github.com/yyangsj/f-wmmse-beamforming)|
+|2503.17722|[investigation into the role of the bessel function order in the fourier-bessel series and the hankel transform](https://arxiv.org/abs/2503.17722)|[fourier_bessel_plots](https://github.com/suketu-patni/fourier_bessel_plots)|
+|2503.18019|[rejuvenating irs: aoi-based low overhead reconfiguration design](https://arxiv.org/abs/2503.18019)|[irs_rejuvenation](https://github.com/tkn-tub/irs_rejuvenation)|
+|2503.17764|[an algorithm for computing generalized hamming weights and the sage package ghws](https://arxiv.org/abs/2503.17764)|[ghws](https://github.com/rodrigosanjose/ghws)|
+|2503.16531|[eeg-clip : learning eeg representations from natural language descriptions](https://arxiv.org/abs/2503.16531)|[eegclip](https://github.com/tidiane-camaret/eegclip)|
+|2503.16743|[superarc: a test for general and super intelligence based on first principles of recursion theory and algorithmic probability](https://arxiv.org/abs/2503.16743)|[SuperintelligenceTest](https://github.com/AlgoDynLab/SuperintelligenceTest)|
 
 
 ## Archives
