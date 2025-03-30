@@ -14,6 +14,7 @@ The main features include:
 |date|paper|code|
 |---|---|---|
 |2503.21242|[plain: scalable estimation architecture for integrated sensing and communication](https://arxiv.org/abs/2503.21242)|[plain](https://github.com/bashar-tahir/plain)|
+|2503.20694|[a low-complexity structured neural network approach to intelligently realize wideband multi-beam beamformers](https://arxiv.org/abs/2503.20694)|[Intelligent-Wideband-Beamforming-using-StNN](https://github.com/Hansaka006/Intelligent-Wideband-Beamforming-using-StNN)|
 |2503.13558|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
 |2503.17718|[flexible wmmse beamforming for mu-mimo movable antenna communications](https://arxiv.org/abs/2503.17718)|[f-wmmse-beamforming](https://github.com/yyangsj/f-wmmse-beamforming)|
 |2503.17722|[investigation into the role of the bessel function order in the fourier-bessel series and the hankel transform](https://arxiv.org/abs/2503.17722)|[fourier_bessel_plots](https://github.com/suketu-patni/fourier_bessel_plots)|
