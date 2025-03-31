@@ -20,8 +20,6 @@ The main features include:
 |2503.17722|[investigation into the role of the bessel function order in the fourier-bessel series and the hankel transform](https://arxiv.org/abs/2503.17722)|[fourier_bessel_plots](https://github.com/suketu-patni/fourier_bessel_plots)|
 |2503.18019|[rejuvenating irs: aoi-based low overhead reconfiguration design](https://arxiv.org/abs/2503.18019)|[irs_rejuvenation](https://github.com/tkn-tub/irs_rejuvenation)|
 |2503.17764|[an algorithm for computing generalized hamming weights and the sage package ghws](https://arxiv.org/abs/2503.17764)|[ghws](https://github.com/rodrigosanjose/ghws)|
-|2503.16531|[eeg-clip : learning eeg representations from natural language descriptions](https://arxiv.org/abs/2503.16531)|[eegclip](https://github.com/tidiane-camaret/eegclip)|
-|2503.16743|[superarc: a test for general and super intelligence based on first principles of recursion theory and algorithmic probability](https://arxiv.org/abs/2503.16743)|[SuperintelligenceTest](https://github.com/AlgoDynLab/SuperintelligenceTest)|
 
 
 ## Archives
