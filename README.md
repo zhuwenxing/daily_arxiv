@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.00351|[geo2commap: deep learning-based mimo throughput prediction using geographic data](https://arxiv.org/abs/2504.00351)|[geo2commap](https://github.com/geo2commap/geo2commap)|
 
 
 ## Archives
