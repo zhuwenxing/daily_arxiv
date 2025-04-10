@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.06173|[multi-modality sensing in mmwave beamforming for connected vehicles using deep learning](https://arxiv.org/abs/2504.06173)|[V2X-mmWave-Beamforming](https://github.com/mbaqer/V2X-mmWave-Beamforming)|
 |2504.03960|[on symbol error probability-based beamforming in mimo gaussian wiretap channels](https://arxiv.org/abs/2504.03960)|[SEP_Beamforming_GaussianWritapChannel](https://github.com/NamNguyenResearch/SEP_Beamforming_GaussianWritapChannel)|
 |2504.04267|[efficient rejection sampling in the entropy-optimal range](https://arxiv.org/abs/2504.04267)|[amplified-loaded-dice-roller](https://github.com/probsys/amplified-loaded-dice-roller)|
 
