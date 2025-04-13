@@ -13,9 +13,14 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.07870|[open datasets for grid modeling and visualization: an alberta power network case](https://arxiv.org/abs/2504.07870)|[carbondistributionmap](https://github.com/bencheng2/carbondistributionmap)|
 |2504.06173|[multi-modality sensing in mmwave beamforming for connected vehicles using deep learning](https://arxiv.org/abs/2504.06173)|[V2X-mmWave-Beamforming](https://github.com/mbaqer/V2X-mmWave-Beamforming)|
+|2504.03706|[a multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based mlp](https://arxiv.org/abs/2504.03706)|[capacitypredict](https://github.com/leiyuzhu/capacitypredict)|
+|2504.03762|[decoding covert speech from eeg using a functional areas spatio-temporal transformer](https://arxiv.org/abs/2504.03762)|[fast](https://github.com/jiang-muyun/fast)|
 |2504.03960|[on symbol error probability-based beamforming in mimo gaussian wiretap channels](https://arxiv.org/abs/2504.03960)|[SEP_Beamforming_GaussianWritapChannel](https://github.com/NamNguyenResearch/SEP_Beamforming_GaussianWritapChannel)|
 |2504.04267|[efficient rejection sampling in the entropy-optimal range](https://arxiv.org/abs/2504.04267)|[amplified-loaded-dice-roller](https://github.com/probsys/amplified-loaded-dice-roller)|
+|2504.04758|[feature importance-aware deep joint source-channel coding for computationally efficient and adjustable image transmission](https://arxiv.org/abs/2504.04758)|[fajscc](https://github.com/hansung-choi/fajscc)|
+|2504.03583|[scalable hypergraph structure learning with diverse smoothness priors](https://arxiv.org/abs/2504.03583)|[Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors](https://github.com/Ben-Brown-Code/Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors)|
 
 
 ## Archives
