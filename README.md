@@ -20,7 +20,6 @@ The main features include:
 |2504.03960|[on symbol error probability-based beamforming in mimo gaussian wiretap channels](https://arxiv.org/abs/2504.03960)|[SEP_Beamforming_GaussianWritapChannel](https://github.com/NamNguyenResearch/SEP_Beamforming_GaussianWritapChannel)|
 |2504.04267|[efficient rejection sampling in the entropy-optimal range](https://arxiv.org/abs/2504.04267)|[amplified-loaded-dice-roller](https://github.com/probsys/amplified-loaded-dice-roller)|
 |2504.04758|[feature importance-aware deep joint source-channel coding for computationally efficient and adjustable image transmission](https://arxiv.org/abs/2504.04758)|[fajscc](https://github.com/hansung-choi/fajscc)|
-|2504.03583|[scalable hypergraph structure learning with diverse smoothness priors](https://arxiv.org/abs/2504.03583)|[Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors](https://github.com/Ben-Brown-Code/Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors)|
 
 
 ## Archives
