@@ -13,12 +13,12 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.10775|[generative and explainable ai for high-dimensional channel estimation](https://arxiv.org/abs/2504.10775)|[Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation](https://github.com/tnd-lab/Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation)|
 |2504.07987|[mixeeg: enhancing eeg federated learning for cross-subject eeg classification with tailored mixup](https://arxiv.org/abs/2504.07987)|[mixEEG](https://github.com/XuanhaoLiu/mixEEG)|
 |2504.08352|[fast reconfiguration of lc-riss: modeling and algorithm design](https://arxiv.org/abs/2504.08352)|[LC-RIS-TDMA-Journal](https://github.com/MohamadrezaDelbari/LC-RIS-TDMA-Journal)|
 |2504.08624|[torchfx: a modern approach to audio dsp with pytorch and gpu acceleration](https://arxiv.org/abs/2504.08624)|[torchfx](https://github.com/matteospanio/torchfx)|
 |2504.08644|[reverberation-based features for sound event localization and detection with distance estimation](https://arxiv.org/abs/2504.08644)|[seld-distance-features](https://github.com/dberghi/seld-distance-features)|
 |2504.07870|[open datasets for grid modeling and visualization: an alberta power network case](https://arxiv.org/abs/2504.07870)|[carbondistributionmap](https://github.com/bencheng2/carbondistributionmap)|
-|2504.06842|[optimality of gradient-music for spectral estimation](https://arxiv.org/abs/2504.06842)|[gradientMUSIC](https://github.com/weilinlimath/gradientMUSIC)|
 
 
 ## Archives
