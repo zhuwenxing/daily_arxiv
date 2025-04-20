@@ -13,7 +13,13 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.11936|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
 |2504.10775|[generative and explainable ai for high-dimensional channel estimation](https://arxiv.org/abs/2504.10775)|[Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation](https://github.com/tnd-lab/Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation)|
+|2504.11162|[scalable transceiver design for multi-user communication in fdd massive mimo systems via deep learning](https://arxiv.org/abs/2504.11162)|[scalable-precoding-mu-mimo](https://github.com/linzhu-polyu/scalable-precoding-mu-mimo)|
+|2504.08811|[analogical learning for cross-scenario generalization: framework and application to intelligent localization](https://arxiv.org/abs/2504.08811)|[alloc](https://github.com/ziruichen-research/alloc)|
+|2504.09132|[self-supervised autoencoder network for robust heart rate extraction from noisy photoplethysmogram: applying blind source separation to biosignal analysis](https://arxiv.org/abs/2504.09132)|[meae-heart-rate-extraction-from-noisy-ppg](https://github.com/webstah/meae-heart-rate-extraction-from-noisy-ppg)|
+|2504.09348|[graph-based prediction models for data debiasing](https://arxiv.org/abs/2504.09348)|[graph-debiasing](https://github.com/statfusion/graph-debiasing)|
+|2504.09924|[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
 |2504.07987|[mixeeg: enhancing eeg federated learning for cross-subject eeg classification with tailored mixup](https://arxiv.org/abs/2504.07987)|[mixEEG](https://github.com/XuanhaoLiu/mixEEG)|
 |2504.08352|[fast reconfiguration of lc-riss: modeling and algorithm design](https://arxiv.org/abs/2504.08352)|[LC-RIS-TDMA-Journal](https://github.com/MohamadrezaDelbari/LC-RIS-TDMA-Journal)|
 |2504.08624|[torchfx: a modern approach to audio dsp with pytorch and gpu acceleration](https://arxiv.org/abs/2504.08624)|[torchfx](https://github.com/matteospanio/torchfx)|
