@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2504.13633|[efficient algorithms for the hadamard decomposition](https://arxiv.org/abs/2504.13633)|[hadamarddecompositions](https://github.com/wertzsamuel/hadamarddecompositions)|
 |2504.09348|[graph-based prediction models for data debiasing](https://arxiv.org/abs/2504.09348)|[graph-debiasing](https://github.com/statfusion/graph-debiasing)|
 |2504.11936|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
 
