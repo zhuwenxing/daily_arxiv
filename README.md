@@ -14,7 +14,6 @@ The main features include:
 |date|paper|code|
 |---|---|---|
 |2504.09924|[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
-|2504.13633|[efficient algorithms for the hadamard decomposition](https://arxiv.org/abs/2504.13633)|[hadamarddecompositions](https://github.com/wertzsamuel/hadamarddecompositions)|
 
 
 ## Archives
