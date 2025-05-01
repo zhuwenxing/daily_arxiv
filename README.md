@@ -13,7 +13,6 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
-|2504.09924|[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
 
 
 ## Archives
