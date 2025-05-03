@@ -13,6 +13,7 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.00292|[conformal changepoint localization](https://arxiv.org/abs/2505.00292)|[conformal-change-localization](https://github.com/sanjitdp/conformal-change-localization)|
 
 
 ## Archives
