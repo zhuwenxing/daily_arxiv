@@ -16,7 +16,6 @@ The main features include:
 |2505.03590|[physics-informed sylvester normalizing flows for bayesian inference in magnetic resonance spectroscopy](https://arxiv.org/abs/2505.03590)|[snfs-for-bayesian-inference-in-mrs](https://github.com/julianmer/snfs-for-bayesian-inference-in-mrs)|
 |2505.03556|[a comprehensive survey of large ai models for future communications: foundations, applications and challenges](https://arxiv.org/abs/2505.03556)|[comlam](https://github.com/jiangfeibo/comlam)|
 |2505.01738|[real-time, single-ear, wearable ecg reconstruction, r-peak detection, and hr/hrv monitoring](https://arxiv.org/abs/2505.01738)|[deepmf-mini](https://github.com/pulp-bio/deepmf-mini)|
-|2505.01074|[wirelessagent: large language model agents for intelligent wireless networks](https://arxiv.org/abs/2505.01074)|[wirelessagent_r1](https://github.com/jwentong/wirelessagent_r1)|
 
 
 ## Archives
