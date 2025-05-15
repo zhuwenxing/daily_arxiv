@@ -20,7 +20,6 @@ The main features include:
 |2505.04845|[comparative study of generative models for early detection of failures in medical devices](https://arxiv.org/abs/2505.04845)|[Fault-Detection-on-Surgical-Stapler-](https://github.com/UNHSAILLab/Fault-Detection-on-Surgical-Stapler-)|
 |2505.05371|[from sleep staging to spindle detection: evaluating end-to-end automated sleep analysis](https://arxiv.org/abs/2505.05371)|[sumov2](https://github.com/dslaborg/sumov2)|
 |2505.04127|[reinforcement learning-aided design of efficient polarization kernels](https://arxiv.org/abs/2505.04127)|[alphapolar](https://github.com/jaco267/alphapolar)|
-|2505.04174|[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
 
 
 ## Archives
