@@ -25,8 +25,6 @@ The main features include:
 |2505.07117|[optiks: optimized gradient properties through timing in k-space](https://arxiv.org/abs/2505.07117)|[optiks](https://github.com/mattmc-stanford/optiks)|
 |2505.07272|[alpcah: subspace learning for sample-wise heteroscedastic data](https://arxiv.org/abs/2505.07272)|[alpcah](https://github.com/javiersc1/alpcah)|
 |2505.07598|[wireless link scheduling with state-augmented graph neural networks](https://arxiv.org/abs/2505.07598)|[sagnn](https://github.com/romm32/sagnn)|
-|2505.05538|[cardioformer: advancing ai in ecg analysis with multi-granularity patching and resnet](https://arxiv.org/abs/2505.05538)|[cardioformer](https://github.com/kmobin555/cardioformer)|
-|2505.05657|[unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
 
 
 ## Archives
