@@ -13,12 +13,14 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.05657|[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
+|2505.10004|[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
+|2505.13021|[the role of data partitioning on the performance of eeg-based deep learning models in supervised cross-subject analysis: a preliminary study](https://arxiv.org/abs/2505.13021)|[eegpartition](https://github.com/medmaxlab/eegpartition)|
+|2505.13102|[lightweight transformer via unrolling of mixed graph algorithms for traffic forecast](https://arxiv.org/abs/2505.13102)|[unrolling-gsp-stforecast](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
 |2505.10699|[clustering rooftop pv systems via probabilistic embeddings](https://arxiv.org/abs/2505.10699)|[entity-clustering](https://github.com/kabolat/entity-clustering)|
 |2505.10134|[large wireless localization model (lwlm): a foundation model for positioning in 6g networks](https://arxiv.org/abs/2505.10134)|[lwlm](https://github.com/guangjinpan/lwlm)|
 |2505.09076|[adafortitran: an adaptive transformer model for robust ofdm channel estimation](https://arxiv.org/abs/2505.09076)|[adafortitran](https://github.com/berkiguler/adafortitran)|
 |2505.08878|[optimized couplings for watermarking large language models](https://arxiv.org/abs/2505.08878)|[cc_watermark](https://github.com/carol-long/cc_watermark)|
-|2505.08056|[qubitlens: an interactive learning tool for quantum state tomography](https://arxiv.org/abs/2505.08056)|[qubitlens](https://github.com/mdaamirq/qubitlens)|
-|2505.08365|[closed-form information capacity of canonical signaling models](https://arxiv.org/abs/2505.08365)|[capacity-of-canonical-models](https://github.com/sysbiosig/capacity-of-canonical-models)|
 
 
 ## Archives
