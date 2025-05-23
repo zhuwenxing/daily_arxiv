@@ -13,6 +13,8 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.14696|[infomeasure: a comprehensive python package for information theory measures and estimators](https://arxiv.org/abs/2505.14696)|[infomeasure](https://github.com/cbueth/infomeasure)|
+|2505.15303|[laplace sample information: data informativeness through a bayesian lens](https://arxiv.org/abs/2505.15303)|[LSI](https://github.com/TUM-AIMED/LSI)|
 |2505.04174|[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
 |2505.10311|[whitened score diffusion: a structured prior for imaging inverse problems](https://arxiv.org/abs/2505.10311)|[wsdiffusion](https://github.com/jeffreyalido/wsdiffusion)|
 |2505.13880|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
@@ -26,7 +28,6 @@ The main features include:
 |2505.11927|[xisort: deterministic sorting via ieee-754 total ordering and entropy minimization](https://arxiv.org/abs/2505.11927)|[xisort](https://github.com/farukalpay/xisort)|
 |2505.12214|[behavior synthesis via contact-aware fisher information maximization](https://arxiv.org/abs/2505.12214)|[contact_aware_active_learning](https://github.com/ialab-yale/contact_aware_active_learning)|
 |2505.10699|[clustering rooftop pv systems via probabilistic embeddings](https://arxiv.org/abs/2505.10699)|[entity-clustering](https://github.com/kabolat/entity-clustering)|
-|2505.10134|[large wireless localization model (lwlm): a foundation model for positioning in 6g networks](https://arxiv.org/abs/2505.10134)|[lwlm](https://github.com/guangjinpan/lwlm)|
 
 
 ## Archives
