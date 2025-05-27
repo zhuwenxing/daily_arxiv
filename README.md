@@ -13,6 +13,8 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2505.13880|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
+|2505.14033|[partition-wise graph filtering: a unified perspective through the lens of graph coarsening](https://arxiv.org/abs/2505.14033)|[cpf](https://github.com/vasile-paskardlgm/cpf)|
 |2505.16132|[beamforming-codebook-aware channel knowledge map construction for multi-antenna systems](https://arxiv.org/abs/2505.16132)|[transunet](https://github.com/github-whh/transunet)|
 |2505.16650|[unsupervised network anomaly detection with autoencoders and traffic images](https://arxiv.org/abs/2505.16650)|[image-based-network-traffic-anomaly-detection](https://github.com/michaelneri/image-based-network-traffic-anomaly-detection)|
 |2505.16807|[chirp delay-doppler domain modulation: a new paradigm of integrated sensing and communication for autonomous vehicles](https://arxiv.org/abs/2505.16807)|[2025-ieee-network-chirpdelaydopplermodulationisac](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)|
@@ -21,16 +23,6 @@ The main features include:
 |2505.04174|[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
 |2505.10311|[whitened score diffusion: a structured prior for imaging inverse problems](https://arxiv.org/abs/2505.10311)|[wsdiffusion](https://github.com/jeffreyalido/wsdiffusion)|
 |2505.14655|[cryptocurrencies in the balance sheet: insights from (micro)strategy -- bitcoin interactions](https://arxiv.org/abs/2505.14655)|[crypto_balance_sheets](https://github.com/financialcomputingucl/crypto_balance_sheets)|
-|2505.05657|[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
-|2505.06375|[a comprehensive data description for lorawan path loss measurements in an indoor office setting: effects of environmental factors](https://arxiv.org/abs/2505.06375)|[LoRaWAN-Indoor-PathLoss-Dataset-IEEEACCESS](https://github.com/nahshonmokua/LoRaWAN-Indoor-PathLoss-Dataset-IEEEACCESS)|
-|2505.10004|[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
-|2505.11618|[benchmarking spatiotemporal reasoning in llms and reasoning models: capabilities and challenges](https://arxiv.org/abs/2505.11618)|[stark_benchmark](https://github.com/nesl/stark_benchmark)|
-|2505.12117|[t-rex: fitting a robust factor model via expectation-maximization](https://arxiv.org/abs/2505.12117)|[T-Rex-EM](https://github.com/dance858/T-Rex-EM)|
-|2505.12532|[exploring sparsity for parameter efficient fine tuning using wavelets](https://arxiv.org/abs/2505.12532)|[sparse_peft](https://github.com/bilican/sparse_peft)|
-|2505.13021|[the role of data partitioning on the performance of eeg-based deep learning models in supervised cross-subject analysis: a preliminary study](https://arxiv.org/abs/2505.13021)|[eegpartition](https://github.com/medmaxlab/eegpartition)|
-|2505.13102|[lightweight transformer via unrolling of mixed graph algorithms for traffic forecast](https://arxiv.org/abs/2505.13102)|[unrolling-gsp-stforecast](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
-|2505.11927|[xisort: deterministic sorting via ieee-754 total ordering and entropy minimization](https://arxiv.org/abs/2505.11927)|[xisort](https://github.com/farukalpay/xisort)|
-|2505.12214|[behavior synthesis via contact-aware fisher information maximization](https://arxiv.org/abs/2505.12214)|[contact_aware_active_learning](https://github.com/ialab-yale/contact_aware_active_learning)|
 
 
 ## Archives
