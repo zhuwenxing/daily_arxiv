@@ -13,19 +13,10 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
-|2505.13880|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
-|2505.14033|[partition-wise graph filtering: a unified perspective through the lens of graph coarsening](https://arxiv.org/abs/2505.14033)|[cpf](https://github.com/vasile-paskardlgm/cpf)|
-|2505.16132|[beamforming-codebook-aware channel knowledge map construction for multi-antenna systems](https://arxiv.org/abs/2505.16132)|[transunet](https://github.com/github-whh/transunet)|
-|2505.16650|[unsupervised network anomaly detection with autoencoders and traffic images](https://arxiv.org/abs/2505.16650)|[image-based-network-traffic-anomaly-detection](https://github.com/michaelneri/image-based-network-traffic-anomaly-detection)|
-|2505.16807|[chirp delay-doppler domain modulation: a new paradigm of integrated sensing and communication for autonomous vehicles](https://arxiv.org/abs/2505.16807)|[2025-ieee-network-chirpdelaydopplermodulationisac](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)|
-|2505.14696|[infomeasure: a comprehensive python package for information theory measures and estimators](https://arxiv.org/abs/2505.14696)|[infomeasure](https://github.com/cbueth/infomeasure)|
-|2505.15303|[laplace sample information: data informativeness through a bayesian lens](https://arxiv.org/abs/2505.15303)|[LSI](https://github.com/TUM-AIMED/LSI)|
-|2505.04174|[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
-|2505.10311|[whitened score diffusion: a structured prior for imaging inverse problems](https://arxiv.org/abs/2505.10311)|[wsdiffusion](https://github.com/jeffreyalido/wsdiffusion)|
-|2505.14655|[cryptocurrencies in the balance sheet: insights from (micro)strategy -- bitcoin interactions](https://arxiv.org/abs/2505.14655)|[crypto_balance_sheets](https://github.com/financialcomputingucl/crypto_balance_sheets)|
 
 
 ## Archives
+- [June 2025](archives/2025/06.md)
 - [May 2025](archives/2025/05.md)
 - [April 2025](archives/2025/04.md)
 - [March 2025](archives/2025/03.md)
