@@ -13,6 +13,9 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2506.06310|[enhancing contrastive learning-based electrocardiogram pretrained model with patient memory queue](https://arxiv.org/abs/2506.06310)|[PMQ](https://github.com/3hiuwoo/PMQ)|
+|2506.06323|[composite reward design in ppo-driven adaptive filtering](https://arxiv.org/abs/2506.06323)|[rl_signal_filtering](https://github.com/Bradshard/Reinforcement_Learning/tree/main/rl_signal_filtering)|
+|2506.07799|[learned off-grid imager for low-altitude economy with cooperative isac network](https://arxiv.org/abs/2506.07799)|[LAEImager](https://github.com/kiwi1944/LAEImager)|
 |2506.04593|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
 |2506.04594|[intelligent channel allocation for ieee 802.11be multi-link operation: when mab meets llm](https://arxiv.org/abs/2506.04594)|[mloandmcts](https://github.com/lianshumin576/mloandmcts)|
 |2506.03196|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/daniaherzalla/gnn-jamming-source-localization)|
