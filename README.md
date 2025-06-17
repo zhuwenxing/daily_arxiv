@@ -13,11 +13,10 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
-|2506.04593|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|2506.11639|[recursive kalmannet: deep learning-augmented kalman filtering for state estimation with consistent uncertainty quantification](https://arxiv.org/abs/2506.11639)|[RecursiveKalmanNet](https://github.com/ixblue/RecursiveKalmanNet)|
+|2506.09194|[integration of contrastive predictive coding and spiking neural networks](https://arxiv.org/abs/2506.09194)|[ongorusel-kodlama](https://github.com/vnd-ogrenme/ongorusel-kodlama)|
 |2506.08761|[normalized radon cumulative distribution transforms for invariance and robustness in optimal transport based image classification](https://arxiv.org/abs/2506.08761)|[nr-cdt](https://github.com/drbeckmann/nr-cdt)|
-|2506.06310|[enhancing contrastive learning-based electrocardiogram pretrained model with patient memory queue](https://arxiv.org/abs/2506.06310)|[PMQ](https://github.com/3hiuwoo/PMQ)|
-|2506.06323|[composite reward design in ppo-driven adaptive filtering](https://arxiv.org/abs/2506.06323)|[rl_signal_filtering](https://github.com/Bradshard/Reinforcement_Learning/tree/main/rl_signal_filtering)|
-|2506.07799|[learned off-grid imager for low-altitude economy with cooperative isac network](https://arxiv.org/abs/2506.07799)|[LAEImager](https://github.com/kiwi1944/LAEImager)|
+|2506.08884|[infodpcca: information-theoretic dynamic probabilistic canonical correlation analysis](https://arxiv.org/abs/2506.08884)|[infodpcca](https://github.com/marcusstang/infodpcca)|
 
 
 ## Archives
