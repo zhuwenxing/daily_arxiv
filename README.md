@@ -13,15 +13,10 @@ The main features include:
 ## Latest Updates 
 |date|paper|code|
 |---|---|---|
+|2506.15400|[the maximum-average subtensor problem: equilibrium and out-of-equilibrium properties](https://arxiv.org/abs/2506.15400)|[maximum-avg-subtensors](https://github.com/spoc-group/maximum-avg-subtensors)|
 |2506.03196|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/tiiuae/gnn-jamming-source-localization)|
 |2506.14992|[secure time-modulated intelligent reflecting surface via generative flow networks](https://arxiv.org/abs/2506.14992)|[gfn4tm-ris](https://github.com/zhihaotao/gfn4tm-ris)|
 |2506.06210|[spectral derivatives](https://arxiv.org/abs/2506.06210)|[spectral-derivatives](https://github.com/pavelkomarov/spectral-derivatives)|
-|2506.04593|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
-|2506.12201|[functional multi-reference alignment via deconvolution](https://arxiv.org/abs/2506.12201)|[fmra](https://github.com/msween11/fmra)|
-|2506.12665|[anira: an architecture for neural network inference in real-time audio applications](https://arxiv.org/abs/2506.12665)|[anira](https://github.com/anira-project/anira)|
-|2506.13408|[helena: high-efficiency learning-based channel estimation using dual neural attention](https://arxiv.org/abs/2506.13408)|[helena_channel_estimation](https://github.com/miguelhdo/helena_channel_estimation)|
-|2506.12081|[latency optimization for wireless federated learning in multihop networks](https://arxiv.org/abs/2506.12081)|[multihop_fl](https://github.com/shabagit/multihop_fl)|
-|2506.12693|[zero-shot denoising via neural compression: theoretical and algorithmic framework](https://arxiv.org/abs/2506.12693)|[zs-ncdenoiser](https://github.com/computational-imaging-ru/zs-ncdenoiser)|
 
 
 ## Archives
