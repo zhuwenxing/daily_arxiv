@@ -18,8 +18,6 @@ The main features include:
 |2506.16591|[sparsedpd: a sparse neural network-based digital predistortion fpga accelerator for rf power amplifier linearization](https://arxiv.org/abs/2506.16591)|[sparsedpd](https://github.com/mannoversluis/sparsedpd)|
 |2506.17068|[cross-modal epileptic signal harmonization: frequency domain mapping quantization for pre-training a unified neurophysiological transformer](https://arxiv.org/abs/2506.17068)|[epint](https://github.com/runkzhang/epint)|
 |2506.15400|[the maximum-average subtensor problem: equilibrium and out-of-equilibrium properties](https://arxiv.org/abs/2506.15400)|[maximum-avg-subtensors](https://github.com/spoc-group/maximum-avg-subtensors)|
-|2506.03196|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/tiiuae/gnn-jamming-source-localization)|
-|2506.14992|[secure time-modulated intelligent reflecting surface via generative flow networks](https://arxiv.org/abs/2506.14992)|[gfn4tm-ris](https://github.com/zhihaotao/gfn4tm-ris)|
 
 
 ## Archives
