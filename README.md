@@ -16,6 +16,7 @@ The main features include:
 
 
 ## Archives
+- [January 2026](archives/2026/01.md)
 - [December 2025](archives/2025/12.md)
 - [November 2025](archives/2025/11.md)
 - [October 2025](archives/2025/10.md)
