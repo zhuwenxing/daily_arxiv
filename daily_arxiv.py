@@ -7,6 +7,8 @@ from datetime import timedelta
 import os
 import pathlib
 
+REQUEST_TIMEOUT_SECONDS = 10
+
 
 def get_daily_code(DateToday,cats):
     """
@@ -41,7 +43,7 @@ def get_daily_code(DateToday,cats):
             paper_date = paper_date.strftime("%Y-%m-%d")
         url = base_url + _id
         try:
-            r = requests.get(url).json()
+            r = requests.get(url, timeout=REQUEST_TIMEOUT_SECONDS).json()
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
@@ -53,13 +55,25 @@ def get_daily_code(DateToday,cats):
     data = {DateToday:content}
     return data
 
-def update_daily_json(filename,data_all):
-    with open(filename,"r") as f:
-        content = f.read()
+def load_json_file(filename):
+    """Load JSON content from disk. Returns empty dict when file is missing/empty/invalid."""
+    if not os.path.exists(filename):
+        return {}
+
+    with open(filename, "r") as f:
+        content = f.read().strip()
         if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+            return {}
+
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        print(f"warning: invalid JSON in {filename}, starting with empty data")
+        return {}
+
+
+def update_daily_json(filename,data_all):
+    m = load_json_file(filename)
     
     #将datas更新到m中
     for data in data_all:
@@ -69,7 +83,6 @@ def update_daily_json(filename,data_all):
 
     with open(filename,"w") as f:
         json.dump(m,f)
-    
 
 
 
@@ -99,12 +112,7 @@ def json_to_md(filename):
     @param filename: str
     @return None
     """
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = load_json_file(filename)
     
     # Ensure archive structure exists
     ensure_archive_dirs()
